@@ -1,10 +1,10 @@
 [
   {
-    "last_updated": "15:56 25-09-2025"
+    "last_updated": "16:29 25-09-2025"
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "Alanyaspor  v Galatasaray",
+    "match": "Alanyaspor v Galatasaray",
     "flags": {
       "team1": "turkey14",
       "team2": "turkey"
@@ -29,12 +29,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -131,7 +131,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "Gaziantep  v Samsunspor",
+    "match": "Gaziantep v Samsunspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -140,12 +140,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -175,21 +175,60 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "k  v Trabzonspor",
+    "match": "Eyüpspor v Göztepe",
     "flags": {
-      "team1": "unknown",
+      "team1": "turkey",
+      "team2": "turkey"
+    },
+    "time": "17:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Türkiye Süper Lig - Week 7",
+    "match": "Fatih Karagümrük v Trabzonspor",
+    "flags": {
+      "team1": "turkey",
       "team2": "turkey"
     },
     "time": "20:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -270,7 +309,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "Konyaspor  v Istanbul Basaksehir",
+    "match": "Konyaspor v Istanbul Basaksehir",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -279,12 +318,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -314,7 +353,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "Caykur Rizespor  v Kasimpasa",
+    "match": "Caykur Rizespor v Kasimpasa",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -323,12 +362,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -353,7 +392,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "Fenerbahçe  v Antalyaspor",
+    "match": "Fenerbahçe v Antalyaspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -362,7 +401,7 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Canada 📺",
+        "channel": "beIN Connect Canada",
         "link": "https://connect-ca.beinsports.com/",
         "streams": [
           {
@@ -373,23 +412,23 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "beIN Connect USA 📺",
+        "channel": "beIN Connect USA",
         "link": "https://connect-us.beinsports.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -437,7 +476,7 @@
         ]
       },
       {
-        "channel": "Fanatiz USA ($/geo/R) 📺",
+        "channel": "Fanatiz USA",
         "link": "https://fanatiz.com/",
         "streams": [
           {
@@ -448,18 +487,18 @@
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -630,7 +669,7 @@
         ]
       },
       {
-        "channel": "TV2 Play Premium (geo/R) 📺",
+        "channel": "TV2 Play Premium",
         "link": "https://tv2play.hu/spilertv/spilerek",
         "streams": [
           {
@@ -641,7 +680,7 @@
         ]
       },
       {
-        "channel": "ZhiBo8 TV (China)",
+        "channel": "ZhiBo8 TV",
         "link": "#",
         "streams": [
           {
@@ -655,7 +694,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "Kayserispor  v Gençlerbirligi",
+    "match": "Kayserispor v Gençlerbirligi",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -664,12 +703,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -694,7 +733,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
-    "match": "Besiktas  v Kocaelispor",
+    "match": "Besiktas v Kocaelispor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -719,12 +758,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -754,7 +793,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "Trabzonspor  v Kayserispor",
+    "match": "Trabzonspor v Kayserispor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -763,12 +802,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -798,7 +837,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "Antalyaspor  v Caykur Rizespor",
+    "match": "Antalyaspor v Caykur Rizespor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -807,12 +846,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -837,7 +876,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "Gençlerbirligi  v Alanyaspor",
+    "match": "Gençlerbirligi v Alanyaspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey14"
@@ -846,12 +885,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -876,21 +915,21 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "Kocaelispor  v Ey",
+    "match": "Kocaelispor v Eyüpspor",
     "flags": {
       "team1": "turkey",
-      "team2": "unknown"
+      "team2": "turkey"
     },
     "time": "17:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -915,7 +954,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "Galatasaray  v Besiktas",
+    "match": "Galatasaray v Besiktas",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -924,12 +963,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -975,7 +1014,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "Kasimpasa  v Konyaspor",
+    "match": "Kasimpasa v Konyaspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -984,12 +1023,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1019,21 +1058,21 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "k  v Gaziantep",
+    "match": "Fatih Karagümrük v Gaziantep",
     "flags": {
-      "team1": "unknown",
+      "team1": "turkey",
       "team2": "turkey"
     },
     "time": "17:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1063,7 +1102,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "Samsunspor  v Fenerbahçe",
+    "match": "Samsunspor v Fenerbahçe",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1072,12 +1111,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1107,21 +1146,21 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 8",
-    "match": "ztepe  v Istanbul Basaksehir",
+    "match": "Göztepe v Istanbul Basaksehir",
     "flags": {
-      "team1": "unknown",
+      "team1": "turkey",
       "team2": "turkey"
     },
     "time": "20:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1146,7 +1185,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 9",
-    "match": "Konyaspor  v Kocaelispor",
+    "match": "Konyaspor v Kocaelispor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1155,12 +1194,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1169,7 +1208,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 9",
-    "match": "Besiktas  v Gençlerbirligi",
+    "match": "Besiktas v Gençlerbirligi",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1178,12 +1217,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1192,7 +1231,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 9",
-    "match": "Caykur Rizespor  v Trabzonspor",
+    "match": "Caykur Rizespor v Trabzonspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1201,12 +1240,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1215,7 +1254,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 9",
-    "match": "Istanbul Basaksehir  v Galatasaray",
+    "match": "Istanbul Basaksehir v Galatasaray",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1224,12 +1263,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1238,7 +1277,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 9",
-    "match": "Kayserispor  v Samsunspor",
+    "match": "Kayserispor v Samsunspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1247,12 +1286,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1261,7 +1300,30 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 9",
-    "match": "Gaziantep  v Antalyaspor",
+    "match": "Alanyaspor v Göztepe",
+    "flags": {
+      "team1": "turkey14",
+      "team2": "turkey"
+    },
+    "time": "17:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Türkiye Süper Lig - Week 9",
+    "match": "Gaziantep v Antalyaspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1270,12 +1332,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1284,44 +1346,44 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 9",
-    "match": "Fenerbahçe  v Fatih Karag",
+    "match": "Fenerbahçe v Fatih Karagümrük",
     "flags": {
       "team1": "turkey",
-      "team2": "unknown"
-    },
-    "time": "20:00",
-    "date": "2025-09-25",
-    "channels": [
-      {
-        "channel": "beIN Connect Türkiye 📺",
-        "link": "https://www.beinconnect.com.tr/spor/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Türkiye Süper Lig - Week 9",
-    "match": "pspor  v Kasimpasa",
-    "flags": {
-      "team1": "unknown",
       "team2": "turkey"
     },
     "time": "20:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Türkiye Süper Lig - Week 9",
+    "match": "Eyüpspor v Kasimpasa",
+    "flags": {
+      "team1": "turkey",
+      "team2": "turkey"
+    },
+    "time": "20:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1330,7 +1392,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 3",
-    "match": "Konyaspor  v Besiktas",
+    "match": "Konyaspor v Besiktas",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1339,12 +1401,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1374,7 +1436,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 3",
-    "match": "Caykur Rizespor  v Istanbul Basaksehir",
+    "match": "Caykur Rizespor v Istanbul Basaksehir",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1383,12 +1445,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1413,21 +1475,21 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "k  v Kayserispor",
+    "match": "Fatih Karagümrük v Kayserispor",
     "flags": {
-      "team1": "unknown",
+      "team1": "turkey",
       "team2": "turkey"
     },
     "time": "20:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1436,7 +1498,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "Kocaelispor  v Alanyaspor",
+    "match": "Kocaelispor v Alanyaspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey14"
@@ -1445,12 +1507,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1459,21 +1521,21 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "Trabzonspor  v Ey",
+    "match": "Trabzonspor v Eyüpspor",
     "flags": {
       "team1": "turkey",
-      "team2": "unknown"
+      "team2": "turkey"
     },
     "time": "20:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1482,7 +1544,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "Antalyaspor  v Istanbul Basaksehir",
+    "match": "Antalyaspor v Istanbul Basaksehir",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1491,12 +1553,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1505,7 +1567,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "Gençlerbirligi  v Konyaspor",
+    "match": "Galatasaray v Göztepe",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1514,12 +1576,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1528,21 +1590,21 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "Kasimpasa  v Besiktas",
+    "match": "Gençlerbirligi v Konyaspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
     },
-    "time": "20:00",
+    "time": "17:00",
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1551,7 +1613,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "Gaziantep  v Fenerbahçe",
+    "match": "Kasimpasa v Besiktas",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1560,12 +1622,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1574,7 +1636,7 @@
   },
   {
     "competition": "Türkiye Süper Lig - Week 10",
-    "match": "Samsunspor  v Caykur Rizespor",
+    "match": "Gaziantep v Fenerbahçe",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
@@ -1583,12 +1645,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Türkiye Süper Lig - Week 10",
+    "match": "Samsunspor v Caykur Rizespor",
+    "flags": {
+      "team1": "turkey",
+      "team2": "turkey"
+    },
+    "time": "20:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
             "encry": ""
           }
         ]

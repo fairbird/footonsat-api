@@ -1,10 +1,78 @@
 [
   {
-    "last_updated": "15:55 25-09-2025"
+    "last_updated": "16:29 25-09-2025"
+  },
+  {
+    "competition": "English Premier League 2",
+    "match": "Manchester City U-21 v Southampton U-21",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "21:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "City",
+        "link": "https://www.mancity.com/citytv/city-plus/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Saints TV",
+        "link": "https://tv.perthstjohnstonefc.co.uk/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "English Premier League 2",
+    "match": "Derby County U-21 v Arsenal U-21",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "21:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "Arsenal LIVE",
+        "link": "https://www.arsenal.com/ppv-packages",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "RAMS TV",
+        "link": "https://www.dcfc.co.uk/page/ramstv",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Brentford  v Manchester United",
+    "match": "Brentford v Manchester United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -65,13 +133,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -82,12 +150,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -136,18 +204,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -158,29 +226,29 @@
         ]
       },
       {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "channel": "Discovery+ UK",
         "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -191,18 +259,18 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -218,7 +286,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -240,13 +308,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Prime Video Dansk [$]",
+        "channel": "Prime Video Dansk",
         "link": "#",
         "streams": [
           {
@@ -257,7 +325,7 @@
         ]
       },
       {
-        "channel": "Prime Video Sverige [$]",
+        "channel": "Prime Video Sverige",
         "link": "#",
         "streams": [
           {
@@ -394,12 +462,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -446,8 +514,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -468,8 +536,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -500,7 +568,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -511,8 +579,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -522,13 +590,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -542,7 +610,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Crystal Palace v Li v erpool",
+    "match": "Crystal Palace v Liverpool",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -556,7 +624,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -609,7 +677,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -620,12 +688,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -658,29 +726,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -691,13 +748,24 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "FuboTV Canada",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -748,7 +816,7 @@
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -770,12 +838,12 @@
         ]
       },
       {
-        "channel": "Peacock Premium USA ($/geo/R)",
+        "channel": "Peacock Premium USA",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -786,7 +854,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -845,12 +913,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -903,8 +971,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -914,7 +982,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -925,8 +993,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -936,8 +1004,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -947,13 +1015,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -967,7 +1035,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Manchester City  v Burnley",
+    "match": "Manchester City v Burnley",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -1023,13 +1091,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -1040,12 +1108,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1078,18 +1146,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -1100,18 +1168,18 @@
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -1122,18 +1190,18 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -1149,7 +1217,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1171,7 +1239,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1236,12 +1304,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1273,8 +1341,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1284,8 +1352,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1295,7 +1363,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1306,8 +1374,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1317,8 +1385,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1328,13 +1396,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -1348,7 +1416,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Chelsea  v Brighton H",
+    "match": "Chelsea v Brighton H.A.",
     "flags": {
       "team1": "england7",
       "team2": "england"
@@ -1378,7 +1446,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1410,7 +1478,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -1421,12 +1489,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1474,29 +1542,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -1507,18 +1564,29 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "FuboTV Canada",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -1576,12 +1644,12 @@
         ]
       },
       {
-        "channel": "Peacock Premium USA ($/geo/R)",
+        "channel": "Peacock Premium USA",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1592,7 +1660,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1698,12 +1766,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1714,8 +1782,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1725,7 +1793,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1736,8 +1804,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1747,8 +1815,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1758,13 +1826,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -1789,7 +1857,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Leeds United  v Bournemouth",
+    "match": "Leeds United v Bournemouth",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -1803,7 +1871,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1851,7 +1919,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -1862,40 +1930,29 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -1906,18 +1963,29 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "FuboTV Canada",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -1939,23 +2007,23 @@
         ]
       },
       {
-        "channel": "Peacock Premium USA ($/geo/R)",
+        "channel": "Peacock Premium USA",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1966,8 +2034,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1977,7 +2045,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -1988,8 +2056,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -1999,8 +2067,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -2010,13 +2078,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -2030,7 +2098,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Nottingham Forest  v Sunderland",
+    "match": "Nottingham Forest v Sunderland",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -2096,7 +2164,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -2107,12 +2175,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2161,18 +2229,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -2183,18 +2251,18 @@
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -2205,18 +2273,18 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -2232,7 +2300,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2254,7 +2322,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2292,13 +2360,13 @@
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -2434,12 +2502,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2471,8 +2539,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -2482,8 +2550,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -2493,7 +2561,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2504,8 +2572,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -2515,8 +2583,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -2526,13 +2594,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -2546,7 +2614,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Tottenham Hotspur v Wol v es",
+    "match": "Tottenham Hotspur v Wolves",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -2560,7 +2628,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2613,7 +2681,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -2624,12 +2692,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2678,18 +2746,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -2700,18 +2768,18 @@
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -2722,18 +2790,18 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -2760,7 +2828,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2798,13 +2866,13 @@
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -2940,12 +3008,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2956,8 +3024,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -2967,8 +3035,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -2978,7 +3046,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -2989,8 +3057,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -3000,8 +3068,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -3011,13 +3079,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -3031,7 +3099,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Aston Villa  v Fulham",
+    "match": "Aston v illa v Fulham",
     "flags": {
       "team1": "england3",
       "team2": "england9"
@@ -3087,7 +3155,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -3098,12 +3166,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -3152,18 +3220,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -3174,18 +3242,18 @@
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -3196,18 +3264,18 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -3223,7 +3291,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -3302,13 +3370,13 @@
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -3496,12 +3564,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -3512,7 +3580,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -3523,8 +3591,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -3534,8 +3602,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -3545,7 +3613,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -3556,8 +3624,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -3567,8 +3635,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -3578,13 +3646,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -3598,7 +3666,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Newcastle United  v Arsenal",
+    "match": "Newcastle United v Arsenal",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -3664,7 +3732,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -3675,12 +3743,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -3729,18 +3797,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -3751,18 +3819,18 @@
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -3784,18 +3852,18 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -3811,7 +3879,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -3890,13 +3958,13 @@
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -4073,12 +4141,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4089,7 +4157,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4100,8 +4168,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4111,8 +4179,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4122,7 +4190,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4133,8 +4201,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4144,8 +4212,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4155,13 +4223,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -4175,7 +4243,7 @@
   },
   {
     "competition": "English Premier League - Week 6",
-    "match": "Everton  v West Ham United",
+    "match": "E v erton v West Ham United",
     "flags": {
       "team1": "england8",
       "team2": "england21"
@@ -4210,7 +4278,7 @@
         ]
       },
       {
-        "channel": "beIN Connect MENA 📺",
+        "channel": "beIN Connect MENA",
         "link": "https://connect.bein.com/",
         "streams": [
           {
@@ -4221,12 +4289,12 @@
         ]
       },
       {
-        "channel": "beIN Connect Türkiye 📺",
+        "channel": "beIN Connect Türkiye",
         "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4248,18 +4316,18 @@
         ]
       },
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "DAZN Portugal ($/geo/R)",
+        "channel": "DAZN Portugal",
         "link": "#",
         "streams": [
           {
@@ -4270,18 +4338,18 @@
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "FuboTV Canada ($/geo/R)",
+        "channel": "FuboTV Canada",
         "link": "#",
         "streams": [
           {
@@ -4292,18 +4360,18 @@
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Monomax Streaming ($/geo/R) 📺",
+        "channel": "Monomax Streaming",
         "link": "https://www.monomax.me/premierleague",
         "streams": [
           {
@@ -4319,7 +4387,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4330,19 +4398,19 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -4437,12 +4505,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4453,8 +4521,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4464,8 +4532,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4475,7 +4543,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4486,8 +4554,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4497,8 +4565,8 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4508,13 +4576,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -4528,7 +4596,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Bournemouth  v Fulham",
+    "match": "Bournemouth v Fulham",
     "flags": {
       "team1": "england",
       "team2": "england9"
@@ -4537,35 +4605,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -4575,19 +4643,19 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -4666,12 +4734,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4682,13 +4750,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -4702,7 +4770,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Leeds United  v Tottenham Hotspur",
+    "match": "Leeds United v Tottenham Hotspur",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -4711,35 +4779,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -4749,18 +4817,18 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4807,8 +4875,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -4829,13 +4897,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -4849,7 +4917,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Arsenal  v West Ham United",
+    "match": "Arsenal v West Ham United",
     "flags": {
       "team1": "england",
       "team2": "england21"
@@ -4858,51 +4926,51 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Peacock Premium USA ($/geo/R)",
+        "channel": "Peacock Premium USA",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -4916,7 +4984,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Manchester United  v Sunderland",
+    "match": "Manchester United v Sunderland",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -4925,35 +4993,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -4963,7 +5031,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4980,12 +5048,12 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -4996,13 +5064,13 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -5016,7 +5084,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Chelsea v Li v erpool",
+    "match": "Chelsea v Liverpool",
     "flags": {
       "team1": "england7",
       "team2": "england"
@@ -5025,35 +5093,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "channel": "Fubo Sports USA",
         "link": "https://www.fubosportsnetwork.com/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -5074,7 +5142,7 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -5085,30 +5153,30 @@
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Peacock Premium USA ($/geo/R)",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Peacock Premium USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -5187,18 +5255,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -5212,7 +5280,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Newcastle United  v Nottingham Forest",
+    "match": "Newcastle United v Nottingham Forest",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -5221,35 +5289,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -5332,7 +5400,7 @@
         ]
       },
       {
-        "channel": "Sky Sports+ [via APP]",
+        "channel": "Sky Sports",
         "link": "#",
         "streams": [
           {
@@ -5359,18 +5427,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -5384,7 +5452,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Aston Villa  v Burnley",
+    "match": "Aston v illa v Burnley",
     "flags": {
       "team1": "england3",
       "team2": "england"
@@ -5393,46 +5461,46 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Peacock Premium USA ($/geo/R)",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Peacock Premium USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -5520,18 +5588,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -5545,7 +5613,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Everton  v Crystal Palace",
+    "match": "E v erton v Crystal Palace",
     "flags": {
       "team1": "england8",
       "team2": "england"
@@ -5554,34 +5622,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Peacock Premium USA ($/geo/R)",
+        "channel": "Peacock Premium USA",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -5613,7 +5681,7 @@
         ]
       },
       {
-        "channel": "Sky Sports+ [via APP]",
+        "channel": "Sky Sports",
         "link": "#",
         "streams": [
           {
@@ -5640,18 +5708,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -5665,7 +5733,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Wolves  v Brighton H",
+    "match": "Wol v es v Brighton H.A.",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -5674,35 +5742,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -5775,7 +5843,7 @@
         ]
       },
       {
-        "channel": "Sky Sports+ [via APP]",
+        "channel": "Sky Sports",
         "link": "#",
         "streams": [
           {
@@ -5802,18 +5870,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -5827,7 +5895,7 @@
   },
   {
     "competition": "English Premier League - Week 7",
-    "match": "Brentford  v Manchester City",
+    "match": "Brentford v Manchester City",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -5836,35 +5904,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -5943,18 +6011,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -5968,7 +6036,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Nottingham Forest  v Chelsea",
+    "match": "Nottingham Forest v Chelsea",
     "flags": {
       "team1": "england",
       "team2": "england7"
@@ -5977,34 +6045,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -6051,8 +6119,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -6068,7 +6136,7 @@
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6082,7 +6150,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Burnley  v Leeds United",
+    "match": "Brighton H.A. v Newcastle United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -6091,40 +6159,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6138,7 +6206,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Crystal Palace  v Bournemouth",
+    "match": "Burnley v Leeds United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -6147,40 +6215,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6194,7 +6262,63 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Manchester City v E v erton",
+    "match": "Crystal Palace v Bournemouth",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "17:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Go3 Extra Sports Baltics",
+        "link": "https://go3.tv/extra_sports",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
+        "link": "https://voyo.protv.ro/premier-league",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "English Premier League - Week 8",
+    "match": "Manchester City v Everton",
     "flags": {
       "team1": "england",
       "team2": "england8"
@@ -6203,24 +6327,24 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -6236,18 +6360,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6261,7 +6385,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Sunderland v Wol v es",
+    "match": "Sunderland v Wolves",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -6270,40 +6394,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6317,7 +6441,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Fulham  v Arsenal",
+    "match": "Fulham v Arsenal",
     "flags": {
       "team1": "england9",
       "team2": "england"
@@ -6326,35 +6450,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -6433,18 +6557,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6458,7 +6582,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Tottenham Hotspur v Aston  v illa",
+    "match": "Tottenham Hotspur v Aston Villa",
     "flags": {
       "team1": "england",
       "team2": "england3"
@@ -6467,35 +6591,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -6574,18 +6698,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6599,7 +6723,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "Liverpool  v Manchester United",
+    "match": "Li v erpool v Manchester United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -6608,35 +6732,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -6715,18 +6839,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6740,7 +6864,7 @@
   },
   {
     "competition": "English Premier League - Week 8",
-    "match": "West Ham United  v Brentford",
+    "match": "West Ham United v Brentford",
     "flags": {
       "team1": "england21",
       "team2": "england"
@@ -6749,35 +6873,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -6856,18 +6980,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -6881,7 +7005,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Leeds United  v West Ham United",
+    "match": "Leeds United v West Ham United",
     "flags": {
       "team1": "england",
       "team2": "england21"
@@ -6890,35 +7014,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -6997,18 +7121,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7022,7 +7146,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Chelsea  v Sunderland",
+    "match": "Chelsea v Sunderland",
     "flags": {
       "team1": "england7",
       "team2": "england"
@@ -7031,24 +7155,24 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -7064,18 +7188,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7089,7 +7213,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Newcastle United  v Fulham",
+    "match": "Newcastle United v Fulham",
     "flags": {
       "team1": "england",
       "team2": "england9"
@@ -7098,40 +7222,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7145,7 +7269,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Manchester United  v Brighton H",
+    "match": "Manchester United v Brighton H.A.",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -7154,35 +7278,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -7261,18 +7385,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7286,7 +7410,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Brentford v Li v erpool",
+    "match": "Brentford v Liverpool",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -7295,34 +7419,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -7369,8 +7493,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -7386,7 +7510,7 @@
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7400,7 +7524,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Aston Villa  v Manchester City",
+    "match": "Aston v illa v Manchester City",
     "flags": {
       "team1": "england3",
       "team2": "england"
@@ -7409,35 +7533,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -7531,18 +7655,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7556,7 +7680,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Bournemouth  v Nottingham Forest",
+    "match": "Bournemouth v Nottingham Forest",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -7565,35 +7689,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -7665,18 +7789,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7690,7 +7814,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Wolves  v Burnley",
+    "match": "Wol v es v Burnley",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -7699,35 +7823,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -7773,7 +7897,7 @@
         ]
       },
       {
-        "channel": "Sky Sports+ [via APP]",
+        "channel": "Sky Sports",
         "link": "#",
         "streams": [
           {
@@ -7800,18 +7924,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7825,7 +7949,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Arsenal  v Crystal Palace",
+    "match": "Arsenal v Crystal Palace",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -7834,51 +7958,51 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Sky Go UK [online]",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Sky Go UK",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -7892,7 +8016,7 @@
   },
   {
     "competition": "English Premier League - Week 9",
-    "match": "Everton  v Tottenham Hotspur",
+    "match": "E v erton v Tottenham Hotspur",
     "flags": {
       "team1": "england8",
       "team2": "england"
@@ -7901,35 +8025,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -8008,18 +8132,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8033,7 +8157,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Burnley  v Arsenal",
+    "match": "Brighton H.A. v Leeds United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -8042,40 +8166,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8089,7 +8213,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Crystal Palace  v Brentford",
+    "match": "Burnley v Arsenal",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -8098,40 +8222,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8145,7 +8269,63 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Fulham v Wol v es",
+    "match": "Crystal Palace v Brentford",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "18:00",
+    "date": "2025-09-25",
+    "channels": [
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Go3 Extra Sports Baltics",
+        "link": "https://go3.tv/extra_sports",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
+        "link": "https://voyo.protv.ro/premier-league",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "English Premier League - Week 10",
+    "match": "Fulham v Wolves",
     "flags": {
       "team1": "england9",
       "team2": "england"
@@ -8154,40 +8334,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8201,7 +8381,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Nottingham Forest  v Manchester United",
+    "match": "Nottingham Forest v Manchester United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -8210,40 +8390,40 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
-          }
-        ]
-      },
-      {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
-        "link": "https://www.stan.com.au/sport",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "Stan Sport Australia",
+        "link": "https://www.stan.com.au/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8257,7 +8437,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Tottenham Hotspur  v Chelsea",
+    "match": "Tottenham Hotspur v Chelsea",
     "flags": {
       "team1": "england",
       "team2": "england7"
@@ -8266,35 +8446,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -8373,18 +8553,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8398,7 +8578,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Liverpool v Aston  v illa",
+    "match": "Li v erpool v Aston Villa",
     "flags": {
       "team1": "england",
       "team2": "england3"
@@ -8407,45 +8587,45 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "channel": "Discovery+ UK",
         "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -8492,8 +8672,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -8509,7 +8689,7 @@
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8523,7 +8703,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "West Ham United  v Newcastle United",
+    "match": "West Ham United v Newcastle United",
     "flags": {
       "team1": "england21",
       "team2": "england"
@@ -8532,35 +8712,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -8639,18 +8819,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8664,7 +8844,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Manchester City  v Bournemouth",
+    "match": "Manchester City v Bournemouth",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -8673,35 +8853,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -8780,18 +8960,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8805,7 +8985,7 @@
   },
   {
     "competition": "English Premier League - Week 10",
-    "match": "Sunderland v E v erton",
+    "match": "Sunderland v Everton",
     "flags": {
       "team1": "england",
       "team2": "england8"
@@ -8814,35 +8994,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "DAZN España ($/geo/R)",
+        "channel": "DAZN España",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "Go3 Extra Sports Baltics ($/geo/R) 📺",
+        "channel": "Go3 Extra Sports Baltics",
         "link": "https://go3.tv/extra_sports",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -8921,18 +9101,18 @@
         ]
       },
       {
-        "channel": "Stan Sport Australia ($/geo/R) 📺",
+        "channel": "Stan Sport Australia",
         "link": "https://www.stan.com.au/sport",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
       },
       {
-        "channel": "VOYO Pro TV Romania [$] 📺",
+        "channel": "VOYO Pro TV Romania",
         "link": "https://voyo.protv.ro/premier-league",
         "streams": [
           {
@@ -8946,7 +9126,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Tottenham Hotspur  v Manchester United",
+    "match": "Tottenham Hotspur v Manchester United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -8955,12 +9135,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "channel": "Discovery+ UK",
         "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -9007,8 +9187,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -9027,7 +9207,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Sunderland  v Arsenal",
+    "match": "Sunderland v Arsenal",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -9036,13 +9216,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9124,7 +9304,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Chelsea v Wol v es",
+    "match": "Chelsea v Wolves",
     "flags": {
       "team1": "england7",
       "team2": "england"
@@ -9133,13 +9313,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9221,7 +9401,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Aston Villa  v Bournemouth",
+    "match": "Aston v illa v Bournemouth",
     "flags": {
       "team1": "england3",
       "team2": "england"
@@ -9230,13 +9410,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9285,7 +9465,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Brentford  v Newcastle United",
+    "match": "Brentford v Newcastle United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -9294,13 +9474,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9349,7 +9529,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Crystal Palace  v Brighton H",
+    "match": "Crystal Palace v Brighton H.A.",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -9358,13 +9538,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9413,7 +9593,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Nottingham Forest  v Leeds United",
+    "match": "Nottingham Forest v Leeds United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -9422,13 +9602,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9477,7 +9657,7 @@
   },
   {
     "competition": "English Premier League - Week 11",
-    "match": "Manchester City v Li v erpool",
+    "match": "Manchester City v Liverpool",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -9486,13 +9666,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9574,7 +9754,7 @@
   },
   {
     "competition": "English Premier League - Week 12",
-    "match": "Burnley  v Chelsea",
+    "match": "Burnley v Chelsea",
     "flags": {
       "team1": "england",
       "team2": "england7"
@@ -9583,12 +9763,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "channel": "Discovery+ UK",
         "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -9635,8 +9815,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -9655,7 +9835,7 @@
   },
   {
     "competition": "English Premier League - Week 12",
-    "match": "Newcastle United  v Manchester City",
+    "match": "Newcastle United v Manchester City",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -9664,13 +9844,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9752,7 +9932,7 @@
   },
   {
     "competition": "English Premier League - Week 12",
-    "match": "Leeds United v Aston  v illa",
+    "match": "Leeds United v Aston Villa",
     "flags": {
       "team1": "england",
       "team2": "england3"
@@ -9761,13 +9941,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9849,7 +10029,7 @@
   },
   {
     "competition": "English Premier League - Week 12",
-    "match": "Arsenal  v Tottenham Hotspur",
+    "match": "Arsenal v Tottenham Hotspur",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -9858,13 +10038,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -9946,7 +10126,7 @@
   },
   {
     "competition": "English Premier League - Week 12",
-    "match": "Manchester United v E v erton",
+    "match": "Manchester United v Everton",
     "flags": {
       "team1": "england",
       "team2": "england8"
@@ -9955,13 +10135,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -10043,7 +10223,7 @@
   },
   {
     "competition": "English Premier League - Week 13",
-    "match": "Everton  v Newcastle United",
+    "match": "E v erton v Newcastle United",
     "flags": {
       "team1": "england8",
       "team2": "england"
@@ -10052,13 +10232,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -10140,7 +10320,7 @@
   },
   {
     "competition": "English Premier League - Week 13",
-    "match": "Tottenham Hotspur  v Fulham",
+    "match": "Tottenham Hotspur v Fulham",
     "flags": {
       "team1": "england",
       "team2": "england9"
@@ -10149,13 +10329,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -10237,7 +10417,7 @@
   },
   {
     "competition": "English Premier League - Week 13",
-    "match": "Crystal Palace  v Manchester United",
+    "match": "Crystal Palace v Manchester United",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -10246,12 +10426,12 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "channel": "Discovery+ UK",
         "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "",
             "encry": ""
           }
         ]
@@ -10298,8 +10478,8 @@
         "streams": [
           {
             "sat": "Download APP 0.0°",
-            "freq": "0.000",
-            "encry": "LiveOnSat.com"
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -10318,7 +10498,7 @@
   },
   {
     "competition": "English Premier League - Week 13",
-    "match": "Aston Villa v Wol v es",
+    "match": "Aston v illa v Wolves",
     "flags": {
       "team1": "england3",
       "team2": "england"
@@ -10327,13 +10507,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -10382,7 +10562,7 @@
   },
   {
     "competition": "English Premier League - Week 13",
-    "match": "Nottingham Forest  v Brighton H",
+    "match": "Nottingham Forest v Brighton H.A.",
     "flags": {
       "team1": "england",
       "team2": "england"
@@ -10391,13 +10571,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -10446,7 +10626,7 @@
   },
   {
     "competition": "English Premier League - Week 13",
-    "match": "West Ham United v Li v erpool",
+    "match": "West Ham United v Liverpool",
     "flags": {
       "team1": "england21",
       "team2": "england"
@@ -10455,13 +10635,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
@@ -10510,7 +10690,7 @@
   },
   {
     "competition": "English Premier League - Week 13",
-    "match": "Chelsea  v Arsenal",
+    "match": "Chelsea v Arsenal",
     "flags": {
       "team1": "england7",
       "team2": "england"
@@ -10519,13 +10699,13 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "Sky Go UK [online]",
+        "channel": "Sky Go UK",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
-            "encry": "LiveOnSat.com"
+            "encry": ""
           }
         ]
       },
