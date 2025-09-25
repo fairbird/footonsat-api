@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "15:42 25-09-2025"
+    "last_updated": "15:55 25-09-2025"
   },
   {
     "competition": "UEFA Champions League - Matchday 2",
@@ -13,13 +13,109 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 4 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media PLAY (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media TV [app] (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media Two HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
           }
         ]
       }
@@ -36,7 +132,76 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 6 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media MORE HD",
         "link": "#",
         "streams": [
           {
@@ -59,13 +224,151 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 4 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV5 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.775 L 09583 - 2/3",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "11.222 V 30000 - 5/6",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "4.132 R 22500 - 3/5",
+            "encry": "Irdeto [c]"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports Ultimate UHD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media PLAY (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media TV [app] (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media Two HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
           }
         ]
       }
@@ -82,7 +385,56 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 6",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media MORE HD",
         "link": "#",
         "streams": [
           {
@@ -105,13 +457,71 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 3 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 8",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -128,13 +538,71 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 5 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 5 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -151,13 +619,108 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 6 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Premier Sports 1 Ireland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK PPV [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TRT 1 Türkiye HD 📺",
+        "link": "https://www.trtizle.com/canli/tv/trt-1",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.958 V 27500 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.794 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 5B 42.0°e",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -174,13 +737,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 6",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -197,13 +782,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video Deutsch [$]",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 7",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -220,13 +827,73 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media PLAY (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media TV [app] (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media Two HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
           }
         ]
       }
@@ -243,7 +910,45 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media MORE HD",
         "link": "#",
         "streams": [
           {
@@ -266,13 +971,103 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "RTÉ 2 Ireland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11.914 H 27500 - 5/6",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.246 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Eutel Ka-Sat 9A 9.0°e",
+            "freq": "20.192 L 12500 - 5/6",
+            "encry": "Free To Air HD"
+          }
+        ]
+      },
+      {
+        "channel": "RTÉ Player (geo/R) 📺",
+        "link": "https://www.rte.ie/player/onnow",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.775 L 09583 - 2/3",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "11.222 V 30000 - 5/6",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "4.132 R 22500 - 3/5",
+            "encry": "Irdeto [c]"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports Ultimate UHD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.207 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
           }
         ]
       }
@@ -289,7 +1084,104 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Play RTS Sport (geo/R) 📺",
+        "link": "https://www.rts.ch/play/tv/categories/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "RSI La 2 Svizzera HD 📺",
+        "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "RTS 2 Suisse HD 📺",
+        "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "SRF Zwei Schweiz HD 📺",
+        "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10.971 H 29700 - 2/3",
+            "encry": "HD Panaccess"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media MORE HD",
         "link": "#",
         "streams": [
           {
@@ -312,13 +1204,73 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 4 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media PLAY (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media TV [app] (geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Virgin Media Two HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11.856 V 27500 - 3/4",
+            "encry": "HD VideoGuard"
           }
         ]
       }
@@ -335,13 +1287,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 8",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -358,13 +1332,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 7",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -381,13 +1377,51 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV5 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 5 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -404,13 +1438,35 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "DAZN Deutsch ($/geo/R)",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 6",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard"
           }
         ]
       }
@@ -427,8 +1483,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -450,8 +1506,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -473,12 +1529,23 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Premier Sports 1 Ireland HD",
         "link": "#",
         "streams": [
           {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
@@ -496,8 +1563,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -519,8 +1586,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -542,8 +1609,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -565,8 +1632,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -588,8 +1655,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -611,8 +1678,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -634,8 +1701,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -657,13 +1724,44 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TRT 1 Türkiye HD 📺",
+        "link": "https://www.trtizle.com/canli/tv/trt-1",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.958 V 27500 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.794 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 5B 42.0°e",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -680,8 +1778,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -703,8 +1801,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -726,8 +1824,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -749,8 +1847,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -772,8 +1870,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -795,8 +1893,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -818,8 +1916,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -841,8 +1939,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -864,8 +1962,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -887,8 +1985,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -910,8 +2008,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -933,12 +2031,23 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Premier Sports 1 Ireland HD",
         "link": "#",
         "streams": [
           {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
@@ -956,8 +2065,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -979,8 +2088,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1002,8 +2111,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1025,8 +2134,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1048,8 +2157,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1071,8 +2180,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1094,13 +2203,44 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TRT 1 Türkiye HD 📺",
+        "link": "https://www.trtizle.com/canli/tv/trt-1",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.958 V 27500 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.794 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 5B 42.0°e",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -1117,8 +2257,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1140,8 +2280,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1163,8 +2303,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1186,8 +2326,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1209,8 +2349,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1232,8 +2372,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1255,8 +2395,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1278,13 +2418,44 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TRT 1 Türkiye HD 📺",
+        "link": "https://www.trtizle.com/canli/tv/trt-1",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.958 V 27500 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.794 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 5B 42.0°e",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -1301,8 +2472,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1324,12 +2495,23 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Premier Sports 1 Ireland HD",
         "link": "#",
         "streams": [
           {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
@@ -1347,8 +2529,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1370,8 +2552,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1393,8 +2575,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1416,8 +2598,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1439,8 +2621,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1462,8 +2644,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1485,8 +2667,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1508,8 +2690,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1531,8 +2713,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1554,8 +2736,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1577,8 +2759,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1600,8 +2782,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1623,8 +2805,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1646,8 +2828,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1669,8 +2851,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1692,8 +2874,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1715,8 +2897,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1738,8 +2920,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1761,12 +2943,23 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Premier Sports 1 Ireland HD",
         "link": "#",
         "streams": [
           {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.188 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
@@ -1784,13 +2977,44 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TRT 1 Türkiye HD 📺",
+        "link": "https://www.trtizle.com/canli/tv/trt-1",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.054 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.096 H 30000 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.958 V 27500 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11.794 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Turksat 5B 42.0°e",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -1807,8 +3031,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1830,8 +3054,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1853,8 +3077,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Discovery+ UK ($/geo/R) 📺",
+        "link": "https://www.discoveryplus.co.uk/olympics/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",

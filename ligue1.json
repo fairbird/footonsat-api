@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "15:42 25-09-2025"
+    "last_updated": "15:56 25-09-2025"
   },
   {
     "competition": "French Ligue 1 - Week 6",
@@ -13,13 +13,301 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "5 SPORT Israel HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Premium 2 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.429 V 28330 - 3/5",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.429 V 28330 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 2 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 2 Slovenija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports MENA 4 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10.810 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11.054 H 27500 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11.054 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN 1 Bar Deutsch HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12.070 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 4 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay 1 Urheilu HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "11.278 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -36,13 +324,176 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "5 SPORT Israel HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 2 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 5 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 5 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV4 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -59,13 +510,212 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "5 SPORT Israel HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 2 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 5 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 5 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 4 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV4 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -82,13 +732,420 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "5 LIVE Israel HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Premium 4 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 3 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.512 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 4 Slovenija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 2 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 3 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Prime Video UK [$] 📺",
+        "link": "https://www.primevideo.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports 2 Eurasia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10.845 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11.650 V 10000 - 2/3",
+            "encry": "HD TrophyAccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV4 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV5 Monde Afrique HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.977 H 27500 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 33E 33.0°e",
+            "freq": "10.758 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 5.0°e",
+            "freq": "12.054 V 30000 - 3/4",
+            "encry": "FTA (MPEG-S2)"
+          },
+          {
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "11.084 V 02500 - 1/2",
+            "encry": "FTA (MPEG-4)"
+          },
+          {
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4.153 L 60000 - 2/3",
+            "encry": "NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV5 Monde Amérique Latine",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Intelsat 21 58.0°w",
+            "freq": "3.840 V 27690 - 7/8",
+            "encry": "Free To Air"
+          }
+        ]
+      },
+      {
+        "channel": "TV5 Monde Asie",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12.598 H 45000 - 2/3",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Asiasat 7 105.5°e",
+            "freq": "3.760 H 26000 - 7/8",
+            "encry": "FTA (MPEG-S2)"
+          },
+          {
+            "sat": "Thaicom 6 78.5°e",
+            "freq": "12.405 V 45000 - 3/5",
+            "encry": "Free To Air"
+          }
+        ]
+      },
+      {
+        "channel": "TV5 Monde Europe HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.688 V 30000 - 7/8",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.241 H 13381 - 3/4",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.242 H 13381 - 3/4",
+            "encry": "FTA (MPEG-4)"
+          },
+          {
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.538 V 22000 - 5/6",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.727 V 29900 - 3/4",
+            "encry": "FTA (MPEG-S2)"
+          },
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12.265 V 31400 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12.360 V 30000 - 2/3",
+            "encry": "Bulcrypt"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 V 28800 - 3/4",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 V 28800 - 2/3",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.476 H 27500 - 5/6",
+            "encry": "MPEG-4 Nagra"
+          }
+        ]
+      },
+      {
+        "channel": "TV5 Monde Maghreb-Orient HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 33E 33.0°e",
+            "freq": "10.758 V 27500 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Badr 4 26.0°e",
+            "freq": "12.073 H 27500 - 3/4",
+            "encry": "FTA (MPEG-S2)"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 V 28800 - 3/4",
+            "encry": "HD PowerVu"
+          },
+          {
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11.900 V 27500 - 5/6",
+            "encry": "Free To Air"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -105,13 +1162,181 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Arena Sport 2 Srbija HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 6 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 5 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Sport Ukraine HD 📺",
+        "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12.073 H 30000 - 2/3",
+            "encry": "Free To Air HD"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV3 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -128,13 +1353,206 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Arena Premium 4 Srbija HD",
         "link": "#",
         "streams": [
           {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 6 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports France 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12.564 V 29950 - 2/3",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 5 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 5 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV4 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -151,13 +1569,180 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Arena Sport 7 Hrvatska HD",
         "link": "#",
         "streams": [
           {
-            "sat": "Download APP 0.0°",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 9 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ 4 ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 7 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 6 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -174,13 +1759,133 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Arena Sport 9 Hrvatska HD",
         "link": "#",
         "streams": [
           {
-            "sat": "Download APP 0.0°",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ 5 ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 8 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -197,13 +1902,196 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Arena Sport 2 Srbija HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 4 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 3 ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 3 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV7 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": "LiveOnSat.com"
           }
         ]
       }
@@ -220,8 +2108,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -243,13 +2131,23 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "beIN Sports France 1 HD",
         "link": "#",
         "streams": [
           {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12.564 V 29950 - 2/3",
+            "encry": "HD Viaccess"
           }
         ]
       }
@@ -266,8 +2164,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -289,8 +2187,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -312,8 +2210,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -335,11 +2233,11 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ 5 ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
-            "sat": "Download APP 0.0°",
+            "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
           }
@@ -358,11 +2256,11 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ 4 ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
-            "sat": "Download APP 0.0°",
+            "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
           }
@@ -381,11 +2279,11 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ 6 ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
-            "sat": "Download APP 0.0°",
+            "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
           }
@@ -404,8 +2302,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -427,8 +2325,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -450,8 +2348,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -473,8 +2371,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -496,8 +2394,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -519,8 +2417,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -542,8 +2440,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -565,8 +2463,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -588,8 +2486,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -611,8 +2509,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -634,8 +2532,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -657,8 +2555,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -680,8 +2578,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -703,8 +2601,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -726,8 +2624,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -749,8 +2647,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -772,8 +2670,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -795,8 +2693,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -818,8 +2716,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -841,8 +2739,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -864,8 +2762,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -887,8 +2785,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -910,8 +2808,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -933,8 +2831,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -956,8 +2854,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -979,8 +2877,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1002,8 +2900,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1025,8 +2923,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1048,8 +2946,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1071,8 +2969,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1094,8 +2992,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1117,8 +3015,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1140,8 +3038,30 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "DAZN Great Britain (geo/R) 📺",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland ($/geo/R) 📺",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",
@@ -1163,8 +3083,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "Ligue 1+ ($/geo/R) 📺",
+        "link": "https://plus.ligue1.com/home",
         "streams": [
           {
             "sat": "Download APP 0.0°",

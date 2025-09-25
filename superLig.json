@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "15:42 25-09-2025"
+    "last_updated": "15:56 25-09-2025"
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
@@ -13,13 +13,117 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Arena Premium 5 Srbija HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.304 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.304 H 30000 - 3/4",
+            "encry": "HD Conax"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 4 Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
           }
         ]
       }
@@ -36,13 +140,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -59,13 +184,85 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
           }
         ]
       }
@@ -82,13 +279,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -105,13 +323,29 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -128,12 +362,291 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Canada 📺",
+        "link": "https://connect-ca.beinsports.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect USA 📺",
+        "link": "https://connect-us.beinsports.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports France 9 HD max",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11.679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "Fanatiz USA ($/geo/R) 📺",
+        "link": "https://fanatiz.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Fubo Sports USA ($/geo/R) 📺",
+        "link": "https://www.fubosportsnetwork.com/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FuboTV Canada ($/geo/R)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 2 Hungary HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "11.785 H 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "11.258 H 30000 - 3/4",
+            "encry": "HD Conax"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 4 Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV5 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Spíler 2 TV Hungary HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "11.785 H 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.727 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "11.258 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Premium (geo/R) 📺",
+        "link": "https://tv2play.hu/spilertv/spilerek",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ZhiBo8 TV (China)",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
@@ -151,13 +664,29 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -174,13 +703,50 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
+        "channel": "Arena Premium 4 Srbija HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -197,13 +763,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -220,13 +807,29 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -243,13 +846,29 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -266,13 +885,29 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -289,13 +924,50 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "DigiTurk 4K UHD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 5B 42.0°e",
+            "freq": "11.305 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.554 V 29750 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -312,13 +984,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -335,13 +1028,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -358,13 +1072,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -381,13 +1116,29 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -404,8 +1155,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -427,8 +1178,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -450,8 +1201,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -473,8 +1224,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -496,8 +1247,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -519,8 +1270,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -542,8 +1293,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -565,8 +1316,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -588,13 +1339,34 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -611,13 +1383,29 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
+            "encry": "HD Irdeto"
           }
         ]
       }
@@ -634,8 +1422,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -657,8 +1445,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -680,8 +1468,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -703,8 +1491,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -726,8 +1514,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -749,8 +1537,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -772,8 +1560,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -795,8 +1583,8 @@
     "date": "2025-09-25",
     "channels": [
       {
-        "channel": "",
-        "link": "#",
+        "channel": "beIN Connect Türkiye 📺",
+        "link": "https://www.beinconnect.com.tr/spor/",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
