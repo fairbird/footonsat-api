@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "09:23 26-09-2025"
+    "last_updated": "14:56 26-09-2025"
   },
   {
     "competition": "UEFA Europa League - Matchday 2",
@@ -9,7 +9,7 @@
       "team1": "scotland",
       "team2": "portugal"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -81,7 +81,7 @@
       "team1": "italy",
       "team2": "france"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -131,7 +131,7 @@
       "team1": "italy",
       "team2": "germany"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -176,7 +176,7 @@
       "team1": "norway",
       "team2": "holland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -210,7 +210,7 @@
       "team1": "romania",
       "team2": "switzerland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -244,7 +244,7 @@
       "team1": "turkey",
       "team2": "france"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -294,7 +294,7 @@
       "team1": "bulgaria",
       "team2": "spain"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -339,7 +339,7 @@
       "team1": "greece",
       "team2": "holland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -384,7 +384,7 @@
       "team1": "czechia",
       "team2": "sweden"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -418,7 +418,7 @@
       "team1": "england",
       "team2": "denmark"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -499,7 +499,7 @@
       "team1": "austria",
       "team2": "scotland"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -560,7 +560,7 @@
       "team1": "holland",
       "team2": "england3"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -600,6 +600,37 @@
             "encry": "VideoGuard"
           }
         ]
+      },
+      {
+        "channel": "TV8 Italia HD",
+        "link": "https://tv8.it/streaming.html?zoneid=menu_streaming",
+        "streams": [
+          {
+            "sat": "*DTT 0.0°-",
+            "freq": "0.000 - -",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.073 V 29900 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.073 V 29900 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10.775 H 29900 - 2/3",
+            "encry": "HD Panaccess"
+          },
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12.149 V 31400 - 2/3",
+            "encry": "FTA (MultiStream)"
+          }
+        ]
       }
     ]
   },
@@ -610,7 +641,7 @@
       "team1": "switzerland",
       "team2": "germany"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -714,7 +745,7 @@
       "team1": "spain",
       "team2": "greece"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -748,7 +779,7 @@
       "team1": "portugal",
       "team2": "serbia"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -804,7 +835,7 @@
       "team1": "france",
       "team2": "austria"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -849,7 +880,7 @@
       "team1": "belgium",
       "team2": "hungary"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -964,7 +995,7 @@
       "team1": "norway",
       "team2": "scotland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1009,7 +1040,7 @@
       "team1": "romania",
       "team2": "italy"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1043,7 +1074,7 @@
       "team1": "turkey",
       "team2": "germany"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1077,7 +1108,7 @@
       "team1": "holland",
       "team2": "greece"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1111,7 +1142,7 @@
       "team1": "holland",
       "team2": "england3"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1145,7 +1176,7 @@
       "team1": "france",
       "team2": "switzerland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1179,7 +1210,7 @@
       "team1": "belgium",
       "team2": "spain"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1213,7 +1244,7 @@
       "team1": "austria",
       "team2": "hungary"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1247,7 +1278,7 @@
       "team1": "portugal",
       "team2": "serbia"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1281,7 +1312,7 @@
       "team1": "spain",
       "team2": "france"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1315,7 +1346,7 @@
       "team1": "scotland",
       "team2": "austria"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1360,7 +1391,7 @@
       "team1": "germany",
       "team2": "holland"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1394,7 +1425,7 @@
       "team1": "france",
       "team2": "greece"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1428,7 +1459,7 @@
       "team1": "sweden",
       "team2": "croatia"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1462,7 +1493,7 @@
       "team1": "england",
       "team2": "portugal"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1496,7 +1527,7 @@
       "team1": "italy",
       "team2": "czechia"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1530,7 +1561,7 @@
       "team1": "switzerland",
       "team2": "bulgaria"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1564,7 +1595,7 @@
       "team1": "switzerland",
       "team2": "romania"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1598,7 +1629,7 @@
       "team1": "croatia",
       "team2": "spain"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1632,7 +1663,7 @@
       "team1": "sweden",
       "team2": "greece"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1666,7 +1697,7 @@
       "team1": "denmark",
       "team2": "scotland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1711,7 +1742,7 @@
       "team1": "france",
       "team2": "germany"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1745,7 +1776,7 @@
       "team1": "serbia",
       "team2": "france"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1779,7 +1810,7 @@
       "team1": "austria",
       "team2": "holland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1813,7 +1844,7 @@
       "team1": "austria",
       "team2": "england"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1847,7 +1878,7 @@
       "team1": "holland",
       "team2": "portugal"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1881,7 +1912,7 @@
       "team1": "italy",
       "team2": "norway"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1915,7 +1946,7 @@
       "team1": "hungary",
       "team2": "bulgaria"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1949,7 +1980,7 @@
       "team1": "greece",
       "team2": "switzerland"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1983,7 +2014,7 @@
       "team1": "scotland",
       "team2": "italy"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2028,7 +2059,7 @@
       "team1": "spain",
       "team2": "france"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2062,7 +2093,7 @@
       "team1": "portugal",
       "team2": "belgium"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2096,7 +2127,7 @@
       "team1": "germany",
       "team2": "holland"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2130,7 +2161,7 @@
       "team1": "czechia",
       "team2": "turkey"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2164,7 +2195,7 @@
       "team1": "england3",
       "team2": "switzerland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2198,7 +2229,7 @@
       "team1": "portugal",
       "team2": "france"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2232,7 +2263,7 @@
       "team1": "turkey",
       "team2": "hungary"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2266,7 +2297,7 @@
       "team1": "holland",
       "team2": "scotland"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2311,7 +2342,7 @@
       "team1": "france",
       "team2": "croatia"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2345,7 +2376,7 @@
       "team1": "bulgaria",
       "team2": "spain"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2379,7 +2410,7 @@
       "team1": "greece",
       "team2": "norway"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2413,7 +2444,7 @@
       "team1": "italy",
       "team2": "denmark"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2447,7 +2478,7 @@
       "team1": "czechia",
       "team2": "germany"
     },
-    "time": "12:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2481,7 +2512,7 @@
       "team1": "italy",
       "team2": "austria"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2515,7 +2546,7 @@
       "team1": "holland",
       "team2": "germany"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2549,7 +2580,7 @@
       "team1": "england",
       "team2": "sweden"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2583,7 +2614,7 @@
       "team1": "greece",
       "team2": "austria"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2617,7 +2648,7 @@
       "team1": "belgium",
       "team2": "switzerland"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2651,7 +2682,7 @@
       "team1": "scotland",
       "team2": "portugal"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2696,7 +2727,7 @@
       "team1": "spain",
       "team2": "holland"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2730,7 +2761,7 @@
       "team1": "serbia",
       "team2": "romania"
     },
-    "time": "15:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
