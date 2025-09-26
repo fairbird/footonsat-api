@@ -1,5 +1,5809 @@
 [
   {
-    "last_updated": "02:13 26-09-2025"
+    "last_updated": "08:56 26-09-2025"
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Como v Cremonese",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "06:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Sport 2 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 4 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Ju v entus v Atalanta",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena 4 Hungary HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Conax"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Premium 3 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10.721 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10.721 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 3 Slovenija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 4 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 1 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 2",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports 1 Eurasia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10.845 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11.650 V 10000 - 2/3",
+            "encry": "HD TrophyAccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 1 Czechia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Cagliari v Inter Milan",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Premium 2 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.480 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.429 V 28330 - 3/5",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.429 V 28330 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 1 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 1 Slovenija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN 2 Bar Deutsch HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.798 H 27500 - 9/0",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 2 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Match 4 Hungary HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Russia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3.786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3.688 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Yamal 401 90.0°e",
+            "freq": "4.064 R 15282 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "HD DRE-Crypt"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.149 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.169 R 27500 - 5/6",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Express AM6 53.0°e",
+            "freq": "10.937 V 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Yamal 601 49.0°e",
+            "freq": "3.704 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Express AM7 40.0°e",
+            "freq": "3.665 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.265 L 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.766 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.766 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "12.015 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 3",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Polsat Sport Extra 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport 1 Czechia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 1 Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Sport X Dansk HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.716 H 25000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.716 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Sassuolo v Udinese",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "03:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Premium 1 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 1 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 1 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Match 4 Hungary HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 2",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Polsat Sport Extra 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.265 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 1 Czechia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.070 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.380 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Pisa v Fiorentina",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "06:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Sport 1 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.460 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.460 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 7 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 2 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 2",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport 2 Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Roma v Hellas Verona",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "06:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Premium 4 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 4 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 1 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Match 4 Hungary HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.130 H 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 1",
+        "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 2 Czechia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.094 V 27500 - 4/5",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.094 V 27500 - 4/5",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Lecce v Bologna",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Sport 4 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 4 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 3 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 2",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport 2 Czechia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.094 V 27500 - 4/5",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.094 V 27500 - 4/5",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "AC Milan v Napoli",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Premium 3 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10.721 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10.721 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 1 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 1 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Russia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3.786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3.688 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Yamal 401 90.0°e",
+            "freq": "4.064 R 15282 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "HD DRE-Crypt"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.149 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.169 R 27500 - 5/6",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Express AM6 53.0°e",
+            "freq": "10.937 V 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Yamal 601 49.0°e",
+            "freq": "3.704 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Express AM7 40.0°e",
+            "freq": "3.665 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.265 L 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.766 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.766 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "12.015 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 1",
+        "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports 1 Eurasia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10.845 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11.650 V 10000 - 2/3",
+            "encry": "HD TrophyAccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 1 Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.474 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.842 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Sport 2 Czechia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12.090 V 29900 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.094 V 27500 - 4/5",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.094 V 27500 - 4/5",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.766 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.034 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV2 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.775 L 09583 - 2/3",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "11.222 V 30000 - 5/6",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "4.132 R 22500 - 3/5",
+            "encry": "Irdeto [c]"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Parma v Torino",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena Premium 1 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.402 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.366 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 1 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport 2 Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 5",
+    "match": "Genoa v Lazio",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Arena 4 Hungary HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Cryptoworks"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.804 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.265 V 28000 - 7/8",
+            "encry": "Conax"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Premium 3 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10.721 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10.721 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN España",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN USA en Español",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 1 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "Fast Sports",
+        "link": "https://fasttv.am/live-sports?sport_type=football",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MATCH! Futbol 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11.840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11.860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "Express AT1 56.0°e",
+            "freq": "12.476 R 27500 - 5/6",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12.380 L 27500 - 3/4",
+            "encry": "HD Exset"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.823 R 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt"
+          },
+          {
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11.804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.643 H 30000 - 7/8",
+            "encry": "HD Verimatrix"
+          }
+        ]
+      },
+      {
+        "channel": "MTV Katsomon",
+        "link": "https://www.mtv.fi/urheilu",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Net4+ Sport",
+        "link": "https://arena4plus.network4.hu/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Paramount+ USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport 2 Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.030 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.775 L 09583 - 2/3",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "11.222 V 30000 - 5/6",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "4.132 R 22500 - 3/5",
+            "encry": "Irdeto [c]"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Play Danmark",
+        "link": "https://play.tv2.dk/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Play Sverige",
+        "link": "https://www.tv4play.se/sport",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "VG+ Sport Norge",
+        "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Hellas v erona v Sassuolo",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Inter Milan v Cremonese",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Atalanta v Como",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Udinese v Cagliari",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "03:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Fiorentina v Roma",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "06:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Bologna v Pisa",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "06:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Napoli v Genoa",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Ju v entus v AC Milan",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "TNT Sports 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.798 R 19167 - 3/5",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "3.775 L 09583 - 2/3",
+            "encry": "Irdeto [c]"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.612 H 22000 - 5/6",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "11.222 V 30000 - 5/6",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "4.132 R 22500 - 3/5",
+            "encry": "Irdeto [c]"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 7",
+    "match": "Torino v Napoli",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 7",
+    "match": "Como v Juventus",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "03:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 7",
+    "match": "Cagliari v Bologna",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "06:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 7",
+    "match": "Genoa v Parma",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "06:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 7",
+    "match": "Atalanta v Lazio",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 7",
+    "match": "AC Milan v Fiorentina",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 7",
+    "match": "Cremonese v Udinese",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "AC Milan v Pisa",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "Napoli v Inter Milan",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "09:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "Cremonese v Atalanta",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "11:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "Torino v Genoa",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "04:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "Sassuolo v Roma",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "07:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "Hellas v erona v Cagliari",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "07:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "Fiorentina v Bologna",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 8",
+    "match": "Lazio v Juventus",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Atalanta v AC Milan",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Como v Hellas Verona",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Ju v entus v Udinese",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Roma v Parma",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Bologna v Torino",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Genoa v Cremonese",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Inter Milan v Fiorentina",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Cagliari v Sassuolo",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 9",
+    "match": "Pisa v Lazio",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Napoli v Como",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Cremonese v Juventus",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Hellas v erona v Inter Milan",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "04:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Fiorentina v Lecce",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "07:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Torino v Pisa",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "07:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Parma v Bologna",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:00",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "AC Milan v Roma",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Sassuolo v Genoa",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "10:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 10",
+    "match": "Lazio v Cagliari",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "12:45",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
   }
 ]

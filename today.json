@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "02:03 26-09-2025"
+    "last_updated": "08:46 26-09-2025"
   },
   {
     "competition": "",
@@ -9,7 +9,7 @@
       "team1": "chile",
       "team2": "peru"
     },
-    "time": "19:30",
+    "time": "17:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -85,7 +85,7 @@
       "team1": "argentina",
       "team2": "brazil"
     },
-    "time": "19:30",
+    "time": "17:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -340,7 +340,7 @@
       "team1": "china5",
       "team2": "china"
     },
-    "time": "06:35",
+    "time": "04:35",
     "date": "2025-09-26",
     "channels": [
       {
@@ -378,7 +378,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -401,7 +401,7 @@
       "team1": "slovakia",
       "team2": "slovakia"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -454,7 +454,7 @@
       "team1": "finland",
       "team2": "finland"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -477,7 +477,7 @@
       "team1": "russia",
       "team2": "russia"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -607,7 +607,7 @@
       "team1": "romania",
       "team2": "romania"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -687,7 +687,7 @@
       "team1": "slovenia",
       "team2": "slovenia"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -715,9 +715,25 @@
       "team1": "saudiarabia",
       "team2": "saudiarabia"
     },
-    "time": "10:35",
+    "time": "08:35",
     "date": "2025-09-26",
     "channels": [
+      {
+        "channel": "Band Sports Brazil HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "11.680 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Sky Brasil 1 43.1°w",
+            "freq": "10.992 V 30000",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
       {
         "channel": "Shahid MBC",
         "link": "https://shahid.mbc.net/en/livestream",
@@ -726,6 +742,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Thmanyah 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Badr 8 26.0°e",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12.360 V 27500 - 3/4",
+            "encry": "Free To Air HD"
           }
         ]
       }
@@ -738,7 +770,7 @@
       "team1": "saudiarabia",
       "team2": "saudiarabia"
     },
-    "time": "10:40",
+    "time": "08:40",
     "date": "2025-09-26",
     "channels": [
       {
@@ -751,6 +783,22 @@
             "encry": ""
           }
         ]
+      },
+      {
+        "channel": "Thmanyah 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Badr 8 26.0°e",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12.360 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+          }
+        ]
       }
     ]
   },
@@ -761,7 +809,7 @@
       "team1": "croatia",
       "team2": "croatia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -800,7 +848,7 @@
       "team1": "czechia",
       "team2": "czechia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -863,7 +911,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -911,7 +959,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -959,7 +1007,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1007,7 +1055,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1055,7 +1103,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1103,7 +1151,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1151,7 +1199,7 @@
       "team1": "serbia",
       "team2": "serbia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1189,7 +1237,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1224,6 +1272,17 @@
           {
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10.721 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10.732 V 30000 - 5/6",
             "encry": "HD VideoGuard"
           }
         ]
@@ -1286,8 +1345,65 @@
         ]
       },
       {
+        "channel": "Nova Sport Bulgaria HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.117 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.482 V 30000 - 7/8",
+            "encry": "Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.482 V 30000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12.207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt"
+          }
+        ]
+      },
+      {
         "channel": "OneFootball",
         "link": "https://onefootball.com/en/matches",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Prima Sport RO PPV 2",
+        "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
@@ -1409,7 +1525,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1456,6 +1572,58 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Diema Sport 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.156 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.156 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Digi Sport 2 Romania HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
           }
         ]
       },
@@ -1544,6 +1712,17 @@
         ]
       },
       {
+        "channel": "Okko Futbol HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "OneFootball",
         "link": "https://onefootball.com/en/matches",
         "streams": [
@@ -1555,12 +1734,59 @@
         ]
       },
       {
+        "channel": "Prima Sport RO 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 V 30000 - 7/8",
+            "encry": "Viaccess"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 V 30000 - 7/8",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.188 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.900 H 28000 - 5/6",
+            "encry": "NagraVision"
+          }
+        ]
+      },
+      {
         "channel": "Sky Sport Bundesliga 3 HD",
         "link": "#",
         "streams": [
           {
             "sat": "Astra 1N 19.2°e",
             "freq": "12.304 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Sky Sport Calcio HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.073 V 29900 - 3/4",
             "encry": "HD VideoGuard"
           }
         ]
@@ -1589,6 +1815,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "SportKlub 1 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       },
@@ -1694,7 +1936,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1728,7 +1970,7 @@
       "team1": "turkey14",
       "team2": "turkey"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1755,6 +1997,27 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports France 9 HD max",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11.679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess"
           }
         ]
       },
@@ -1845,6 +2108,22 @@
             "encry": "HD VideoGuard"
           }
         ]
+      },
+      {
+        "channel": "SportKlub HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD Irdeto"
+          }
+        ]
       }
     ]
   },
@@ -1855,7 +2134,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1900,7 +2179,7 @@
       "team1": "czechia",
       "team2": "czechia"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1939,7 +2218,7 @@
       "team1": "albania4",
       "team2": "albania"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1962,7 +2241,7 @@
       "team1": "russia",
       "team2": "russia"
     },
-    "time": "12:15",
+    "time": "10:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2055,7 +2334,7 @@
       "team1": "france",
       "team2": "france12"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2089,7 +2368,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2123,7 +2402,7 @@
       "team1": "france51",
       "team2": "france"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2157,7 +2436,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2191,7 +2470,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2225,7 +2504,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2259,7 +2538,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2293,7 +2572,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2327,7 +2606,7 @@
       "team1": "switzerland",
       "team2": "switzerland"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2350,7 +2629,7 @@
       "team1": "france20",
       "team2": "france"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2383,7 +2662,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2416,7 +2695,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2449,7 +2728,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2511,7 +2790,29 @@
         ]
       },
       {
+        "channel": "Cablenet Sports 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "Megogo Futbol 5",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Okko Sport HD Russia",
         "link": "#",
         "streams": [
           {
@@ -2585,7 +2886,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2618,7 +2919,7 @@
       "team1": "holland",
       "team2": "holland"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2662,9 +2963,20 @@
       "team1": "saudiarabia",
       "team2": "saudiarabia"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
+      {
+        "channel": "Cosmote Sport 8 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
       {
         "channel": "DAZN 2 Bar Deutsch HD",
         "link": "#",
@@ -2673,6 +2985,69 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "11.798 H 27500 - 9/0",
             "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Fox Deportes USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Fox Soccer Plus USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "MAX Sport 2 Bulgaria HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.194 H 30000 - 7/8",
+            "encry": "Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 H 30000 - 5/6",
+            "encry": "HD Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.194 H 30000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12.322 V 30000 - 2/3",
+            "encry": "HD Bulcrypt"
           }
         ]
       },
@@ -2698,6 +3073,27 @@
         ]
       },
       {
+        "channel": "Persiana Sport HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10.762 V 30000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10.762 V 27500 - 2/3",
+            "encry": "Free To Air HD"
+          }
+        ]
+      },
+      {
         "channel": "Polsat Sport 2 HD",
         "link": "#",
         "streams": [
@@ -2714,12 +3110,34 @@
         ]
       },
       {
+        "channel": "Prima Sport RO PPV 1",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "S Sport+ Streaming",
         "link": "#",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports 2 Baltic",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
@@ -2732,6 +3150,17 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
           }
         ]
       },
@@ -2784,6 +3213,102 @@
         ]
       },
       {
+        "channel": "Sportdigital FUSSBALL HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Sportitalia SoloCalcio HD",
+        "link": "https://sportitalialive.it/sisolocalcio/",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.179 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+          }
+        ]
+      },
+      {
+        "channel": "SportKlub 2 Slovenija",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "SportKlub 3 Hrvatska",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          },
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "SporTV 2 Brazil HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "SPOTV Malaysia 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11.102 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "Spíler 1 TV Hungary HD",
         "link": "#",
         "streams": [
@@ -2823,6 +3348,49 @@
             "encry": "HD Conax"
           }
         ]
+      },
+      {
+        "channel": "Strike TV",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "12.245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra"
+          }
+        ]
+      },
+      {
+        "channel": "Thmanyah 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Badr 8 26.0°e",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12.360 V 27500 - 3/4",
+            "encry": "Free To Air HD"
+          }
+        ]
+      },
+      {
+        "channel": "Varzish TV Sport HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "11.566 H 10750 - 3/4",
+            "encry": "HD BISS"
+          },
+          {
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "11.785 H 27500 - 5/6",
+            "encry": "FTA (BISS)"
+          }
+        ]
       }
     ]
   },
@@ -2833,7 +3401,7 @@
       "team1": "hungary",
       "team2": "hungary3"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2926,7 +3494,7 @@
       "team1": "romania",
       "team2": "romania"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3011,7 +3579,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3045,7 +3613,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3079,7 +3647,7 @@
       "team1": "switzerland",
       "team2": "switzerland"
     },
-    "time": "13:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3113,9 +3681,20 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
+      {
+        "channel": "4 Sports HD",
+        "link": "https://pokertvfa.live/",
+        "streams": [
+          {
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10.804 H 27500 - 2/3",
+            "encry": "Free To Air HD"
+          }
+        ]
+      },
       {
         "channel": "Arena 4 Hungary HD",
         "link": "#",
@@ -3233,6 +3812,17 @@
         ]
       },
       {
+        "channel": "beIN Sports 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10.732 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "beIN Sports France 2 HD",
         "link": "#",
         "streams": [
@@ -3276,6 +3866,83 @@
         ]
       },
       {
+        "channel": "Diema Sport 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.214 V 30000 - 7/8",
+            "encry": "Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.214 V 30000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.214 V 30000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.463 H 30000 - 5/6",
+            "encry": "HD Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.463 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.463 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12.207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt"
+          }
+        ]
+      },
+      {
+        "channel": "Digi Sport 2 Romania HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.823 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
+          }
+        ]
+      },
+      {
         "channel": "Eleven Sports 1 Polska HD",
         "link": "#",
         "streams": [
@@ -3302,6 +3969,28 @@
         ]
       },
       {
+        "channel": "ESPN 2 USA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ESPN Deportes",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "ESPN+ USA",
         "link": "#",
         "streams": [
@@ -3313,6 +4002,27 @@
         ]
       },
       {
+        "channel": "Futbol TV Tajikistan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12.252 H 10000 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "NSS 12 57.0°e",
+            "freq": "11.552 H 11700 - 3/5",
+            "encry": "HD BISS"
+          },
+          {
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "11.785 H 27500 - 3/4",
+            "encry": "FTA (BISS)"
+          }
+        ]
+      },
+      {
         "channel": "GEM Sport HD",
         "link": "#",
         "streams": [
@@ -3320,6 +4030,43 @@
             "sat": "Al Yah 1 52.5°e",
             "freq": "12.034 V 27500 - 3/4",
             "encry": "Free To Air HD"
+          }
+        ]
+      },
+      {
+        "channel": "Go3 Sport 1 Baltic HD",
+        "link": "https://go3.tv/en/live_tv",
+        "streams": [
+          {
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11.938 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11.938 V 27500 - 5/6",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "MBC Action HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Badr 8 26.0°e",
+            "freq": "12.399 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Badr 8 26.0°e",
+            "freq": "12.284 V 27500 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11.559 V 27500 - 5/6",
+            "encry": "Free To Air"
           }
         ]
       },
@@ -3382,6 +4129,17 @@
         ]
       },
       {
+        "channel": "Okko Prime Sport HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "OneFootball",
         "link": "https://onefootball.com/en/matches",
         "streams": [
@@ -3404,6 +4162,42 @@
         ]
       },
       {
+        "channel": "Prima Sport RO 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.290 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 V 30000 - 7/8",
+            "encry": "Viaccess"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 V 30000 - 7/8",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Thor 5 0.8°w",
+            "freq": "12.188 V 28000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.900 H 28000 - 5/6",
+            "encry": "NagraVision"
+          }
+        ]
+      },
+      {
         "channel": "S Sport+ Streaming",
         "link": "#",
         "streams": [
@@ -3411,6 +4205,27 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports 1 Baltic",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
+          },
+          {
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
+          },
+          {
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11.958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS"
           }
         ]
       },
@@ -3458,12 +4273,34 @@
         ]
       },
       {
+        "channel": "Sky Sport Bundesliga UHD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.798 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "Sky Sport Top Event HD",
         "link": "#",
         "streams": [
           {
             "sat": "Astra 1N 19.2°e",
             "freq": "11.914 H 27500 - 9/10",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Sky Sport Uno Italia HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.958 V 27500 - 3/4",
             "encry": "HD VideoGuard"
           }
         ]
@@ -3496,6 +4333,33 @@
         ]
       },
       {
+        "channel": "SportKlub 1 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.471 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "SporTV Brazil HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "TV3 MAX Dansk HD",
         "link": "#",
         "streams": [
@@ -3512,6 +4376,48 @@
           {
             "sat": "Thor 6 0.8°w",
             "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD Conax"
+          }
+        ]
+      },
+      {
+        "channel": "V Sport 1 Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 5.0°e",
+            "freq": "11.305 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "V Sport Premium HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.903 V 25000 - 3/4",
             "encry": "HD Conax"
           }
         ]
@@ -3618,7 +4524,7 @@
       "team1": "poland",
       "team2": "poland11"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3741,7 +4647,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3794,6 +4700,17 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11.366 V 30000 - 3/4",
             "encry": "MPEG-4 NDS"
+          }
+        ]
+      },
+      {
+        "channel": "Cytavision Sports 6 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -3945,6 +4862,22 @@
         ]
       },
       {
+        "channel": "ONE2 Sport Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "11.058 V 13750 - 5/6",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 7 4.0°w",
+            "freq": "10.997 V 15000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "Premier Sports GB Player HD",
         "link": "https://www.premiersports.com/fr/live-now-on-demand",
         "streams": [
@@ -3963,6 +4896,27 @@
             "sat": "*DTT 0.0°-",
             "freq": "0.000 - -",
             "encry": "Free To Air"
+          }
+        ]
+      },
+      {
+        "channel": "TV2 Sport Premium HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 5.0°e",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.747 H 25000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.747 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
           }
         ]
       },
@@ -3986,7 +4940,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4020,7 +4974,7 @@
       "team1": "poland",
       "team2": "poland"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4058,7 +5012,7 @@
       "team1": "belgium",
       "team2": "belgium"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4107,7 +5061,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4237,6 +5191,17 @@
         ]
       },
       {
+        "channel": "Cablenet Sports 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "DAZN 1 Bar Deutsch HD",
         "link": "#",
         "streams": [
@@ -4343,6 +5308,63 @@
         ]
       },
       {
+        "channel": "Nova Sport Bulgaria HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.560 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.117 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.482 V 30000 - 7/8",
+            "encry": "Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.482 V 30000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12.207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt"
+          }
+        ]
+      },
+      {
+        "channel": "Okko Futbol HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "Prime Video UK",
         "link": "https://www.primevideo.com/",
         "streams": [
@@ -4365,6 +5387,17 @@
         ]
       },
       {
+        "channel": "Sky Sport Calcio HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.073 V 29900 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "Sport TV2 Portugal HD",
         "link": "#",
         "streams": [
@@ -4372,6 +5405,38 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "TVM Sport+ HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "V Sport Football HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.809 V 25000 - 3/4",
+            "encry": "HD Conax"
           }
         ]
       },
@@ -4455,7 +5520,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4478,7 +5543,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4501,7 +5566,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4524,7 +5589,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4580,7 +5645,7 @@
       "team1": "ireland",
       "team2": "ireland6"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4603,7 +5668,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4626,7 +5691,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4649,7 +5714,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4672,7 +5737,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4695,7 +5760,7 @@
       "team1": "n_ireland",
       "team2": "n_ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4751,7 +5816,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4812,7 +5877,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -4906,6 +5971,17 @@
         ]
       },
       {
+        "channel": "Cosmote Sport 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11.843 V 27500 - 3/5",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "DAZN Japan",
         "link": "#",
         "streams": [
@@ -4913,6 +5989,58 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Diema Sport 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.137 V 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.156 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.156 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12.673 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ESPN 4 Brazil HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "4.095 R 30000 - 5/6",
+            "encry": "HD PowerVu"
+          },
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "3.980 L 21600 - 5/6",
+            "encry": "HD PowerVu"
           }
         ]
       },
@@ -5071,6 +6199,48 @@
         ]
       },
       {
+        "channel": "V Sport 2 Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 5.0°e",
+            "freq": "11.345 H 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.111 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Thor 7 0.6°w",
+            "freq": "12.111 V 30000 - 2/3",
+            "encry": "HD Conax"
+          }
+        ]
+      },
+      {
+        "channel": "V Sport Extra Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.903 V 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "ViaPlay Danmark HD",
         "link": "#",
         "streams": [
@@ -5145,7 +6315,7 @@
       "team1": "france50",
       "team2": "france"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -5195,7 +6365,7 @@
       "team1": "spain17",
       "team2": "spain"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -5247,6 +6417,22 @@
         ]
       },
       {
+        "channel": "beIN Sports 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11.142 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10.812 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "beIN Sports MENA 3 HD",
         "link": "#",
         "streams": [
@@ -5279,6 +6465,28 @@
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Cytavision Sports 8 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Cytavision Sports PPV 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
@@ -5383,6 +6591,28 @@
         ]
       },
       {
+        "channel": "Digi 4K UHD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Digi Sport 4 Romania",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.687 H 27500 - 3/4",
+            "encry": "NagraVision"
+          }
+        ]
+      },
+      {
         "channel": "Eleven Sports 4 Polska HD",
         "link": "#",
         "streams": [
@@ -5405,6 +6635,17 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11.278 V 27500 - 3/4",
             "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ESPN 2 Brazil HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
           }
         ]
       },
@@ -5490,6 +6731,17 @@
         ]
       },
       {
+        "channel": "M+ LaLiga HDR",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
         "channel": "MATCH! Futbol 2 HD",
         "link": "#",
         "streams": [
@@ -5541,6 +6793,77 @@
         ]
       },
       {
+        "channel": "MAX Sport 4 Bulgaria HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11.475 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.117 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.213 V 30000 - 7/8",
+            "encry": "Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.213 V 30000 - 7/8",
+            "encry": "Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.213 V 30000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 H 30000 - 5/6",
+            "encry": "HD Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.565 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.117 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.713 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12.713 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12.476 V 30000 - 2/3",
+            "encry": "HD Bulcrypt"
+          }
+        ]
+      },
+      {
         "channel": "Megogo Futbol 1",
         "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
         "streams": [
@@ -5584,6 +6907,37 @@
         ]
       },
       {
+        "channel": "Nova Sport 5 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
         "channel": "Nova Sports Prime Hellas HD",
         "link": "#",
         "streams": [
@@ -5595,6 +6949,22 @@
         ]
       },
       {
+        "channel": "ONE Sport Israel HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.806 V 27500 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Amos 3 4.0°w",
+            "freq": "10.972 V 30000 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "Premier Sports GB Player HD",
         "link": "https://www.premiersports.com/fr/live-now-on-demand",
         "streams": [
@@ -5602,6 +6972,32 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0.000 0",
             "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Prima Sport RO 3 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.647 V 30000 - 7/8",
+            "encry": "Viaccess"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.647 V 30000 - 7/8",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.606 V 30000 - 3/4",
+            "encry": "HD Viaccess"
           }
         ]
       },
@@ -5761,6 +7157,27 @@
         ]
       },
       {
+        "channel": "TV2 Sport 1 Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 5.0°e",
+            "freq": "11.385 V 30000 - 3/4",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.747 H 25000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.747 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
         "channel": "TV2 Sport X Dansk HD",
         "link": "#",
         "streams": [
@@ -5772,6 +7189,27 @@
           {
             "sat": "Thor 6 0.8°w",
             "freq": "10.716 H 25000 - 3/4",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "TV4 Fotboll HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.872 V 25000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "10.872 V 25000 - 3/4",
             "encry": "HD VideoGuard"
           }
         ]
@@ -5797,6 +7235,27 @@
             "encry": ""
           }
         ]
+      },
+      {
+        "channel": "Ziggo Sport 2",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Seca"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra"
+          }
+        ]
       }
     ]
   },
@@ -5807,7 +7266,7 @@
       "team1": "portugal",
       "team2": "portugal4"
     },
-    "time": "14:15",
+    "time": "12:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -5913,6 +7372,27 @@
         ]
       },
       {
+        "channel": "beIN Sports France 9 HD max",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.895 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11.679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess"
+          }
+        ]
+      },
+      {
         "channel": "Benfica TV HD",
         "link": "#",
         "streams": [
@@ -5925,6 +7405,39 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12.246 H 27500 - 3/4",
             "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Cosmote Sport 7 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12.149 V 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          }
+        ]
+      },
+      {
+        "channel": "Cytavision Sports 7 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Italia",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
           }
         ]
       },
@@ -5955,6 +7468,17 @@
         ]
       },
       {
+        "channel": "ESPN 1 Brazil HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "SES 6 40.5°w",
+            "freq": "3.980 L 21600 - 3/4",
+            "encry": "HD PowerVu"
+          }
+        ]
+      },
+      {
         "channel": "Megogo Futbol 2",
         "link": "#",
         "streams": [
@@ -5977,7 +7501,79 @@
         ]
       },
       {
+        "channel": "Ring Bulgaria HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11.555 V 30000 - 3/4",
+            "encry": "VideoGuard"
+          },
+          {
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12.600 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.309 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.463 H 30000 - 5/6",
+            "encry": "HD Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.463 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.309 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.482 V 30000 - 7/8",
+            "encry": "Bulcrypt"
+          },
+          {
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12.482 V 30000 - 7/8",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12.418 H 30000 - 2/3",
+            "encry": "HD Bulcrypt"
+          }
+        ]
+      },
+      {
         "channel": "S Sport+ Streaming",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sport 1 Lithuania HD",
         "link": "#",
         "streams": [
           {
@@ -6004,6 +7600,64 @@
         ]
       },
       {
+        "channel": "Sportdigital FUSSBALL 2",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sportdigital FUSSBALL HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD CryptoWorks"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "SportKlub HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 V 30000 - 3/5",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
         "channel": "Thriller TV",
         "link": "https://www.trillertv.com/join/trillertv-subscription/",
         "streams": [
@@ -6023,7 +7677,7 @@
       "team1": "usa",
       "team2": "usa"
     },
-    "time": "18:00",
+    "time": "16:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6057,7 +7711,7 @@
       "team1": "usa",
       "team2": "usa"
     },
-    "time": "19:00",
+    "time": "17:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6080,7 +7734,7 @@
       "team1": "usa",
       "team2": "usa"
     },
-    "time": "19:00",
+    "time": "17:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6114,7 +7768,7 @@
       "team1": "usa",
       "team2": "usa"
     },
-    "time": "20:00",
+    "time": "18:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6148,7 +7802,7 @@
       "team1": "usa",
       "team2": "usa"
     },
-    "time": "21:30",
+    "time": "19:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6203,7 +7857,7 @@
       "team1": "koreasouth",
       "team2": "koreasouth"
     },
-    "time": "00:00",
+    "time": "22:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6226,7 +7880,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "00:00",
+    "time": "22:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6249,7 +7903,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "02:00",
+    "time": "00:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6272,7 +7926,7 @@
       "team1": "koreasouth",
       "team2": "koreas1"
     },
-    "time": "02:30",
+    "time": "00:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6295,7 +7949,7 @@
       "team1": "koreasouth",
       "team2": "koreasouth"
     },
-    "time": "02:30",
+    "time": "00:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6318,7 +7972,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "03:00",
+    "time": "01:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6341,7 +7995,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "03:00",
+    "time": "01:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6364,7 +8018,7 @@
       "team1": "slovakia",
       "team2": "slovakia"
     },
-    "time": "03:30",
+    "time": "01:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6417,7 +8071,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "04:00",
+    "time": "02:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6440,7 +8094,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "04:00",
+    "time": "02:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6463,7 +8117,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "04:00",
+    "time": "02:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6486,7 +8140,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "04:00",
+    "time": "02:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6509,7 +8163,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "04:00",
+    "time": "02:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6532,7 +8186,7 @@
       "team1": "serbia",
       "team2": "serbia12"
     },
-    "time": "04:00",
+    "time": "02:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6560,7 +8214,7 @@
       "team1": "koreasouth7",
       "team2": "koreasouth"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6583,7 +8237,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6611,7 +8265,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6634,7 +8288,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6657,7 +8311,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6680,7 +8334,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6703,7 +8357,7 @@
       "team1": "japan",
       "team2": "japan"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6726,7 +8380,7 @@
       "team1": "poland",
       "team2": "poland11"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6764,7 +8418,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6803,7 +8457,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6826,7 +8480,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "05:00",
+    "time": "03:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6854,7 +8508,7 @@
       "team1": "england",
       "team2": "england3"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6929,7 +8583,7 @@
       "team1": "sweden",
       "team2": "sweden"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -6984,7 +8638,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -7168,7 +8822,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -7363,7 +9017,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -7500,7 +9154,7 @@
       "team1": "denmark",
       "team2": "denmark"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -7556,7 +9210,7 @@
       "team1": "denmark",
       "team2": "denmark"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -7579,7 +9233,7 @@
       "team1": "russia",
       "team2": "russia"
     },
-    "time": "06:00",
+    "time": "04:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -7709,7 +9363,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8247,7 +9901,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8563,7 +10217,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8586,7 +10240,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8625,7 +10279,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8648,7 +10302,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8671,7 +10325,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8694,7 +10348,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8717,7 +10371,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8751,7 +10405,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "06:30",
+    "time": "04:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8818,7 +10472,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8851,7 +10505,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -8884,7 +10538,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9381,7 +11035,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9464,7 +11118,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9509,7 +11163,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9543,7 +11197,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9577,7 +11231,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9611,7 +11265,7 @@
       "team1": "finland",
       "team2": "finland"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9634,7 +11288,7 @@
       "team1": "norway5",
       "team2": "norway"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9657,7 +11311,7 @@
       "team1": "denmark",
       "team2": "denmark"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9713,7 +11367,7 @@
       "team1": "denmark",
       "team2": "denmark"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9769,7 +11423,7 @@
       "team1": "romania",
       "team2": "romania"
     },
-    "time": "07:00",
+    "time": "05:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9828,7 +11482,7 @@
       "team1": "poland",
       "team2": "poland"
     },
-    "time": "07:45",
+    "time": "05:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -9920,7 +11574,7 @@
       "team1": "sweden",
       "team2": "sweden"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10009,7 +11663,7 @@
       "team1": "sweden",
       "team2": "sweden"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10098,7 +11752,7 @@
       "team1": "turkey",
       "team2": "turkey"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10142,7 +11796,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10423,7 +12077,7 @@
       "team1": "sweden",
       "team2": "sweden"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10457,7 +12111,7 @@
       "team1": "denmark",
       "team2": "denmark"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10496,7 +12150,7 @@
       "team1": "czechia",
       "team2": "czechia"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10535,7 +12189,7 @@
       "team1": "czechia",
       "team2": "czechia"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10598,7 +12252,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10674,7 +12328,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10708,7 +12362,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10742,7 +12396,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10776,7 +12430,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10810,7 +12464,7 @@
       "team1": "czechia",
       "team2": "czechia"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10844,7 +12498,7 @@
       "team1": "czechia",
       "team2": "czechia"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10867,7 +12521,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10890,7 +12544,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10913,7 +12567,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10936,7 +12590,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10959,7 +12613,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -10982,7 +12636,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "08:00",
+    "time": "06:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -11005,7 +12659,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "08:30",
+    "time": "06:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -11149,7 +12803,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "08:30",
+    "time": "06:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -11344,6 +12998,17 @@
         ]
       },
       {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
         "channel": "Sky Sport Bundesliga HD",
         "link": "#",
         "streams": [
@@ -11445,7 +13110,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "08:30",
+    "time": "06:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -11678,7 +13343,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "08:30",
+    "time": "06:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -11926,7 +13591,7 @@
       "team1": "denmark",
       "team2": "denmark"
     },
-    "time": "08:30",
+    "time": "06:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -11982,7 +13647,7 @@
       "team1": "hungary",
       "team2": "hungary4"
     },
-    "time": "08:30",
+    "time": "06:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12126,7 +13791,7 @@
       "team1": "russia",
       "team2": "russia"
     },
-    "time": "08:30",
+    "time": "06:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12251,7 +13916,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12274,7 +13939,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12297,7 +13962,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12320,7 +13985,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12343,7 +14008,7 @@
       "team1": "turkey",
       "team2": "turkey"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12382,7 +14047,7 @@
       "team1": "turkey",
       "team2": "turkey"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12426,7 +14091,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12460,7 +14125,7 @@
       "team1": "england7",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -12901,7 +14566,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -13326,7 +14991,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -13567,7 +15232,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -13948,7 +15613,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -13982,7 +15647,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14016,7 +15681,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14050,7 +15715,7 @@
       "team1": "n_ireland",
       "team2": "n_ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14073,7 +15738,7 @@
       "team1": "n_ireland",
       "team2": "n_ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14096,7 +15761,7 @@
       "team1": "n_ireland",
       "team2": "n_ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14119,7 +15784,7 @@
       "team1": "n_ireland",
       "team2": "n_ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14142,7 +15807,7 @@
       "team1": "n_ireland",
       "team2": "n_ireland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14165,7 +15830,7 @@
       "team1": "finland",
       "team2": "finland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14188,7 +15853,7 @@
       "team1": "finland",
       "team2": "finland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14211,7 +15876,7 @@
       "team1": "norway",
       "team2": "norway"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14234,7 +15899,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14257,7 +15922,7 @@
       "team1": "croatia",
       "team2": "croatia6"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14285,7 +15950,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14308,7 +15973,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14331,7 +15996,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14354,7 +16019,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14377,7 +16042,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14400,7 +16065,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14423,7 +16088,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14446,7 +16111,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14469,7 +16134,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14492,7 +16157,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14515,7 +16180,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14683,7 +16348,7 @@
       "team1": "belgium",
       "team2": "belgium5"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14706,7 +16371,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14729,7 +16394,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14779,7 +16444,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14813,7 +16478,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14836,7 +16501,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14859,7 +16524,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14882,7 +16547,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14905,7 +16570,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14928,7 +16593,7 @@
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "09:00",
+    "time": "07:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -14951,7 +16616,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "09:15",
+    "time": "07:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -15662,7 +17327,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "09:30",
+    "time": "07:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -15707,7 +17372,7 @@
       "team1": "holland",
       "team2": "holland"
     },
-    "time": "09:30",
+    "time": "07:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -15929,7 +17594,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "09:30",
+    "time": "07:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -15974,7 +17639,7 @@
       "team1": "portugal23",
       "team2": "portugal"
     },
-    "time": "09:30",
+    "time": "07:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16002,7 +17667,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16025,7 +17690,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16048,7 +17713,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16071,7 +17736,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16094,7 +17759,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16166,7 +17831,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16227,7 +17892,7 @@
       "team1": "austria",
       "team2": "austria"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16283,7 +17948,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16469,7 +18134,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16492,7 +18157,7 @@
       "team1": "greece",
       "team2": "greece"
     },
-    "time": "10:00",
+    "time": "08:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16515,7 +18180,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "10:15",
+    "time": "08:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16575,7 +18240,7 @@
       "team1": "saudiarabia",
       "team2": "saudiarabia"
     },
-    "time": "10:20",
+    "time": "08:20",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16598,7 +18263,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16653,7 +18318,7 @@
       "team1": "sweden",
       "team2": "sweden"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16687,7 +18352,7 @@
       "team1": "poland",
       "team2": "poland"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16757,7 +18422,7 @@
       "team1": "hungary",
       "team2": "hungary"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16850,7 +18515,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16873,7 +18538,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16896,7 +18561,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16919,7 +18584,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16942,7 +18607,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -16965,7 +18630,7 @@
       "team1": "poland",
       "team2": "poland"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17003,7 +18668,7 @@
       "team1": "slovenia",
       "team2": "slovenia"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17031,7 +18696,7 @@
       "team1": "serbia",
       "team2": "serbia"
     },
-    "time": "10:30",
+    "time": "08:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17059,7 +18724,7 @@
       "team1": "saudiarabia",
       "team2": "saudiarabia"
     },
-    "time": "10:35",
+    "time": "08:35",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17082,7 +18747,7 @@
       "team1": "turkey",
       "team2": "turkey"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17126,7 +18791,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17624,7 +19289,7 @@
       "team1": "slovakia",
       "team2": "slovakia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17647,7 +19312,7 @@
       "team1": "slovakia4",
       "team2": "slovakia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17670,7 +19335,7 @@
       "team1": "slovakia",
       "team2": "slovakia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17693,7 +19358,7 @@
       "team1": "denmark",
       "team2": "denmark"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17765,7 +19430,7 @@
       "team1": "czechia",
       "team2": "czechia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17810,7 +19475,7 @@
       "team1": "russia",
       "team2": "russia"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17955,7 +19620,7 @@
       "team1": "switzerland",
       "team2": "switzerland"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -17989,7 +19654,7 @@
       "team1": "switzerland",
       "team2": "switzerland"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -18012,7 +19677,7 @@
       "team1": "switzerland",
       "team2": "switzerland"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -18035,7 +19700,7 @@
       "team1": "switzerland",
       "team2": "switzerland"
     },
-    "time": "11:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -18069,7 +19734,7 @@
       "team1": "wales",
       "team2": "wales"
     },
-    "time": "11:15",
+    "time": "09:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -18158,7 +19823,7 @@
       "team1": "belgium",
       "team2": "belgium"
     },
-    "time": "11:15",
+    "time": "09:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -18181,7 +19846,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -18464,6 +20129,17 @@
         ]
       },
       {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
         "channel": "Setanta Sports+ Ukraine HD",
         "link": "#",
         "streams": [
@@ -18614,7 +20290,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19130,7 +20806,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19164,7 +20840,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19187,7 +20863,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19706,7 +21382,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19740,7 +21416,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19763,7 +21439,7 @@
       "team1": "russia",
       "team2": "russia"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19887,7 +21563,7 @@
       "team1": "serbia",
       "team2": "serbia"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19941,7 +21617,7 @@
       "team1": "bosnia9",
       "team2": "bosnia"
     },
-    "time": "11:30",
+    "time": "09:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -19963,41 +21639,13 @@
     ]
   },
   {
-    "competition": "Israeli Ligat ha'Al (Premier) - Week 5",
-    "match": "Hapoel Jerusalem v Maccabi Netanya",
-    "flags": {
-      "team1": "israel6",
-      "team2": "israel"
-    },
-    "time": "11:30",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "Sport 4 Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 7 4.0°w",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 7 4.0°w",
-            "freq": "10.972 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Scottish Premiership - Week 6",
     "match": "Motherwell v Aberdeen",
     "flags": {
       "team1": "scotland",
       "team2": "scotland"
     },
-    "time": "11:45",
+    "time": "09:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20102,7 +21750,7 @@
       "team1": "holland",
       "team2": "holland"
     },
-    "time": "11:45",
+    "time": "09:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20136,7 +21784,7 @@
       "team1": "croatia",
       "team2": "croatia"
     },
-    "time": "11:45",
+    "time": "09:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20169,120 +21817,13 @@
     ]
   },
   {
-    "competition": "Israeli Ligat ha'Al (Premier) - Week 5",
-    "match": "Hapoel Petah Tik v a v Ironi Tiberias",
-    "flags": {
-      "team1": "israel",
-      "team2": "israel"
-    },
-    "time": "11:45",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "5 LIVE Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 7 4.0°w",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.842 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Israeli Ligat ha'Al (Premier) - Week 5",
-    "match": "Ironi Kiryat Shmona v Ashdod",
-    "flags": {
-      "team1": "israel",
-      "team2": "israel"
-    },
-    "time": "11:45",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "5 STARS Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 7 4.0°w",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.842 V 30000 - 3/4",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Israeli Ligat ha'Al (Premier) - Week 5",
-    "match": "Hapoel Tel A v iv v Hapoel Haifa",
-    "flags": {
-      "team1": "israel",
-      "team2": "israel"
-    },
-    "time": "11:45",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "Sport 2 Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 7 4.0°w",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.972 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Israeli Ligat ha'Al (Premier) - Week 5",
-    "match": "Wexford Youths v Galway United",
-    "flags": {
-      "team1": "ireland6",
-      "team2": "ireland"
-    },
-    "time": "12:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "LOI TV",
-        "link": "https://www.loitv.ie/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Türkiye Süper Lig - Week 7",
     "match": "Fatih Karagümrük v Trabzonspor",
     "flags": {
       "team1": "turkey",
       "team2": "turkey"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20377,7 +21918,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20400,7 +21941,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20423,7 +21964,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20671,7 +22212,7 @@
       "team1": "albania",
       "team2": "albania"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20705,7 +22246,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "12:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20744,41 +22285,13 @@
     ]
   },
   {
-    "competition": "Israeli Ligat ha'Al (Premier) - Week 5",
-    "match": "Maccabi Bnei Raina v Beitar Jerusalem",
-    "flags": {
-      "team1": "israel",
-      "team2": "israel"
-    },
-    "time": "12:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "Sport 3 Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 7 4.0°w",
-            "freq": "10.972 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Italian Serie BKT - Week 5",
     "match": "Bari v Sampdoria",
     "flags": {
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20812,7 +22325,7 @@
       "team1": "romania",
       "team2": "romania12"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20871,7 +22384,7 @@
       "team1": "argentina",
       "team2": "argentina"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20915,7 +22428,7 @@
       "team1": "greece",
       "team2": "greece"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -20975,7 +22488,7 @@
       "team1": "serbia",
       "team2": "serbia"
     },
-    "time": "12:30",
+    "time": "10:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21003,7 +22516,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21149,7 +22662,7 @@
       "team1": "holland",
       "team2": "holland"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21324,7 +22837,7 @@
       "team1": "hungary",
       "team2": "hungary"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21417,7 +22930,7 @@
       "team1": "saudiarabia",
       "team2": "saudiarabia"
     },
-    "time": "13:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21473,7 +22986,7 @@
       "team1": "poland",
       "team2": "poland"
     },
-    "time": "13:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21570,7 +23083,7 @@
       "team1": "slovenia",
       "team2": "slovenia"
     },
-    "time": "13:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21593,7 +23106,7 @@
       "team1": "germany",
       "team2": "germany"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21868,7 +23381,7 @@
       "team1": "slovakia",
       "team2": "slovakia"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -21957,7 +23470,7 @@
       "team1": "switzerland",
       "team2": "switzerland"
     },
-    "time": "13:30",
+    "time": "11:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -22083,7 +23596,7 @@
       "team1": "ireland",
       "team2": "ireland"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -22106,7 +23619,7 @@
       "team1": "italy",
       "team2": "italy"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -22733,7 +24246,7 @@
       "team1": "belgium",
       "team2": "belgium"
     },
-    "time": "13:45",
+    "time": "11:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -22756,7 +24269,7 @@
       "team1": "england",
       "team2": "england"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -23241,7 +24754,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -23373,7 +24886,7 @@
       "team1": "holland",
       "team2": "holland"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -23417,7 +24930,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -23842,6 +25355,17 @@
         ]
       },
       {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
         "channel": "Spíler 2 TV Hungary HD",
         "link": "#",
         "streams": [
@@ -23983,7 +25507,7 @@
       "team1": "spain",
       "team2": "spain"
     },
-    "time": "14:00",
+    "time": "12:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -24065,7 +25589,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "14:05",
+    "time": "12:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -24532,7 +26056,7 @@
       "team1": "portugal",
       "team2": "portugal"
     },
-    "time": "14:30",
+    "time": "12:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -24705,7 +26229,7 @@
       "team1": "canada2",
       "team2": "usa"
     },
-    "time": "15:30",
+    "time": "13:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -24728,7 +26252,7 @@
       "team1": "brazil",
       "team2": "brazil"
     },
-    "time": "16:30",
+    "time": "14:30",
     "date": "2025-09-26",
     "channels": [
       {
@@ -24812,7 +26336,7 @@
       "team1": "argentina",
       "team2": "argentina"
     },
-    "time": "17:00",
+    "time": "15:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -24934,7 +26458,7 @@
       "team1": "chile7",
       "team2": "newzealand"
     },
-    "time": "18:00",
+    "time": "16:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -25119,7 +26643,7 @@
       "team1": "usa",
       "team2": "usa"
     },
-    "time": "18:30",
+    "time": "16:30",
     "date": "2025-09-26",
     "channels": [
       {
