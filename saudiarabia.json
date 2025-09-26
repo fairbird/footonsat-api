@@ -1,6 +1,29 @@
 [
   {
-    "last_updated": "16:59 26-09-2025"
+    "last_updated": "17:05 26-09-2025"
+  },
+  {
+    "competition": "Saudi Professional League - Week 4",
+    "match": "Al Riyadh v NEOM SC",
+    "flags": {
+      "team1": "saudiarabia",
+      "team2": "saudiarabia"
+    },
+    "time": "15:20",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Shahid MBC",
+        "link": "https://shahid.mbc.net/en/livestream",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      }
+    ]
   },
   {
     "competition": "Saudi Professional League - Week 4",
@@ -52,6 +75,29 @@
             "sat": "Eutelsat 7 West A 7.0°w",
             "freq": "12.360 V 27500 - 3/4",
             "encry": "Free To Air HD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Saudi Professional League - Week 4",
+    "match": "Al Najma v Al Fayha",
+    "flags": {
+      "team1": "saudiarabia",
+      "team2": "saudiarabia"
+    },
+    "time": "15:35",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "Shahid MBC",
+        "link": "https://shahid.mbc.net/en/livestream",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
           }
         ]
       }
@@ -706,52 +752,6 @@
             "sat": "Al Yah 1 52.5°e",
             "freq": "11.785 H 27500 - 5/6",
             "encry": "FTA (BISS)"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Saudi Professional League - Week 4",
-    "match": "Al Riyadh v NEOM SC",
-    "flags": {
-      "team1": "saudiarabia",
-      "team2": "saudiarabia"
-    },
-    "time": "15:20",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "Shahid MBC",
-        "link": "https://shahid.mbc.net/en/livestream",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Saudi Professional League - Week 4",
-    "match": "Al Najma v Al Fayha",
-    "flags": {
-      "team1": "saudiarabia",
-      "team2": "saudiarabia"
-    },
-    "time": "15:35",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "Shahid MBC",
-        "link": "https://shahid.mbc.net/en/livestream",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
           }
         ]
       }
