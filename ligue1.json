@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "19:57 26-09-2025"
+    "last_updated": "20:03 26-09-2025"
   },
   {
     "competition": "French Ligue 1 - Week 6",
@@ -1016,6 +1016,29 @@
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "French Ligue 1 - Week 7",
+    "match": "Paris FC v Lorient",
+    "flags": {
+      "team1": "france50",
+      "team2": "france"
+    },
+    "time": "18:45",
+    "date": "2025-10-03",
+    "channels": [
+      {
+        "channel": "Ligue 1",
+        "link": "https://plus.ligue1.com/home",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]

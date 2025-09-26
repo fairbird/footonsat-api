@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "19:57 26-09-2025"
+    "last_updated": "20:03 26-09-2025"
   },
   {
     "competition": "Italian Serie A - Week 5",
@@ -2144,6 +2144,40 @@
       {
         "channel": "VG+ Sport Norge",
         "link": "https://www.vgtv.no/live",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Italian Serie A - Week 6",
+    "match": "Hellas v erona v Sassuolo",
+    "flags": {
+      "team1": "italy",
+      "team2": "italy"
+    },
+    "time": "18:45",
+    "date": "2025-10-03",
+    "channels": [
+      {
+        "channel": "DAZN Great Britain",
+        "link": "https://www.dazn.com/en-GB/signin",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Ireland",
+        "link": "https://www.dazn.com/en-IE/home",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",

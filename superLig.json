@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "19:58 26-09-2025"
+    "last_updated": "20:04 26-09-2025"
   },
   {
     "competition": "Türkiye Süper Lig - Week 7",
@@ -356,6 +356,89 @@
           {
             "sat": "Eutelsat 7C 7.0°e",
             "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Türkiye Süper Lig - Week 8",
+    "match": "Trabzonspor v Kayserispor",
+    "flags": {
+      "team1": "turkey",
+      "team2": "turkey"
+    },
+    "time": "17:00",
+    "date": "2025-10-03",
+    "channels": [
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.180 H 30000 - 3/4",
+            "encry": "Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.887 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10.928 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Türkiye Süper Lig - Week 8",
+    "match": "Antalyaspor v Caykur Rizespor",
+    "flags": {
+      "team1": "turkey",
+      "team2": "turkey"
+    },
+    "time": "17:00",
+    "date": "2025-10-03",
+    "channels": [
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports Türkiye 2 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11.676 V 24444 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11.637 H 30000 - 5/6",
             "encry": "HD Irdeto"
           }
         ]

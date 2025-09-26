@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "19:57 26-09-2025"
+    "last_updated": "20:03 26-09-2025"
   },
   {
     "competition": "Spanish La Liga (Primera) - Week 7",
@@ -5126,6 +5126,56 @@
           {
             "sat": "* IPTV/Stream 0.0°",
             "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Spanish La Liga (Primera) - Week 8",
+    "match": "Osasuna v Getafe",
+    "flags": {
+      "team1": "spain",
+      "team2": "spain"
+    },
+    "time": "19:00",
+    "date": "2025-10-03",
+    "channels": [
+      {
+        "channel": "DAZN España HD FTA",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 - -",
+            "encry": "Free To Air"
+          }
+        ]
+      },
+      {
+        "channel": "LaLiga TV Bar HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10.876 V 22000 - 5/6",
+            "encry": "NagraVision"
+          },
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10.818 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Premier Sports GB Player HD",
+        "link": "https://www.premiersports.com/fr/live-now-on-demand",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
             "encry": ""
           }
         ]
