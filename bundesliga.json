@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "20:22 26-09-2025"
+    "last_updated": "20:28 26-09-2025"
   },
   {
     "competition": "German 1. Bundesliga - Week 5",
@@ -10,7 +10,7 @@
       "team2": "germany"
     },
     "time": "13:30",
-    "date": "2025-09-27",
+    "date": "2025-09-26",
     "channels": [
       {
         "channel": "Arena Sport 5 Srbija HD",
@@ -243,7 +243,7 @@
       "team2": "germany"
     },
     "time": "13:30",
-    "date": "2025-09-27",
+    "date": "2025-09-26",
     "channels": [
       {
         "channel": "DAZN Japan",
@@ -387,7 +387,7 @@
       "team2": "germany"
     },
     "time": "13:30",
-    "date": "2025-09-27",
+    "date": "2025-09-26",
     "channels": [
       {
         "channel": "Arena 4 Hungary HD",
@@ -635,7 +635,7 @@
       "team2": "germany"
     },
     "time": "16:30",
-    "date": "2025-09-27",
+    "date": "2025-09-26",
     "channels": [
       {
         "channel": "Arena Premium 5 Srbija HD",
@@ -1132,7 +1132,7 @@
       "team2": "germany"
     },
     "time": "17:30",
-    "date": "2025-09-28",
+    "date": "2025-09-26",
     "channels": [
       {
         "channel": "Arena Premium 2 Srbija HD",
@@ -1384,6 +1384,73 @@
       {
         "channel": "ViaPlay Ísland HD",
         "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "German 1. Bundesliga - Week 6",
+    "match": "Hoffenheim v FC Cologne",
+    "flags": {
+      "team1": "germany",
+      "team2": "germany"
+    },
+    "time": "18:30",
+    "date": "2025-09-26",
+    "channels": [
+      {
+        "channel": "BBC iPlayer",
+        "link": "https://www.bbc.co.uk/iplayer",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "BBC iPlayer 4K",
+        "link": "https://www.bbc.co.uk/iplayer",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "BBC Sport Website",
+        "link": "https://www.bbc.com/sport/live-guide",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "OneFootball",
+        "link": "https://onefootball.com/en/matches",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: German Football",
+        "link": "https://www.youtube.com/@GermanFootball/streams",
         "streams": [
           {
             "sat": "* IPTV/Stream 0.0°",
