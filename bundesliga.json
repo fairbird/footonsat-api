@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "17:05 26-09-2025"
+    "last_updated": "19:07 26-09-2025"
   },
   {
     "competition": "German 1. Bundesliga - Week 5",
@@ -1217,6 +1217,48 @@
             "sat": "Astra 2E 28.2°e",
             "freq": "12.090 V 29500 - 8/9",
             "encry": "MPEG-4 NDS"
+          }
+        ]
+      },
+      {
+        "channel": "Sony Sports TEN 2 India HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11.090 V 32720 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11.130 H 32720 - 2/3",
+            "encry": "MPEG-4 NDS"
+          }
+        ]
+      },
+      {
+        "channel": "Sporty TV Africa",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.135 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3.899 R 23330 - 8/9",
+            "encry": "Free To Air [c]"
+          },
+          {
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3.934 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax"
           }
         ]
       },

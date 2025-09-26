@@ -1,6 +1,6 @@
 [
   {
-    "last_updated": "17:05 26-09-2025"
+    "last_updated": "19:08 26-09-2025"
   },
   {
     "competition": "Saudi Professional League - Week 4",
@@ -609,6 +609,32 @@
         ]
       },
       {
+        "channel": "Sporty TV Africa",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12.605 V 30000 - 5/6",
+            "encry": "Free To Air"
+          },
+          {
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11.135 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3.899 R 23330 - 8/9",
+            "encry": "Free To Air [c]"
+          },
+          {
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3.934 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax"
+          }
+        ]
+      },
+      {
         "channel": "SPOTV Malaysia 2 HD",
         "link": "#",
         "streams": [
@@ -819,6 +845,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12.360 H 27500 - 3/4",
             "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Thmanyah 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Badr 8 26.0°e",
+            "freq": "11.919 H 27500 - 3/4",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12.360 V 27500 - 3/4",
+            "encry": "Free To Air HD"
           }
         ]
       }
