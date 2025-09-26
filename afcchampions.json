@@ -1,17 +1,226 @@
 [
   {
-    "last_updated": "19:43 26-09-2025"
+    "last_updated": "19:51 26-09-2025"
   },
   {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Macarthur FC v Beijing Guoan",
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Nasaf Qarshi v Al Hilal",
     "flags": {
-      "team1": "australia1",
-      "team2": "china5"
+      "team1": "uzbekistan",
+      "team2": "saudiarabia"
     },
-    "time": "07:45",
-    "date": "2025-09-26",
+    "time": "13:45",
+    "date": "2025-09-29",
     "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ESPN 1 Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Sportdigital 1+ Deutsch HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11.186 V 22000 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12.360 H 27500 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12.360 H 27500 - 2/3",
+            "encry": "HD VideoGuard"
+          },
+          {
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12.360 H 27500 - 2/3",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Al Gharafa v Al Shorta",
+    "flags": {
+      "team1": "qatar3",
+      "team2": "iraq"
+    },
+    "time": "16:00",
+    "date": "2025-09-29",
+    "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Tractor Sazi v Al Wahda",
+    "flags": {
+      "team1": "iran",
+      "team2": "uae2"
+    },
+    "time": "16:00",
+    "date": "2025-09-29",
+    "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Al Duhail v Al Ahli",
+    "flags": {
+      "team1": "qatar",
+      "team2": "saudiarabia"
+    },
+    "time": "18:15",
+    "date": "2025-09-29",
+    "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
       {
         "channel": "YouTube: The AFC Hub",
         "link": "https://www.youtube.com/@TheAFCHub/streams",
@@ -33,7 +242,7 @@
       "team2": "thailand"
     },
     "time": "10:00",
-    "date": "2025-09-26",
+    "date": "2025-09-30",
     "channels": [
       {
         "channel": "DAZN Japan",
@@ -78,10 +287,247 @@
       "team2": "china"
     },
     "time": "10:00",
-    "date": "2025-09-26",
+    "date": "2025-09-30",
     "channels": [
       {
         "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Chengdu Rongcheng v Gangwon",
+    "flags": {
+      "team1": "china",
+      "team2": "koreasouth"
+    },
+    "time": "12:15",
+    "date": "2025-09-30",
+    "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Johor Darul Ta'zim v Machida Zelvia",
+    "flags": {
+      "team1": "malaysia",
+      "team2": "japan"
+    },
+    "time": "12:15",
+    "date": "2025-09-30",
+    "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Ahal FK v Al Hussein",
+    "flags": {
+      "team1": "turkmenistan",
+      "team2": "jordan"
+    },
+    "time": "13:45",
+    "date": "2025-09-30",
+    "channels": [
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Al Sadd v Sharjah",
+    "flags": {
+      "team1": "qatar1",
+      "team2": "uae"
+    },
+    "time": "15:00",
+    "date": "2025-09-30",
+    "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "FanCode India",
+        "link": "https://www.fancode.com/rugby/schedule/upcoming",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Sepahan v Mohun Bagan",
+    "flags": {
+      "team1": "iran",
+      "team2": "india"
+    },
+    "time": "16:00",
+    "date": "2025-09-30",
+    "channels": [
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League Elite - Round 2",
+    "match": "Al Ittihad v Shabab Al Ahli",
+    "flags": {
+      "team1": "saudiarabia",
+      "team2": "uae3"
+    },
+    "time": "18:15",
+    "date": "2025-09-30",
+    "channels": [
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ESPN Extra Nederland",
         "link": "#",
         "streams": [
           {
@@ -123,7 +569,7 @@
       "team2": "australia"
     },
     "time": "10:00",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "Sportdigital 1+ Deutsch HD",
@@ -177,7 +623,7 @@
       "team2": "malaysia"
     },
     "time": "10:00",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "ESPN 1 Nederland HD",
@@ -197,186 +643,6 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "11.739 V 29900 - 3/4",
             "encry": "HD Mediaguard"
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Eastern v Nam Dinh",
-    "flags": {
-      "team1": "hongkong",
-      "team2": "vietnam"
-    },
-    "time": "10:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "ESPN 1 Nederland HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Mediaguard"
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Pohang Steelers v Kaya FC",
-    "flags": {
-      "team1": "koreas1",
-      "team2": "philippines"
-    },
-    "time": "10:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Tampines Ro v ers v Pathum United",
-    "flags": {
-      "team1": "singapore",
-      "team2": "thailand"
-    },
-    "time": "10:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Chengdu Rongcheng v Gangwon",
-    "flags": {
-      "team1": "china",
-      "team2": "koreasouth"
-    },
-    "time": "12:15",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Johor Darul Ta'zim v Machida Zelvia",
-    "flags": {
-      "team1": "malaysia",
-      "team2": "japan"
-    },
-    "time": "12:15",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
           }
         ]
       },
@@ -401,7 +667,7 @@
       "team2": "koreasouth"
     },
     "time": "12:15",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "YouTube: The AFC Hub",
@@ -424,7 +690,7 @@
       "team2": "indonesia"
     },
     "time": "12:15",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "ESPN 1 Nederland HD",
@@ -447,172 +713,6 @@
           }
         ]
       },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Công An Hà Nôi v Tai Po",
-    "flags": {
-      "team1": "vietnam",
-      "team2": "hongkong"
-    },
-    "time": "12:15",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Ratchaburi v Gamba Osaka",
-    "flags": {
-      "team1": "thailand",
-      "team2": "japan"
-    },
-    "time": "12:15",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Nasaf Qarshi v Al Hilal",
-    "flags": {
-      "team1": "uzbekistan",
-      "team2": "saudiarabia"
-    },
-    "time": "13:45",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ESPN 1 Nederland HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Mediaguard"
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Sportdigital 1+ Deutsch HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12.360 H 27500 - 2/3",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12.360 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12.360 H 27500 - 2/3",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Ahal FK v Al Hussein",
-    "flags": {
-      "team1": "turkmenistan",
-      "team2": "jordan"
-    },
-    "time": "13:45",
-    "date": "2025-09-26",
-    "channels": [
       {
         "channel": "YouTube: The AFC Hub",
         "link": "https://www.youtube.com/@TheAFCHub/streams",
@@ -634,7 +734,7 @@
       "team2": "qatar"
     },
     "time": "13:45",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "ESPN 2 Nederland HD",
@@ -678,165 +778,7 @@
       "team2": "india1"
     },
     "time": "13:45",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Al Sadd v Sharjah",
-    "flags": {
-      "team1": "qatar1",
-      "team2": "uae"
-    },
-    "time": "15:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Al Gharafa v Al Shorta",
-    "flags": {
-      "team1": "qatar3",
-      "team2": "iraq"
-    },
-    "time": "16:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Tractor Sazi v Al Wahda",
-    "flags": {
-      "team1": "iran",
-      "team2": "uae2"
-    },
-    "time": "16:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League 2 - Round 2",
-    "match": "Sepahan v Mohun Bagan",
-    "flags": {
-      "team1": "iran",
-      "team2": "india"
-    },
-    "time": "16:00",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "YouTube: The AFC Hub",
@@ -859,7 +801,7 @@
       "team2": "uae4"
     },
     "time": "16:00",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "YouTube: The AFC Hub",
@@ -882,109 +824,8 @@
       "team2": "bahrain"
     },
     "time": "16:00",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Al Duhail v Al Ahli",
-    "flags": {
-      "team1": "qatar",
-      "team2": "saudiarabia"
-    },
-    "time": "18:15",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "YouTube: The AFC Hub",
-        "link": "https://www.youtube.com/@TheAFCHub/streams",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "AFC Champions League Elite - Round 2",
-    "match": "Al Ittihad v Shabab Al Ahli",
-    "flags": {
-      "team1": "saudiarabia",
-      "team2": "uae3"
-    },
-    "time": "18:15",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ESPN Extra Nederland",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "FanCode India",
-        "link": "https://www.fancode.com/rugby/schedule/upcoming",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
       {
         "channel": "YouTube: The AFC Hub",
         "link": "https://www.youtube.com/@TheAFCHub/streams",
@@ -1006,7 +847,7 @@
       "team2": "turkmenistan"
     },
     "time": "18:15",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "YouTube: The AFC Hub",
@@ -1029,7 +870,7 @@
       "team2": "saudiarabia"
     },
     "time": "18:15",
-    "date": "2025-09-26",
+    "date": "2025-10-01",
     "channels": [
       {
         "channel": "ESPN 1 Nederland HD",
@@ -1083,6 +924,165 @@
           }
         ]
       },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Macarthur FC v Beijing Guoan",
+    "flags": {
+      "team1": "australia1",
+      "team2": "china5"
+    },
+    "time": "07:45",
+    "date": "2025-10-02",
+    "channels": [
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Eastern v Nam Dinh",
+    "flags": {
+      "team1": "hongkong",
+      "team2": "vietnam"
+    },
+    "time": "10:00",
+    "date": "2025-10-02",
+    "channels": [
+      {
+        "channel": "ESPN 1 Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Mediaguard"
+          }
+        ]
+      },
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Pohang Steelers v Kaya FC",
+    "flags": {
+      "team1": "koreas1",
+      "team2": "philippines"
+    },
+    "time": "10:00",
+    "date": "2025-10-02",
+    "channels": [
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Tampines Ro v ers v Pathum United",
+    "flags": {
+      "team1": "singapore",
+      "team2": "thailand"
+    },
+    "time": "10:00",
+    "date": "2025-10-02",
+    "channels": [
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Công An Hà Nôi v Tai Po",
+    "flags": {
+      "team1": "vietnam",
+      "team2": "hongkong"
+    },
+    "time": "12:15",
+    "date": "2025-10-02",
+    "channels": [
+      {
+        "channel": "YouTube: The AFC Hub",
+        "link": "https://www.youtube.com/@TheAFCHub/streams",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "AFC Champions League 2 - Round 2",
+    "match": "Ratchaburi v Gamba Osaka",
+    "flags": {
+      "team1": "thailand",
+      "team2": "japan"
+    },
+    "time": "12:15",
+    "date": "2025-10-02",
+    "channels": [
       {
         "channel": "YouTube: The AFC Hub",
         "link": "https://www.youtube.com/@TheAFCHub/streams",
