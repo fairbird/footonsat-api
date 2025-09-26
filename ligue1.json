@@ -1,5 +1,1025 @@
 [
   {
-    "last_updated": "20:15 26-09-2025"
+    "last_updated": "20:22 26-09-2025"
+  },
+  {
+    "competition": "French Ligue 1 - Week 6",
+    "match": "Nice v Paris FC",
+    "flags": {
+      "team1": "france",
+      "team2": "france50"
+    },
+    "time": "13:00",
+    "date": "2025-09-28",
+    "channels": [
+      {
+        "channel": "Arena Sport 2 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 6 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1",
+        "link": "https://plus.ligue1.com/home",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 5",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Sport Ukraine HD",
+        "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.285 V 30000 - 2/3",
+            "encry": "Free To Air HD"
+          },
+          {
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12.073 H 30000 - 2/3",
+            "encry": "Free To Air HD"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV3 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.246 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "French Ligue 1 - Week 6",
+    "match": "Lille v Lyon",
+    "flags": {
+      "team1": "france",
+      "team2": "france"
+    },
+    "time": "15:15",
+    "date": "2025-09-28",
+    "channels": [
+      {
+        "channel": "Arena Premium 4 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.246 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 6 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 V 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "beIN Sports France 1 HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11.856 V 29700 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12.564 V 29950 - 2/3",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 4 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11.278 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 5",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 5 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.954 H 29900 - 2/3",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV4 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "French Ligue 1 - Week 6",
+    "match": "Angers v Brest",
+    "flags": {
+      "team1": "france26",
+      "team2": "france"
+    },
+    "time": "15:15",
+    "date": "2025-09-28",
+    "channels": [
+      {
+        "channel": "Arena Sport 7 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.595 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 9 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.895 V 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ 4",
+        "link": "https://plus.ligue1.com/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 7",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 6 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12.090 V 29900 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12.527 H 28800 - 3/5",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "French Ligue 1 - Week 6",
+    "match": "Metz v Le Havre",
+    "flags": {
+      "team1": "france",
+      "team2": "france"
+    },
+    "time": "15:15",
+    "date": "2025-09-28",
+    "channels": [
+      {
+        "channel": "Arena Sport 9 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.678 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1+ 5",
+        "link": "https://plus.ligue1.com/home",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 8",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "French Ligue 1 - Week 6",
+    "match": "Rennes v Lens",
+    "flags": {
+      "team1": "france",
+      "team2": "france"
+    },
+    "time": "18:45",
+    "date": "2025-09-28",
+    "channels": [
+      {
+        "channel": "Arena Sport 2 Srbija HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.798 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Arena Sport 4 Hrvatska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11.554 H 30000 - 5/6",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "beIN Connect Türkiye",
+        "link": "https://www.beinconnect.com.tr/spor/",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Deutsch",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "DAZN Japan",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Eleven Sports 3 Polska HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Mediaguard"
+          },
+          {
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11.488 H 27500 - 3/4",
+            "encry": "HD Viaccess"
+          }
+        ]
+      },
+      {
+        "channel": "Ligue 1",
+        "link": "https://plus.ligue1.com/home",
+        "streams": [
+          {
+            "sat": "Download APP 0.0°",
+            "freq": "0.000 0",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Megogo Futbol 3",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "Nova Sport 3 Czech HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Viaccess"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD NagraVision"
+          },
+          {
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11.934 V 27500 - 3/4",
+            "encry": "HD Irdeto"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD Conax"
+          },
+          {
+            "sat": "Thor 6 0.8°w",
+            "freq": "11.977 H 30000 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "Setanta Sports Qazaqstan HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12.657 V 45000 - 3/4",
+            "encry": "HD Irdeto"
+          }
+        ]
+      },
+      {
+        "channel": "Sport TV7 Portugal HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12.360 H 27500 - 3/4",
+            "encry": "HD NagraVision"
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Danmark HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Nederland HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Norge HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Suomi HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      },
+      {
+        "channel": "ViaPlay Sverige HD",
+        "link": "#",
+        "streams": [
+          {
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "",
+            "encry": ""
+          }
+        ]
+      }
+    ]
   }
 ]
