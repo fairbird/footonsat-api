@@ -1,1366 +1,6 @@
 [
   {
-    "last_updated": "08:58 26-09-2025"
-  },
-  {
-    "competition": "French Ligue 1 - Week 6",
-    "match": "Strasbourg v Marseille",
-    "flags": {
-      "team1": "france",
-      "team2": "france"
-    },
-    "time": "11:45",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "5 SPORT Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.842 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Premium 2 Srbija HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12.480 V 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12.480 V 30000 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "MPEG-4 Conax"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12.402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.429 V 28330 - 3/5",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.429 V 28330 - 3/5",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 2 Hrvatska HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.554 H 30000 - 5/6",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.595 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 2 Slovenija HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "beIN Connect Türkiye",
-        "link": "https://www.beinconnect.com.tr/spor/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "beIN Sports MENA 4 HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10.810 V 27500 - 2/3",
-            "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11.054 H 27500 - 2/3",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11.054 H 27500 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "Cablenet Sports 2 HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN 1 Bar Deutsch HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12.070 H 27500 - 9/10",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Deutsch",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Eleven Sports 2 Polska HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11.488 V 27500 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11.488 V 27500 - 3/4",
-            "encry": "HD Mediaguard"
-          },
-          {
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11.488 V 27500 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-          }
-        ]
-      },
-      {
-        "channel": "Ligue 1",
-        "link": "https://plus.ligue1.com/home",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Nova Sport 4 Czech HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Viaccess"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "11.977 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "11.977 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Nova Sport Bulgaria HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12.560 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto"
-          },
-          {
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12.560 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS"
-          },
-          {
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12.600 V 30000 - 5/6",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.117 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax"
-          },
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.482 V 30000 - 7/8",
-            "encry": "Bulcrypt"
-          },
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.482 V 30000 - 7/8",
-            "encry": "NagraVision"
-          },
-          {
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12.207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt"
-          }
-        ]
-      },
-      {
-        "channel": "Okko Futbol HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Prime Video UK",
-        "link": "https://www.primevideo.com/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Prime Video UK PPV",
-        "link": "https://www.primevideo.com/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Sky Sport Calcio HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12.073 V 29900 - 3/4",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "Sport TV2 Portugal HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12.246 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "TVM Sport+ HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "V Sport Football HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "10.809 V 25000 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "10.809 V 25000 - 3/4",
-            "encry": "HD VideoGuard"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "10.809 V 25000 - 3/4",
-            "encry": "HD Conax"
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay 1 Urheilu HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Thor 5 0.8°w",
-            "freq": "11.278 V 25000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Thor 5 0.8°w",
-            "freq": "11.278 V 25000 - 3/4",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Danmark HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Nederland HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Norge HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Suomi HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Sverige HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "French Ligue 1 - Week 6",
-    "match": "Lorient v Monaco",
-    "flags": {
-      "team1": "france",
-      "team2": "france"
-    },
-    "time": "08:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "5 SPORT Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.842 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 2 Srbija HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 5 Hrvatska HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "beIN Connect Türkiye",
-        "link": "https://www.beinconnect.com.tr/spor/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Deutsch",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Ligue 1",
-        "link": "https://plus.ligue1.com/home",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Megogo Futbol 5",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Sport TV4 Portugal HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12.360 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Danmark HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Nederland HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Norge HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Suomi HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Sverige HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "French Ligue 1 - Week 6",
-    "match": "Toulouse v Nantes",
-    "flags": {
-      "team1": "france",
-      "team2": "france"
-    },
-    "time": "10:00",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "5 SPORT Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.806 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.842 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 2 Srbija HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.798 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 5 Hrvatska HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.678 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "beIN Connect Türkiye",
-        "link": "https://www.beinconnect.com.tr/spor/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Deutsch",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Eleven Sports 3 Polska HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Mediaguard"
-          },
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-          }
-        ]
-      },
-      {
-        "channel": "Ligue 1",
-        "link": "https://plus.ligue1.com/home",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Megogo Futbol 5",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Nova Sport 4 Czech HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Viaccess"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "11.977 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "11.977 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Sport TV4 Portugal HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12.360 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Danmark HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Nederland HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Norge HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Suomi HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Sverige HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "French Ligue 1 - Week 6",
-    "match": "Paris St Germain v Auxerre",
-    "flags": {
-      "team1": "france",
-      "team2": "france"
-    },
-    "time": "12:05",
-    "date": "2025-09-26",
-    "channels": [
-      {
-        "channel": "5 LIVE Israel HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Amos 7 4.0°w",
-            "freq": "11.030 V 27500 - 3/4",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Amos 3 4.0°w",
-            "freq": "10.842 V 30000 - 2/3",
-            "encry": "HD VideoGuard"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Premium 4 Srbija HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12.246 V 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12.246 V 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 3 Hrvatska HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.512 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.512 H 30000 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11.512 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Arena Sport 4 Slovenija HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "beIN Connect Türkiye",
-        "link": "https://www.beinconnect.com.tr/spor/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Deutsch",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "DAZN Japan",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Eleven Sports 3 Polska HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Mediaguard"
-          },
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.488 H 27500 - 3/4",
-            "encry": "HD Viaccess"
-          }
-        ]
-      },
-      {
-        "channel": "Ligue 1",
-        "link": "https://plus.ligue1.com/home",
-        "streams": [
-          {
-            "sat": "Download APP 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Megogo Futbol 2",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Nova Sport 3 Czech HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Viaccess"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11.934 V 27500 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "11.977 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Thor 6 0.8°w",
-            "freq": "11.977 H 30000 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "Prime Video UK",
-        "link": "https://www.primevideo.com/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Prime Video UK PPV",
-        "link": "https://www.primevideo.com/",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0.000 0",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "Setanta Sports 2 Eurasia HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12.657 V 45000 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10.845 H 30000 - 3/4",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Eutelsat 36D 35.9°e",
-            "freq": "11.650 V 10000 - 2/3",
-            "encry": "HD TrophyAccess"
-          }
-        ]
-      },
-      {
-        "channel": "Sport TV4 Portugal HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12.360 H 27500 - 3/4",
-            "encry": "HD NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "TV5 Monde Afrique HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11.977 H 27500 - 3/4",
-            "encry": "Irdeto"
-          },
-          {
-            "sat": "Eutelsat 33E 33.0°e",
-            "freq": "10.758 V 27500 - 5/6",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Thor 6 5.0°e",
-            "freq": "12.054 V 30000 - 3/4",
-            "encry": "FTA (MPEG-S2)"
-          },
-          {
-            "sat": "Eutelsat 3B 3.1°e",
-            "freq": "11.084 V 02500 - 1/2",
-            "encry": "FTA (MPEG-4)"
-          },
-          {
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "4.153 L 60000 - 2/3",
-            "encry": "NagraVision"
-          }
-        ]
-      },
-      {
-        "channel": "TV5 Monde Amérique Latine",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Intelsat 21 58.0°w",
-            "freq": "3.840 V 27690 - 7/8",
-            "encry": "Free To Air"
-          }
-        ]
-      },
-      {
-        "channel": "TV5 Monde Asie",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12.598 H 45000 - 2/3",
-            "encry": "Free To Air"
-          },
-          {
-            "sat": "Asiasat 7 105.5°e",
-            "freq": "3.760 H 26000 - 7/8",
-            "encry": "FTA (MPEG-S2)"
-          },
-          {
-            "sat": "Thaicom 6 78.5°e",
-            "freq": "12.405 V 45000 - 3/5",
-            "encry": "Free To Air"
-          }
-        ]
-      },
-      {
-        "channel": "TV5 Monde Europe HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.688 V 30000 - 7/8",
-            "encry": "VideoGuard"
-          },
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.137 V 30000 - 5/6",
-            "encry": "HD NagraVision"
-          },
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.137 V 30000 - 5/6",
-            "encry": "HD Conax"
-          },
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.241 H 13381 - 3/4",
-            "encry": "Free To Air"
-          },
-          {
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12.242 H 13381 - 3/4",
-            "encry": "FTA (MPEG-4)"
-          },
-          {
-            "sat": "Astra 5B 31.5°e",
-            "freq": "12.246 V 30000 - 3/4",
-            "encry": "MPEG-4 Viaccess"
-          },
-          {
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11.538 V 22000 - 5/6",
-            "encry": "Free To Air HD"
-          },
-          {
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11.727 V 29900 - 3/4",
-            "encry": "FTA (MPEG-S2)"
-          },
-          {
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12.265 V 31400 - 3/4",
-            "encry": "Free To Air HD"
-          },
-          {
-            "sat": "Eutelsat 7C 7.0°e",
-            "freq": "11.595 H 30000 - 3/4",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12.360 V 30000 - 2/3",
-            "encry": "Bulcrypt"
-          },
-          {
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12.643 V 28800 - 3/4",
-            "encry": "Free To Air"
-          },
-          {
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12.643 V 28800 - 2/3",
-            "encry": "Free To Air HD"
-          },
-          {
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12.476 H 27500 - 5/6",
-            "encry": "MPEG-4 Nagra"
-          }
-        ]
-      },
-      {
-        "channel": "TV5 Monde Maghreb-Orient HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "Eutelsat 33E 33.0°e",
-            "freq": "10.758 V 27500 - 5/6",
-            "encry": "HD Irdeto"
-          },
-          {
-            "sat": "Badr 4 26.0°e",
-            "freq": "12.073 H 27500 - 3/4",
-            "encry": "FTA (MPEG-S2)"
-          },
-          {
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12.643 V 28800 - 3/4",
-            "encry": "HD PowerVu"
-          },
-          {
-            "sat": "Nilesat 201 7.0°w",
-            "freq": "11.900 V 27500 - 5/6",
-            "encry": "Free To Air"
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Danmark HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Nederland HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Norge HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Suomi HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      },
-      {
-        "channel": "ViaPlay Sverige HD",
-        "link": "#",
-        "streams": [
-          {
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "",
-            "encry": ""
-          }
-        ]
-      }
-    ]
+    "last_updated": "09:25 26-09-2025"
   },
   {
     "competition": "French Ligue 1 - Week 6",
@@ -1369,7 +9,7 @@
       "team1": "france",
       "team2": "france50"
     },
-    "time": "06:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1560,7 +200,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -1813,7 +453,7 @@
       "team1": "france26",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2003,7 +643,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2146,7 +786,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:45",
+    "time": "14:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2389,7 +1029,7 @@
       "team1": "france50",
       "team2": "france"
     },
-    "time": "11:45",
+    "time": "14:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2412,7 +1052,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:00",
+    "time": "11:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2445,7 +1085,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "13:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2468,7 +1108,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:05",
+    "time": "15:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2491,7 +1131,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "06:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2514,7 +1154,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2537,7 +1177,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2560,7 +1200,7 @@
       "team1": "france",
       "team2": "france26"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2583,7 +1223,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:45",
+    "time": "14:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2606,7 +1246,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:45",
+    "time": "14:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2629,7 +1269,7 @@
       "team1": "france26",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "13:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2652,7 +1292,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:05",
+    "time": "15:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2675,7 +1315,7 @@
       "team1": "france",
       "team2": "france50"
     },
-    "time": "06:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2698,7 +1338,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2721,7 +1361,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2744,7 +1384,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "08:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2767,7 +1407,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:45",
+    "time": "14:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2790,7 +1430,7 @@
       "team1": "france50",
       "team2": "france"
     },
-    "time": "11:45",
+    "time": "14:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2813,7 +1453,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "10:00",
+    "time": "13:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2836,7 +1476,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:05",
+    "time": "15:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2859,7 +1499,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "07:00",
+    "time": "10:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2882,7 +1522,7 @@
       "team1": "france26",
       "team2": "france"
     },
-    "time": "09:15",
+    "time": "12:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2905,7 +1545,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "09:15",
+    "time": "12:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2928,7 +1568,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "09:15",
+    "time": "12:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2951,7 +1591,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:45",
+    "time": "15:45",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2974,7 +1614,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -2997,7 +1637,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3020,7 +1660,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3043,7 +1683,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "11:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3066,7 +1706,7 @@
       "team1": "france",
       "team2": "france26"
     },
-    "time": "13:05",
+    "time": "16:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3089,7 +1729,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:05",
+    "time": "16:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3112,7 +1752,7 @@
       "team1": "france50",
       "team2": "france"
     },
-    "time": "13:05",
+    "time": "16:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3135,7 +1775,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:05",
+    "time": "16:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3158,7 +1798,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:05",
+    "time": "16:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3181,7 +1821,7 @@
       "team1": "france",
       "team2": "france50"
     },
-    "time": "11:00",
+    "time": "14:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3204,7 +1844,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "13:05",
+    "time": "16:05",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3227,7 +1867,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "07:00",
+    "time": "09:00",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3250,7 +1890,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "09:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3273,7 +1913,7 @@
       "team1": "france",
       "team2": "france26"
     },
-    "time": "09:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3296,7 +1936,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "09:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3319,7 +1959,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "09:15",
+    "time": "11:15",
     "date": "2025-09-26",
     "channels": [
       {
@@ -3364,7 +2004,7 @@
       "team1": "france",
       "team2": "france"
     },
-    "time": "12:45",
+    "time": "14:45",
     "date": "2025-09-26",
     "channels": [
       {
