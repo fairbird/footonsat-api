@@ -1,5 +1,775 @@
 [
   {
-    "last_updated": "02:09 27-09-2025"
+    "last_updated": "02:18 27-09-2025"
+  },
+  {
+    "competition": "Premier League",
+    "match": "Brentford v Manchester United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "11:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Leeds United v Tottenham Hotspur",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "11:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Nottingham Forest v Chelsea",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "11:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Crystal Palace v Manchester United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "12:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Tottenham Hotspur v Manchester United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "12:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Burnley v Chelsea",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "12:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Aston v illa v Fulham",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "13:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Newcastle United v Nottingham Forest",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "13:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Aston v illa v Burnley",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "13:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Everton v Crystal Palace",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "13:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Wolves v Brighton H.A.",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "13:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Tottenham Hotspur v Aston Villa",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "13:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Leeds United v Bournemouth",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Crystal Palace v Liverpool",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Manchester City v Burnley",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Chelsea v Brighton H.A.",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Arsenal v West Ham United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Manchester United v Sunderland",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Brighton H.A. v Newcastle United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Burnley v Leeds United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Crystal Palace v Bournemouth",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Manchester City v Everton",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Sunderland v Wolves",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Chelsea v Sunderland",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Newcastle United v Fulham",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Aston v illa v Manchester City",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Bournemouth v Nottingham Forest",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Arsenal v Crystal Palace",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Wolves v Burnley",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "West Ham United v Newcastle United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Aston v illa v Bournemouth",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Brentford v Newcastle United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Crystal Palace v Brighton H.A.",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Nottingham Forest v Leeds United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Leeds United v Aston Villa",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Aston v illa v Wolves",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:05",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Nottingham Forest v Brighton H.A.",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:05",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "West Ham United v Liverpool",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "14:05",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Brighton H.A. v Leeds United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Burnley v Arsenal",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Crystal Palace v Brentford",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Fulham v Wolves",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Nottingham Forest v Manchester United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Newcastle United v Arsenal",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Brentford v Manchester City",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Liverpool v Manchester United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "15:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Nottingham Forest v Sunderland",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Chelsea v Liverpool",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Fulham v Arsenal",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Manchester United v Brighton H.A.",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Everton v Tottenham Hotspur",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Manchester City v Bournemouth",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Manchester City v Liverpool",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Arsenal v Tottenham Hotspur",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Chelsea v Arsenal",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "16:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Tottenham Hotspur v Chelsea",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "17:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Sunderland v Arsenal",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "17:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Newcastle United v Manchester City",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "17:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Everton v Newcastle United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "17:30",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Tottenham Hotspur v Wolves",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "19:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Everton v West Ham United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "19:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Bournemouth v Fulham",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "19:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "West Ham United v Brentford",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "19:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Leeds United v West Ham United",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "19:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Brentford v Liverpool",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "19:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Liverpool v Aston Villa",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "20:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Sunderland v Everton",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "20:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Chelsea v Wolves",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "20:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Manchester United v Everton",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "20:00",
+    "date": "2025-09-28",
+    "channels": []
+  },
+  {
+    "competition": "Premier League",
+    "match": "Tottenham Hotspur v Fulham",
+    "flags": {
+      "team1": "england",
+      "team2": "england"
+    },
+    "time": "20:00",
+    "date": "2025-09-28",
+    "channels": []
   }
 ]
