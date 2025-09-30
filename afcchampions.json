@@ -8,7 +8,198 @@
                 "team2": "thailand"
             },
             "time": "10:00",
-            "date": "2025-09-30"
+            "date": "2025-09-30",
+            "channels": [
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.054 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.054 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "DAZN Japan",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "FanCode India",
+                    "sat": "Download APP",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.fancode.com/rugby/schedule/upcoming"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.560 V",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.560 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.600 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.600 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.117 H",
+                    "encry": "MPEG-4 Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.482 V",
+                    "encry": "Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.482 V",
+                    "encry": "NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "BulgariaSat 1",
+                    "freq": "12.207 V",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart 2 Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.245 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 2 Baltic",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 2 Ukraine",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport TV Uzbekistan",
+                    "sat": "NSS 12",
+                    "freq": "11.610 H",
+                    "encry": "MPEG-4 Verimatrix",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport TV Uzbekistan",
+                    "sat": "MonacoSat",
+                    "freq": "10.926 H",
+                    "encry": "MPEG-4 Verimatrix",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 4 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 6 Slovenija",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "ABS 2A",
+                    "freq": "11.605 V",
+                    "encry": "FTA (MPEG-4)",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Express AT1",
+                    "freq": "12.034 L",
+                    "encry": "MPEG-4 DreCrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Express AMU1",
+                    "freq": "12.380 L",
+                    "encry": "MPEG-4 DreCrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.919 L",
+                    "encry": "HD Exset",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.785 R",
+                    "encry": "MPEG-4 Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -18,7 +209,240 @@
                 "team2": "china"
             },
             "time": "10:00",
-            "date": "2025-09-30"
+            "date": "2025-09-30",
+            "channels": [
+                {
+                    "channel": "Astro Arena Bola 2 HD",
+                    "sat": "Measat 3b",
+                    "freq": "10.892 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.013 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.013 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "DAZN Japan",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.520 V",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.520 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hotbird 13G",
+                    "freq": "12.673 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hotbird 13G",
+                    "freq": "12.673 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "BulgariaSat 1",
+                    "freq": "12.207 V",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "FanCode India",
+                    "sat": "Download APP",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.fancode.com/rugby/schedule/upcoming"
+                },
+                {
+                    "channel": "Futbol TV Uzbekistan",
+                    "sat": "NSS 12",
+                    "freq": "11.610 H",
+                    "encry": "MPEG-4 Verimatrix",
+                    "link": "#"
+                },
+                {
+                    "channel": "Futbol TV Uzbekistan",
+                    "sat": "MonacoSat",
+                    "freq": "10.926 H",
+                    "encry": "MPEG-4 Verimatrix",
+                    "link": "#"
+                },
+                {
+                    "channel": "Q Sport Football HD",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Silk Sport 2 HD",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.188 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 1 Baltic",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 1 Ukraine",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 3 Ukraine",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 3 Slovenija",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.231 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 3 Slovenija",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.231 V",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Triumph HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.785 R",
+                    "encry": "MPEG-4 Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Triumph HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.996 L",
+                    "encry": "HD DRE-Crypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -28,7 +452,198 @@
                 "team2": "japan"
             },
             "time": "12:15",
-            "date": "2025-09-30"
+            "date": "2025-09-30",
+            "channels": [
+                {
+                    "channel": "Astro Arena Bola HD",
+                    "sat": "Measat 3b",
+                    "freq": "10.772 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Azam Sports 2 HD",
+                    "sat": "Eutelsat 7C",
+                    "freq": "10.981 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.054 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 6 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.054 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "DAZN Japan",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "FanCode India",
+                    "sat": "Download APP",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.fancode.com/rugby/schedule/upcoming"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.560 V",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.560 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.600 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.600 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.117 H",
+                    "encry": "MPEG-4 Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.482 V",
+                    "encry": "Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.482 V",
+                    "encry": "NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Nova Sport Bulgaria HD",
+                    "sat": "BulgariaSat 1",
+                    "freq": "12.207 V",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Silk Sport 3 HD",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.188 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 2 Baltic",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 2 Ukraine",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Triumph HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.785 R",
+                    "encry": "MPEG-4 Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Triumph HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.996 L",
+                    "encry": "HD DRE-Crypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Varzish TV Sport HD",
+                    "sat": "NSS 12",
+                    "freq": "11.566 H",
+                    "encry": "HD BISS",
+                    "link": "#"
+                },
+                {
+                    "channel": "Varzish TV Sport HD",
+                    "sat": "Al Yah 1",
+                    "freq": "11.785 H",
+                    "encry": "FTA (BISS)",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -38,7 +653,205 @@
                 "team2": "koreasouth"
             },
             "time": "12:15",
-            "date": "2025-09-30"
+            "date": "2025-09-30",
+            "channels": [
+                {
+                    "channel": "Astro Arena Bola 2 HD",
+                    "sat": "Measat 3b",
+                    "freq": "10.892 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.013 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 5 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.013 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "DAZN Japan",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.520 V",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.520 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hotbird 13G",
+                    "freq": "12.673 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hotbird 13G",
+                    "freq": "12.673 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "BulgariaSat 1",
+                    "freq": "12.207 V",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "FanCode India",
+                    "sat": "Download APP",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.fancode.com/rugby/schedule/upcoming"
+                },
+                {
+                    "channel": "Q Sport Football HD",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Silk Sport 1 HD",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart 2 Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.245 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 1 Baltic",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 3 Ukraine",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 2 Slovenija",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.387 H",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 2 Slovenija",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.387 H",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -48,7 +861,79 @@
                 "team2": "jordan"
             },
             "time": "13:45",
-            "date": "2025-09-30"
+            "date": "2025-09-30",
+            "channels": [
+                {
+                    "channel": "Al Kass 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.770 H",
+                    "encry": "HD Free To Air",
+                    "link": "#"
+                },
+                {
+                    "channel": "Al Kass 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.770 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 9 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.850 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 9 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.850 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 9 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "12.604 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 9 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "12.604 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 3 Slovenija",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.231 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 3 Slovenija",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.231 V",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 4 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -58,7 +943,233 @@
                 "team2": "uae"
             },
             "time": "15:00",
-            "date": "2025-09-30"
+            "date": "2025-09-30",
+            "channels": [
+                {
+                    "channel": "Al Kass 5 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.770 H",
+                    "encry": "Free To Air HD",
+                    "link": "http://www.alkass.net/alkass/live.aspx?ch=five"
+                },
+                {
+                    "channel": "Azam Sports 2 HD",
+                    "sat": "Eutelsat 7C",
+                    "freq": "10.981 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 2 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 2 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.810 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 2 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.013 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "beIN Sports MENA 2 HD",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "11.013 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "DAZN Japan",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.520 V",
+                    "encry": "MPEG-4 Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.520 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.214 V",
+                    "encry": "NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hellas Sat 3",
+                    "freq": "12.463 H",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hotbird 13G",
+                    "freq": "12.673 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "Hotbird 13G",
+                    "freq": "12.673 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Diema Sport 3 HD",
+                    "sat": "BulgariaSat 1",
+                    "freq": "12.207 V",
+                    "encry": "HD Bulcrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "FanCode India",
+                    "sat": "Download APP",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.fancode.com/rugby/schedule/upcoming"
+                },
+                {
+                    "channel": "Q Sport Football HD",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.188 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 1 Baltic",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 1 Ukraine",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sport 3 Ukraine",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "ABS 2A",
+                    "freq": "11.605 V",
+                    "encry": "FTA (MPEG-4)",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Express AT1",
+                    "freq": "12.034 L",
+                    "encry": "MPEG-4 DreCrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Express AMU1",
+                    "freq": "12.380 L",
+                    "encry": "MPEG-4 DreCrypt",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.919 L",
+                    "encry": "HD Exset",
+                    "link": "#"
+                },
+                {
+                    "channel": "TV Start Russia HD",
+                    "sat": "Eutelsat 36C",
+                    "freq": "11.785 R",
+                    "encry": "MPEG-4 Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -68,7 +1179,65 @@
                 "team2": "india"
             },
             "time": "16:00",
-            "date": "2025-09-30"
+            "date": "2025-09-30",
+            "channels": [
+                {
+                    "channel": "Al Kass 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.770 H",
+                    "encry": "HD Free To Air",
+                    "link": "#"
+                },
+                {
+                    "channel": "Al Kass 6 HD",
+                    "sat": "Eshail 2",
+                    "freq": "10.770 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Futbol TV Uzbekistan",
+                    "sat": "NSS 12",
+                    "freq": "11.610 H",
+                    "encry": "MPEG-4 Verimatrix",
+                    "link": "#"
+                },
+                {
+                    "channel": "Futbol TV Uzbekistan",
+                    "sat": "MonacoSat",
+                    "freq": "10.926 H",
+                    "encry": "MPEG-4 Verimatrix",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart 2 Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.245 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 10 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 6 Slovenija",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -78,7 +1247,100 @@
                 "team2": "australia"
             },
             "time": "10:00",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "Spor Smart Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.188 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital 1+ Deutsch HD",
+                    "sat": "Astra 1L",
+                    "freq": "11.186 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital 1+ Deutsch HD",
+                    "sat": "Astra 1L",
+                    "freq": "11.186 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital 1+ Deutsch HD",
+                    "sat": "Eutelsat 9B",
+                    "freq": "12.360 H",
+                    "encry": "HD Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital 1+ Deutsch HD",
+                    "sat": "Eutelsat 9B",
+                    "freq": "12.360 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital 1+ Deutsch HD",
+                    "sat": "Eutelsat 9B",
+                    "freq": "12.360 H",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Astra 2F",
+                    "freq": "12.605 V",
+                    "encry": "Free To Air",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Astra 2G",
+                    "freq": "11.135 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Eutelsat 10B",
+                    "freq": "3.899 R",
+                    "encry": "Free To Air [c]",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Eutelsat 3B",
+                    "freq": "3.934 R",
+                    "encry": "MPEG-4 Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -88,7 +1350,51 @@
                 "team2": "malaysia"
             },
             "time": "10:00",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Mediaguard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart 2 Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.245 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 4 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -98,7 +1404,37 @@
                 "team2": "koreasouth"
             },
             "time": "12:15",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "Spor Smart Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.188 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -108,7 +1444,51 @@
                 "team2": "indonesia"
             },
             "time": "12:15",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Mediaguard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart 2 Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.245 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 4 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -118,7 +1498,44 @@
                 "team2": "qatar"
             },
             "time": "13:45",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "ESPN 2 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.856 V",
+                    "encry": "HD Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 2 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.856 V",
+                    "encry": "HD Mediaguard",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 2 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.856 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 5 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -128,7 +1545,16 @@
                 "team2": "india1"
             },
             "time": "13:45",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -138,7 +1564,37 @@
                 "team2": "uae4"
             },
             "time": "16:00",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "Spor Smart Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.188 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -148,7 +1604,23 @@
                 "team2": "bahrain"
             },
             "time": "16:00",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "Spor Smart 2 Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.245 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -158,7 +1630,37 @@
                 "team2": "turkmenistan"
             },
             "time": "18:15",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "Spor Smart 2 Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.245 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.595 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -168,7 +1670,128 @@
                 "team2": "saudiarabia"
             },
             "time": "18:15",
-            "date": "2025-10-01"
+            "date": "2025-10-01",
+            "channels": [
+                {
+                    "channel": "Arezo TV HD",
+                    "sat": "Al Yah 1",
+                    "freq": "12.054 H",
+                    "encry": "Free To Air HD",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Mediaguard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Spor Smart Türkiye HD",
+                    "sat": "Turksat 4A",
+                    "freq": "12.188 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital FUSSBALL HD",
+                    "sat": "Astra 1L",
+                    "freq": "11.186 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital FUSSBALL HD",
+                    "sat": "Astra 1L",
+                    "freq": "11.186 V",
+                    "encry": "HD CryptoWorks",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital FUSSBALL HD",
+                    "sat": "Astra 1L",
+                    "freq": "11.186 V",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital FUSSBALL HD",
+                    "sat": "Astra 1L",
+                    "freq": "11.186 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sportdigital FUSSBALL HD",
+                    "sat": "Astra 1L",
+                    "freq": "11.186 V",
+                    "encry": "HD Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 1 Hrvatska HD",
+                    "sat": "Eutelsat 16A",
+                    "freq": "11.471 H",
+                    "encry": "HD Irdeto",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Astra 2F",
+                    "freq": "12.605 V",
+                    "encry": "Free To Air",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Astra 2G",
+                    "freq": "11.135 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Eutelsat 10B",
+                    "freq": "3.899 R",
+                    "encry": "Free To Air [c]",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Eutelsat 3B",
+                    "freq": "3.934 R",
+                    "encry": "MPEG-4 Conax",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -178,7 +1801,30 @@
                 "team2": "china5"
             },
             "time": "07:45",
-            "date": "2025-10-02"
+            "date": "2025-10-02",
+            "channels": [
+                {
+                    "channel": "SportKlub 3 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 3 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -188,7 +1834,44 @@
                 "team2": "vietnam"
             },
             "time": "10:00",
-            "date": "2025-10-02"
+            "date": "2025-10-02",
+            "channels": [
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Viaccess",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD NagraVision",
+                    "link": "#"
+                },
+                {
+                    "channel": "ESPN 1 Nederland HD",
+                    "sat": "Astra 3C",
+                    "freq": "11.739 V",
+                    "encry": "HD Mediaguard",
+                    "link": "#"
+                },
+                {
+                    "channel": "SportKlub 6 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -198,7 +1881,23 @@
                 "team2": "philippines"
             },
             "time": "10:00",
-            "date": "2025-10-02"
+            "date": "2025-10-02",
+            "channels": [
+                {
+                    "channel": "SportKlub 5 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -208,7 +1907,23 @@
                 "team2": "thailand"
             },
             "time": "10:00",
-            "date": "2025-10-02"
+            "date": "2025-10-02",
+            "channels": [
+                {
+                    "channel": "SportKlub 4 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -218,7 +1933,23 @@
                 "team2": "hongkong"
             },
             "time": "12:15",
-            "date": "2025-10-02"
+            "date": "2025-10-02",
+            "channels": [
+                {
+                    "channel": "SportKlub 6 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -228,1951 +1959,23 @@
                 "team2": "japan"
             },
             "time": "12:15",
-            "date": "2025-10-02"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.054 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.054 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "FanCode India",
-            "sat": "Download APP",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.fancode.com/rugby/schedule/upcoming",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.560 V",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.560 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.117 H",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.482 V",
-            "encry": "Bulcrypt",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.482 V",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "BulgariaSat 1",
-            "freq": "12.207 V",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Sport TV Uzbekistan",
-            "sat": "NSS 12",
-            "freq": "11.610 H",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Sport TV Uzbekistan",
-            "sat": "MonacoSat",
-            "freq": "10.926 H",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "SportKlub 6 Slovenija",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A",
-            "freq": "11.605 V",
-            "encry": "FTA (MPEG-4)",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Express AT1",
-            "freq": "12.034 L",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Express AMU1",
-            "freq": "12.380 L",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.919 L",
-            "encry": "HD Exset",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 R",
-            "encry": "MPEG-4 Viaccess",
-            "link": "#",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     FC Seoul  vs  Buriram United     "
-        },
-        {
-            "channel": "Astro Arena Bola 2 HD",
-            "sat": "Measat 3b",
-            "freq": "10.892 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.013 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.013 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "Bulcrypt",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G",
-            "freq": "12.673 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G",
-            "freq": "12.673 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "BulgariaSat 1",
-            "freq": "12.207 V",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "FanCode India",
-            "sat": "Download APP",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.fancode.com/rugby/schedule/upcoming",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Futbol TV Uzbekistan",
-            "sat": "NSS 12",
-            "freq": "11.610 H",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Futbol TV Uzbekistan",
-            "sat": "MonacoSat",
-            "freq": "10.926 H",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Silk Sport 2 HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Sport 1 Ukraine",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Sport 3 Ukraine",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A",
-            "freq": "11.231 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A",
-            "freq": "11.231 V",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 R",
-            "encry": "MPEG-4 Viaccess",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.996 L",
-            "encry": "HD DRE-Crypt",
-            "link": "#",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Sanfrecce Hiroshima  vs  Shanghai Port     "
-        },
-        {
-            "channel": "Astro Arena Bola HD",
-            "sat": "Measat 3b",
-            "freq": "10.772 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "sat": "Eutelsat 7C",
-            "freq": "10.981 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.054 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.054 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "FanCode India",
-            "sat": "Download APP",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.fancode.com/rugby/schedule/upcoming",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.560 V",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.560 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.600 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.117 H",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.482 V",
-            "encry": "Bulcrypt",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.482 V",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "BulgariaSat 1",
-            "freq": "12.207 V",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Silk Sport 3 HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 R",
-            "encry": "MPEG-4 Viaccess",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.996 L",
-            "encry": "HD DRE-Crypt",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Varzish TV Sport HD",
-            "sat": "NSS 12",
-            "freq": "11.566 H",
-            "encry": "HD BISS",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Varzish TV Sport HD",
-            "sat": "Al Yah 1",
-            "freq": "11.785 H",
-            "encry": "FTA (BISS)",
-            "link": "#",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Johor Darul Ta'zim  vs  Machida Zelvia     "
-        },
-        {
-            "channel": "Astro Arena Bola 2 HD",
-            "sat": "Measat 3b",
-            "freq": "10.892 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.013 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.013 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "Bulcrypt",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G",
-            "freq": "12.673 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G",
-            "freq": "12.673 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "BulgariaSat 1",
-            "freq": "12.207 V",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "FanCode India",
-            "sat": "Download APP",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.fancode.com/rugby/schedule/upcoming",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Silk Sport 1 HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Sport 3 Ukraine",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A",
-            "freq": "11.387 H",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A",
-            "freq": "11.387 H",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Chengdu Rongcheng  vs  Gangwon     "
-        },
-        {
-            "channel": "Al Kass 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.770 H",
-            "encry": "HD Free To Air",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "Al Kass 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.770 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eshail 2",
-            "freq": "10.850 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eshail 2",
-            "freq": "10.850 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "12.604 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "12.604 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A",
-            "freq": "11.231 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A",
-            "freq": "11.231 V",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Ahal FK  vs  Al Hussein     "
-        },
-        {
-            "channel": "Al Kass 5 HD",
-            "sat": "Eshail 2",
-            "freq": "10.770 H",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "sat": "Eutelsat 7C",
-            "freq": "10.981 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2",
-            "freq": "10.810 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.013 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eutelsat 8 West B",
-            "freq": "11.013 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V",
-            "encry": "MPEG-4 Irdeto",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2",
-            "freq": "12.520 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "Bulcrypt",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "Conax",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.214 V",
-            "encry": "NagraVision",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3",
-            "freq": "12.463 H",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G",
-            "freq": "12.673 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G",
-            "freq": "12.673 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "BulgariaSat 1",
-            "freq": "12.207 V",
-            "encry": "HD Bulcrypt",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "FanCode India",
-            "sat": "Download APP",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.fancode.com/rugby/schedule/upcoming",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Sport 1 Ukraine",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Sport 3 Ukraine",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A",
-            "freq": "11.605 V",
-            "encry": "FTA (MPEG-4)",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Express AT1",
-            "freq": "12.034 L",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Express AMU1",
-            "freq": "12.380 L",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.919 L",
-            "encry": "HD Exset",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Eutelsat 36C",
-            "freq": "11.785 R",
-            "encry": "MPEG-4 Viaccess",
-            "link": "#",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Sadd  vs  Sharjah     "
-        },
-        {
-            "channel": "Al Kass 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.770 H",
-            "encry": "HD Free To Air",
-            "link": "#",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "Al Kass 6 HD",
-            "sat": "Eshail 2",
-            "freq": "10.770 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "Futbol TV Uzbekistan",
-            "sat": "NSS 12",
-            "freq": "11.610 H",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "Futbol TV Uzbekistan",
-            "sat": "MonacoSat",
-            "freq": "10.926 H",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "#",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "SportKlub 10 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "SportKlub 6 Slovenija",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Sepahan  vs  Mohun Bagan     "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Eutelsat 9B",
-            "freq": "12.360 H",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Eutelsat 9B",
-            "freq": "12.360 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Eutelsat 9B",
-            "freq": "12.360 H",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2F",
-            "freq": "12.605 V",
-            "encry": "Free To Air",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2G",
-            "freq": "11.135 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Eutelsat 10B",
-            "freq": "3.899 R",
-            "encry": "Free To Air [c]",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Eutelsat 3B",
-            "freq": "3.934 R",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Vissel Kobe  vs  Melbourne City     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Lion City Sailors  vs  Selangor     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Lion City Sailors  vs  Selangor     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Lion City Sailors  vs  Selangor     "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Lion City Sailors  vs  Selangor     "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Lion City Sailors  vs  Selangor     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Lion City Sailors  vs  Selangor     "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Shanghai Shenhua  vs  Ulsan Horang-i     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Shanghai Shenhua  vs  Ulsan Horang-i     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Shanghai Shenhua  vs  Ulsan Horang-i     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Shanghai Shenhua  vs  Ulsan Horang-i     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Bangkok United  vs  Persib Bandung     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Bangkok United  vs  Persib Bandung     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Bangkok United  vs  Persib Bandung     "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bangkok United  vs  Persib Bandung     "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bangkok United  vs  Persib Bandung     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Bangkok United  vs  Persib Bandung     "
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.856 V",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Andijan  vs  Al Ahli     "
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.856 V",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Andijan  vs  Al Ahli     "
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.856 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Andijan  vs  Al Ahli     "
-        },
-        {
-            "channel": "SportKlub 5 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Andijan  vs  Al Ahli     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Andijan  vs  Al Ahli     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Istiqlol  vs  FC Goa     "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Wehdat  vs  Al Wasl     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Wehdat  vs  Al Wasl     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Wehdat  vs  Al Wasl     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Wehdat  vs  Al Wasl     "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Esteghlal Tehran  vs  Muharraq     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Esteghlal Tehran  vs  Muharraq     "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Khalidiya  vs  Arkadag     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Khalidiya  vs  Arkadag     "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Khalidiya  vs  Arkadag     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Khalidiya  vs  Arkadag     "
-        },
-        {
-            "channel": "Arezo TV HD",
-            "sat": "Al Yah 1",
-            "freq": "12.054 H",
-            "encry": "Free To Air HD",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.188 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V",
-            "encry": "HD CryptoWorks",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2F",
-            "freq": "12.605 V",
-            "encry": "Free To Air",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2G",
-            "freq": "11.135 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Eutelsat 10B",
-            "freq": "3.899 R",
-            "encry": "Free To Air [c]",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Eutelsat 3B",
-            "freq": "3.934 R",
-            "encry": "MPEG-4 Conax",
-            "link": "#",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Al Zawra'a  vs  Al Nassr     "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Macarthur FC  vs  Beijing Guoan     "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Macarthur FC  vs  Beijing Guoan     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Macarthur FC  vs  Beijing Guoan     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "     Eastern  vs  Nam Dinh     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "     Eastern  vs  Nam Dinh     "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "     Eastern  vs  Nam Dinh     "
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Eastern  vs  Nam Dinh     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Eastern  vs  Nam Dinh     "
-        },
-        {
-            "channel": "SportKlub 5 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Pohang Steelers  vs  Kaya FC     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Pohang Steelers  vs  Kaya FC     "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Tampines Ro  vs  ers v Pathum United     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Tampines Ro  vs  ers v Pathum United     "
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Công An Hà Nôi  vs  Tai Po     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Công An Hà Nôi  vs  Tai Po     "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Ratchaburi  vs  Gamba Osaka     "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "     Ratchaburi  vs  Gamba Osaka     "
+            "date": "2025-10-02",
+            "channels": [
+                {
+                    "channel": "SportKlub 4 Hrvatska",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: The AFC Hub",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@TheAFCHub/streams"
+                }
+            ]
         }
     ]
 }

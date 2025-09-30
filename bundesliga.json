@@ -8,7 +8,72 @@
                 "team2": "germany"
             },
             "time": "18:30",
-            "date": "2025-10-03"
+            "date": "2025-10-03",
+            "channels": [
+                {
+                    "channel": "BBC iPlayer",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC iPlayer 4K",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC Sport Website",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga 1 HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga HD",
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga UHD",
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Top Event HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: German Football",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -18,7 +83,16 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-04"
+            "date": "2025-10-04",
+            "channels": [
+                {
+                    "channel": "Sky Sport Bundesliga 4 HD",
+                    "sat": "Astra 1N",
+                    "freq": "12.032 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -28,7 +102,23 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-04"
+            "date": "2025-10-04",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga 3 HD",
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -38,7 +128,37 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-04"
+            "date": "2025-10-04",
+            "channels": [
+                {
+                    "channel": "Sky Sport Bundesliga 1 HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga HD",
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga UHD",
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Top Event HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -48,7 +168,23 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-04"
+            "date": "2025-10-04",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga 2 HD",
+                    "sat": "Astra 1M",
+                    "freq": "11.758 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -58,7 +194,79 @@
                 "team2": "germany"
             },
             "time": "16:30",
-            "date": "2025-10-04"
+            "date": "2025-10-04",
+            "channels": [
+                {
+                    "channel": "CRTV Sports Cameroon",
+                    "sat": "AzerSpace 2",
+                    "freq": "12.610 H",
+                    "encry": "Free To Air HD",
+                    "link": "#"
+                },
+                {
+                    "channel": "CRTV Sports Cameroon",
+                    "sat": "Eutelsat 16A",
+                    "freq": "10.804 H",
+                    "encry": "FTA (MPEG-4)",
+                    "link": "#"
+                },
+                {
+                    "channel": "CRTV Sports Cameroon",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "3.832 L",
+                    "encry": "Free To Air [c]",
+                    "link": "#"
+                },
+                {
+                    "channel": "CRTV Sports Cameroon",
+                    "sat": "SES 4",
+                    "freq": "11.551 H",
+                    "encry": "HEVC SD Nagravision",
+                    "link": "#"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Sky Go UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga 1 HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga HD",
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga UHD",
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Top Event HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -68,7 +276,30 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-05"
+            "date": "2025-10-05",
+            "channels": [
+                {
+                    "channel": "DAZN Deutsch",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -78,7 +309,30 @@
                 "team2": "germany"
             },
             "time": "15:30",
-            "date": "2025-10-05"
+            "date": "2025-10-05",
+            "channels": [
+                {
+                    "channel": "DAZN Deutsch",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -88,7 +342,30 @@
                 "team2": "germany"
             },
             "time": "17:30",
-            "date": "2025-10-05"
+            "date": "2025-10-05",
+            "channels": [
+                {
+                    "channel": "DAZN Deutsch",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -98,7 +375,72 @@
                 "team2": "germany"
             },
             "time": "18:30",
-            "date": "2025-10-17"
+            "date": "2025-10-17",
+            "channels": [
+                {
+                    "channel": "BBC iPlayer",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC iPlayer 4K",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC Sport Website",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga 1 HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga HD",
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Bundesliga UHD",
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sport Top Event HD",
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "YouTube: German Football",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -108,7 +450,51 @@
                 "team2": "germany"
             },
             "time": "16:30",
-            "date": "2025-10-18"
+            "date": "2025-10-18",
+            "channels": [
+                {
+                    "channel": "DAZN Ireland",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Sky Go UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.012 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "11.934 V",
+                    "encry": "VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.090 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -118,7 +504,23 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-19"
+            "date": "2025-10-19",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 7",
@@ -128,7 +530,23 @@
                 "team2": "germany"
             },
             "time": "15:30",
-            "date": "2025-10-19"
+            "date": "2025-10-19",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -138,7 +556,44 @@
                 "team2": "germany"
             },
             "time": "18:30",
-            "date": "2025-10-24"
+            "date": "2025-10-24",
+            "channels": [
+                {
+                    "channel": "BBC iPlayer",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC iPlayer 4K",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC Sport Website",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "YouTube: German Football",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -148,7 +603,16 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-25"
+            "date": "2025-10-25",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -158,7 +622,16 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-25"
+            "date": "2025-10-25",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -168,7 +641,16 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-25"
+            "date": "2025-10-25",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -178,7 +660,16 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-25"
+            "date": "2025-10-25",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -188,7 +679,16 @@
                 "team2": "germany"
             },
             "time": "13:30",
-            "date": "2025-10-25"
+            "date": "2025-10-25",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -198,7 +698,44 @@
                 "team2": "germany"
             },
             "time": "16:30",
-            "date": "2025-10-25"
+            "date": "2025-10-25",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Sky Go UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.012 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "11.934 V",
+                    "encry": "VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.090 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -208,7 +745,23 @@
                 "team2": "germany"
             },
             "time": "14:30",
-            "date": "2025-10-26"
+            "date": "2025-10-26",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
@@ -218,7 +771,23 @@
                 "team2": "germany"
             },
             "time": "16:30",
-            "date": "2025-10-26"
+            "date": "2025-10-26",
+            "channels": [
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 9",
@@ -228,7 +797,44 @@
                 "team2": "germany"
             },
             "time": "19:30",
-            "date": "2025-10-31"
+            "date": "2025-10-31",
+            "channels": [
+                {
+                    "channel": "BBC iPlayer",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC iPlayer 4K",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer"
+                },
+                {
+                    "channel": "BBC Sport Website",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide"
+                },
+                {
+                    "channel": "OneFootball",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches"
+                },
+                {
+                    "channel": "YouTube: German Football",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 9",
@@ -238,7 +844,37 @@
                 "team2": "germany"
             },
             "time": "17:30",
-            "date": "2025-11-01"
+            "date": "2025-11-01",
+            "channels": [
+                {
+                    "channel": "Sky Go UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.012 V",
+                    "encry": "HD VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "11.934 V",
+                    "encry": "VideoGuard",
+                    "link": "#"
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.090 V",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 9",
@@ -248,7 +884,16 @@
                 "team2": "germany"
             },
             "time": "14:30",
-            "date": "2025-11-02"
+            "date": "2025-11-02",
+            "channels": [
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "German 1. Bundesliga - Week 9",
@@ -258,695 +903,16 @@
                 "team2": "germany"
             },
             "time": "16:30",
-            "date": "2025-11-02"
-        },
-        {
-            "channel": "BBC iPlayer",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "BBC iPlayer 4K",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "BBC Sport Website",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N",
-            "freq": "12.304 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M",
-            "freq": "11.798 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "YouTube: German Football",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "     Hoffenheim  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N",
-            "freq": "12.032 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Augsburg  vs  Wolfsburg     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Bayer Le  vs  erkusen v Union Berlin     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 3 HD",
-            "sat": "Astra 1N",
-            "freq": "12.304 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bayer Le  vs  erkusen v Union Berlin     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  RB Leipzig     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N",
-            "freq": "12.304 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  RB Leipzig     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M",
-            "freq": "11.798 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  RB Leipzig     "
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  RB Leipzig     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Werder Bremen  vs  St Pauli     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 2 HD",
-            "sat": "Astra 1M",
-            "freq": "11.758 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Werder Bremen  vs  St Pauli     "
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "sat": "AzerSpace 2",
-            "freq": "12.610 H",
-            "encry": "Free To Air HD",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "sat": "Eutelsat 16A",
-            "freq": "10.804 H",
-            "encry": "FTA (MPEG-4)",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "sat": "Eutelsat 8 West B",
-            "freq": "3.832 L",
-            "encry": "Free To Air [c]",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "CRTV Sports Cameroon",
-            "sat": "SES 4",
-            "freq": "11.551 H",
-            "encry": "HEVC SD Nagravision",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N",
-            "freq": "12.304 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M",
-            "freq": "11.798 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Eintracht Frankfurt  vs  Bayern Munich     "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Stuttgart  vs  Heidenheim     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Stuttgart  vs  Heidenheim     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Stuttgart  vs  Heidenheim     "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Hamburg  vs  Mainz 05     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Hamburg  vs  Mainz 05     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Hamburg  vs  Mainz 05     "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Mönchengladbach  vs  Freiburg     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Mönchengladbach  vs  Freiburg     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Mönchengladbach  vs  Freiburg     "
-        },
-        {
-            "channel": "BBC iPlayer",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "BBC iPlayer 4K",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "BBC Sport Website",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N",
-            "freq": "12.304 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M",
-            "freq": "11.798 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N",
-            "freq": "11.914 H",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "YouTube: German Football",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "     Union Berlin  vs  Mönchengladbach     "
-        },
-        {
-            "channel": "DAZN Ireland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": "     Bayern Munich  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Bayern Munich  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "12.012 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "11.934 V",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "12.090 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Freiburg  vs  Eintracht Frankfurt     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Freiburg  vs  Eintracht Frankfurt     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     St Pauli  vs  Hoffenheim     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     St Pauli  vs  Hoffenheim     "
-        },
-        {
-            "channel": "BBC iPlayer",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Werder Bremen  vs  Union Berlin     "
-        },
-        {
-            "channel": "BBC iPlayer 4K",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Werder Bremen  vs  Union Berlin     "
-        },
-        {
-            "channel": "BBC Sport Website",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "     Werder Bremen  vs  Union Berlin     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Werder Bremen  vs  Union Berlin     "
-        },
-        {
-            "channel": "YouTube: German Football",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "     Werder Bremen  vs  Union Berlin     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Augsburg  vs  RB Leipzig     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Mönchengladbach  vs  Bayern Munich     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Eintracht Frankfurt  vs  St Pauli     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Hamburg  vs  Wolfsburg     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Hoffenheim  vs  Heidenheim     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Borussia Dortmund  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "12.012 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "11.934 V",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  FC Cologne     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "12.090 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Borussia Dortmund  vs  FC Cologne     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Bayer Le  vs  erkusen v Freiburg     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Bayer Le  vs  erkusen v Freiburg     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Stuttgart  vs  Mainz 05     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Stuttgart  vs  Mainz 05     "
-        },
-        {
-            "channel": "BBC iPlayer",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Augsburg  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "BBC iPlayer 4K",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": "     Augsburg  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "BBC Sport Website",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": "     Augsburg  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "     Augsburg  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "YouTube: German Football",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": "     Augsburg  vs  Borussia Dortmund     "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Bayer Leverkusen     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "12.012 V",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Bayer Leverkusen     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "11.934 V",
-            "encry": "VideoGuard",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Bayer Leverkusen     "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E",
-            "freq": "12.090 V",
-            "encry": "MPEG-4 NDS",
-            "link": "#",
-            "related_to": "     Bayern Munich  vs  Bayer Leverkusen     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     FC Cologne  vs  Hamburg     "
-        },
-        {
-            "channel": "Prime Video UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": "     Wolfsburg  vs  Hoffenheim     "
+            "date": "2025-11-02",
+            "channels": [
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         }
     ]
 }
