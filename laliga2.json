@@ -8,16 +8,7 @@
                 "team2": "spain"
             },
             "time": "18:30",
-            "date": "2025-10-03",
-            "channels": [
-                {
-                    "channel": "Premier Sports GB Player HD",
-                    "sat": "* IPTV/Stream",
-                    "freq": "0.000",
-                    "encry": "",
-                    "link": "https://www.premiersports.com/fr/live-now-on-demand"
-                }
-            ]
+            "date": "2025-10-03"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
@@ -27,16 +18,23 @@
                 "team2": "spain"
             },
             "time": "18:30",
-            "date": "2025-10-10",
-            "channels": [
-                {
-                    "channel": "Premier Sports GB Player HD",
-                    "sat": "* IPTV/Stream",
-                    "freq": "0.000",
-                    "encry": "",
-                    "link": "https://www.premiersports.com/fr/live-now-on-demand"
-                }
-            ]
+            "date": "2025-10-10"
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Ceuta  vs  Eibar     "
+        },
+        {
+            "channel": "Premier Sports GB Player HD",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": "     Granada  vs  Las Palmas     "
         }
     ]
 }
