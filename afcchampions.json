@@ -1,7 +1,17 @@
 {
     "footonsat": [
         {
-            "last_update": "07:56 01-10-2025"
+            "last_update": "08:19 01-10-2025"
+        },
+        {
+            "compet": "AFC Champions League 2 - Round 2",
+            "match": "      Lion City Sailors  vs  Selangor      ",
+            "flags": {
+                "team1": "singapore",
+                "team2": "malaysia"
+            },
+            "time": "10:00",
+            "date": "2025-10-01"
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -14,14 +24,36 @@
             "date": "2025-10-01"
         },
         {
-            "compet": "AFC Champions League 2 - Round 2",
-            "match": "      Lion City Sailors  vs  Selangor      ",
-            "flags": {
-                "team1": "singapore",
-                "team2": "malaysia"
-            },
-            "time": "10:00",
-            "date": "2025-10-01"
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Mediaguard, HD NagraVision, HD Viaccess",
+            "link": "#",
+            "related_to": "      Lion City Sailors  vs  Selangor      "
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "      Lion City Sailors  vs  Selangor      "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "      Lion City Sailors  vs  Selangor      "
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "      Lion City Sailors  vs  Selangor      "
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -35,15 +67,7 @@
             "channel": "Sportdigital 1+ Deutsch HD",
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Vissel Kobe  vs  Melbourne City      "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD NagraVision",
+            "encry": "HD NagraVision, HD VideoGuard",
             "link": "#",
             "related_to": "      Vissel Kobe  vs  Melbourne City      "
         },
@@ -51,23 +75,7 @@
             "channel": "Sportdigital 1+ Deutsch HD",
             "sat": "Eutelsat 9B",
             "freq": "12.360 H 27500 - 2/3",
-            "encry": "HD Conax",
-            "link": "#",
-            "related_to": "      Vissel Kobe  vs  Melbourne City      "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Eutelsat 9B",
-            "freq": "12.360 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Vissel Kobe  vs  Melbourne City      "
-        },
-        {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Eutelsat 9B",
-            "freq": "12.360 H 27500 - 2/3",
-            "encry": "HD NagraVision",
+            "encry": "HD Conax, HD NagraVision, HD VideoGuard",
             "link": "#",
             "related_to": "      Vissel Kobe  vs  Melbourne City      "
         },
@@ -75,15 +83,7 @@
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A",
             "freq": "11.471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Vissel Kobe  vs  Melbourne City      "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
+            "encry": "HD Irdeto, HD VideoGuard",
             "link": "#",
             "related_to": "      Vissel Kobe  vs  Melbourne City      "
         },
@@ -128,52 +128,14 @@
             "related_to": "      Vissel Kobe  vs  Melbourne City      "
         },
         {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "      Lion City Sailors  vs  Selangor      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "      Lion City Sailors  vs  Selangor      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "      Lion City Sailors  vs  Selangor      "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Lion City Sailors  vs  Selangor      "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "      Lion City Sailors  vs  Selangor      "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "      Lion City Sailors  vs  Selangor      "
+            "compet": "AFC Champions League 2 - Round 2",
+            "match": "      Bangkok United  vs  Persib Bandung      ",
+            "flags": {
+                "team1": "thailand",
+                "team2": "indonesia"
+            },
+            "time": "12:15",
+            "date": "2025-10-01"
         },
         {
             "compet": "AFC Champions League Elite - Round 2",
@@ -186,14 +148,36 @@
             "date": "2025-10-01"
         },
         {
-            "compet": "AFC Champions League 2 - Round 2",
-            "match": "      Bangkok United  vs  Persib Bandung      ",
-            "flags": {
-                "team1": "thailand",
-                "team2": "indonesia"
-            },
-            "time": "12:15",
-            "date": "2025-10-01"
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C",
+            "freq": "11.739 V 29900 - 3/4",
+            "encry": "HD Mediaguard, HD NagraVision, HD Viaccess",
+            "link": "#",
+            "related_to": "      Bangkok United  vs  Persib Bandung      "
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "sat": "Turksat 4A",
+            "freq": "12.245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "      Bangkok United  vs  Persib Bandung      "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "",
+            "link": "#",
+            "related_to": "      Bangkok United  vs  Persib Bandung      "
+        },
+        {
+            "channel": "YouTube: The AFC Hub",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 ",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": "      Bangkok United  vs  Persib Bandung      "
         },
         {
             "channel": "Spor Smart Türkiye HD",
@@ -207,15 +191,7 @@
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A",
             "freq": "11.471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Shanghai Shenhua  vs  Ulsan Horang-i      "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
+            "encry": "HD Irdeto, HD VideoGuard",
             "link": "#",
             "related_to": "      Shanghai Shenhua  vs  Ulsan Horang-i      "
         },
@@ -226,54 +202,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": "      Shanghai Shenhua  vs  Ulsan Horang-i      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "      Bangkok United  vs  Persib Bandung      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "      Bangkok United  vs  Persib Bandung      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "      Bangkok United  vs  Persib Bandung      "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A",
-            "freq": "12.245 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Bangkok United  vs  Persib Bandung      "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "      Bangkok United  vs  Persib Bandung      "
-        },
-        {
-            "channel": "YouTube: The AFC Hub",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": "      Bangkok United  vs  Persib Bandung      "
         },
         {
             "compet": "AFC Champions League 2 - Round 2",
@@ -299,23 +227,7 @@
             "channel": "ESPN 2 Nederland HD",
             "sat": "Astra 3C",
             "freq": "11.856 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "      Andijan  vs  Al Ahli      "
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.856 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "#",
-            "related_to": "      Andijan  vs  Al Ahli      "
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
+            "encry": "HD Mediaguard, HD NagraVision, HD Viaccess",
             "link": "#",
             "related_to": "      Andijan  vs  Al Ahli      "
         },
@@ -340,7 +252,7 @@
             "sat": "ABS 2A",
             "freq": "12.252 H 10000 - 3/4",
             "encry": "Free To Air HD",
-            "link": "#",
+            "link": "",
             "related_to": "      Istiqlol  vs  FC Goa      "
         },
         {
@@ -399,15 +311,7 @@
             "channel": "SportKlub HD",
             "sat": "Eutelsat 16A",
             "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Al Wehdat  vs  Al Wasl      "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD Irdeto",
+            "encry": "HD Irdeto, HD VideoGuard",
             "link": "#",
             "related_to": "      Al Wehdat  vs  Al Wasl      "
         },
@@ -432,7 +336,7 @@
             "sat": "MonacoSat",
             "freq": "10.762 V 30000 - 3/4",
             "encry": "Free To Air HD",
-            "link": "#",
+            "link": "",
             "related_to": "      Esteghlal Tehran  vs  Muharraq      "
         },
         {
@@ -440,7 +344,7 @@
             "sat": "MonacoSat",
             "freq": "10.762 V 27500 - 2/3",
             "encry": "Free To Air HD",
-            "link": "#",
+            "link": "",
             "related_to": "      Esteghlal Tehran  vs  Muharraq      "
         },
         {
@@ -491,15 +395,7 @@
             "channel": "SportKlub HD",
             "sat": "Eutelsat 16A",
             "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Al Khalidiya  vs  Arkadag      "
-        },
-        {
-            "channel": "SportKlub HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.595 V 30000 - 3/5",
-            "encry": "HD Irdeto",
+            "encry": "HD Irdeto, HD VideoGuard",
             "link": "#",
             "related_to": "      Al Khalidiya  vs  Arkadag      "
         },
@@ -516,30 +412,14 @@
             "sat": "Al Yah 1",
             "freq": "12.054 H 27500 - 3/5",
             "encry": "Free To Air HD",
-            "link": "#",
+            "link": "",
             "related_to": "      Al Zawra'a  vs  Al Nassr      "
         },
         {
             "channel": "ESPN 1 Nederland HD",
             "sat": "Astra 3C",
             "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "      Al Zawra'a  vs  Al Nassr      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "      Al Zawra'a  vs  Al Nassr      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
+            "encry": "HD Mediaguard, HD NagraVision, HD Viaccess",
             "link": "#",
             "related_to": "      Al Zawra'a  vs  Al Nassr      "
         },
@@ -555,39 +435,7 @@
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L",
             "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Al Zawra'a  vs  Al Nassr      "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD CryptoWorks",
-            "link": "#",
-            "related_to": "      Al Zawra'a  vs  Al Nassr      "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "#",
-            "related_to": "      Al Zawra'a  vs  Al Nassr      "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "      Al Zawra'a  vs  Al Nassr      "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11.186 V 22000 - 2/3",
-            "encry": "HD Viaccess",
+            "encry": "HD CryptoWorks, HD Irdeto, HD NagraVision, HD Viaccess, HD VideoGuard",
             "link": "#",
             "related_to": "      Al Zawra'a  vs  Al Nassr      "
         },
@@ -595,15 +443,7 @@
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A",
             "freq": "11.471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "#",
-            "related_to": "      Al Zawra'a  vs  Al Nassr      "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A",
-            "freq": "11.471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
+            "encry": "HD Irdeto, HD VideoGuard",
             "link": "#",
             "related_to": "      Al Zawra'a  vs  Al Nassr      "
         },
@@ -666,14 +506,6 @@
             "related_to": "      Macarthur FC  vs  Beijing Guoan      "
         },
         {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "",
-            "link": "#",
-            "related_to": "      Macarthur FC  vs  Beijing Guoan      "
-        },
-        {
             "channel": "YouTube: The AFC Hub",
             "sat": "* IPTV/Stream",
             "freq": "0.000 ",
@@ -715,23 +547,7 @@
             "channel": "ESPN 1 Nederland HD",
             "sat": "Astra 3C",
             "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "#",
-            "related_to": "      Eastern  vs  Nam Dinh      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "#",
-            "related_to": "      Eastern  vs  Nam Dinh      "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C",
-            "freq": "11.739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
+            "encry": "HD Mediaguard, HD NagraVision, HD Viaccess",
             "link": "#",
             "related_to": "      Eastern  vs  Nam Dinh      "
         },

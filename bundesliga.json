@@ -1,7 +1,7 @@
 {
     "footonsat": [
         {
-            "last_update": "07:56 01-10-2025"
+            "last_update": "08:17 01-10-2025"
         },
         {
             "compet": "German 1. Bundesliga - Week 6",
@@ -212,7 +212,7 @@
             "sat": "AzerSpace 2",
             "freq": "12.610 H 12500 - 3/4",
             "encry": "Free To Air HD",
-            "link": "#",
+            "link": "",
             "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
         },
         {
@@ -643,16 +643,6 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
-            "match": "      Mönchengladbach  vs  Bayern Munich      ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2025-10-25"
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 8",
             "match": "      Eintracht Frankfurt  vs  St Pauli      ",
             "flags": {
                 "team1": "germany",
@@ -682,12 +672,14 @@
             "date": "2025-10-25"
         },
         {
-            "channel": "OneFootball",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": "      Augsburg  vs  RB Leipzig      "
+            "compet": "German 1. Bundesliga - Week 8",
+            "match": "      Mönchengladbach  vs  Bayern Munich      ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "13:30",
+            "date": "2025-10-25"
         },
         {
             "channel": "OneFootball",
@@ -695,7 +687,7 @@
             "freq": "0.000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
-            "related_to": "      Mönchengladbach  vs  Bayern Munich      "
+            "related_to": "      Augsburg  vs  RB Leipzig      "
         },
         {
             "channel": "OneFootball",
@@ -720,6 +712,14 @@
             "encry": "",
             "link": "https://onefootball.com/en/matches",
             "related_to": "      Hoffenheim  vs  Heidenheim      "
+        },
+        {
+            "channel": "OneFootball",
+            "sat": "* IPTV/Stream",
+            "freq": "0.000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "      Mönchengladbach  vs  Bayern Munich      "
         },
         {
             "compet": "German 1. Bundesliga - Week 8",
