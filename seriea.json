@@ -12,11 +12,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Hellas  vs  erona v Sassuolo      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Hellas  vs  erona v Sassuolo      "
                 }
             ]
         },
@@ -32,11 +40,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Inter Milan  vs  Cremonese      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Inter Milan  vs  Cremonese      "
                 }
             ]
         },
@@ -52,15 +68,27 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Atalanta  vs  Como      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Atalanta  vs  Como      "
                 },
                 {
                     "channel": "Sky Sport Calcio HD",
-                    "link": "#"
+                    "sat": "Hotbird 13F",
+                    "freq": "12.073 V 29900 - 3/4",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Atalanta  vs  Como      "
                 }
             ]
         },
@@ -76,11 +104,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Udinese  vs  Cagliari      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Udinese  vs  Cagliari      "
                 }
             ]
         },
@@ -96,19 +132,67 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Fiorentina  vs  Roma      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Fiorentina  vs  Roma      "
                 },
                 {
                     "channel": "Sporty TV Africa",
-                    "link": "#"
+                    "sat": "Astra 2F",
+                    "freq": "12.605 V 30000 - 5/6",
+                    "encry": "Free To Air",
+                    "link": "#",
+                    "related_to": "      Fiorentina  vs  Roma      "
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Astra 2G",
+                    "freq": "11.135 V 30000 - 5/6",
+                    "encry": "HD NagraVision",
+                    "link": "#",
+                    "related_to": "      Fiorentina  vs  Roma      "
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Eutelsat 10B",
+                    "freq": "3.899 R 23330 - 8/9",
+                    "encry": "Free To Air [c]",
+                    "link": "#",
+                    "related_to": "      Fiorentina  vs  Roma      "
+                },
+                {
+                    "channel": "Sporty TV Africa",
+                    "sat": "Eutelsat 3B",
+                    "freq": "3.934 R 19630 - 3/4",
+                    "encry": "MPEG-4 Conax",
+                    "link": "#",
+                    "related_to": "      Fiorentina  vs  Roma      "
                 },
                 {
                     "channel": "TNT Sports 3 HD",
-                    "link": "#"
+                    "sat": "Astra 2G",
+                    "freq": "11.582 H 23000 - 2/3",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Fiorentina  vs  Roma      "
+                },
+                {
+                    "channel": "TNT Sports 3 HD",
+                    "sat": "Astra 2G",
+                    "freq": "11.612 H 22000 - 5/6",
+                    "encry": "VideoGuard",
+                    "link": "#",
+                    "related_to": "      Fiorentina  vs  Roma      "
                 }
             ]
         },
@@ -124,11 +208,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Bologna  vs  Pisa      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Bologna  vs  Pisa      "
                 }
             ]
         },
@@ -144,11 +236,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Napoli  vs  Genoa      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Napoli  vs  Genoa      "
                 }
             ]
         },
@@ -164,15 +264,67 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
                 },
                 {
                     "channel": "TNT Sports 1 HD",
-                    "link": "#"
+                    "sat": "NSS 12",
+                    "freq": "3.798 R 19167 - 3/5",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "NSS 12",
+                    "freq": "3.775 L 09583 - 2/3",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Astra 2G",
+                    "freq": "11.582 H 23000 - 2/3",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Astra 2G",
+                    "freq": "11.612 H 22000 - 5/6",
+                    "encry": "VideoGuard",
+                    "link": "#",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Eutelsat 10B",
+                    "freq": "11.222 V 30000 - 5/6",
+                    "encry": "Irdeto",
+                    "link": "#",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "SES 6",
+                    "freq": "4.132 R 22500 - 3/5",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      Ju  vs  entus v AC Milan      "
                 }
             ]
         },
@@ -188,11 +340,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Torino  vs  Napoli      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Torino  vs  Napoli      "
                 }
             ]
         },
@@ -208,15 +368,67 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Roma  vs  Inter Milan      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Roma  vs  Inter Milan      "
                 },
                 {
                     "channel": "TNT Sports 1 HD",
-                    "link": "#"
+                    "sat": "NSS 12",
+                    "freq": "3.798 R 19167 - 3/5",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      Roma  vs  Inter Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "NSS 12",
+                    "freq": "3.775 L 09583 - 2/3",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      Roma  vs  Inter Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Astra 2G",
+                    "freq": "11.582 H 23000 - 2/3",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Roma  vs  Inter Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Astra 2G",
+                    "freq": "11.612 H 22000 - 5/6",
+                    "encry": "VideoGuard",
+                    "link": "#",
+                    "related_to": "      Roma  vs  Inter Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Eutelsat 10B",
+                    "freq": "11.222 V 30000 - 5/6",
+                    "encry": "Irdeto",
+                    "link": "#",
+                    "related_to": "      Roma  vs  Inter Milan      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "SES 6",
+                    "freq": "4.132 R 22500 - 3/5",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      Roma  vs  Inter Milan      "
                 }
             ]
         },
@@ -232,11 +444,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Como  vs  Juventus      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Como  vs  Juventus      "
                 }
             ]
         },
@@ -252,11 +472,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Cagliari  vs  Bologna      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Cagliari  vs  Bologna      "
                 }
             ]
         },
@@ -272,11 +500,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Genoa  vs  Parma      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Genoa  vs  Parma      "
                 }
             ]
         },
@@ -292,11 +528,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Atalanta  vs  Lazio      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Atalanta  vs  Lazio      "
                 }
             ]
         },
@@ -312,15 +556,67 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
                 },
                 {
                     "channel": "TNT Sports 1 HD",
-                    "link": "#"
+                    "sat": "NSS 12",
+                    "freq": "3.798 R 19167 - 3/5",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "NSS 12",
+                    "freq": "3.775 L 09583 - 2/3",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Astra 2G",
+                    "freq": "11.582 H 23000 - 2/3",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Astra 2G",
+                    "freq": "11.612 H 22000 - 5/6",
+                    "encry": "VideoGuard",
+                    "link": "#",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "Eutelsat 10B",
+                    "freq": "11.222 V 30000 - 5/6",
+                    "encry": "Irdeto",
+                    "link": "#",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "SES 6",
+                    "freq": "4.132 R 22500 - 3/5",
+                    "encry": "Irdeto [c]",
+                    "link": "#",
+                    "related_to": "      AC Milan  vs  Fiorentina      "
                 }
             ]
         },
@@ -336,11 +632,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Cremonese  vs  Udinese      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Cremonese  vs  Udinese      "
                 }
             ]
         },
@@ -356,11 +660,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      AC Milan  vs  Pisa      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      AC Milan  vs  Pisa      "
                 }
             ]
         },
@@ -376,11 +688,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Napoli  vs  Inter Milan      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Napoli  vs  Inter Milan      "
                 }
             ]
         },
@@ -396,11 +716,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Cremonese  vs  Atalanta      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Cremonese  vs  Atalanta      "
                 }
             ]
         },
@@ -416,11 +744,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Torino  vs  Genoa      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Torino  vs  Genoa      "
                 }
             ]
         },
@@ -436,11 +772,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Sassuolo  vs  Roma      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Sassuolo  vs  Roma      "
                 }
             ]
         },
@@ -456,11 +800,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Hellas  vs  erona v Cagliari      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Hellas  vs  erona v Cagliari      "
                 }
             ]
         },
@@ -476,11 +828,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Fiorentina  vs  Bologna      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Fiorentina  vs  Bologna      "
                 }
             ]
         },
@@ -496,11 +856,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Lazio  vs  Juventus      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Lazio  vs  Juventus      "
                 }
             ]
         },
@@ -516,11 +884,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Atalanta  vs  AC Milan      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Atalanta  vs  AC Milan      "
                 }
             ]
         },
@@ -536,11 +912,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Como  vs  Hellas Verona      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Como  vs  Hellas Verona      "
                 }
             ]
         },
@@ -556,11 +940,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Ju  vs  entus v Udinese      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Ju  vs  entus v Udinese      "
                 }
             ]
         },
@@ -576,11 +968,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Roma  vs  Parma      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Roma  vs  Parma      "
                 }
             ]
         },
@@ -596,11 +996,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Bologna  vs  Torino      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Bologna  vs  Torino      "
                 }
             ]
         },
@@ -616,11 +1024,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Genoa  vs  Cremonese      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Genoa  vs  Cremonese      "
                 }
             ]
         },
@@ -636,11 +1052,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Inter Milan  vs  Fiorentina      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Inter Milan  vs  Fiorentina      "
                 }
             ]
         },
@@ -656,11 +1080,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Cagliari  vs  Sassuolo      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Cagliari  vs  Sassuolo      "
                 }
             ]
         },
@@ -676,11 +1108,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Pisa  vs  Lazio      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Pisa  vs  Lazio      "
                 }
             ]
         },
@@ -696,11 +1136,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Napoli  vs  Como      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Napoli  vs  Como      "
                 }
             ]
         },
@@ -716,11 +1164,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Cremonese  vs  Juventus      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Cremonese  vs  Juventus      "
                 }
             ]
         },
@@ -736,11 +1192,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Hellas  vs  erona v Inter Milan      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Hellas  vs  erona v Inter Milan      "
                 }
             ]
         },
@@ -756,11 +1220,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Fiorentina  vs  Lecce      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Fiorentina  vs  Lecce      "
                 }
             ]
         },
@@ -776,11 +1248,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Torino  vs  Pisa      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Torino  vs  Pisa      "
                 }
             ]
         },
@@ -796,11 +1276,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Parma  vs  Bologna      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Parma  vs  Bologna      "
                 }
             ]
         },
@@ -816,11 +1304,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      AC Milan  vs  Roma      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      AC Milan  vs  Roma      "
                 }
             ]
         },
@@ -836,11 +1332,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Sassuolo  vs  Genoa      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Sassuolo  vs  Genoa      "
                 }
             ]
         },
@@ -856,11 +1360,19 @@
             "channels": [
                 {
                     "channel": "DAZN Great Britain",
-                    "link": "https://www.dazn.com/en-GB/signin"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-GB/signin",
+                    "related_to": "      Lazio  vs  Cagliari      "
                 },
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Lazio  vs  Cagliari      "
                 }
             ]
         }

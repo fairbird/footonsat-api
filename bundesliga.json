@@ -12,39 +12,75 @@
             "channels": [
                 {
                     "channel": "BBC iPlayer",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "BBC iPlayer 4K",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "BBC Sport Website",
-                    "link": "https://www.bbc.com/sport/live-guide"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga 1 HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga UHD",
-                    "link": "#"
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "Sky Sport Top Event HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 },
                 {
                     "channel": "YouTube: German Football",
-                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams",
+                    "related_to": "      Hoffenheim  vs  FC Cologne      "
                 }
             ]
         },
@@ -60,7 +96,11 @@
             "channels": [
                 {
                     "channel": "Sky Sport Bundesliga 4 HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "12.032 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Augsburg  vs  Wolfsburg      "
                 }
             ]
         },
@@ -76,11 +116,19 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Bayer Le  vs  erkusen v Union Berlin      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga 3 HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Bayer Le  vs  erkusen v Union Berlin      "
                 }
             ]
         },
@@ -96,19 +144,35 @@
             "channels": [
                 {
                     "channel": "Sky Sport Bundesliga 1 HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  RB Leipzig      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  RB Leipzig      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga UHD",
-                    "link": "#"
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  RB Leipzig      "
                 },
                 {
                     "channel": "Sky Sport Top Event HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  RB Leipzig      "
                 }
             ]
         },
@@ -124,11 +188,19 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Werder Bremen  vs  St Pauli      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga 2 HD",
-                    "link": "#"
+                    "sat": "Astra 1M",
+                    "freq": "11.758 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Werder Bremen  vs  St Pauli      "
                 }
             ]
         },
@@ -144,31 +216,83 @@
             "channels": [
                 {
                     "channel": "CRTV Sports Cameroon",
-                    "link": "#"
+                    "sat": "AzerSpace 2",
+                    "freq": "12.610 H 12500 - 3/4",
+                    "encry": "Free To Air HD",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
+                },
+                {
+                    "channel": "CRTV Sports Cameroon",
+                    "sat": "Eutelsat 16A",
+                    "freq": "10.804 H 30000 - 2/3",
+                    "encry": "FTA (MPEG-4)",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
+                },
+                {
+                    "channel": "CRTV Sports Cameroon",
+                    "sat": "Eutelsat 8 West B",
+                    "freq": "3.832 L 7582 - 2/3",
+                    "encry": "Free To Air [c]",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
+                },
+                {
+                    "channel": "CRTV Sports Cameroon",
+                    "sat": "SES 4",
+                    "freq": "11.551 H 45000 - 3/4",
+                    "encry": "HEVC SD Nagravision",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
                 },
                 {
                     "channel": "Sky Go UK",
-                    "link": "#"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga 1 HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga UHD",
-                    "link": "#"
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
                 },
                 {
                     "channel": "Sky Sport Top Event HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Eintracht Frankfurt  vs  Bayern Munich      "
                 }
             ]
         },
@@ -184,15 +308,27 @@
             "channels": [
                 {
                     "channel": "DAZN Deutsch",
-                    "link": "#"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "#",
+                    "related_to": "      Stuttgart  vs  Heidenheim      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Stuttgart  vs  Heidenheim      "
                 },
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      Stuttgart  vs  Heidenheim      "
                 }
             ]
         },
@@ -208,15 +344,27 @@
             "channels": [
                 {
                     "channel": "DAZN Deutsch",
-                    "link": "#"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "#",
+                    "related_to": "      Hamburg  vs  Mainz 05      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Hamburg  vs  Mainz 05      "
                 },
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      Hamburg  vs  Mainz 05      "
                 }
             ]
         },
@@ -232,15 +380,27 @@
             "channels": [
                 {
                     "channel": "DAZN Deutsch",
-                    "link": "#"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "#",
+                    "related_to": "      Mönchengladbach  vs  Freiburg      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Mönchengladbach  vs  Freiburg      "
                 },
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      Mönchengladbach  vs  Freiburg      "
                 }
             ]
         },
@@ -256,39 +416,75 @@
             "channels": [
                 {
                     "channel": "BBC iPlayer",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "BBC iPlayer 4K",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "BBC Sport Website",
-                    "link": "https://www.bbc.com/sport/live-guide"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga 1 HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "12.304 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "Sky Sport Bundesliga UHD",
-                    "link": "#"
+                    "sat": "Astra 1M",
+                    "freq": "11.798 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "Sky Sport Top Event HD",
-                    "link": "#"
+                    "sat": "Astra 1N",
+                    "freq": "11.914 H 27500 - 9/10",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 },
                 {
                     "channel": "YouTube: German Football",
-                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams",
+                    "related_to": "      Union Berlin  vs  Mönchengladbach      "
                 }
             ]
         },
@@ -304,19 +500,51 @@
             "channels": [
                 {
                     "channel": "DAZN Ireland",
-                    "link": "https://www.dazn.com/en-IE/home"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.dazn.com/en-IE/home",
+                    "related_to": "      Bayern Munich  vs  Borussia Dortmund      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Bayern Munich  vs  Borussia Dortmund      "
                 },
                 {
                     "channel": "Sky Go UK",
-                    "link": "#"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Borussia Dortmund      "
                 },
                 {
                     "channel": "Sky Sports Football HD",
-                    "link": "#"
+                    "sat": "Astra 2E",
+                    "freq": "12.012 V 27500 - 2/3",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Borussia Dortmund      "
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "11.934 V 27500 - 5/6",
+                    "encry": "VideoGuard",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Borussia Dortmund      "
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.090 V 29500 - 8/9",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Borussia Dortmund      "
                 }
             ]
         },
@@ -332,11 +560,19 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Freiburg  vs  Eintracht Frankfurt      "
                 },
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      Freiburg  vs  Eintracht Frankfurt      "
                 }
             ]
         },
@@ -352,11 +588,19 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      St Pauli  vs  Hoffenheim      "
                 },
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      St Pauli  vs  Hoffenheim      "
                 }
             ]
         },
@@ -372,23 +616,43 @@
             "channels": [
                 {
                     "channel": "BBC iPlayer",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Werder Bremen  vs  Union Berlin      "
                 },
                 {
                     "channel": "BBC iPlayer 4K",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Werder Bremen  vs  Union Berlin      "
                 },
                 {
                     "channel": "BBC Sport Website",
-                    "link": "https://www.bbc.com/sport/live-guide"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide",
+                    "related_to": "      Werder Bremen  vs  Union Berlin      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Werder Bremen  vs  Union Berlin      "
                 },
                 {
                     "channel": "YouTube: German Football",
-                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams",
+                    "related_to": "      Werder Bremen  vs  Union Berlin      "
                 }
             ]
         },
@@ -404,7 +668,11 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Augsburg  vs  RB Leipzig      "
                 }
             ]
         },
@@ -420,7 +688,11 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Mönchengladbach  vs  Bayern Munich      "
                 }
             ]
         },
@@ -436,7 +708,11 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Eintracht Frankfurt  vs  St Pauli      "
                 }
             ]
         },
@@ -452,7 +728,11 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Hamburg  vs  Wolfsburg      "
                 }
             ]
         },
@@ -468,7 +748,11 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Hoffenheim  vs  Heidenheim      "
                 }
             ]
         },
@@ -484,15 +768,43 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Borussia Dortmund  vs  FC Cologne      "
                 },
                 {
                     "channel": "Sky Go UK",
-                    "link": "#"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  FC Cologne      "
                 },
                 {
                     "channel": "Sky Sports Football HD",
-                    "link": "#"
+                    "sat": "Astra 2E",
+                    "freq": "12.012 V 27500 - 2/3",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  FC Cologne      "
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "11.934 V 27500 - 5/6",
+                    "encry": "VideoGuard",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  FC Cologne      "
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.090 V 29500 - 8/9",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#",
+                    "related_to": "      Borussia Dortmund  vs  FC Cologne      "
                 }
             ]
         },
@@ -508,11 +820,19 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Bayer Le  vs  erkusen v Freiburg      "
                 },
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      Bayer Le  vs  erkusen v Freiburg      "
                 }
             ]
         },
@@ -528,11 +848,19 @@
             "channels": [
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Stuttgart  vs  Mainz 05      "
                 },
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      Stuttgart  vs  Mainz 05      "
                 }
             ]
         },
@@ -548,23 +876,43 @@
             "channels": [
                 {
                     "channel": "BBC iPlayer",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Augsburg  vs  Borussia Dortmund      "
                 },
                 {
                     "channel": "BBC iPlayer 4K",
-                    "link": "https://www.bbc.co.uk/iplayer"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.co.uk/iplayer",
+                    "related_to": "      Augsburg  vs  Borussia Dortmund      "
                 },
                 {
                     "channel": "BBC Sport Website",
-                    "link": "https://www.bbc.com/sport/live-guide"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.bbc.com/sport/live-guide",
+                    "related_to": "      Augsburg  vs  Borussia Dortmund      "
                 },
                 {
                     "channel": "OneFootball",
-                    "link": "https://onefootball.com/en/matches"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://onefootball.com/en/matches",
+                    "related_to": "      Augsburg  vs  Borussia Dortmund      "
                 },
                 {
                     "channel": "YouTube: German Football",
-                    "link": "https://www.youtube.com/@GermanFootball/streams"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 ",
+                    "encry": "",
+                    "link": "https://www.youtube.com/@GermanFootball/streams",
+                    "related_to": "      Augsburg  vs  Borussia Dortmund      "
                 }
             ]
         },
@@ -580,11 +928,35 @@
             "channels": [
                 {
                     "channel": "Sky Go UK",
-                    "link": "#"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Bayer Leverkusen      "
                 },
                 {
                     "channel": "Sky Sports Football HD",
-                    "link": "#"
+                    "sat": "Astra 2E",
+                    "freq": "12.012 V 27500 - 2/3",
+                    "encry": "HD VideoGuard",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Bayer Leverkusen      "
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "11.934 V 27500 - 5/6",
+                    "encry": "VideoGuard",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Bayer Leverkusen      "
+                },
+                {
+                    "channel": "Sky Sports Football HD",
+                    "sat": "Astra 2E",
+                    "freq": "12.090 V 29500 - 8/9",
+                    "encry": "MPEG-4 NDS",
+                    "link": "#",
+                    "related_to": "      Bayern Munich  vs  Bayer Leverkusen      "
                 }
             ]
         },
@@ -600,7 +972,11 @@
             "channels": [
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      FC Cologne  vs  Hamburg      "
                 }
             ]
         },
@@ -616,7 +992,11 @@
             "channels": [
                 {
                     "channel": "Prime Video UK",
-                    "link": "https://www.primevideo.com/"
+                    "sat": "* IPTV/Stream",
+                    "freq": "0.000 0",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/",
+                    "related_to": "      Wolfsburg  vs  Hoffenheim      "
                 }
             ]
         }
