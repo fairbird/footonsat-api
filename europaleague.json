@@ -1,7 +1,7 @@
 {
     "footonsat": [
         {
-            "last_update": "10:11 01-10-2025"
+            "last_update": "10:22 01-10-2025"
         },
         {
             "compet": "UEFA Europa League - Matchday 2",
@@ -14,6 +14,14 @@
             "date": "2025-10-02"
         },
         {
+            "channel": "TNT Sports 6",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "related_to": "      Bologna  vs  Freiburg      ",
+            "link": "#"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 2",
             "match": "      Brann  vs  Utrecht      ",
             "flags": {
@@ -24,122 +32,6 @@
             "date": "2025-10-02"
         },
         {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Celtic  vs  Sporting Braga      ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "portugal"
-            },
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      FCSB  vs  Young Boys      ",
-            "flags": {
-                "team1": "romania",
-                "team2": "switzerland"
-            },
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Fenerbahçe  vs  Nice      ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "france"
-            },
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Ludogorets  vs  Real Betis      ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "spain"
-            },
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Panathinaikos  vs  Go Ahead Eagles      ",
-            "flags": {
-                "team1": "greece",
-                "team2": "holland"
-            },
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Roma  vs  Lille      ",
-            "flags": {
-                "team1": "italy",
-                "team2": "france"
-            },
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Viktoria Plzen  vs  Malmö      ",
-            "flags": {
-                "team1": "czechia",
-                "team2": "sweden"
-            },
-            "time": "16:45",
-            "date": "2025-10-02"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Bologna  vs  Freiburg      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Bologna  vs  Freiburg      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Bologna  vs  Freiburg      ",
-            "link": "https://plus.rtl.de/video-tv/live"
-        },
-        {
-            "channel": "TNT Sports 6",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "related_to": "      Bologna  vs  Freiburg      ",
-            "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Brann  vs  Utrecht      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Brann  vs  Utrecht      "
-        },
-        {
             "channel": "Ziggo Sport HD",
             "sat": "Astra 3C",
             "freq": "12.129 V 29900 - 3/4",
@@ -148,27 +40,14 @@
             "link": "#"
         },
         {
-            "channel": "Celtic TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celtic  vs  Sporting Braga      ",
-            "link": "https://www.celticfc.tv/"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celtic  vs  Sporting Braga      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celtic  vs  Sporting Braga      "
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Celtic  vs  Sporting Braga      ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "portugal"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -195,19 +74,24 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FCSB  vs  Young Boys      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      FCSB  vs  Young Boys      ",
+            "flags": {
+                "team1": "romania",
+                "team2": "switzerland"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
         },
         {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FCSB  vs  Young Boys      "
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Fenerbahçe  vs  Nice      ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "france"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
         },
         {
             "channel": "beIN Sports MENA 2 HD",
@@ -264,37 +148,6 @@
             "encry": "HD Mediaguard",
             "related_to": "      Fenerbahçe  vs  Nice      ",
             "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Nice      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Nice      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Nice      ",
-            "link": "https://plus.rtl.de/video-tv/live"
-        },
-        {
-            "channel": "Stan Sport Australia",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Nice      ",
-            "link": "https://www.stan.com.au/sport"
         },
         {
             "channel": "SuperSport 5 Albania HD",
@@ -377,26 +230,14 @@
             "link": "https://www.trtizle.com/canli/tv/trt-1"
         },
         {
-            "channel": "VOOsport World 2 HD",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Nice      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Ludogorets  vs  Real Betis      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Ludogorets  vs  Real Betis      "
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Ludogorets  vs  Real Betis      ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "spain"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
         },
         {
             "channel": "TNT Sports 7",
@@ -407,19 +248,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Panathinaikos  vs  Go Ahead Eagles      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Panathinaikos  vs  Go Ahead Eagles      "
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Panathinaikos  vs  Go Ahead Eagles      ",
+            "flags": {
+                "team1": "greece",
+                "team2": "holland"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
         },
         {
             "channel": "TNT Sports 8",
@@ -430,27 +266,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Roma  vs  Lille      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Roma  vs  Lille      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Roma  vs  Lille      ",
-            "link": "https://plus.rtl.de/video-tv/live"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Roma  vs  Lille      ",
+            "flags": {
+                "team1": "italy",
+                "team2": "france"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
         },
         {
             "channel": "TNT Sports 4 HD",
@@ -477,19 +300,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Viktoria Plzen  vs  Malmö      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Viktoria Plzen  vs  Malmö      "
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Viktoria Plzen  vs  Malmö      ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "sweden"
+            },
+            "time": "16:45",
+            "date": "2025-10-02"
         },
         {
             "compet": "UEFA Europa League - Matchday 2",
@@ -500,99 +318,6 @@
             },
             "time": "19:00",
             "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Celta  vs  igo v PAOK Thessaloniki      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "greece"
-            },
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      FC Porto  vs  Red Star Belgrade      ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "serbia"
-            },
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Feyenoord  vs  Aston Villa      ",
-            "flags": {
-                "team1": "holland",
-                "team2": "england3"
-            },
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Lyon  vs  Salzburg      ",
-            "flags": {
-                "team1": "france",
-                "team2": "austria"
-            },
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Nottingham Forest  vs  Midtjylland      ",
-            "flags": {
-                "team1": "england",
-                "team2": "denmark"
-            },
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Racing Genk  vs  Ferencváros      ",
-            "flags": {
-                "team1": "belgium",
-                "team2": "hungary"
-            },
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 2",
-            "match": "      Sturm Graz  vs  Rangers      ",
-            "flags": {
-                "team1": "austria",
-                "team2": "scotland"
-            },
-            "time": "19:00",
-            "date": "2025-10-02"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Basel  vs  Stuttgart      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Basel  vs  Stuttgart      "
-        },
-        {
-            "channel": "Play RTS Sport",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Basel  vs  Stuttgart      ",
-            "link": "https://www.rts.ch/play/tv/categories/sport"
         },
         {
             "channel": "RSI La 2 Svizzera HD",
@@ -652,7 +377,7 @@
         },
         {
             "channel": "RTL Schweiz HD",
-            "sat": "Hotbird 13E",
+            "sat": "13E",
             "freq": "11.096 H 30000 - 3/4",
             "encry": "HD Panaccess",
             "related_to": "      Basel  vs  Stuttgart      ",
@@ -672,14 +397,6 @@
             "encry": "HD Irdeto",
             "related_to": "      Basel  vs  Stuttgart      ",
             "link": "#"
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Basel  vs  Stuttgart      ",
-            "link": "https://plus.rtl.de/video-tv/live"
         },
         {
             "channel": "RTS 2 Suisse HD",
@@ -706,54 +423,28 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celta  vs  igo v PAOK Thessaloniki      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Celta  vs  igo v PAOK Thessaloniki      ",
+            "flags": {
+                "team1": "spain",
+                "team2": "greece"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
         },
         {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celta  vs  igo v PAOK Thessaloniki      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celta  vs  igo v PAOK Thessaloniki      ",
-            "link": "https://plus.rtl.de/video-tv/live"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FC Porto  vs  Red Star Belgrade      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FC Porto  vs  Red Star Belgrade      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FC Porto  vs  Red Star Belgrade      ",
-            "link": "https://plus.rtl.de/video-tv/live"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      FC Porto  vs  Red Star Belgrade      ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "serbia"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
         },
         {
             "channel": "Sport TV5 Portugal HD",
-            "sat": "Hispasat 30W-5",
+            "sat": "30W",
             "freq": "12.360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "related_to": "      FC Porto  vs  Red Star Belgrade      ",
@@ -768,27 +459,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Aston Villa      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Aston Villa      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Aston Villa      ",
-            "link": "https://plus.rtl.de/video-tv/live"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Feyenoord  vs  Aston Villa      ",
+            "flags": {
+                "team1": "holland",
+                "team2": "england3"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
         },
         {
             "channel": "TNT Sports 3 HD",
@@ -805,14 +483,6 @@
             "encry": "VideoGuard",
             "related_to": "      Feyenoord  vs  Aston Villa      ",
             "link": "#"
-        },
-        {
-            "channel": "TV8 Italia HD",
-            "sat": "*DTT",
-            "freq": "0.000 - -",
-            "encry": "Free To Air HD",
-            "related_to": "      Feyenoord  vs  Aston Villa      ",
-            "link": "https://tv8.it/streaming.html?zoneid=menu_streaming"
         },
         {
             "channel": "TV8 Italia HD",
@@ -847,27 +517,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lyon  vs  Salzburg      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lyon  vs  Salzburg      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lyon  vs  Salzburg      ",
-            "link": "https://plus.rtl.de/video-tv/live"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Lyon  vs  Salzburg      ",
+            "flags": {
+                "team1": "france",
+                "team2": "austria"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
         },
         {
             "channel": "TNT Sports 9",
@@ -878,19 +535,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nottingham Forest  vs  Midtjylland      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nottingham Forest  vs  Midtjylland      "
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Nottingham Forest  vs  Midtjylland      ",
+            "flags": {
+                "team1": "england",
+                "team2": "denmark"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -949,12 +601,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Racing Genk  vs  Ferencváros      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Racing Genk  vs  Ferencváros      ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "hungary"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
         },
         {
             "channel": "M4 Sport Hungary HD",
@@ -1013,34 +667,14 @@
             "link": "https://m4sport.hu/elo/mtv4live/"
         },
         {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Racing Genk  vs  Ferencváros      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sturm Graz  vs  Rangers      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sturm Graz  vs  Rangers      "
-        },
-        {
-            "channel": "Rangers TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sturm Graz  vs  Rangers      ",
-            "link": "https://tv.rangers.co.uk/"
+            "compet": "UEFA Europa League - Matchday 2",
+            "match": "      Sturm Graz  vs  Rangers      ",
+            "flags": {
+                "team1": "austria",
+                "team2": "scotland"
+            },
+            "time": "19:00",
+            "date": "2025-10-02"
         },
         {
             "channel": "TNT Sports 2 HD",
@@ -1069,6 +703,22 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "related_to": "      Brann  vs  Rangers      ",
+            "link": "#"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "related_to": "      Brann  vs  Rangers      ",
+            "link": "#"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 3",
             "match": "      FCSB  vs  Bologna      ",
             "flags": {
@@ -1079,6 +729,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "TNT Sports 9",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "related_to": "      FCSB  vs  Bologna      ",
+            "link": "#"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 3",
             "match": "      Fenerbahçe  vs  Stuttgart      ",
             "flags": {
@@ -1087,6 +745,14 @@
             },
             "time": "16:45",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "TNT Sports 7",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "related_to": "      Fenerbahçe  vs  Stuttgart      ",
+            "link": "#"
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -1107,169 +773,6 @@
             },
             "time": "16:45",
             "date": "2025-10-23"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "match": "      Lyon  vs  Basel      ",
-            "flags": {
-                "team1": "france",
-                "team2": "switzerland"
-            },
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "match": "      Racing Genk  vs  Real Betis      ",
-            "flags": {
-                "team1": "belgium",
-                "team2": "spain"
-            },
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "match": "      Salzburg  vs  Ferencváros      ",
-            "flags": {
-                "team1": "austria",
-                "team2": "hungary"
-            },
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "match": "      Sporting Braga  vs  Red Star Belgrade      ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "serbia"
-            },
-            "time": "16:45",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Brann  vs  Rangers      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Brann  vs  Rangers      "
-        },
-        {
-            "channel": "Rangers TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Brann  vs  Rangers      ",
-            "link": "https://tv.rangers.co.uk/"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "related_to": "      Brann  vs  Rangers      ",
-            "link": "#"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "related_to": "      Brann  vs  Rangers      ",
-            "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FCSB  vs  Bologna      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FCSB  vs  Bologna      "
-        },
-        {
-            "channel": "TNT Sports 9",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 23000 - 2/3",
-            "encry": "VideoGuard",
-            "related_to": "      FCSB  vs  Bologna      ",
-            "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Stuttgart      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Stuttgart      "
-        },
-        {
-            "channel": "RTL+ Deutschland",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Stuttgart      ",
-            "link": "https://plus.rtl.de/video-tv/live"
-        },
-        {
-            "channel": "TNT Sports 7",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "related_to": "      Fenerbahçe  vs  Stuttgart      ",
-            "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Panathinaikos      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Panathinaikos      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Go Ahead Eagles  vs  Aston Villa      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Go Ahead Eagles  vs  Aston Villa      "
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -1320,19 +823,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lyon  vs  Basel      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lyon  vs  Basel      "
+            "compet": "UEFA Europa League - Matchday 3",
+            "match": "      Lyon  vs  Basel      ",
+            "flags": {
+                "team1": "france",
+                "team2": "switzerland"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
         },
         {
             "channel": "TNT Sports 8",
@@ -1343,19 +841,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Racing Genk  vs  Real Betis      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Racing Genk  vs  Real Betis      "
+            "compet": "UEFA Europa League - Matchday 3",
+            "match": "      Racing Genk  vs  Real Betis      ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "spain"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
         },
         {
             "channel": "TNT Sports 6",
@@ -1366,34 +859,24 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Salzburg  vs  Ferencváros      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
+            "compet": "UEFA Europa League - Matchday 3",
+            "match": "      Salzburg  vs  Ferencváros      ",
+            "flags": {
+                "team1": "austria",
+                "team2": "hungary"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
         },
         {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Salzburg  vs  Ferencváros      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sporting Braga  vs  Red Star Belgrade      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sporting Braga  vs  Red Star Belgrade      "
+            "compet": "UEFA Europa League - Matchday 3",
+            "match": "      Sporting Braga  vs  Red Star Belgrade      ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "serbia"
+            },
+            "time": "16:45",
+            "date": "2025-10-23"
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -1406,6 +889,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "TNT Sports 7",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "related_to": "      Celta  vs  igo v Nice      ",
+            "link": "#"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 3",
             "match": "      Celtic  vs  Sturm Graz      ",
             "flags": {
@@ -1414,6 +905,22 @@
             },
             "time": "19:00",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G",
+            "freq": "11.582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "related_to": "      Celtic  vs  Sturm Graz      ",
+            "link": "#"
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "related_to": "      Celtic  vs  Sturm Graz      ",
+            "link": "#"
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -1426,6 +933,14 @@
             "date": "2025-10-23"
         },
         {
+            "channel": "TNT Sports 9",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "related_to": "      Freiburg  vs  Utrecht      ",
+            "link": "#"
+        },
+        {
             "compet": "UEFA Europa League - Matchday 3",
             "match": "      Lille  vs  PAOK Thessaloniki      ",
             "flags": {
@@ -1434,6 +949,14 @@
             },
             "time": "19:00",
             "date": "2025-10-23"
+        },
+        {
+            "channel": "TNT Sports 8",
+            "sat": "Astra 2G",
+            "freq": "11.597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "related_to": "      Lille  vs  PAOK Thessaloniki      ",
+            "link": "#"
         },
         {
             "compet": "UEFA Europa League - Matchday 3",
@@ -1454,164 +977,6 @@
             },
             "time": "19:00",
             "date": "2025-10-23"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "match": "      Roma  vs  Viktoria Plzen      ",
-            "flags": {
-                "team1": "italy",
-                "team2": "czechia"
-            },
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 3",
-            "match": "      Young Boys  vs  Ludogorets      ",
-            "flags": {
-                "team1": "switzerland",
-                "team2": "bulgaria"
-            },
-            "time": "19:00",
-            "date": "2025-10-23"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celta  vs  igo v Nice      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celta  vs  igo v Nice      "
-        },
-        {
-            "channel": "TNT Sports 7",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "related_to": "      Celta  vs  igo v Nice      ",
-            "link": "#"
-        },
-        {
-            "channel": "Celtic TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celtic  vs  Sturm Graz      ",
-            "link": "https://www.celticfc.tv/"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celtic  vs  Sturm Graz      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Celtic  vs  Sturm Graz      "
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "sat": "Astra 2G",
-            "freq": "11.582 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "related_to": "      Celtic  vs  Sturm Graz      ",
-            "link": "#"
-        },
-        {
-            "channel": "TNT Sports 2 HD",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "related_to": "      Celtic  vs  Sturm Graz      ",
-            "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Freiburg  vs  Utrecht      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Freiburg  vs  Utrecht      "
-        },
-        {
-            "channel": "TNT Sports 9",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 23000 - 2/3",
-            "encry": "VideoGuard",
-            "related_to": "      Freiburg  vs  Utrecht      ",
-            "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lille  vs  PAOK Thessaloniki      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lille  vs  PAOK Thessaloniki      "
-        },
-        {
-            "channel": "TNT Sports 8",
-            "sat": "Astra 2G",
-            "freq": "11.597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "related_to": "      Lille  vs  PAOK Thessaloniki      ",
-            "link": "#"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Malmö  vs  Dinamo Zagreb      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Malmö  vs  Dinamo Zagreb      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nottingham Forest  vs  FC Porto      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nottingham Forest  vs  FC Porto      "
         },
         {
             "channel": "TNT Sports 1 HD",
@@ -1670,19 +1035,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Roma  vs  Viktoria Plzen      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Roma  vs  Viktoria Plzen      "
+            "compet": "UEFA Europa League - Matchday 3",
+            "match": "      Roma  vs  Viktoria Plzen      ",
+            "flags": {
+                "team1": "italy",
+                "team2": "czechia"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
         },
         {
             "channel": "TNT Sports 6",
@@ -1693,19 +1053,14 @@
             "link": "#"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Young Boys  vs  Ludogorets      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Young Boys  vs  Ludogorets      "
+            "compet": "UEFA Europa League - Matchday 3",
+            "match": "      Young Boys  vs  Ludogorets      ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "bulgaria"
+            },
+            "time": "19:00",
+            "date": "2025-10-23"
         },
         {
             "compet": "UEFA Europa League - Matchday 4",
@@ -1798,149 +1153,6 @@
             "date": "2025-11-06"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Basel  vs  FCSB      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Basel  vs  FCSB      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Dinamo Zagreb  vs  Celta Vigo      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Dinamo Zagreb  vs  Celta Vigo      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Malmö  vs  Panathinaikos      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Malmö  vs  Panathinaikos      "
-        },
-        {
-            "channel": "Celtic TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Midtjylland  vs  Celtic      ",
-            "link": "https://www.celticfc.tv/"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Midtjylland  vs  Celtic      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Midtjylland  vs  Celtic      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nice  vs  Freiburg      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nice  vs  Freiburg      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Red Star Belgrade  vs  Lille      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Red Star Belgrade  vs  Lille      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Salzburg  vs  Go Ahead Eagles      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Salzburg  vs  Go Ahead Eagles      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sturm Graz  vs  Nottingham Forest      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sturm Graz  vs  Nottingham Forest      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Utrecht  vs  FC Porto      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Utrecht  vs  FC Porto      "
-        },
-        {
             "compet": "UEFA Europa League - Matchday 4",
             "match": "      Bologna  vs  Brann      ",
             "flags": {
@@ -2019,134 +1231,6 @@
             },
             "time": "20:00",
             "date": "2025-11-06"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Bologna  vs  Brann      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Bologna  vs  Brann      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Ferenc  vs  áros v Ludogorets      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Ferenc  vs  áros v Ludogorets      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      PAOK Thessaloniki  vs  Young Boys      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      PAOK Thessaloniki  vs  Young Boys      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Rangers  vs  Roma      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Rangers  vs  Roma      "
-        },
-        {
-            "channel": "Rangers TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Rangers  vs  Roma      ",
-            "link": "https://tv.rangers.co.uk/"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Real Betis  vs  Lyon      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Real Betis  vs  Lyon      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sporting Braga  vs  Racing Genk      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Sporting Braga  vs  Racing Genk      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Stuttgart  vs  Feyenoord      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Stuttgart  vs  Feyenoord      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Viktoria Plzen  vs  Fenerbahçe      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Viktoria Plzen  vs  Fenerbahçe      "
         },
         {
             "compet": "UEFA Europa League - Matchday 5",
@@ -2239,149 +1323,6 @@
             "date": "2025-11-27"
         },
         {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Aston  vs  illa v Young Boys      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Aston  vs  illa v Young Boys      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FC Porto  vs  Nice      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      FC Porto  vs  Nice      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Ferencváros      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Fenerbahçe  vs  Ferencváros      "
-        },
-        {
-            "channel": "Celtic TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Celtic      ",
-            "link": "https://www.celticfc.tv/"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Celtic      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Feyenoord  vs  Celtic      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lille  vs  Dinamo Zagreb      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Lille  vs  Dinamo Zagreb      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Ludogorets  vs  Celta Vigo      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Ludogorets  vs  Celta Vigo      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      PAOK Thessaloniki  vs  Brann      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      PAOK Thessaloniki  vs  Brann      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Roma  vs  Midtjylland      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Roma  vs  Midtjylland      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Viktoria Plzen  vs  Freiburg      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Viktoria Plzen  vs  Freiburg      "
-        },
-        {
             "compet": "UEFA Europa League - Matchday 5",
             "match": "      Bologna  vs  Salzburg      ",
             "flags": {
@@ -2460,134 +1401,6 @@
             },
             "time": "20:00",
             "date": "2025-11-27"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Bologna  vs  Salzburg      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Bologna  vs  Salzburg      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Go Ahead Eagles  vs  Stuttgart      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Go Ahead Eagles  vs  Stuttgart      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nottingham Forest  vs  Malmö      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Nottingham Forest  vs  Malmö      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Panathinaikos  vs  Sturm Graz      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Panathinaikos  vs  Sturm Graz      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Racing Genk  vs  Basel      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Racing Genk  vs  Basel      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Rangers  vs  Sporting Braga      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Rangers  vs  Sporting Braga      "
-        },
-        {
-            "channel": "Rangers TV",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Rangers  vs  Sporting Braga      ",
-            "link": "https://tv.rangers.co.uk/"
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Real Betis  vs  Utrecht      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Real Betis  vs  Utrecht      "
-        },
-        {
-            "channel": "Discovery+ UK",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Red Star Belgrade  vs  FCSB      ",
-            "link": "https://www.discoveryplus.co.uk/olympics/home"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream",
-            "freq": "0.000 ",
-            "encry": "",
-            "related_to": "      Red Star Belgrade  vs  FCSB      "
         }
     ]
 }
