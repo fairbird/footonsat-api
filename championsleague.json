@@ -2,633 +2,1473 @@
     "footonsat": [
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Barcelona   vs   Olympiacos     ",
+            "match": "      Barcelona    vs    Olympiacos      ",
             "flags": {
                 "team1": "spain",
                 "team2": "greece"
             },
             "time": "16:45",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media PLAY",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media TV",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media Two HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Kairat Almaty   vs   Pafos FC     ",
+            "match": "      Kairat Almaty    vs    Pafos FC      ",
             "flags": {
                 "team1": "kazstan",
                 "team2": "cyprus"
             },
             "time": "16:45",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 3 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Arsenal   vs   Atlético Madrid     ",
+            "match": "      Arsenal    vs    Atlético Madrid      ",
             "flags": {
                 "team1": "england",
                 "team2": "spain"
             },
             "time": "19:00",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Premier Sports 1 Ireland HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Bayer Leverkusen   vs   Paris St Germain     ",
+            "match": "      Bayer Leverkusen    vs    Paris St Germain      ",
             "flags": {
                 "team1": "germany",
                 "team2": "france"
             },
             "time": "19:00",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 5 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     FC Copenhagen   vs   Borussia Dortmund     ",
+            "match": "      FC Copenhagen    vs    Borussia Dortmund      ",
             "flags": {
                 "team1": "denmark",
                 "team2": "germany"
             },
             "time": "19:00",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 7",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Newcastle United   vs   Benfica     ",
+            "match": "      Newcastle United    vs    Benfica      ",
             "flags": {
                 "team1": "england",
                 "team2": "portugal"
             },
             "time": "19:00",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 2 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "TNT Sports Ultimate UHD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     PSV Eindhoven   vs   Napoli     ",
+            "match": "      PSV Eindhoven    vs    Napoli      ",
             "flags": {
                 "team1": "holland",
                 "team2": "italy"
             },
             "time": "19:00",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 6",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Union St Gilloise   vs   Inter Milan     ",
+            "match": "      Union St Gilloise    vs    Inter Milan      ",
             "flags": {
                 "team1": "belgium",
                 "team2": "italy"
             },
             "time": "19:00",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 8",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Villarreal   vs   Manchester City     ",
+            "match": "      Villarreal    vs    Manchester City      ",
             "flags": {
                 "team1": "spain",
                 "team2": "england"
             },
             "time": "19:00",
-            "date": "2025-10-21"
+            "date": "2025-10-21",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Athletic Bilbao   vs   Qarabagh     ",
+            "match": "      Athletic Bilbao    vs    Qarabagh      ",
             "flags": {
                 "team1": "spain",
                 "team2": "azerbaijan"
             },
             "time": "16:45",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 4 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Galatasaray   vs   Bodø/Glimt     ",
+            "match": "      Galatasaray    vs    Bodø/Glimt      ",
             "flags": {
                 "team1": "turkey",
                 "team2": "norway"
             },
             "time": "16:45",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 10",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "TRT 1 Türkiye HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.trtizle.com/canli/tv/trt-1"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Atalanta   vs   Slavia Prague     ",
+            "match": "      Atalanta    vs    Slavia Prague      ",
             "flags": {
                 "team1": "italy",
                 "team2": "czechia"
             },
             "time": "19:00",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 8",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Bayern Munich   vs   Club Brugge     ",
+            "match": "      Bayern Munich    vs    Club Brugge      ",
             "flags": {
                 "team1": "germany",
                 "team2": "belgium"
             },
             "time": "19:00",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 6",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Chelsea   vs   Ajax     ",
+            "match": "      Chelsea    vs    Ajax      ",
             "flags": {
                 "team1": "england",
                 "team2": "holland"
             },
             "time": "19:00",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 2 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "TNT Sports Ultimate UHD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Eintracht Frankfurt   vs   Liverpool     ",
+            "match": "      Eintracht Frankfurt    vs    Liverpool      ",
             "flags": {
                 "team1": "germany",
                 "team2": "england"
             },
             "time": "19:00",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 1 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Monaco   vs   Tottenham Hotspur     ",
+            "match": "      Monaco    vs    Tottenham Hotspur      ",
             "flags": {
                 "team1": "france",
                 "team2": "england"
             },
             "time": "19:00",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 3 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Real Madrid   vs   Juventus     ",
+            "match": "      Real Madrid    vs    Juventus      ",
             "flags": {
                 "team1": "spain",
                 "team2": "italy"
             },
             "time": "19:00",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 5 HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 3",
-            "match": "     Sporting Lisbon   vs   Marseille     ",
+            "match": "      Sporting Lisbon    vs    Marseille      ",
             "flags": {
                 "team1": "portugal",
                 "team2": "france"
             },
             "time": "19:00",
-            "date": "2025-10-22"
+            "date": "2025-10-22",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TNT Sports 7",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Napoli   vs   Eintracht Frankfurt     ",
+            "match": "      Napoli    vs    Eintracht Frankfurt      ",
             "flags": {
                 "team1": "italy",
                 "team2": "germany"
             },
             "time": "17:45",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Slavia Prague   vs   Arsenal     ",
+            "match": "      Slavia Prague    vs    Arsenal      ",
             "flags": {
                 "team1": "czechia",
                 "team2": "england"
             },
             "time": "17:45",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "Virgin Media PLAY",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media TV",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media Two HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Atlético Madrid   vs   Union St Gilloise     ",
+            "match": "      Atlético Madrid    vs    Union St Gilloise      ",
             "flags": {
                 "team1": "spain",
                 "team2": "belgium"
             },
             "time": "20:00",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Bodø/Glimt   vs   Monaco     ",
+            "match": "      Bodø/Glimt    vs    Monaco      ",
             "flags": {
                 "team1": "norway",
                 "team2": "france"
             },
             "time": "20:00",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Juventus   vs   Sporting Lisbon     ",
+            "match": "      Juventus    vs    Sporting Lisbon      ",
             "flags": {
                 "team1": "italy",
                 "team2": "portugal"
             },
             "time": "20:00",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Liverpool   vs   Real Madrid     ",
+            "match": "      Liverpool    vs    Real Madrid      ",
             "flags": {
                 "team1": "england",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Premier Sports 1 Ireland HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Olympiacos   vs   PSV Eindhoven     ",
+            "match": "      Olympiacos    vs    PSV Eindhoven      ",
             "flags": {
                 "team1": "greece",
                 "team2": "holland"
             },
             "time": "20:00",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Paris St Germain   vs   Bayern Munich     ",
+            "match": "      Paris St Germain    vs    Bayern Munich      ",
             "flags": {
                 "team1": "france",
                 "team2": "germany"
             },
             "time": "20:00",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Tottenham Hotspur   vs   FC Copenhagen     ",
+            "match": "      Tottenham Hotspur    vs    FC Copenhagen      ",
             "flags": {
                 "team1": "england",
                 "team2": "denmark"
             },
             "time": "20:00",
-            "date": "2025-11-04"
+            "date": "2025-11-04",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Pafos FC   vs   Villarreal     ",
+            "match": "      Pafos FC    vs    Villarreal      ",
             "flags": {
                 "team1": "cyprus",
                 "team2": "spain"
             },
             "time": "17:45",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Qarabagh   vs   Chelsea     ",
+            "match": "      Qarabagh    vs    Chelsea      ",
             "flags": {
                 "team1": "azerbaijan",
                 "team2": "england"
             },
             "time": "17:45",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "Virgin Media PLAY",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media TV",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media Two HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Ajax   vs   Galatasaray     ",
+            "match": "      Ajax    vs    Galatasaray      ",
             "flags": {
                 "team1": "holland",
                 "team2": "turkey"
             },
             "time": "20:00",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TRT 1 Türkiye HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.trtizle.com/canli/tv/trt-1"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Benfica   vs   Bayer Leverkusen     ",
+            "match": "      Benfica    vs    Bayer Leverkusen      ",
             "flags": {
                 "team1": "portugal",
                 "team2": "germany"
             },
             "time": "20:00",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Club Brugge   vs   Barcelona     ",
+            "match": "      Club Brugge    vs    Barcelona      ",
             "flags": {
                 "team1": "belgium",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Inter Milan   vs   Kairat Almaty     ",
+            "match": "      Inter Milan    vs    Kairat Almaty      ",
             "flags": {
                 "team1": "italy",
                 "team2": "kazstan"
             },
             "time": "20:00",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Manchester City   vs   Borussia Dortmund     ",
+            "match": "      Manchester City    vs    Borussia Dortmund      ",
             "flags": {
                 "team1": "england",
                 "team2": "germany"
             },
             "time": "20:00",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Marseille   vs   Atalanta     ",
+            "match": "      Marseille    vs    Atalanta      ",
             "flags": {
                 "team1": "france",
                 "team2": "italy"
             },
             "time": "20:00",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 4",
-            "match": "     Newcastle United   vs   Athletic Bilbao     ",
+            "match": "      Newcastle United    vs    Athletic Bilbao      ",
             "flags": {
                 "team1": "england",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-11-05"
+            "date": "2025-11-05",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Ajax   vs   Benfica     ",
+            "match": "      Ajax    vs    Benfica      ",
             "flags": {
                 "team1": "holland",
                 "team2": "portugal"
             },
             "time": "17:45",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Galatasaray   vs   Union St Gilloise     ",
+            "match": "      Galatasaray    vs    Union St Gilloise      ",
             "flags": {
                 "team1": "turkey",
                 "team2": "belgium"
             },
             "time": "17:45",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TRT 1 Türkiye HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.trtizle.com/canli/tv/trt-1"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Bodø/Glimt   vs   Juventus     ",
+            "match": "      Bodø/Glimt    vs    Juventus      ",
             "flags": {
                 "team1": "norway",
                 "team2": "italy"
             },
             "time": "20:00",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Borussia Dortmund   vs   Villarreal     ",
+            "match": "      Borussia Dortmund    vs    Villarreal      ",
             "flags": {
                 "team1": "germany",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Chelsea   vs   Barcelona     ",
+            "match": "      Chelsea    vs    Barcelona      ",
             "flags": {
                 "team1": "england",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Premier Sports 1 Ireland HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Manchester City   vs   Bayer Leverkusen     ",
+            "match": "      Manchester City    vs    Bayer Leverkusen      ",
             "flags": {
                 "team1": "england",
                 "team2": "germany"
             },
             "time": "20:00",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Marseille   vs   Newcastle United     ",
+            "match": "      Marseille    vs    Newcastle United      ",
             "flags": {
                 "team1": "france",
                 "team2": "england"
             },
             "time": "20:00",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Napoli   vs   Qarabagh     ",
+            "match": "      Napoli    vs    Qarabagh      ",
             "flags": {
                 "team1": "italy",
                 "team2": "azerbaijan"
             },
             "time": "20:00",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Slavia Prague   vs   Athletic Bilbao     ",
+            "match": "      Slavia Prague    vs    Athletic Bilbao      ",
             "flags": {
                 "team1": "czechia",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-11-25"
+            "date": "2025-11-25",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     FC Copenhagen   vs   Kairat Almaty     ",
+            "match": "      FC Copenhagen    vs    Kairat Almaty      ",
             "flags": {
                 "team1": "denmark",
                 "team2": "kazstan"
             },
             "time": "17:45",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Pafos FC   vs   Monaco     ",
+            "match": "      Pafos FC    vs    Monaco      ",
             "flags": {
                 "team1": "cyprus",
                 "team2": "france"
             },
             "time": "17:45",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Arsenal   vs   Bayern Munich     ",
+            "match": "      Arsenal    vs    Bayern Munich      ",
             "flags": {
                 "team1": "england",
                 "team2": "germany"
             },
             "time": "20:00",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Atlético Madrid   vs   Inter Milan     ",
+            "match": "      Atlético Madrid    vs    Inter Milan      ",
             "flags": {
                 "team1": "spain",
                 "team2": "italy"
             },
             "time": "20:00",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Eintracht Frankfurt   vs   Atalanta     ",
+            "match": "      Eintracht Frankfurt    vs    Atalanta      ",
             "flags": {
                 "team1": "germany",
                 "team2": "italy"
             },
             "time": "20:00",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Liverpool   vs   PSV Eindhoven     ",
+            "match": "      Liverpool    vs    PSV Eindhoven      ",
             "flags": {
                 "team1": "england",
                 "team2": "holland"
             },
             "time": "20:00",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Olympiacos   vs   Real Madrid     ",
+            "match": "      Olympiacos    vs    Real Madrid      ",
             "flags": {
                 "team1": "greece",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Paris St Germain   vs   Tottenham Hotspur     ",
+            "match": "      Paris St Germain    vs    Tottenham Hotspur      ",
             "flags": {
                 "team1": "france",
                 "team2": "england"
             },
             "time": "20:00",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 5",
-            "match": "     Sporting Lisbon   vs   Club Brugge     ",
+            "match": "      Sporting Lisbon    vs    Club Brugge      ",
             "flags": {
                 "team1": "portugal",
                 "team2": "belgium"
             },
             "time": "20:00",
-            "date": "2025-11-26"
+            "date": "2025-11-26",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Kairat Almaty   vs   Olympiacos     ",
+            "match": "      Kairat Almaty    vs    Olympiacos      ",
             "flags": {
                 "team1": "kazstan",
                 "team2": "greece"
             },
             "time": "15:30",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Bayern Munich   vs   Sporting Lisbon     ",
+            "match": "      Bayern Munich    vs    Sporting Lisbon      ",
             "flags": {
                 "team1": "germany",
                 "team2": "portugal"
             },
             "time": "17:45",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "Virgin Media PLAY",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media TV",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Virgin Media Two HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Atalanta   vs   Chelsea     ",
+            "match": "      Atalanta    vs    Chelsea      ",
             "flags": {
                 "team1": "italy",
                 "team2": "england"
             },
             "time": "20:00",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Barcelona   vs   Eintracht Frankfurt     ",
+            "match": "      Barcelona    vs    Eintracht Frankfurt      ",
             "flags": {
                 "team1": "spain",
                 "team2": "germany"
             },
             "time": "20:00",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Inter Milan   vs   Liverpool     ",
+            "match": "      Inter Milan    vs    Liverpool      ",
             "flags": {
                 "team1": "italy",
                 "team2": "england"
             },
             "time": "20:00",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Premier Sports 1 Ireland HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "#"
+                },
+                {
+                    "channel": "Prime Video UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.primevideo.com/"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Monaco   vs   Galatasaray     ",
+            "match": "      Monaco    vs    Galatasaray      ",
             "flags": {
                 "team1": "france",
                 "team2": "turkey"
             },
             "time": "20:00",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                },
+                {
+                    "channel": "TRT 1 Türkiye HD",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.trtizle.com/canli/tv/trt-1"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     PSV Eindhoven   vs   Atlético Madrid     ",
+            "match": "      PSV Eindhoven    vs    Atlético Madrid      ",
             "flags": {
                 "team1": "holland",
                 "team2": "spain"
             },
             "time": "20:00",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Tottenham Hotspur   vs   Slavia Prague     ",
+            "match": "      Tottenham Hotspur    vs    Slavia Prague      ",
             "flags": {
                 "team1": "england",
                 "team2": "czechia"
             },
             "time": "20:00",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         },
         {
             "compet": "UEFA Champions League - Matchday 6",
-            "match": "     Union St Gilloise   vs   Marseille     ",
+            "match": "      Union St Gilloise    vs    Marseille      ",
             "flags": {
                 "team1": "belgium",
                 "team2": "france"
             },
             "time": "20:00",
-            "date": "2025-12-09"
+            "date": "2025-12-09",
+            "channels": [
+                {
+                    "channel": "Discovery+ UK",
+                    "sat": "unknown",
+                    "freq": "unknown",
+                    "encry": "",
+                    "link": "https://www.discoveryplus.co.uk/olympics/home"
+                }
+            ]
         }
     ]
 }
