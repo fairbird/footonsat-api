@@ -11,76 +11,6 @@
             "date": "2025-10-06"
         },
         {
-            "compet": "Major League Soccer (MLS) - Week 50",
-            "match": "     Los Angeles FC   vs   Atlanta United     ",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "01:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Russian FNL - Week 13",
-            "match": "     Chelyabinsk   vs   Yenisey     ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "14:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Romanian Superliga - Week 12",
-            "match": "     Otelul Galati   vs   Metaloglobus     ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "14:30",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "German Frauen Bundesliga - Week 5",
-            "match": "     Hamburg   vs   Hoffenheim     ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Spanish Liga F Femenino - Week 6",
-            "match": "     Real Madrid   vs   Levante Las Planas     ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Bosnia-Herzegovina Premier Liga - Week 10",
-            "match": "     FK Sarajevo   vs   Zrinjski     ",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "bosnia"
-            },
-            "time": "16:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Bulgarian Second League - Week 11",
-            "match": "     Lokomotiv G.O.   vs   Fratria     ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "16:00",
-            "date": "2025-10-06"
-        },
-        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C",
             "freq": "12480 V 30000 - 3/4",
@@ -137,6 +67,16 @@
             "related_to": "     Rosario Central   vs   River Plate     "
         },
         {
+            "compet": "Major League Soccer (MLS) - Week 50",
+            "match": "     Los Angeles FC   vs   Atlanta United     ",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "01:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "MLS Season Pass",
             "sat": "* IPTV/Stream",
             "freq": "0000",
@@ -153,12 +93,32 @@
             "related_to": "     Los Angeles FC   vs   Atlanta United     "
         },
         {
+            "compet": "Russian FNL - Week 13",
+            "match": "     Chelyabinsk   vs   Yenisey     ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "14:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "MATCH! Planeta",
             "sat": "ABS 2A",
             "freq": "12533 V 44950 - 4/5",
             "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": "     Chelyabinsk   vs   Yenisey     "
+        },
+        {
+            "compet": "Romanian Superliga - Week 12",
+            "match": "     Otelul Galati   vs   Metaloglobus     ",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "14:30",
+            "date": "2025-10-06"
         },
         {
             "channel": "Arena Premium 2 BiH HD",
@@ -193,6 +153,16 @@
             "related_to": "     Otelul Galati   vs   Metaloglobus     "
         },
         {
+            "compet": "German Frauen Bundesliga - Week 5",
+            "match": "     Hamburg   vs   Hoffenheim     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "DAZN Deutsch",
             "sat": "* IPTV/Stream",
             "freq": "0000",
@@ -217,6 +187,16 @@
             "related_to": "     Hamburg   vs   Hoffenheim     "
         },
         {
+            "compet": "Spanish Liga F Femenino - Week 6",
+            "match": "     Real Madrid   vs   Levante Las Planas     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "DAZN Great Britain",
             "sat": "* IPTV/Stream",
             "freq": "0000 0",
@@ -231,6 +211,16 @@
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
             "related_to": "     Real Madrid   vs   Levante Las Planas     "
+        },
+        {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 10",
+            "match": "     FK Sarajevo   vs   Zrinjski     ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "16:00",
+            "date": "2025-10-06"
         },
         {
             "channel": "Arena Premium 1 BiH HD",
@@ -257,6 +247,16 @@
             "related_to": "     FK Sarajevo   vs   Zrinjski     "
         },
         {
+            "compet": "Bulgarian Second League - Week 11",
+            "match": "     Lokomotiv G.O.   vs   Fratria     ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "16:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "Diema Sport HD",
             "sat": "AzerSpace 2",
             "freq": "12520 V 30000 - 5/6",
@@ -281,6 +281,16 @@
             "related_to": "     Lokomotiv G.O.   vs   Fratria     "
         },
         {
+            "compet": "Russian FNL - Week 13",
+            "match": "     KamAZ   vs   Ural     ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "16:30",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "MATCH! Planeta",
             "sat": "ABS 2A",
             "freq": "12533 V 44950 - 4/5",
@@ -297,6 +307,16 @@
             "related_to": "     KamAZ   vs   Ural     "
         },
         {
+            "compet": "Swedish Superettan - Week 26",
+            "match": "     Landskrona   vs   Varberg     ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "Discovery+ SE",
             "sat": "* IPTV/Stream",
             "freq": "0000",
@@ -313,6 +333,16 @@
             "related_to": "     Landskrona   vs   Varberg     "
         },
         {
+            "compet": "Swedish Superettan - Week 26",
+            "match": "     Sandviken   vs   Orgryte     ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "Discovery+ SE",
             "sat": "* IPTV/Stream",
             "freq": "0000",
@@ -327,6 +357,16 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
             "related_to": "     Sandviken   vs   Orgryte     "
+        },
+        {
+            "compet": "Romanian Superliga - Week 12",
+            "match": "     Botosani   vs   UTA Arad     ",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "17:30",
+            "date": "2025-10-06"
         },
         {
             "channel": "Arena Premium 2 BiH HD",
@@ -359,6 +399,16 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": "     Botosani   vs   UTA Arad     "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 8",
+            "match": "     Cultural Leonesa   vs   Albacete     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "18:30",
+            "date": "2025-10-06"
         },
         {
             "channel": "Arena Premium 3 BiH HD",
@@ -457,6 +507,16 @@
             "related_to": "     Cultural Leonesa   vs   Albacete     "
         },
         {
+            "compet": "English League Two - Week 11",
+            "match": "     Harrogate Town   vs   Crewe Alexandra     ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "Arena Premium 1 BiH HD",
             "sat": "Astra 3B",
             "freq": "0000 0",
@@ -497,6 +557,16 @@
             "related_to": "     Harrogate Town   vs   Crewe Alexandra     "
         },
         {
+            "compet": "Uruguay Primera División - Clausura - 10",
+            "match": "     Defensor Sporting   vs   Wanderers     ",
+            "flags": {
+                "team1": "uraguay",
+                "team2": "uraguay"
+            },
+            "time": "22:00",
+            "date": "2025-10-06"
+        },
+        {
             "channel": "GolTV Play",
             "sat": "* IPTV/Stream",
             "freq": "0000 0",
@@ -511,76 +581,6 @@
             "encry": "Irdeto",
             "link": "",
             "related_to": "     Defensor Sporting   vs   Wanderers     "
-        },
-        {
-            "compet": "Russian FNL - Week 13",
-            "match": "     KamAZ   vs   Ural     ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "16:30",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Swedish Superettan - Week 26",
-            "match": "     Landskrona   vs   Varberg     ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Swedish Superettan - Week 26",
-            "match": "     Sandviken   vs   Orgryte     ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Romanian Superliga - Week 12",
-            "match": "     Botosani   vs   UTA Arad     ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "17:30",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 8",
-            "match": "     Cultural Leonesa   vs   Albacete     ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "English League Two - Week 11",
-            "match": "     Harrogate Town   vs   Crewe Alexandra     ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2025-10-06"
-        },
-        {
-            "compet": "Uruguay Primera División - Clausura - 10",
-            "match": "     Defensor Sporting   vs   Wanderers     ",
-            "flags": {
-                "team1": "uraguay",
-                "team2": "uraguay"
-            },
-            "time": "22:00",
-            "date": "2025-10-06"
         }
     ]
 }

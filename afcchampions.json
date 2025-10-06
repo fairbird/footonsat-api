@@ -1,22 +1,6 @@
 {
     "footonsat": [
         {
-            "channel": "Sportdigital 1+ Deutsch HD",
-            "sat": "Astra 1L",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": "     Al Hilal   vs   Al Sadd     "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": "     FC Goa   vs   Al Nassr     "
-        },
-        {
             "compet": "AFC Champions League Elite - Round 3",
             "match": "     Al Hilal   vs   Al Sadd     ",
             "flags": {
@@ -27,6 +11,14 @@
             "date": "2025-10-21"
         },
         {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Al Hilal   vs   Al Sadd     "
+        },
+        {
             "compet": "AFC Champions League 2 - Round 3",
             "match": "     FC Goa   vs   Al Nassr     ",
             "flags": {
@@ -35,6 +27,14 @@
             },
             "time": "13:45",
             "date": "2025-10-22"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     FC Goa   vs   Al Nassr     "
         }
     ]
 }
