@@ -1,42 +1,40 @@
 {
     "footonsat": [
         {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L Sportdigital 1+ Deutsch HD",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Hilal   vs   Al Sadd"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L Sportdigital FUSSBALL HD",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     FC Goa   vs   Al Nassr"
+        },
+        {
             "compet": "AFC Champions League Elite - Round 3",
-            "match": "      Al Hilal    vs    Al Sadd      ",
+            "match": "     Al Hilal   vs   Al Sadd     ",
             "flags": {
                 "team1": "saudiarabia",
                 "team2": "qatar"
             },
             "time": "18:15",
-            "date": "2025-10-21",
-            "channels": [
-                {
-                    "channel": "Sportdigital 1+ Deutsch HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "FTA",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-21"
         },
         {
             "compet": "AFC Champions League 2 - Round 3",
-            "match": "      FC Goa    vs    Al Nassr      ",
+            "match": "     FC Goa   vs   Al Nassr     ",
             "flags": {
                 "team1": "india",
                 "team2": "saudiarabia"
             },
             "time": "13:45",
-            "date": "2025-10-22",
-            "channels": [
-                {
-                    "channel": "Sportdigital FUSSBALL HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "FTA",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-22"
         }
     ]
 }
