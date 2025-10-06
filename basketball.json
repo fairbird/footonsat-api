@@ -1,1378 +1,484 @@
 {
     "footonsat": [
         {
+            "compet": "ULEB Euroleague - Round 6",
+            "match": "     Anadolu Efes   vs   Fenerbahce     ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:30",
+            "date": "2025-10-24"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 5",
+            "match": "     Anadolu Efes   vs   Panathinaikos     ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "greece"
+            },
+            "time": "17:30",
+            "date": "2025-10-17"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 6",
+            "match": "     Asvel Villeurbanne   vs   Dubai Basketball     ",
+            "flags": {
+                "team1": "france",
+                "team2": "uae"
+            },
+            "time": "18:00",
+            "date": "2025-10-23"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 5",
+            "match": "     Asvel Villeurbanne   vs   Virtus Bologna     ",
+            "flags": {
+                "team1": "france",
+                "team2": "italy"
+            },
+            "time": "18:00",
+            "date": "2025-10-17"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Barcelona   vs   Olimpia Milano     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2025-10-28"
+        },
+        {
             "compet": "ULEB Euroleague - Round 3",
-            "match": "      Baskonia    vs    Panathinaikos      ",
+            "match": "     Barcelona   vs   Valencia     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "18:30",
+            "date": "2025-10-10"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 6",
+            "match": "     Barcelona   vs   Zalgiris Kaunas     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "lithuania"
+            },
+            "time": "18:30",
+            "date": "2025-10-23"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 8",
+            "match": "     Baskonia   vs   Anadolu Efes     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "turkey"
+            },
+            "time": "19:30",
+            "date": "2025-10-31"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Baskonia   vs   Dubai Basketball     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "uae"
+            },
+            "time": "19:30",
+            "date": "2025-10-28"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Baskonia   vs   Panathinaikos     ",
             "flags": {
                 "team1": "spain",
                 "team2": "greece"
             },
             "time": "18:30",
-            "date": "2025-10-09",
-            "channels": [
-                {
-                    "channel": "Arena Premium 3 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports 2 Eurasia HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Olimpia Milano    vs    Monaco Basket      ",
-            "flags": {
-                "team1": "italy",
-                "team2": "monaco"
-            },
-            "time": "18:30",
-            "date": "2025-10-09",
-            "channels": [
-                {
-                    "channel": "Arena Premium 2 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports+ Ukraine HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Partizan Belgrade    vs    Anadolu Efes      ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "turkey"
-            },
-            "time": "18:30",
-            "date": "2025-10-09",
-            "channels": [
-                {
-                    "channel": "Arena Premium 1 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Paris Basketball    vs    Virtus Bologna      ",
-            "flags": {
-                "team1": "france",
-                "team2": "italy"
-            },
-            "time": "18:45",
-            "date": "2025-10-09",
-            "channels": [
-                {
-                    "channel": "Arena Sport 2 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Real Madrid    vs    Asvel Villeurbanne      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "france"
-            },
-            "time": "19:00",
-            "date": "2025-10-09",
-            "channels": [
-                {
-                    "channel": "Arena Sport 3 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports 1 Eurasia HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports Ukraine HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Fenerbahce    vs    Red Star Belgrade      ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "serbia"
-            },
-            "time": "17:45",
-            "date": "2025-10-10",
-            "channels": [
-                {
-                    "channel": "Arena Premium 1 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports 1 Eurasia HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Olympiacos    vs    Dubai Basketball      ",
-            "flags": {
-                "team1": "greece",
-                "team2": "uae"
-            },
-            "time": "18:15",
-            "date": "2025-10-10",
-            "channels": [
-                {
-                    "channel": "Arena Premium 2 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports 2 Eurasia HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Barcelona    vs    Valencia      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2025-10-10",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports Ukraine HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 3",
-            "match": "      Bayern Munich    vs    Zalgiris Kaunas      ",
-            "flags": {
-                "team1": "germany",
-                "team2": "lithuania"
-            },
-            "time": "18:30",
-            "date": "2025-10-10",
-            "channels": [
-                {
-                    "channel": "Arena Sport 6 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Setanta Sports+ Ukraine HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Fenerbahce    vs    Dubai Basketball      ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "uae"
-            },
-            "time": "17:45",
-            "date": "2025-10-14",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Red Star Belgrade    vs    Zalgiris Kaunas      ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "lithuania"
-            },
-            "time": "18:00",
-            "date": "2025-10-14",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Olympiacos    vs    Anadolu Efes      ",
-            "flags": {
-                "team1": "greece",
-                "team2": "turkey"
-            },
-            "time": "18:15",
-            "date": "2025-10-14",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Bayern Munich    vs    Olimpia Milano      ",
-            "flags": {
-                "team1": "germany",
-                "team2": "italy"
-            },
-            "time": "18:30",
-            "date": "2025-10-14",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Panathinaikos    vs    Asvel Villeurbanne      ",
-            "flags": {
-                "team1": "greece",
-                "team2": "france"
-            },
-            "time": "18:15",
-            "date": "2025-10-15",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Virtus Bologna    vs    Monaco Basket      ",
-            "flags": {
-                "team1": "italy",
-                "team2": "monaco"
-            },
-            "time": "18:30",
-            "date": "2025-10-15",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Paris Basketball    vs    Baskonia      ",
-            "flags": {
-                "team1": "france",
-                "team2": "spain"
-            },
-            "time": "18:45",
-            "date": "2025-10-15",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 4",
-            "match": "      Real Madrid    vs    Partizan Belgrade      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "serbia"
-            },
-            "time": "18:45",
-            "date": "2025-10-15",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-09"
         },
         {
             "compet": "ULEB Euroleague - Round 5",
-            "match": "      Dubai Basketball    vs    Barcelona      ",
+            "match": "     Baskonia   vs   Partizan Belgrade     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "serbia"
+            },
+            "time": "18:45",
+            "date": "2025-10-17"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Bayern Munich   vs   Olimpia Milano     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "italy"
+            },
+            "time": "18:30",
+            "date": "2025-10-14"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 6",
+            "match": "     Bayern Munich   vs   Olympiacos     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "greece"
+            },
+            "time": "18:45",
+            "date": "2025-10-24"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Bayern Munich   vs   Real Madrid     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "spain"
+            },
+            "time": "19:30",
+            "date": "2025-10-28"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 8",
+            "match": "     Bayern Munich   vs   Virtus Bologna     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2025-10-30"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Bayern Munich   vs   Zalgiris Kaunas     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "lithuania"
+            },
+            "time": "18:30",
+            "date": "2025-10-10"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 5",
+            "match": "     Dubai Basketball   vs   Barcelona     ",
             "flags": {
                 "team1": "uae",
                 "team2": "spain"
             },
             "time": "16:00",
-            "date": "2025-10-16",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-16"
         },
         {
             "compet": "ULEB Euroleague - Round 5",
-            "match": "      Zalgiris Kaunas    vs    Olimpia Milano      ",
-            "flags": {
-                "team1": "lithuania",
-                "team2": "italy"
-            },
-            "time": "17:00",
-            "date": "2025-10-16",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 5",
-            "match": "      Fenerbahce    vs    Bayern Munich      ",
+            "match": "     Fenerbahce   vs   Bayern Munich     ",
             "flags": {
                 "team1": "turkey",
                 "team2": "germany"
             },
             "time": "17:45",
-            "date": "2025-10-16",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-16"
         },
         {
-            "compet": "ULEB Euroleague - Round 5",
-            "match": "      Red Star Belgrade    vs    Real Madrid      ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "spain"
-            },
-            "time": "17:00",
-            "date": "2025-10-17",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 5",
-            "match": "      Anadolu Efes    vs    Panathinaikos      ",
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Fenerbahce   vs   Dubai Basketball     ",
             "flags": {
                 "team1": "turkey",
+                "team2": "uae"
+            },
+            "time": "17:45",
+            "date": "2025-10-14"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Fenerbahce   vs   Red Star Belgrade     ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "serbia"
+            },
+            "time": "17:45",
+            "date": "2025-10-10"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 8",
+            "match": "     Monaco Basket   vs   Panathinaikos     ",
+            "flags": {
+                "team1": "monaco",
                 "team2": "greece"
             },
-            "time": "17:30",
-            "date": "2025-10-17",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "time": "18:00",
+            "date": "2025-10-31"
         },
         {
             "compet": "ULEB Euroleague - Round 5",
-            "match": "      Monaco Basket    vs    Valencia      ",
+            "match": "     Monaco Basket   vs   Valencia     ",
             "flags": {
                 "team1": "monaco",
                 "team2": "spain"
             },
             "time": "17:30",
-            "date": "2025-10-17",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-17"
         },
         {
-            "compet": "ULEB Euroleague - Round 5",
-            "match": "      Asvel Villeurbanne    vs    Virtus Bologna      ",
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Olimpia Milano   vs   Monaco Basket     ",
             "flags": {
-                "team1": "france",
-                "team2": "italy"
-            },
-            "time": "18:00",
-            "date": "2025-10-17",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 5",
-            "match": "      Baskonia    vs    Partizan Belgrade      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "serbia"
-            },
-            "time": "18:45",
-            "date": "2025-10-17",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                },
-                {
-                    "channel": "Magenta Sport",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt"
-                },
-                {
-                    "channel": "S Sport+ Streaming",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 6",
-            "match": "      Asvel Villeurbanne    vs    Dubai Basketball      ",
-            "flags": {
-                "team1": "france",
-                "team2": "uae"
-            },
-            "time": "18:00",
-            "date": "2025-10-23",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 6",
-            "match": "      Red Star Belgrade    vs    Baskonia      ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "spain"
-            },
-            "time": "18:00",
-            "date": "2025-10-23",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 6",
-            "match": "      Barcelona    vs    Zalgiris Kaunas      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "lithuania"
+                "team1": "italy",
+                "team2": "monaco"
             },
             "time": "18:30",
-            "date": "2025-10-23",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "date": "2025-10-09"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 8",
+            "match": "     Olimpia Milano   vs   Paris Basketball     ",
+            "flags": {
+                "team1": "italy",
+                "team2": "france"
+            },
+            "time": "19:30",
+            "date": "2025-10-30"
         },
         {
             "compet": "ULEB Euroleague - Round 6",
-            "match": "      Olimpia Milano    vs    Valencia      ",
+            "match": "     Olimpia Milano   vs   Valencia     ",
             "flags": {
                 "team1": "italy",
                 "team2": "spain"
             },
             "time": "18:30",
-            "date": "2025-10-23",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "date": "2025-10-23"
         },
         {
-            "compet": "ULEB Euroleague - Round 6",
-            "match": "      Anadolu Efes    vs    Fenerbahce      ",
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Olympiacos   vs   Anadolu Efes     ",
             "flags": {
-                "team1": "turkey",
+                "team1": "greece",
                 "team2": "turkey"
             },
-            "time": "17:30",
-            "date": "2025-10-24",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "time": "18:15",
+            "date": "2025-10-14"
         },
         {
-            "compet": "ULEB Euroleague - Round 6",
-            "match": "      Virtus Bologna    vs    Panathinaikos      ",
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Olympiacos   vs   Dubai Basketball     ",
             "flags": {
-                "team1": "italy",
-                "team2": "greece"
-            },
-            "time": "18:00",
-            "date": "2025-10-24",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 6",
-            "match": "      Partizan Belgrade    vs    Paris Basketball      ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "france"
-            },
-            "time": "18:30",
-            "date": "2025-10-24",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 6",
-            "match": "      Bayern Munich    vs    Olympiacos      ",
-            "flags": {
-                "team1": "germany",
-                "team2": "greece"
-            },
-            "time": "18:45",
-            "date": "2025-10-24",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "      Red Star Belgrade    vs    Asvel Villeurbanne      ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2025-10-28",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "      Zalgiris Kaunas    vs    Virtus Bologna      ",
-            "flags": {
-                "team1": "lithuania",
-                "team2": "italy"
-            },
-            "time": "18:00",
-            "date": "2025-10-28",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "      Barcelona    vs    Olimpia Milano      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "italy"
-            },
-            "time": "19:30",
-            "date": "2025-10-28",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "      Baskonia    vs    Dubai Basketball      ",
-            "flags": {
-                "team1": "spain",
+                "team1": "greece",
                 "team2": "uae"
             },
-            "time": "19:30",
-            "date": "2025-10-28",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "time": "18:15",
+            "date": "2025-10-10"
         },
         {
             "compet": "ULEB Euroleague - Round 7",
-            "match": "      Bayern Munich    vs    Real Madrid      ",
-            "flags": {
-                "team1": "germany",
-                "team2": "spain"
-            },
-            "time": "19:30",
-            "date": "2025-10-28",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "      Paris Basketball    vs    Anadolu Efes      ",
-            "flags": {
-                "team1": "france",
-                "team2": "turkey"
-            },
-            "time": "19:45",
-            "date": "2025-10-28",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "      Valencia    vs    Fenerbahce      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "turkey"
-            },
-            "time": "20:00",
-            "date": "2025-10-28",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 7",
-            "match": "      Olympiacos    vs    Monaco Basket      ",
+            "match": "     Olympiacos   vs   Monaco Basket     ",
             "flags": {
                 "team1": "greece",
                 "team2": "monaco"
             },
             "time": "19:15",
-            "date": "2025-10-29",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "date": "2025-10-29"
         },
         {
-            "compet": "ULEB Euroleague - Round 8",
-            "match": "      Zalgiris Kaunas    vs    Asvel Villeurbanne      ",
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Panathinaikos   vs   Asvel Villeurbanne     ",
             "flags": {
-                "team1": "lithuania",
+                "team1": "greece",
                 "team2": "france"
             },
-            "time": "18:00",
-            "date": "2025-10-30",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "time": "18:15",
+            "date": "2025-10-15"
         },
         {
-            "compet": "ULEB Euroleague - Round 8",
-            "match": "      Bayern Munich    vs    Virtus Bologna      ",
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Paris Basketball   vs   Anadolu Efes     ",
             "flags": {
-                "team1": "germany",
-                "team2": "italy"
-            },
-            "time": "19:30",
-            "date": "2025-10-30",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 8",
-            "match": "      Olimpia Milano    vs    Paris Basketball      ",
-            "flags": {
-                "team1": "italy",
-                "team2": "france"
-            },
-            "time": "19:30",
-            "date": "2025-10-30",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 8",
-            "match": "      Valencia    vs    Dubai Basketball      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "uae"
-            },
-            "time": "19:30",
-            "date": "2025-10-30",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 8",
-            "match": "      Monaco Basket    vs    Panathinaikos      ",
-            "flags": {
-                "team1": "monaco",
-                "team2": "greece"
-            },
-            "time": "18:00",
-            "date": "2025-10-31",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
-        },
-        {
-            "compet": "ULEB Euroleague - Round 8",
-            "match": "      Baskonia    vs    Anadolu Efes      ",
-            "flags": {
-                "team1": "spain",
+                "team1": "france",
                 "team2": "turkey"
             },
-            "time": "19:30",
-            "date": "2025-10-31",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "time": "19:45",
+            "date": "2025-10-28"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Paris Basketball   vs   Baskonia     ",
+            "flags": {
+                "team1": "france",
+                "team2": "spain"
+            },
+            "time": "18:45",
+            "date": "2025-10-15"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Paris Basketball   vs   Virtus Bologna     ",
+            "flags": {
+                "team1": "france",
+                "team2": "italy"
+            },
+            "time": "18:45",
+            "date": "2025-10-09"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Partizan Belgrade   vs   Anadolu Efes     ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2025-10-09"
         },
         {
             "compet": "ULEB Euroleague - Round 8",
-            "match": "      Partizan Belgrade    vs    Barcelona      ",
+            "match": "     Partizan Belgrade   vs   Barcelona     ",
             "flags": {
                 "team1": "serbia",
                 "team2": "spain"
             },
             "time": "19:30",
-            "date": "2025-10-31",
-            "channels": [
-                {
-                    "channel": "EuroLeague TV",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://tv.euroleague.net/"
-                }
-            ]
+            "date": "2025-10-31"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 6",
+            "match": "     Partizan Belgrade   vs   Paris Basketball     ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "france"
+            },
+            "time": "18:30",
+            "date": "2025-10-24"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 3",
+            "match": "     Real Madrid   vs   Asvel Villeurbanne     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2025-10-09"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Real Madrid   vs   Partizan Belgrade     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "serbia"
+            },
+            "time": "18:45",
+            "date": "2025-10-15"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Red Star Belgrade   vs   Asvel Villeurbanne     ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2025-10-28"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 6",
+            "match": "     Red Star Belgrade   vs   Baskonia     ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "spain"
+            },
+            "time": "18:00",
+            "date": "2025-10-23"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 5",
+            "match": "     Red Star Belgrade   vs   Real Madrid     ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "spain"
+            },
+            "time": "17:00",
+            "date": "2025-10-17"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Red Star Belgrade   vs   Zalgiris Kaunas     ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "lithuania"
+            },
+            "time": "18:00",
+            "date": "2025-10-14"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 8",
+            "match": "     Valencia   vs   Dubai Basketball     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "uae"
+            },
+            "time": "19:30",
+            "date": "2025-10-30"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Valencia   vs   Fenerbahce     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "turkey"
+            },
+            "time": "20:00",
+            "date": "2025-10-28"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 4",
+            "match": "     Virtus Bologna   vs   Monaco Basket     ",
+            "flags": {
+                "team1": "italy",
+                "team2": "monaco"
+            },
+            "time": "18:30",
+            "date": "2025-10-15"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 6",
+            "match": "     Virtus Bologna   vs   Panathinaikos     ",
+            "flags": {
+                "team1": "italy",
+                "team2": "greece"
+            },
+            "time": "18:00",
+            "date": "2025-10-24"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 8",
+            "match": "     Zalgiris Kaunas   vs   Asvel Villeurbanne     ",
+            "flags": {
+                "team1": "lithuania",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2025-10-30"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 5",
+            "match": "     Zalgiris Kaunas   vs   Olimpia Milano     ",
+            "flags": {
+                "team1": "lithuania",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2025-10-16"
+        },
+        {
+            "compet": "ULEB Euroleague - Round 7",
+            "match": "     Zalgiris Kaunas   vs   Virtus Bologna     ",
+            "flags": {
+                "team1": "lithuania",
+                "team2": "italy"
+            },
+            "time": "18:00",
+            "date": "2025-10-28"
         }
     ]
 }

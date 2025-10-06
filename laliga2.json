@@ -1,819 +1,234 @@
 {
     "footonsat": [
         {
+            "compet": "Spanish La Liga 2 - Week 9",
+            "match": "     Albacete   vs   Ceuta     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "12:00",
+            "date": "2025-10-12"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 9",
+            "match": "     Almería   vs   Real Zaragoza     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:30",
+            "date": "2025-10-11"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Andorra   vs   Granada     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "18:30",
+            "date": "2025-10-17"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 9",
+            "match": "     Burgos   vs   Real Valladolid     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:30",
+            "date": "2025-10-12"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Castellón   vs   Albacete     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "14:15",
+            "date": "2025-10-19"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Ceuta   vs   Mirandés     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "14:15",
+            "date": "2025-10-18"
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 8",
-            "match": "      Cultural Leonesa    vs    Albacete      ",
+            "match": "     Cultural Leonesa   vs   Albacete     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "18:30",
-            "date": "2025-10-06",
-            "channels": [
-                {
-                    "channel": "Arena Premium 3 BiH HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Premium 5 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 2 Slovenija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 3 Hrvatska HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "MATCH! Futbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Megogo Futbol 1",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html"
-                },
-                {
-                    "channel": "Megogo Sport Ukraine HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html"
-                }
-            ]
+            "date": "2025-10-06"
         },
         {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Granada    vs    Las Palmas      ",
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Cádiz   vs   Burgos     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "18:30",
-            "date": "2025-10-10",
-            "channels": [
-                {
-                    "channel": "Arena Sport 1 Hrvatska HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 1 Slovenija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 7 Srbija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Canal Sur Andalucía",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "GOL España HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://www.goltelevision.com/en-directo"
-                },
-                {
-                    "channel": "GolStadium",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://app.golstadium.com/football"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "MATCH! Futbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Megogo Futbol 8",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Premier Sports GB Player HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://www.premiersports.com/fr/live-now-on-demand"
-                },
-                {
-                    "channel": "TEN TV España HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "TV Canaria",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-20"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Mirandés    vs    Leganés      ",
+            "match": "     Cádiz   vs   Huesca     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:30",
+            "date": "2025-10-12"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Córdoba   vs   Almería     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:30",
+            "date": "2025-10-19"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 9",
+            "match": "     Córdoba   vs   Cultural Leonesa     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "18:30",
+            "date": "2025-10-13"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 9",
+            "match": "     Eibar   vs   Castellón     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "14:15",
-            "date": "2025-10-11",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-12"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Almería    vs    Real Zaragoza      ",
+            "match": "     Granada   vs   Las Palmas     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "16:30",
-            "date": "2025-10-11",
-            "channels": [
-                {
-                    "channel": "Arena Sport 1x2 Srbija",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 3 Hrvatska HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 5 BiH HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "beIN Sports MENA 5 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "MATCH! Futbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Megogo Futbol 4",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Orange Fútbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "time": "18:30",
+            "date": "2025-10-10"
         },
         {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Real Sociedad II    vs    Andorra      ",
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Las Palmas   vs   Eibar     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "16:30",
-            "date": "2025-10-11",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "time": "19:00",
+            "date": "2025-10-19"
         },
         {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Albacete    vs    Ceuta      ",
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Leganés   vs   Málaga     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "12:00",
-            "date": "2025-10-12",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-19"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Eibar    vs    Castellón      ",
+            "match": "     Mirandés   vs   Leganés     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "14:15",
-            "date": "2025-10-12",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-11"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Sporting Gijón    vs    Racing Santander      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "14:15",
-            "date": "2025-10-12",
-            "channels": [
-                {
-                    "channel": "Arena Sport 2 Hrvatska HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 2 Slovenija HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Arena Sport 3 BiH HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "beIN Sports France 4 HD max",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "MATCH! Futbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Megogo Futbol 3",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Orange Fútbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Burgos    vs    Real Valladolid      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:30",
-            "date": "2025-10-12",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Cádiz    vs    Huesca      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:30",
-            "date": "2025-10-12",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Málaga    vs    Deportivo La Coruña      ",
+            "match": "     Málaga   vs   Deportivo La Coruña     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "19:00",
-            "date": "2025-10-12",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Orange Fútbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-12"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Racing Santander   vs   Deportivo La Coruña     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:30",
+            "date": "2025-10-19"
         },
         {
             "compet": "Spanish La Liga 2 - Week 9",
-            "match": "      Córdoba    vs    Cultural Leonesa      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2025-10-13",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Andorra    vs    Granada      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2025-10-17",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Ceuta    vs    Mirandés      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "14:15",
-            "date": "2025-10-18",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Real Zaragoza    vs    Cultural Leonesa      ",
+            "match": "     Real Sociedad II   vs   Andorra     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "16:30",
-            "date": "2025-10-18",
-            "channels": [
-                {
-                    "channel": "Aragon Deporte Stream",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://www.cartv.es/aragondeporte/directo"
-                },
-                {
-                    "channel": "Aragón TV HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "GOL España HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://www.goltelevision.com/en-directo"
-                },
-                {
-                    "channel": "GolStadium",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "https://app.golstadium.com/football"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "TEN TV España HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-11"
         },
         {
             "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Real Sociedad II    vs    Huesca      ",
+            "match": "     Real Sociedad II   vs   Huesca     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "19:00",
-            "date": "2025-10-18",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-18"
         },
         {
             "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Leganés    vs    Málaga      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "12:00",
-            "date": "2025-10-19",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Orange Fútbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Castellón    vs    Albacete      ",
+            "match": "     Real Valladolid   vs   Sporting Gijón     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "14:15",
-            "date": "2025-10-19",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-19"
         },
         {
             "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Real Valladolid    vs    Sporting Gijón      ",
+            "match": "     Real Zaragoza   vs   Cultural Leonesa     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "16:30",
+            "date": "2025-10-18"
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 9",
+            "match": "     Sporting Gijón   vs   Racing Santander     ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
             "time": "14:15",
-            "date": "2025-10-19",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Orange Fútbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Córdoba    vs    Almería      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:30",
-            "date": "2025-10-19",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Racing Santander    vs    Deportivo La Coruña      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:30",
-            "date": "2025-10-19",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "Orange Fútbol 2 HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Las Palmas    vs    Eibar      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2025-10-19",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 10",
-            "match": "      Cádiz    vs    Burgos      ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2025-10-20",
-            "channels": [
-                {
-                    "channel": "DAZN España",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                },
-                {
-                    "channel": "LaLiga Hypermotion HD",
-                    "sat": "unknown",
-                    "freq": "unknown",
-                    "encry": "",
-                    "link": "#"
-                }
-            ]
+            "date": "2025-10-12"
         }
     ]
 }
