@@ -1,23 +1,7 @@
 {
     "footonsat": [
         {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "unknown",
-            "freq": "unknown",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ettifaq   vs   Al Hilal     "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "unknown",
-            "freq": "unknown",
-            "encry": "",
-            "link": "#",
-            "related_to": "     Al Ittihad   vs   Al Hilal     "
-        },
-        {
-            "compet": "Saudi Professional League - Week 5",
+            "compet": "Al Ettifaq v Al HilalST: 09:45Sportdigital FUSSBALL HD",
             "match": "     Al Ettifaq   vs   Al Hilal     ",
             "flags": {
                 "team1": "saudiarabia",
@@ -27,7 +11,15 @@
             "date": "2025-10-18"
         },
         {
-            "compet": "Saudi Professional League - Week 6",
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ettifaq   vs   Al Hilal     "
+        },
+        {
+            "compet": "Al Ittihad v Al HilalST: 13:00Sportdigital FUSSBALL HD",
             "match": "     Al Ittihad   vs   Al Hilal     ",
             "flags": {
                 "team1": "saudiarabia",
@@ -35,6 +27,14 @@
             },
             "time": "18:00",
             "date": "2025-10-24"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "#",
+            "related_to": "     Al Ittihad   vs   Al Hilal     "
         }
     ]
 }
