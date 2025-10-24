@@ -35,11 +35,35 @@
             "related_to": "     Huesca   vs   Las Palmas     "
         },
         {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": "     Huesca   vs   Las Palmas     "
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Huesca   vs   Las Palmas     "
+        },
+        {
             "channel": "GOL España HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 - -",
             "encry": "NagraVision",
             "link": "https://www.goltelevision.com/en-directo",
+            "related_to": "     Huesca   vs   Las Palmas     "
+        },
+        {
+            "channel": "Megogo Futbol 4",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": "     Huesca   vs   Las Palmas     "
         },
         {
@@ -101,6 +125,14 @@
             "related_to": "     Granada   vs   Cádiz     "
         },
         {
+            "channel": "Megogo Futbol 6",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Granada   vs   Cádiz     "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 11",
             "match": "     Málaga   vs   Andorra     ",
             "flags": {
@@ -138,6 +170,24 @@
         },
         {
             "compet": "Spanish La Liga 2 - Week 11",
+            "match": "     Sporting Gijón   vs   Real Zaragoza     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2025-10-26"
+        },
+        {
+            "channel": "Megogo Futbol 8",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Sporting Gijón   vs   Real Zaragoza     "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 11",
             "match": "     Deportivo La Coruña   vs   Real Valladolid     ",
             "flags": {
                 "team1": "spain",
@@ -147,9 +197,9 @@
             "date": "2025-10-26"
         },
         {
-            "channel": "beIN Sports France 5 HD max",
+            "channel": "beIN Sports France 7 HD max",
             "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
+            "freq": "11895 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": "     Deportivo La Coruña   vs   Real Valladolid     "
@@ -161,6 +211,40 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": "     Deportivo La Coruña   vs   Real Valladolid     "
+        },
+        {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Deportivo La Coruña   vs   Real Valladolid     "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 10",
+            "match": "     Real Sociedad II   vs   Huesca     ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2025-11-05"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Real Sociedad II   vs   Huesca     "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": "     Real Sociedad II   vs   Huesca     "
         }
     ]
 }
