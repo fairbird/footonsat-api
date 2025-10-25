@@ -2,40 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga Portugal - Week 9",
-            "match": "     Alverca   vs   Gil Vicente     ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:15",
-            "date": "2025-10-24"
-        },
-        {
-            "channel": "Cosmote Sport 7 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": "     Alverca   vs   Gil Vicente     "
-        },
-        {
-            "channel": "Megogo Futbol 5",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": "     Alverca   vs   Gil Vicente     "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": "     Alverca   vs   Gil Vicente     "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 9",
             "match": "     Santa Clara   vs   AVS Futebol     ",
             "flags": {
                 "team1": "portugal",
@@ -45,10 +11,26 @@
             "date": "2025-10-25"
         },
         {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Santa Clara   vs   AVS Futebol     "
+        },
+        {
             "channel": "Megogo Futbol 5",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": "     Santa Clara   vs   AVS Futebol     "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": "     Santa Clara   vs   AVS Futebol     "
         },
@@ -63,10 +45,26 @@
             "date": "2025-10-25"
         },
         {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Benfica   vs   Arouca     "
+        },
+        {
             "channel": "beIN Sports France 5 HD max",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Benfica   vs   Arouca     "
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Benfica   vs   Arouca     "
         },
@@ -83,6 +81,14 @@
             "sat": "KazSat 3 58.5°e",
             "freq": "10720 H 30000 - 3/4",
             "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": "     Benfica   vs   Arouca     "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Benfica   vs   Arouca     "
         },
@@ -109,6 +115,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": "     Estrela Amadora   vs   Rio Ave     "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": "     Estrela Amadora   vs   Rio Ave     "
         },
@@ -165,6 +179,14 @@
             "related_to": "     Tondela   vs   Sporting Lisbon     "
         },
         {
+            "channel": "Cosmote Sport 6 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Tondela   vs   Sporting Lisbon     "
+        },
+        {
             "channel": "Megogo Futbol 4",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -178,6 +200,22 @@
             "freq": "12285 V 30000 - 2/3",
             "encry": "FTA",
             "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": "     Tondela   vs   Sporting Lisbon     "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Tondela   vs   Sporting Lisbon     "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": "     Tondela   vs   Sporting Lisbon     "
         },
         {
@@ -207,10 +245,34 @@
             "related_to": "     Sporting Braga   vs   Casa Pia     "
         },
         {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Sporting Braga   vs   Casa Pia     "
+        },
+        {
             "channel": "Megogo Futbol 4",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": "     Sporting Braga   vs   Casa Pia     "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Sporting Braga   vs   Casa Pia     "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Sporting Braga   vs   Casa Pia     "
         },
@@ -239,6 +301,68 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": "     Moreirense   vs   FC Porto     "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 10",
+            "match": "     Sporting Lisbon   vs   Alverca     ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:15",
+            "date": "2025-10-31"
+        },
+        {
+            "channel": "Thriller TV+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Sporting Lisbon   vs   Alverca     "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 10",
+            "match": "     Vitória Guimarães   vs   Benfica     ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2025-11-01"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Vitória Guimarães   vs   Benfica     "
+        },
+        {
+            "channel": "Thriller TV+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     Vitória Guimarães   vs   Benfica     "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 10",
+            "match": "     FC Porto   vs   Sporting Braga     ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2025-11-02"
+        },
+        {
+            "channel": "Thriller TV+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": "     FC Porto   vs   Sporting Braga     "
         }
     ]
 }
