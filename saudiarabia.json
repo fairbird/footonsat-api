@@ -61,6 +61,14 @@
             "related_to": "     Al Ahli    vs    Al Riyadh     "
         },
         {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Al Ahli    vs    Al Riyadh     "
+        },
+        {
             "channel": "DAZN France",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -257,6 +265,22 @@
             "related_to": "     Al Hilal    vs    Al Shabab     "
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Al Hilal    vs    Al Shabab     "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Al Hilal    vs    Al Shabab     "
+        },
+        {
             "channel": "MAX Sport 4 Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "11475 V 30000 - 5/6",
@@ -285,6 +309,14 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Al Hilal    vs    Al Shabab     "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": "     Al Hilal    vs    Al Shabab     "
         },
@@ -345,6 +377,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": "     Al Nassr    vs    Al Fayha     "
+        },
+        {
+            "compet": "Saudi Professional League - Week 8",
+            "match": "     NEOM SC    vs    Al Nassr     ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "13:50",
+            "date": "2025-11-08"
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     NEOM SC    vs    Al Nassr     "
         }
     ]
 }
