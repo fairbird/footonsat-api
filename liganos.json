@@ -153,6 +153,14 @@
             "related_to": "     Santa Clara    vs    Sporting Lisbon     "
         },
         {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Santa Clara    vs    Sporting Lisbon     "
+        },
+        {
             "channel": "Megogo Futbol 4",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -311,6 +319,14 @@
             "related_to": "     Famalicão    vs    FC Porto     "
         },
         {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Famalicão    vs    FC Porto     "
+        },
+        {
             "channel": "Megogo Futbol 4",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -421,6 +437,14 @@
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Benfica    vs    Casa Pia     "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": "     Benfica    vs    Casa Pia     "
         },
@@ -537,6 +561,60 @@
             "encry": "",
             "link": "",
             "related_to": "     Sporting Braga    vs    Moreirense     "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 12",
+            "match": "     Nacional Madeira    vs    Benfica     ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Nacional Madeira    vs    Benfica     "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 12",
+            "match": "     Sporting Lisbon    vs    Estrela Amadora     ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Sporting Lisbon    vs    Estrela Amadora     "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 12",
+            "match": "     FC Porto    vs    Estoril     ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     FC Porto    vs    Estoril     "
         }
     ]
 }
