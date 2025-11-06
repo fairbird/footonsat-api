@@ -43,6 +43,14 @@
             "related_to": "     Twente    vs    Telstar     "
         },
         {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Twente    vs    Telstar     "
+        },
+        {
             "channel": "Sport TV2 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -245,6 +253,14 @@
             "related_to": "     Utrecht    vs    Ajax     "
         },
         {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Utrecht    vs    Ajax     "
+        },
+        {
             "channel": "Nova Sports Prime Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12130 H 27500 - 3/4",
@@ -257,6 +273,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": "     Utrecht    vs    Ajax     "
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": "     Utrecht    vs    Ajax     "
         },
@@ -417,6 +441,14 @@
             "related_to": "     AZ Alkmaar    vs    PSV Eindhoven     "
         },
         {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     AZ Alkmaar    vs    PSV Eindhoven     "
+        },
+        {
             "channel": "Nova Sports 6 Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11804 V 29700 - 3/4",
@@ -547,6 +579,14 @@
             "related_to": "     Go Ahead Eagles    vs    Feyenoord     "
         },
         {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Go Ahead Eagles    vs    Feyenoord     "
+        },
+        {
             "channel": "Nova Sports 4 Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12169 H 27500 - 3/4",
@@ -605,6 +645,22 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     NAC Breda    vs    PSV Eindhoven     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     NAC Breda    vs    PSV Eindhoven     "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
@@ -623,12 +679,82 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Ajax    vs    Excelsior     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Ajax    vs    Excelsior     "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Ajax    vs    Excelsior     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 13",
+            "match": "     Volendam    vs    Twente     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Volendam    vs    Twente     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 13",
+            "match": "     Heracles Almelo    vs    Go Ahead Eagles     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "20:00",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Heracles Almelo    vs    Go Ahead Eagles     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 13",
+            "match": "     Sparta Rotterdam    vs    Fortuna Sittard     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "20:00",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Sparta Rotterdam    vs    Fortuna Sittard     "
         },
         {
             "compet": "Dutch Eredivisie - Week 13",
@@ -639,6 +765,22 @@
             },
             "time": "11:15",
             "date": "2025-11-23"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Heerenveen    vs    AZ Alkmaar     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Heerenveen    vs    AZ Alkmaar     "
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -675,6 +817,22 @@
             "date": "2025-11-23"
         },
         {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Feyenoord    vs    NEC Nijmegen     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Feyenoord    vs    NEC Nijmegen     "
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "sat": "Astra 2F 28.2°e",
             "freq": "12188 H 27500 - 3/4",
@@ -697,6 +855,114 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": "     Feyenoord    vs    NEC Nijmegen     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 13",
+            "match": "     Telstar    vs    Utrecht     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "13:30",
+            "date": "2025-11-23"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Telstar    vs    Utrecht     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 13",
+            "match": "     Groningen    vs    PEC Zwolle     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2025-11-23"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Groningen    vs    PEC Zwolle     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 14",
+            "match": "     PEC Zwolle    vs    Heerenveen     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2025-11-28"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     PEC Zwolle    vs    Heerenveen     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 14",
+            "match": "     Excelsior    vs    NAC Breda     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:30",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Excelsior    vs    NAC Breda     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 14",
+            "match": "     Fortuna Sittard    vs    Heracles Almelo     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "17:45",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Fortuna Sittard    vs    Heracles Almelo     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 14",
+            "match": "     NEC Nijmegen    vs    Sparta Rotterdam     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "20:00",
+            "date": "2025-11-29"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     NEC Nijmegen    vs    Sparta Rotterdam     "
         },
         {
             "compet": "Dutch Eredivisie - Week 14",
@@ -709,6 +975,22 @@
             "date": "2025-11-30"
         },
         {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     PSV Eindhoven    vs    Volendam     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     PSV Eindhoven    vs    Volendam     "
+        },
+        {
             "channel": "Premier Sports 2 Ireland HD",
             "sat": "Astra 2F 28.2°e",
             "freq": "12188 H 27500 - 3/4",
@@ -734,6 +1016,76 @@
         },
         {
             "compet": "Dutch Eredivisie - Week 14",
+            "match": "     Go Ahead Eagles    vs    Utrecht     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "13:30",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Go Ahead Eagles    vs    Utrecht     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 14",
+            "match": "     Telstar    vs    Feyenoord     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "13:30",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Telstar    vs    Feyenoord     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Telstar    vs    Feyenoord     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 14",
+            "match": "     Twente    vs    AZ Alkmaar     ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "15:45",
+            "date": "2025-11-30"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Twente    vs    AZ Alkmaar     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Twente    vs    AZ Alkmaar     "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 14",
             "match": "     Ajax    vs    Groningen     ",
             "flags": {
                 "team1": "holland",
@@ -741,6 +1093,22 @@
             },
             "time": "19:00",
             "date": "2025-11-30"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Ajax    vs    Groningen     "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Ajax    vs    Groningen     "
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
