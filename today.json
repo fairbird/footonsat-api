@@ -72,6 +72,24 @@
         },
         {
             "compet": "Friendly International",
+            "match": "     Japan    vs    Ghana     ",
+            "flags": {
+                "team1": "japan",
+                "team2": "ghana"
+            },
+            "time": "10:20",
+            "date": "2025-11-14"
+        },
+        {
+            "channel": "TV3 Ghana",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12522 V 27000 - 7/8",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": "     Japan    vs    Ghana     "
+        },
+        {
+            "compet": "Friendly International",
             "match": "     South Korea    vs    Bolivia     ",
             "flags": {
                 "team1": "koreasouth",
@@ -181,40 +199,6 @@
             "encry": "-",
             "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": "     Switzerland U-17    vs    Egypt U-17     "
-        },
-        {
-            "compet": "Friendly International",
-            "match": "     Angola    vs    Argentina     ",
-            "flags": {
-                "team1": "angola",
-                "team2": "argentina"
-            },
-            "time": "13:00",
-            "date": "2025-11-14"
-        },
-        {
-            "channel": "TPA 1 Angola",
-            "sat": "Yamal 402 54.9°e",
-            "freq": "10962 V 05926 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": "     Angola    vs    Argentina     "
-        },
-        {
-            "channel": "TPA 2 Angola",
-            "sat": "Yamal 402 54.9°e",
-            "freq": "10962 V 05926 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": "     Angola    vs    Argentina     "
-        },
-        {
-            "channel": "TyC Sports Argentina",
-            "sat": "Intelsat 11 43.1°w",
-            "freq": "4030 V 24570 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": "     Angola    vs    Argentina     "
         },
         {
             "compet": "FIFA U-17 World Cup - Round of 32",
@@ -415,6 +399,108 @@
             "related_to": "     United States U-17    vs    Morocco U-17     "
         },
         {
+            "compet": "Friendly International",
+            "match": "     Angola    vs    Argentina     ",
+            "flags": {
+                "team1": "angola",
+                "team2": "argentina"
+            },
+            "time": "16:00",
+            "date": "2025-11-14"
+        },
+        {
+            "channel": "TPA 1 Angola",
+            "sat": "Yamal 402 54.9°e",
+            "freq": "10962 V 05926 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": "     Angola    vs    Argentina     "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Yamal 402 54.9°e",
+            "freq": "10962 V 05926 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": "     Angola    vs    Argentina     "
+        },
+        {
+            "channel": "TyC Sports Argentina",
+            "sat": "Intelsat 11 43.1°w",
+            "freq": "4030 V 24570 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": "     Angola    vs    Argentina     "
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Uzbekistan    vs    Egypt     ",
+            "flags": {
+                "team1": "uzbekistan",
+                "team2": "egypt"
+            },
+            "time": "16:00",
+            "date": "2025-11-14"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11411 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": "     Uzbekistan    vs    Egypt     "
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Uzbekistan    vs    Egypt     "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": "     Uzbekistan    vs    Egypt     "
+        },
+        {
+            "channel": "ON Sport 1 HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11862 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": "     Uzbekistan    vs    Egypt     "
+        },
+        {
+            "compet": "Friendly International",
+            "match": "     Tunisia    vs    Jordan     ",
+            "flags": {
+                "team1": "tunisia",
+                "team2": "jordan"
+            },
+            "time": "16:45",
+            "date": "2025-11-14"
+        },
+        {
+            "channel": "Jordan Sport HD 📺",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12399 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "http://www.jrtv.gov.jo/index.php/2013-12-26-13-08-46/2014-08-22-12-38-68",
+            "related_to": "     Tunisia    vs    Jordan     "
+        },
+        {
+            "channel": "Watania 1 HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12643 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": "     Tunisia    vs    Jordan     "
+        },
+        {
             "compet": "FIFA/UEFA WC 2026 Qualifiers - Group G, Round 9",
             "match": "     Finland    vs    Malta     ",
             "flags": {
@@ -580,6 +666,14 @@
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Finland    vs    Malta     "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Finland    vs    Malta     "
@@ -847,24 +941,6 @@
             "related_to": "     Türkiye U-21    vs    Ukraine U-21     "
         },
         {
-            "compet": "Friendly International",
-            "match": "     Uzbekistan    vs    Egypt     ",
-            "flags": {
-                "team1": "uzbekistan",
-                "team2": "egypt"
-            },
-            "time": "17:00",
-            "date": "2025-11-14"
-        },
-        {
-            "channel": "Abu Dhabi Sports 1 HD 📺",
-            "sat": "Eutelsat 7 West A 7.0°w",
-            "freq": "11411 H 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
-            "related_to": "     Uzbekistan    vs    Egypt     "
-        },
-        {
             "compet": "UEFA U-21 Championship 2027 Qualifiers",
             "match": "     Netherlands U-21    vs    Slovenia U-21     ",
             "flags": {
@@ -881,24 +957,6 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": "     Netherlands U-21    vs    Slovenia U-21     "
-        },
-        {
-            "compet": "Friendly International",
-            "match": "     Tunisia    vs    Jordan     ",
-            "flags": {
-                "team1": "tunisia",
-                "team2": "jordan"
-            },
-            "time": "17:30",
-            "date": "2025-11-14"
-        },
-        {
-            "channel": "Jordan Sport HD 📺",
-            "sat": "Eutelsat 7 West A 7.0°w",
-            "freq": "12399 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "http://www.jrtv.gov.jo/index.php/2013-12-26-13-08-46/2014-08-22-12-38-68",
-            "related_to": "     Tunisia    vs    Jordan     "
         },
         {
             "compet": "Spanish Liga F Femenino - Week 11",
@@ -1331,6 +1389,14 @@
             "related_to": "     Slovakia    vs    Northern Ireland     "
         },
         {
+            "channel": "Sony Sports TEN 3 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Slovakia    vs    Northern Ireland     "
+        },
+        {
             "channel": "Sport TV4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
@@ -1641,6 +1707,14 @@
             "sat": "Astra 5B 31.5°e",
             "freq": "12207 V 27500 - 5/6",
             "encry": "MPEG-4 Bulcrypt",
+            "link": "",
+            "related_to": "     Poland    vs    Netherlands     "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Poland    vs    Netherlands     "
         },
@@ -2137,6 +2211,14 @@
             "related_to": "     Croatia    vs    Faroe Islands     "
         },
         {
+            "channel": "Sony Sports TEN 5 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11840 V 32720 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Croatia    vs    Faroe Islands     "
+        },
+        {
             "channel": "Sport TV3 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -2495,6 +2577,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12054 H 29900 - 5/6",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": "     Luxembourg    vs    Germany     "
+        },
+        {
+            "channel": "Sony Sports TEN 1 India HD",
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11130 H 32720 - 2/3",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": "     Luxembourg    vs    Germany     "
         },
