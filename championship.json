@@ -85,6 +85,22 @@
             "date": "2025-11-22"
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Coventry City    vs    West Bromwich Albion     "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Coventry City    vs    West Bromwich Albion     "
+        },
+        {
             "channel": "Paramount+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -186,6 +202,40 @@
         },
         {
             "compet": "English Championship - Week 16",
+            "match": "     Birmingham City    vs    Norwich City     ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Birmingham City    vs    Norwich City     "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Birmingham City    vs    Norwich City     "
+        },
+        {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Birmingham City    vs    Norwich City     "
+        },
+        {
+            "compet": "English Championship - Week 16",
             "match": "     Ipswich Town    vs    Wrexham     ",
             "flags": {
                 "team1": "england",
@@ -219,24 +269,6 @@
             "encry": "",
             "link": "",
             "related_to": "     Leicester City    vs    Stoke City     "
-        },
-        {
-            "compet": "English Championship - Week 16",
-            "match": "     Birmingham City    vs    Norwich City     ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2025-11-22"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": "     Birmingham City    vs    Norwich City     "
         },
         {
             "compet": "English Championship - Week 16",
