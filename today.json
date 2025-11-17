@@ -1,6 +1,24 @@
 {
     "footonsat": [
         {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": "     Kazakhstan U-21    vs    Moldova U-21     ",
+            "flags": {
+                "team1": "kazstan",
+                "team2": "moldova"
+            },
+            "time": "14:30",
+            "date": "2025-11-17"
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": "     Kazakhstan U-21    vs    Moldova U-21     "
+        },
+        {
             "compet": "Friendly International",
             "match": "     Finland    vs    Andorra     ",
             "flags": {
@@ -15,6 +33,14 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Finland    vs    Andorra     "
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": "     Finland    vs    Andorra     "
         },
@@ -35,6 +61,14 @@
             "related_to": "     Finland    vs    Andorra     "
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": "     Finland    vs    Andorra     "
+        },
+        {
             "channel": "Sport 2 Czechia HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12090 V 29900 - 3/4",
@@ -43,9 +77,33 @@
             "related_to": "     Finland    vs    Andorra     "
         },
         {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": "     Finland    vs    Andorra     "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": "     Finland    vs    Andorra     "
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Finland    vs    Andorra     "
+        },
+        {
+            "channel": "YLE TV2 Suomi HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 H 25000 - 3/4",
             "encry": "HD Conax",
             "link": "",
             "related_to": "     Finland    vs    Andorra     "
@@ -227,11 +285,43 @@
             "related_to": "     Northern Ireland    vs    Luxembourg     "
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": "     Northern Ireland    vs    Luxembourg     "
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Northern Ireland    vs    Luxembourg     "
+        },
+        {
             "channel": "Optus Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://sport.optus.com.au/",
+            "related_to": "     Northern Ireland    vs    Luxembourg     "
+        },
+        {
+            "channel": "Polsat Sport Extra 4 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10911 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Northern Ireland    vs    Luxembourg     "
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": "     Northern Ireland    vs    Luxembourg     "
         },
         {
@@ -341,6 +431,14 @@
             "related_to": "     Malta    vs    Poland     "
         },
         {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": "     Malta    vs    Poland     "
+        },
+        {
             "channel": "EXXEN Digital Türkiye📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -365,6 +463,14 @@
             "related_to": "     Malta    vs    Poland     "
         },
         {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Malta    vs    Poland     "
+        },
+        {
             "channel": "Optus Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -378,6 +484,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
+            "related_to": "     Malta    vs    Poland     "
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": "     Malta    vs    Poland     "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": "     Malta    vs    Poland     "
         },
         {
@@ -477,6 +599,14 @@
             "related_to": "     Malta    vs    Poland     "
         },
         {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": "     Malta    vs    Poland     "
+        },
+        {
             "compet": "FIFA/UEFA WC 2026 Qualifiers - Group L, Round 10",
             "match": "     Montenegro    vs    Croatia     ",
             "flags": {
@@ -487,10 +617,42 @@
             "date": "2025-11-17"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "Cytavision Sports 6 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": "     Montenegro    vs    Croatia     "
         },
@@ -511,11 +673,35 @@
             "related_to": "     Montenegro    vs    Croatia     "
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "Digi Sport 3 Romania",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
             "channel": "EXXEN Digital Türkiye📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.exxen.com/en",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "Fast Sports 2 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
             "related_to": "     Montenegro    vs    Croatia     "
         },
         {
@@ -543,11 +729,43 @@
             "related_to": "     Montenegro    vs    Croatia     "
         },
         {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "Nova TV Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
             "channel": "Optus Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://sport.optus.com.au/",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "Polsat Sport Premium 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
             "related_to": "     Montenegro    vs    Croatia     "
         },
         {
@@ -562,6 +780,22 @@
             "channel": "Sport 2 Czechia HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Montenegro    vs    Croatia     "
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
             "link": "",
             "related_to": "     Montenegro    vs    Croatia     "
@@ -689,6 +923,14 @@
             "related_to": "     Czechia    vs    Gibraltar     "
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": "     Czechia    vs    Gibraltar     "
+        },
+        {
             "channel": "MTV Katsomon+📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -697,11 +939,43 @@
             "related_to": "     Czechia    vs    Gibraltar     "
         },
         {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Czechia    vs    Gibraltar     "
+        },
+        {
             "channel": "Optus Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://sport.optus.com.au/",
+            "related_to": "     Czechia    vs    Gibraltar     "
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Czechia    vs    Gibraltar     "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": "     Czechia    vs    Gibraltar     "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": "     Czechia    vs    Gibraltar     "
         },
         {
@@ -771,10 +1045,26 @@
             "date": "2025-11-17"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": "     Netherlands    vs    Lithuania     "
         },
@@ -795,11 +1085,35 @@
             "related_to": "     Netherlands    vs    Lithuania     "
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
             "channel": "EXXEN Digital Türkiye📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.exxen.com/en",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "Fast Sports 1 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
             "related_to": "     Netherlands    vs    Lithuania     "
         },
         {
@@ -831,7 +1145,23 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
             "related_to": "     Netherlands    vs    Lithuania     "
         },
         {
@@ -867,6 +1197,38 @@
             "related_to": "     Netherlands    vs    Lithuania     "
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
             "channel": "SuperSport GOtv Africa",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -896,6 +1258,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": "     Netherlands    vs    Lithuania     "
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": "     Netherlands    vs    Lithuania     "
         },
         {
@@ -949,6 +1319,14 @@
             "date": "2025-11-17"
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
@@ -961,6 +1339,38 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11862 H 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "",
             "related_to": "     Germany    vs    Slovakia     "
         },
@@ -981,6 +1391,14 @@
             "related_to": "     Germany    vs    Slovakia     "
         },
         {
+            "channel": "Fast Sports TV Armenia 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
             "channel": "L´Équipe Live Foot📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -993,7 +1411,23 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
             "related_to": "     Germany    vs    Slovakia     "
         },
         {
@@ -1002,6 +1436,22 @@
             "freq": "0000",
             "encry": "",
             "link": "https://sport.optus.com.au/",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
             "related_to": "     Germany    vs    Slovakia     "
         },
         {
@@ -1021,11 +1471,59 @@
             "related_to": "     Germany    vs    Slovakia     "
         },
         {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
             "channel": "SRF Zwei Schweiz HD 📺",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "10971 H 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
             "related_to": "     Germany    vs    Slovakia     "
         },
         {
@@ -1053,6 +1551,14 @@
             "related_to": "     Germany    vs    Slovakia     "
         },
         {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
             "channel": "TV2 Sport X Dansk HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10716 H 25000 - 3/4",
@@ -1073,6 +1579,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Germany    vs    Slovakia     "
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": "     Germany    vs    Slovakia     "
         },
