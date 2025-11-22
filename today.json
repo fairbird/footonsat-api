@@ -4071,6 +4071,14 @@
             "related_to": "     Borussia Dortmund    vs    Stuttgart     "
         },
         {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12399 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": "     Borussia Dortmund    vs    Stuttgart     "
+        },
+        {
             "channel": "Nova Sport 6 Czech HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12090 V 29900 - 3/4",
@@ -8225,6 +8233,14 @@
             "related_to": "     NAC Breda    vs    PSV Eindhoven     "
         },
         {
+            "channel": "Dubai Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
+            "related_to": "     NAC Breda    vs    PSV Eindhoven     "
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -11279,6 +11295,14 @@
             "related_to": "     Ajax    vs    Excelsior     "
         },
         {
+            "channel": "Dubai Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
+            "related_to": "     Ajax    vs    Excelsior     "
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -12839,6 +12863,14 @@
             "related_to": "     St Mirren    vs    Celtic     "
         },
         {
+            "channel": "Sharjah Sports HD 📺",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": "     St Mirren    vs    Celtic     "
+        },
+        {
             "channel": "Sky Go UK",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -13919,6 +13951,24 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Botafogo    vs    Grêmio     "
+        },
+        {
+            "compet": "Argentinean Primera División - Clausura Play-Offs",
+            "match": "     Vélez Sarsfield    vs    Argentinos Juniors     ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "23:00",
+            "date": "2025-11-22"
+        },
+        {
+            "channel": "Dubai Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
+            "related_to": "     Vélez Sarsfield    vs    Argentinos Juniors     "
         }
     ]
 }
