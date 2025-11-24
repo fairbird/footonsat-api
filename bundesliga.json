@@ -727,6 +727,14 @@
             "date": "2025-11-30"
         },
         {
+            "channel": "beIN Sports Australia 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Hamburg    vs    Stuttgart     "
+        },
+        {
             "channel": "beIN Sports France 5 HD max",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
@@ -953,6 +961,14 @@
             },
             "time": "18:30",
             "date": "2025-11-30"
+        },
+        {
+            "channel": "beIN Sports Australia 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Freiburg    vs    Mainz 05     "
         },
         {
             "channel": "DAZN 1 Bar Deutsch HD",
@@ -2427,6 +2443,14 @@
             "related_to": "     Stuttgart    vs    Union Berlin     "
         },
         {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Stuttgart    vs    Union Berlin     "
+        },
+        {
             "compet": "German 1. Bundesliga - Week 18",
             "match": "     Augsburg    vs    Freiburg     ",
             "flags": {
@@ -2442,6 +2466,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": "     Augsburg    vs    Freiburg     "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
             "related_to": "     Augsburg    vs    Freiburg     "
         },
         {
@@ -2506,6 +2538,24 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 19",
+            "match": "     Bayern Munich    vs    Augsburg     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Bayern Munich    vs    Augsburg     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 19",
             "match": "     Eintracht Frankfurt    vs    Hoffenheim     ",
             "flags": {
                 "team1": "germany",
@@ -2557,6 +2607,246 @@
             "encry": "",
             "link": "https://onefootball.com/en/matches",
             "related_to": "     Mainz 05    vs    Wolfsburg     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 19",
+            "match": "     Union Berlin    vs    Borussia Dortmund     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Union Berlin    vs    Borussia Dortmund     "
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Union Berlin    vs    Borussia Dortmund     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 19",
+            "match": "     Mönchengladbach    vs    Stuttgart     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Mönchengladbach    vs    Stuttgart     "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Mönchengladbach    vs    Stuttgart     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 19",
+            "match": "     Freiburg    vs    FC Cologne     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Freiburg    vs    FC Cologne     "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": "     Freiburg    vs    FC Cologne     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     Augsburg    vs    St Pauli     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Augsburg    vs    St Pauli     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     Borussia Dortmund    vs    Heidenheim     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Borussia Dortmund    vs    Heidenheim     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     Eintracht Frankfurt    vs    Bayer Leverkusen     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Eintracht Frankfurt    vs    Bayer Leverkusen     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     FC Cologne    vs    Wolfsburg     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     FC Cologne    vs    Wolfsburg     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     Hamburg    vs    Bayern Munich     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Hamburg    vs    Bayern Munich     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     Hoffenheim    vs    Union Berlin     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Hoffenheim    vs    Union Berlin     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     RB Leipzig    vs    Mainz 05     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     RB Leipzig    vs    Mainz 05     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     Stuttgart    vs    Freiburg     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Stuttgart    vs    Freiburg     "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": "     Werder Bremen    vs    Mönchengladbach     ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-01-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": "     Werder Bremen    vs    Mönchengladbach     "
         }
     ]
 }
