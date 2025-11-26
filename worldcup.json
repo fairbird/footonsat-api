@@ -1,3 +1,38 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "FIFA/UEFA World Cup Play-Offs - Path D Semi Final",
+            "match": "     Czechia    vs    Ireland     ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "ireland"
+            },
+            "time": "20:00",
+            "date": "2026-03-26"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12344 H 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": "     Czechia    vs    Ireland     "
+        },
+        {
+            "channel": "RTÉ 2 Ireland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11914 H 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": "     Czechia    vs    Ireland     "
+        },
+        {
+            "channel": "RTÉ Player📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rte.ie/player/onnow",
+            "related_to": "     Czechia    vs    Ireland     "
+        }
+    ]
 }
