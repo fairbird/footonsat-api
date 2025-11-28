@@ -205,6 +205,14 @@
             "related_to": "     Manchester City    vs    Leeds United     "
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": "     Manchester City    vs    Leeds United     "
+        },
+        {
             "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1421,6 +1429,22 @@
             "related_to": "     Chelsea    vs    Arsenal     "
         },
         {
+            "channel": "M+ #Vamos Bar",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": "     Chelsea    vs    Arsenal     "
+        },
+        {
+            "channel": "M+ Vamos España HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": "     Chelsea    vs    Arsenal     "
+        },
+        {
             "channel": "See Dansk HD",
             "sat": "Thor 6 5.0°e",
             "freq": "11265 H 30000 - 3/4",
@@ -2160,112 +2184,6 @@
         },
         {
             "compet": "English Premier League - Week 14",
-            "match": "     Wolves    vs    Nottingham Forest     ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:30",
-            "date": "2025-12-03"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "FuboTV Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "Go3 Extra Sports Baltics📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "Sky Sports Cricket HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12090 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "channel": "VOYO Pro TV Romania📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": "     Wolves    vs    Nottingham Forest     "
-        },
-        {
-            "compet": "English Premier League - Week 14",
             "match": "     Burnley    vs    Crystal Palace     ",
             "flags": {
                 "team1": "england",
@@ -2377,6 +2295,112 @@
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
             "related_to": "     Burnley    vs    Crystal Palace     "
+        },
+        {
+            "compet": "English Premier League - Week 14",
+            "match": "     Wolves    vs    Nottingham Forest     ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:30",
+            "date": "2025-12-03"
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "FuboTV Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "Go3 Extra Sports Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "Sky Sports Cricket HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12090 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": "     Wolves    vs    Nottingham Forest     "
         },
         {
             "compet": "English Premier League - Week 14",
@@ -8314,6 +8338,32 @@
         },
         {
             "compet": "English Premier League - Week 24",
+            "match": "     Aston Villa    vs    Brentford     ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-02-01"
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": "     Aston Villa    vs    Brentford     "
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": "     Aston Villa    vs    Brentford     "
+        },
+        {
+            "compet": "English Premier League - Week 24",
             "match": "     Manchester United    vs    Fulham     ",
             "flags": {
                 "team1": "england",
@@ -8353,32 +8403,6 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": "     Manchester United    vs    Fulham     "
-        },
-        {
-            "compet": "English Premier League - Week 24",
-            "match": "     Aston Villa    vs    Brentford     ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-02-01"
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": "     Aston Villa    vs    Brentford     "
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": "     Aston Villa    vs    Brentford     "
         },
         {
             "compet": "English Premier League - Week 24",
