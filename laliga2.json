@@ -1,22 +1,40 @@
 {
     "footonsat": [
         {
-            "compet": "Spanish La Liga 2 - Week 16",
-            "match": " Real Zaragoza vs Leganés ",
+            "compet": "Spanish La Liga 2 - Week 17",
+            "match": " Málaga vs Real Zaragoza ",
             "flags": {
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "13:00",
-            "date": "2025-11-30"
+            "time": "19:30",
+            "date": "2025-12-08"
         },
         {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12605 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Zaragoza vs Leganés "
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Málaga vs Real Zaragoza "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 18",
+            "match": " Ceuta vs Las Palmas ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "20:00",
+            "date": "2025-12-14"
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Ceuta vs Las Palmas "
         }
     ]
 }
