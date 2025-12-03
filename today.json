@@ -37,14 +37,6 @@
             "related_to": " Atalanta vs Genoa "
         },
         {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0°e",
-            "freq": "12399 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Atalanta vs Genoa "
-        },
-        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2°e",
             "freq": "12188 H 27500 - 2/3",
@@ -401,6 +393,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10876 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " Athletic Bilbao vs Real Madrid "
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Athletic Bilbao vs Real Madrid "
         },
@@ -1137,6 +1137,14 @@
             "related_to": " Dundee United vs Rangers "
         },
         {
+            "channel": "Sharjah Sports 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Dundee United vs Rangers "
+        },
+        {
             "compet": "Scottish Premiership - Week 15",
             "match": " Celtic vs Dundee ",
             "flags": {
@@ -1429,6 +1437,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Liverpool vs Sunderland "
+        },
+        {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Liverpool vs Sunderland "
         },
