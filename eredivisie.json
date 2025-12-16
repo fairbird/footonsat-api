@@ -111,6 +111,14 @@
             "related_to": " PSV Eindhoven vs GVVV "
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " PSV Eindhoven vs GVVV "
+        },
+        {
             "compet": "Dutch Cup (KNVB Beker) - 4th Round",
             "match": " Excelsior Maassluis vs Ajax ",
             "flags": {
@@ -393,6 +401,14 @@
             "related_to": " NEC Nijmegen vs Ajax "
         },
         {
+            "channel": "GolStadium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://app.golstadium.com/football",
+            "related_to": " NEC Nijmegen vs Ajax "
+        },
+        {
             "channel": "Nova Sports 2 Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12130 H 27500 - 3/4",
@@ -506,6 +522,22 @@
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Utrecht vs PSV Eindhoven "
+        },
+        {
+            "channel": "GOL España HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": " Utrecht vs PSV Eindhoven "
+        },
+        {
+            "channel": "GolStadium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://app.golstadium.com/football",
             "related_to": " Utrecht vs PSV Eindhoven "
         },
         {
@@ -639,10 +671,26 @@
             "related_to": " Feyenoord vs Twente "
         },
         {
+            "channel": "GolStadium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://app.golstadium.com/football",
+            "related_to": " Feyenoord vs Twente "
+        },
+        {
             "channel": "Nova Sports 3 Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11823 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Feyenoord vs Twente "
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Feyenoord vs Twente "
         },
