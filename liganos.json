@@ -199,6 +199,14 @@
             "related_to": " Alverca vs FC Porto "
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Alverca vs FC Porto "
+        },
+        {
             "channel": "VG+ Sport Norge📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -237,6 +245,14 @@
             "sat": "Thor 5 0.8°w",
             "freq": "11785 H 28000 - 7/8",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " Benfica vs Famalicão "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Benfica vs Famalicão "
         },
@@ -307,12 +323,46 @@
             "related_to": " Vitória Guimarães vs Sporting Lisbon "
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Vitória Guimarães vs Sporting Lisbon "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Vitória Guimarães vs Sporting Lisbon "
+        },
+        {
             "channel": "Ziggo Sport 2",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "MPEG-4 Seca",
             "link": "",
             "related_to": " Vitória Guimarães vs Sporting Lisbon "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 16",
+            "match": " Famalicão vs Estrela Amadora ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2025-12-27"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Famalicão vs Estrela Amadora "
         },
         {
             "compet": "Portuguese Liga Portugal - Week 16",
@@ -359,6 +409,14 @@
             "related_to": " Sporting Braga vs Benfica "
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sporting Braga vs Benfica "
+        },
+        {
             "compet": "Portuguese Liga Portugal - Week 16",
             "match": " Sporting Lisbon vs Rio Ave ",
             "flags": {
@@ -373,6 +431,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 V 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sporting Lisbon vs Rio Ave "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Sporting Lisbon vs Rio Ave "
         },
@@ -393,6 +459,58 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Gil Vicente vs Sporting Lisbon "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Gil Vicente vs Sporting Lisbon "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 17",
+            "match": " Benfica vs Estoril ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-01-03"
+        },
+        {
+            "channel": "Benfica TV HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11304 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Benfica vs Estoril "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Estoril "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 17",
+            "match": " Santa Clara vs FC Porto ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-01-04"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Santa Clara vs FC Porto "
         }
     ]
 }
