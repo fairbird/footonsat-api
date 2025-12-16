@@ -11,6 +11,14 @@
             "date": "2025-12-19"
         },
         {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Estoril vs Sporting Braga "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -35,6 +43,14 @@
             },
             "time": "18:00",
             "date": "2025-12-20"
+        },
+        {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Gil Vicente vs Rio Ave "
         },
         {
             "channel": "Sport TV1 Portugal HD",
@@ -81,6 +97,14 @@
             "date": "2025-12-21"
         },
         {
+            "channel": "Megogo Futbol 6",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " AVS Futebol vs Nacional Madeira "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -117,6 +141,14 @@
             "date": "2025-12-21"
         },
         {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Santa Clara vs Arouca "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -135,10 +167,26 @@
             "date": "2025-12-22"
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Alverca vs FC Porto "
+        },
+        {
             "channel": "Ring Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Alverca vs FC Porto "
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Alverca vs FC Porto "
         },
@@ -169,6 +217,22 @@
             "related_to": " Benfica vs Famalicão "
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Benfica vs Famalicão "
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Benfica vs Famalicão "
+        },
+        {
             "compet": "Portuguese Liga Portugal - Week 15",
             "match": " Vitória Guimarães vs Sporting Lisbon ",
             "flags": {
@@ -179,10 +243,26 @@
             "date": "2025-12-23"
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Vitória Guimarães vs Sporting Lisbon "
+        },
+        {
             "channel": "Ring Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vitória Guimarães vs Sporting Lisbon "
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Vitória Guimarães vs Sporting Lisbon "
         },
@@ -211,6 +291,50 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Estoril vs Alverca "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 16",
+            "match": " Sporting Braga vs Benfica ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2025-12-28"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sporting Braga vs Benfica "
+        },
+        {
+            "channel": "Sport 2 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Sporting Braga vs Benfica "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 16",
+            "match": " Sporting Lisbon vs Rio Ave ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2025-12-28"
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sporting Lisbon vs Rio Ave "
         },
         {
             "compet": "Portuguese Liga Portugal - Week 17",

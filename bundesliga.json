@@ -11,6 +11,14 @@
             "date": "2025-12-19"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Borussia Dortmund vs Mönchengladbach "
+        },
+        {
             "channel": "Arena Premium 5 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12304 H 30000 - 3/4",
@@ -67,10 +75,26 @@
             "related_to": " Borussia Dortmund vs Mönchengladbach "
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Borussia Dortmund vs Mönchengladbach "
+        },
+        {
             "channel": "ESPN+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Borussia Dortmund vs Mönchengladbach "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Borussia Dortmund vs Mönchengladbach "
         },
@@ -253,6 +277,14 @@
             "date": "2025-12-20"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Stuttgart vs Hoffenheim "
+        },
+        {
             "channel": "Arena Sport 3 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11798 H 30000 - 3/4",
@@ -285,10 +317,26 @@
             "related_to": " Stuttgart vs Hoffenheim "
         },
         {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Stuttgart vs Hoffenheim "
+        },
+        {
             "channel": "ESPN+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Stuttgart vs Hoffenheim "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Stuttgart vs Hoffenheim "
         },
@@ -395,6 +443,168 @@
             "encry": "",
             "link": "",
             "related_to": " Stuttgart vs Hoffenheim "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 15",
+            "match": " Hamburg vs Eintracht Frankfurt ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2025-12-20"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11954 H 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Nova Sports 6 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Hamburg vs Eintracht Frankfurt "
         },
         {
             "compet": "German 1. Bundesliga - Week 15",
@@ -521,6 +731,14 @@
             "related_to": " FC Cologne vs Union Berlin "
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " FC Cologne vs Union Berlin "
+        },
+        {
             "channel": "ESPN+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -626,160 +844,6 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 15",
-            "match": " Hamburg vs Eintracht Frankfurt ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:30",
-            "date": "2025-12-20"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12560 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Nova Sports 6 Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11804 V 29700 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Prima Sport RO PPV 1",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "Sport TV2 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Hamburg vs Eintracht Frankfurt "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 15",
             "match": " Wolfsburg vs Freiburg ",
             "flags": {
                 "team1": "germany",
@@ -792,6 +856,14 @@
             "channel": "Arena Sport 9 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11895 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Wolfsburg vs Freiburg "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
             "encry": "HD Conax",
             "link": "",
             "related_to": " Wolfsburg vs Freiburg "
@@ -895,6 +967,14 @@
             "date": "2025-12-20"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " RB Leipzig vs Bayer Leverkusen "
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12422 H 30000 - 3/4",
@@ -927,10 +1007,26 @@
             "related_to": " RB Leipzig vs Bayer Leverkusen "
         },
         {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " RB Leipzig vs Bayer Leverkusen "
+        },
+        {
             "channel": "ESPN+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " RB Leipzig vs Bayer Leverkusen "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " RB Leipzig vs Bayer Leverkusen "
         },
@@ -1097,6 +1193,14 @@
             "date": "2025-12-21"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Mainz 05 vs St Pauli "
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11798 H 27500 - 9/0",
@@ -1137,10 +1241,26 @@
             "related_to": " Mainz 05 vs St Pauli "
         },
         {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Mainz 05 vs St Pauli "
+        },
+        {
             "channel": "ESPN+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Mainz 05 vs St Pauli "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Mainz 05 vs St Pauli "
         },
@@ -1299,10 +1419,34 @@
             "related_to": " Heidenheim vs Bayern Munich "
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Heidenheim vs Bayern Munich "
+        },
+        {
             "channel": "ESPN+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Heidenheim vs Bayern Munich "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Heidenheim vs Bayern Munich "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Heidenheim vs Bayern Munich "
         },
