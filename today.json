@@ -543,11 +543,11 @@
             "related_to": " Hertha Berlin vs Arminia Bielefeld "
         },
         {
-            "channel": "YouTube: German Football📺",
+            "channel": "YouTube: Bundesliga 📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": " Hertha Berlin vs Arminia Bielefeld "
         },
         {
@@ -745,11 +745,11 @@
             "related_to": " Paderborn vs Darmstadt 98 "
         },
         {
-            "channel": "YouTube: German Football📺",
+            "channel": "YouTube: Bundesliga 📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": " Paderborn vs Darmstadt 98 "
         },
         {
@@ -1005,10 +1005,10 @@
             "related_to": " Botosani vs CFR Cluj "
         },
         {
-            "channel": "Arena Sport 1 Hrvatska HD",
+            "channel": "Arena Sport 5 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11678 H 30000 - 3/4",
-            "encry": "HD Conax",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Botosani vs CFR Cluj "
         },
@@ -1893,11 +1893,11 @@
             "related_to": " Borussia Dortmund vs Mönchengladbach "
         },
         {
-            "channel": "YouTube: German Football📺",
+            "channel": "YouTube: Bundesliga 📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": " Borussia Dortmund vs Mönchengladbach "
         },
         {
@@ -1909,6 +1909,14 @@
             },
             "time": "19:30",
             "date": "2025-12-19"
+        },
+        {
+            "channel": "Arena Sport 1x2 Srbija",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Eibar vs Real Valladolid "
         },
         {
             "channel": "Arena Sport 2 BiH HD",
@@ -1930,14 +1938,6 @@
             "channel": "Arena Sport 4 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11554 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Eibar vs Real Valladolid "
-        },
-        {
-            "channel": "Arena Sport 7 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11817 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
             "related_to": " Eibar vs Real Valladolid "
@@ -2241,6 +2241,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Avranches vs Brest "
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Avranches vs Brest "
         },
@@ -2713,6 +2721,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11766 V 28000 - 7/8",
             "encry": "Irdeto",
+            "link": "",
+            "related_to": " Lens vs Feignies Aulnoye "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
             "link": "",
             "related_to": " Lens vs Feignies Aulnoye "
         },
