@@ -1245,6 +1245,14 @@
             "related_to": " RB Leipzig vs Bayer Leverkusen "
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " RB Leipzig vs Bayer Leverkusen "
+        },
+        {
             "channel": "Play Sports 2 Belgium",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1715,14 +1723,6 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "",
-            "related_to": " Mainz 05 vs St Pauli "
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11345 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Mainz 05 vs St Pauli "
         },
@@ -3034,6 +3034,24 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 20",
+            "match": " FC Cologne vs Wolfsburg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "19:30",
+            "date": "2026-01-30"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " FC Cologne vs Wolfsburg "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 20",
             "match": " Augsburg vs St Pauli ",
             "flags": {
                 "team1": "germany",
@@ -3052,24 +3070,6 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 20",
-            "match": " Borussia Dortmund vs Heidenheim ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:30",
-            "date": "2026-01-31"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Borussia Dortmund vs Heidenheim "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 20",
             "match": " Eintracht Frankfurt vs Bayer Leverkusen ",
             "flags": {
                 "team1": "germany",
@@ -3085,42 +3085,6 @@
             "encry": "",
             "link": "https://onefootball.com/en/matches",
             "related_to": " Eintracht Frankfurt vs Bayer Leverkusen "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 20",
-            "match": " FC Cologne vs Wolfsburg ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:30",
-            "date": "2026-01-31"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " FC Cologne vs Wolfsburg "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 20",
-            "match": " Hamburg vs Bayern Munich ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:30",
-            "date": "2026-01-31"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Hamburg vs Bayern Munich "
         },
         {
             "compet": "German 1. Bundesliga - Week 20",
@@ -3160,24 +3124,6 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 20",
-            "match": " Stuttgart vs Freiburg ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:30",
-            "date": "2026-01-31"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Stuttgart vs Freiburg "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 20",
             "match": " Werder Bremen vs Mönchengladbach ",
             "flags": {
                 "team1": "germany",
@@ -3195,14 +3141,14 @@
             "related_to": " Werder Bremen vs Mönchengladbach "
         },
         {
-            "compet": "German 1. Bundesliga - Week 21",
-            "match": " Bayern Munich vs Hoffenheim ",
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": " Hamburg vs Bayern Munich ",
             "flags": {
                 "team1": "germany",
                 "team2": "germany"
             },
-            "time": "14:30",
-            "date": "2026-02-07"
+            "time": "17:30",
+            "date": "2026-01-31"
         },
         {
             "channel": "OneFootball📺",
@@ -3210,17 +3156,17 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
-            "related_to": " Bayern Munich vs Hoffenheim "
+            "related_to": " Hamburg vs Bayern Munich "
         },
         {
-            "compet": "German 1. Bundesliga - Week 21",
-            "match": " Mönchengladbach vs Bayer Leverkusen ",
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": " Stuttgart vs Freiburg ",
             "flags": {
                 "team1": "germany",
                 "team2": "germany"
             },
             "time": "14:30",
-            "date": "2026-02-07"
+            "date": "2026-02-01"
         },
         {
             "channel": "OneFootball📺",
@@ -3228,17 +3174,17 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
-            "related_to": " Mönchengladbach vs Bayer Leverkusen "
+            "related_to": " Stuttgart vs Freiburg "
         },
         {
-            "compet": "German 1. Bundesliga - Week 21",
-            "match": " FC Cologne vs RB Leipzig ",
+            "compet": "German 1. Bundesliga - Week 20",
+            "match": " Borussia Dortmund vs Heidenheim ",
             "flags": {
                 "team1": "germany",
                 "team2": "germany"
             },
-            "time": "14:30",
-            "date": "2026-02-07"
+            "time": "16:30",
+            "date": "2026-02-01"
         },
         {
             "channel": "OneFootball📺",
@@ -3246,7 +3192,25 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
-            "related_to": " FC Cologne vs RB Leipzig "
+            "related_to": " Borussia Dortmund vs Heidenheim "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 21",
+            "match": " Union Berlin vs Eintracht Frankfurt ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "19:30",
+            "date": "2026-02-06"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Union Berlin vs Eintracht Frankfurt "
         },
         {
             "compet": "German 1. Bundesliga - Week 21",
@@ -3322,24 +3286,6 @@
         },
         {
             "compet": "German 1. Bundesliga - Week 21",
-            "match": " Union Berlin vs Eintracht Frankfurt ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:30",
-            "date": "2026-02-07"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Union Berlin vs Eintracht Frankfurt "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 21",
             "match": " Wolfsburg vs Borussia Dortmund ",
             "flags": {
                 "team1": "germany",
@@ -3355,6 +3301,60 @@
             "encry": "",
             "link": "https://onefootball.com/en/matches",
             "related_to": " Wolfsburg vs Borussia Dortmund "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 21",
+            "match": " Mönchengladbach vs Bayer Leverkusen ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-02-07"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Mönchengladbach vs Bayer Leverkusen "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 21",
+            "match": " FC Cologne vs RB Leipzig ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:30",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " FC Cologne vs RB Leipzig "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 21",
+            "match": " Bayern Munich vs Hoffenheim ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:30",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Bayern Munich vs Hoffenheim "
         }
     ]
 }
