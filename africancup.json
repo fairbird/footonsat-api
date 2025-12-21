@@ -11,6 +11,14 @@
             "date": "2025-12-21"
         },
         {
+            "channel": "Afrosport TV",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "11635 H 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
             "channel": "Arena Premium 4 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12246 V 30000 - 3/4",
@@ -355,11 +363,51 @@
             "related_to": " Morocco vs Comoros "
         },
         {
+            "channel": "RTG 2 Guinea",
+            "sat": "SES 4 22.0°w",
+            "freq": "12690 V 30000 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0°e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
             "channel": "RTi La 3 Côte d’Ivoire",
             "sat": "SES 5 5.0°e",
             "freq": "12341 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "AsiaSat 5 100.5°e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
+            "channel": "RTS 2 Senegal HD 📺",
+            "sat": "Amos 17 17.0°e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
             "related_to": " Morocco vs Comoros "
         },
         {
@@ -475,6 +523,14 @@
             "related_to": " Morocco vs Comoros "
         },
         {
+            "channel": "Télé Tchad",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
             "channel": "VG+ Sport Norge📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -488,6 +544,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.youtube.com/@Channel4Sport/streams",
+            "related_to": " Morocco vs Comoros "
+        },
+        {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
             "related_to": " Morocco vs Comoros "
         },
         {
@@ -609,6 +673,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Mali vs Zambia "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Mali vs Zambia "
         },
@@ -1161,6 +1233,14 @@
             "related_to": " Egypt vs Zimbabwe "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Egypt vs Zimbabwe "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1435,6 +1515,14 @@
             "related_to": " Congo DR vs Benin "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Congo DR vs Benin "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1595,6 +1683,14 @@
             "related_to": " Congo DR vs Benin "
         },
         {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Congo DR vs Benin "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group Stage: Round 1",
             "match": " Senegal vs Botswana ",
             "flags": {
@@ -1697,6 +1793,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Senegal vs Botswana "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Senegal vs Botswana "
         },
@@ -1849,6 +1953,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Senegal vs Botswana "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Senegal vs Botswana "
         },
@@ -2103,6 +2215,14 @@
             "related_to": " Nigeria vs Tanzania "
         },
         {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Nigeria vs Tanzania "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group Stage: Round 1",
             "match": " Tunisia vs Uganda ",
             "flags": {
@@ -2345,6 +2465,14 @@
             "related_to": " Tunisia vs Uganda "
         },
         {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Tunisia vs Uganda "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group Stage: Round 1",
             "match": " Burkina Faso vs Equatorial Guinea ",
             "flags": {
@@ -2439,6 +2567,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Burkina Faso vs Equatorial Guinea "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Burkina Faso vs Equatorial Guinea "
         },
@@ -2575,6 +2711,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Burkina Faso vs Equatorial Guinea "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Burkina Faso vs Equatorial Guinea "
         },
@@ -2813,6 +2957,14 @@
             "related_to": " Algeria vs Sudan "
         },
         {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Algeria vs Sudan "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group Stage: Round 1",
             "match": " Ivory Coast vs Mozambique ",
             "flags": {
@@ -3039,6 +3191,14 @@
             "related_to": " Ivory Coast vs Mozambique "
         },
         {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Ivory Coast vs Mozambique "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group Stage: Round 1",
             "match": " Cameroon vs Gabon ",
             "flags": {
@@ -3133,6 +3293,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cameroon vs Gabon "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Cameroon vs Gabon "
         },
@@ -3269,6 +3437,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Cameroon vs Gabon "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Cameroon vs Gabon "
         },
@@ -3521,6 +3697,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Egypt vs South Africa "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Egypt vs South Africa "
         },
@@ -3881,6 +4065,14 @@
             "related_to": " Morocco vs Mali "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Morocco vs Mali "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4095,6 +4287,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Benin vs Botswana "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Benin vs Botswana "
         },
@@ -4455,6 +4655,14 @@
             "related_to": " Uganda vs Tanzania "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Uganda vs Tanzania "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4637,6 +4845,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Nigeria vs Tunisia "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Nigeria vs Tunisia "
         },
@@ -4989,6 +5205,14 @@
             "related_to": " Equatorial Guinea vs Sudan "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Equatorial Guinea vs Sudan "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -5159,6 +5383,14 @@
             "related_to": " Algeria vs Burkina Faso "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Algeria vs Burkina Faso "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -5301,6 +5533,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Ivory Coast vs Cameroon "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Ivory Coast vs Cameroon "
         },
@@ -5501,6 +5741,14 @@
             "related_to": " Zimbabwe vs South Africa "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Zimbabwe vs South Africa "
+        },
+        {
             "channel": "DAZN Japan",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -5572,6 +5820,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://connect-us.beinsports.com/",
+            "related_to": " Comoros vs Mali "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
             "related_to": " Comoros vs Mali "
         },
         {
@@ -5728,6 +5984,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://connect-us.beinsports.com/",
+            "related_to": " Tanzania vs Tunisia "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
             "related_to": " Tanzania vs Tunisia "
         },
         {
@@ -5953,6 +6217,14 @@
             "related_to": " Botswana vs Congo DR "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Botswana vs Congo DR "
+        },
+        {
             "channel": "DAZN Japan",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6085,6 +6357,14 @@
             "related_to": " Sudan vs Burkina Faso "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Sudan vs Burkina Faso "
+        },
+        {
             "channel": "DAZN Japan",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6135,6 +6415,14 @@
             "related_to": " Gabon vs Ivory Coast "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Gabon vs Ivory Coast "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -6182,6 +6470,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://connect-us.beinsports.com/",
+            "related_to": " Mozambique vs Cameroon "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
             "related_to": " Mozambique vs Cameroon "
         },
         {
