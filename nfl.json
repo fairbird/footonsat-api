@@ -133,6 +133,22 @@
             "date": "2025-12-30"
         },
         {
+            "channel": "ESPN Deportes",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Illinois vs Tennessee "
+        },
+        {
+            "channel": "ESPN USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Illinois vs Tennessee "
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
@@ -145,6 +161,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Illinois vs Tennessee "
+        },
+        {
+            "channel": "TSN Canada 4 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Illinois vs Tennessee "
         },
@@ -207,6 +231,40 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " San Francisco 49ers vs Seattle Seahawks "
+        },
+        {
+            "compet": "NFL Regular Season - Round 18",
+            "match": " Jacksonville Jaguars vs Tennessee Titans ",
+            "flags": {
+                "team1": "asonfl",
+                "team2": "asonfl"
+            },
+            "time": "18:00",
+            "date": "2026-01-04"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Jacksonville Jaguars vs Tennessee Titans "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Jacksonville Jaguars vs Tennessee Titans "
+        },
+        {
+            "channel": "NFL Game Pass",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Jacksonville Jaguars vs Tennessee Titans "
         },
         {
             "compet": "NFL Regular Season - Round 18",
@@ -296,32 +354,6 @@
         },
         {
             "compet": "NFL Regular Season - Round 18",
-            "match": " Jacksonville Jaguars vs Tennessee Titans ",
-            "flags": {
-                "team1": "asonfl",
-                "team2": "asonfl"
-            },
-            "time": "18:00",
-            "date": "2026-01-04"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Jacksonville Jaguars vs Tennessee Titans "
-        },
-        {
-            "channel": "NFL Game Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Jacksonville Jaguars vs Tennessee Titans "
-        },
-        {
-            "compet": "NFL Regular Season - Round 18",
             "match": " Minnesota Vikings vs Green Bay Packers ",
             "flags": {
                 "team1": "asonfl",
@@ -371,6 +403,40 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " New York Giants vs Dallas Cowboys "
+        },
+        {
+            "compet": "NFL Regular Season - Round 18",
+            "match": " New England Patriots vs Miami Dolphins ",
+            "flags": {
+                "team1": "asonfl",
+                "team2": "asonfl"
+            },
+            "time": "21:25",
+            "date": "2026-01-04"
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " New England Patriots vs Miami Dolphins "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " New England Patriots vs Miami Dolphins "
+        },
+        {
+            "channel": "NFL Game Pass",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " New England Patriots vs Miami Dolphins "
         },
         {
             "compet": "NFL Regular Season - Round 18",
@@ -520,32 +586,6 @@
         },
         {
             "compet": "NFL Regular Season - Round 18",
-            "match": " New England Patriots vs Miami Dolphins ",
-            "flags": {
-                "team1": "asonfl",
-                "team2": "asonfl"
-            },
-            "time": "21:25",
-            "date": "2026-01-04"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " New England Patriots vs Miami Dolphins "
-        },
-        {
-            "channel": "NFL Game Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " New England Patriots vs Miami Dolphins "
-        },
-        {
-            "compet": "NFL Regular Season - Round 18",
             "match": " Philadelphia Eagles vs Washington Redskins ",
             "flags": {
                 "team1": "asonfl",
@@ -579,6 +619,14 @@
             },
             "time": "01:20",
             "date": "2026-01-05"
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Pittsburgh Steelers vs Baltimore Ravens "
         },
         {
             "channel": "DAZN España",
