@@ -47,6 +47,14 @@
             "date": "2026-01-02"
         },
         {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Al Ahli vs Al Nassr "
+        },
+        {
             "channel": "Cosmote Sport 1 HD",
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "11843 V 27500 - 3/5",
@@ -103,6 +111,22 @@
             "related_to": " Al Ahli vs Al Nassr "
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Ahli vs Al Nassr "
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": " Al Ahli vs Al Nassr "
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
@@ -115,6 +139,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11387 H 32000 - 3/4",
             "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Al Ahli vs Al Nassr "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Al Ahli vs Al Nassr "
         },
@@ -187,6 +219,14 @@
             },
             "time": "17:30",
             "date": "2026-01-03"
+        },
+        {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Al Ittihad vs Al Taawoun "
         },
         {
             "channel": "Cosmote Sport 3 HD",
@@ -305,6 +345,14 @@
             "date": "2026-01-04"
         },
         {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Damac FC vs Al Hilal "
+        },
+        {
             "channel": "Cosmote Sport 2 HD",
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "11843 V 27500 - 3/5",
@@ -358,6 +406,14 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Damac FC vs Al Hilal "
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": " Damac FC vs Al Hilal "
         },
         {
@@ -475,6 +531,14 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Nassr vs Al Qadisiyah "
+        },
+        {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
             "link": "",
             "related_to": " Al Nassr vs Al Qadisiyah "
         },
@@ -656,24 +720,6 @@
         },
         {
             "compet": "Saudi Professional League - Week 15",
-            "match": " Al Ettifaq vs Al Khaleej ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:30",
-            "date": "2026-01-12"
-        },
-        {
-            "channel": "Thmanyah KSA",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Al Ettifaq vs Al Khaleej "
-        },
-        {
-            "compet": "Saudi Professional League - Week 15",
             "match": " Al Hilal vs Al Nassr ",
             "flags": {
                 "team1": "saudiarabia",
@@ -699,6 +745,14 @@
             "related_to": " Al Hilal vs Al Nassr "
         },
         {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Al Hilal vs Al Nassr "
+        },
+        {
             "channel": "Thmanyah KSA",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
@@ -713,6 +767,24 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": " Al Hilal vs Al Nassr "
+        },
+        {
+            "compet": "Saudi Professional League - Week 15",
+            "match": " Al Ettifaq vs Al Khaleej ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-12"
+        },
+        {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Ettifaq vs Al Khaleej "
         },
         {
             "compet": "Saudi Professional League - Week 15",
