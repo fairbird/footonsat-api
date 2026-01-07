@@ -1227,19 +1227,19 @@
             "related_to": " Barcelona vs Athletic Bilbao "
         },
         {
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " Barcelona vs Athletic Bilbao "
+        },
+        {
             "channel": "LaLiga TV Bar HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "10818 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Barcelona vs Athletic Bilbao "
-        },
-        {
-            "channel": "L´Équipe Live Foot📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://lequipe.fr/",
             "related_to": " Barcelona vs Athletic Bilbao "
         },
         {
@@ -1947,6 +1947,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Manchester City vs Brighton H.A. "
+        },
+        {
+            "channel": "GEM Sport HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Manchester City vs Brighton H.A. "
         },
@@ -3279,6 +3287,40 @@
             "related_to": " Everton vs Wolves "
         },
         {
+            "compet": "Portuguese League Cup (Taça da Liga) - Semi Final",
+            "match": " Benfica vs Sporting Braga ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:45",
+            "date": "2026-01-07"
+        },
+        {
+            "channel": "ESPN 2 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Benfica vs Sporting Braga "
+        },
+        {
+            "channel": "Sharjah Sports HD 📺",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": " Benfica vs Sporting Braga "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Benfica vs Sporting Braga "
+        },
+        {
             "compet": "Italian Serie A - Week 19",
             "match": " Parma vs Inter Milan ",
             "flags": {
@@ -3663,32 +3705,6 @@
             "encry": "MPEG-4 Verimatrix",
             "link": "",
             "related_to": " Parma vs Inter Milan "
-        },
-        {
-            "compet": "Portuguese League Cup (Taça da Liga) - Semi Final",
-            "match": " Benfica vs Sporting Braga ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:45",
-            "date": "2026-01-07"
-        },
-        {
-            "channel": "ESPN 2 Brazil HD",
-            "sat": "SES 6 40.5°w",
-            "freq": "3980 L 21600 - 3/4",
-            "encry": "HD PowerVu",
-            "link": "",
-            "related_to": " Benfica vs Sporting Braga "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Benfica vs Sporting Braga "
         },
         {
             "compet": "Italian Serie A - Week 19",
