@@ -75,6 +75,14 @@
             "related_to": " Al Hilal vs Al Hazem "
         },
         {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Al Hilal vs Al Hazem "
+        },
+        {
             "channel": "YouTube: Saudi Pro League 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -113,6 +121,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11117 V 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Al Nassr vs Al Qadisiyah "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Al Nassr vs Al Qadisiyah "
         },
@@ -1603,6 +1619,42 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": " Al Qadisiyah vs Al Fateh "
+        },
+        {
+            "compet": "Saudi Professional League - Week 22",
+            "match": " Al Ittihad vs Al Fayha ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-02-13"
+        },
+        {
+            "channel": "YouTube: Saudi Pro League 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@-saudiproleague/streams",
+            "related_to": " Al Ittihad vs Al Fayha "
+        },
+        {
+            "compet": "Saudi Professional League - Week 22",
+            "match": " Al Fateh vs Al Nassr ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "YouTube: Saudi Pro League 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@-saudiproleague/streams",
+            "related_to": " Al Fateh vs Al Nassr "
         }
     ]
 }
