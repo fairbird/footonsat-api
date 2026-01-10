@@ -2,32 +2,6 @@
     "footonsat": [
         {
             "compet": "Dutch Eredivisie - Week 18",
-            "match": " NEC Nijmegen vs Utrecht ",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-01-09"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " NEC Nijmegen vs Utrecht "
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " NEC Nijmegen vs Utrecht "
-        },
-        {
-            "compet": "Dutch Eredivisie - Week 18",
             "match": " AZ Alkmaar vs Volendam ",
             "flags": {
                 "team1": "holland",
@@ -169,11 +143,27 @@
             "related_to": " PSV Eindhoven vs Excelsior "
         },
         {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " PSV Eindhoven vs Excelsior "
+        },
+        {
             "channel": "Thriller TV+📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": " PSV Eindhoven vs Excelsior "
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
             "related_to": " PSV Eindhoven vs Excelsior "
         },
         {
@@ -253,6 +243,14 @@
             "related_to": " Heerenveen vs Feyenoord "
         },
         {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Heerenveen vs Feyenoord "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
@@ -266,6 +264,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": " Heerenveen vs Feyenoord "
+        },
+        {
+            "channel": "Tivibu Spor 2 HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11853 H 25000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
             "related_to": " Heerenveen vs Feyenoord "
         },
         {
@@ -337,6 +343,14 @@
             "related_to": " Telstar vs Ajax "
         },
         {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Telstar vs Ajax "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
@@ -350,6 +364,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.trillertv.com/join/trillertv-subscription/",
+            "related_to": " Telstar vs Ajax "
+        },
+        {
+            "channel": "Tivibu Spor 3 HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
             "related_to": " Telstar vs Ajax "
         },
         {
