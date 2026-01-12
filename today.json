@@ -1,6 +1,40 @@
 {
     "footonsat": [
         {
+            "compet": "Friendly Club Match",
+            "match": " OFK Belgrade vs Sumqayit ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "azerbaijan"
+            },
+            "time": "12:30",
+            "date": "2026-01-12"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " OFK Belgrade vs Sumqayit "
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " OFK Belgrade vs Sumqayit "
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " OFK Belgrade vs Sumqayit "
+        },
+        {
             "compet": "Saudi Professional League - Week 15",
             "match": " Al Hazem vs Al Najma ",
             "flags": {
@@ -163,6 +197,14 @@
             "related_to": " Genoa vs Cagliari "
         },
         {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Genoa vs Cagliari "
+        },
+        {
             "channel": "Arena Sport 1 Kosovo HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11914 H 30000 - 3/4",
@@ -246,6 +288,14 @@
             "channel": "Cosmote Sport 2 HD",
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Genoa vs Cagliari "
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11843 V 29900 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Genoa vs Cagliari "
@@ -621,6 +671,14 @@
             "date": "2026-01-12"
         },
         {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Al Hilal vs Al Nassr "
+        },
+        {
             "channel": "DAZN France",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -661,11 +719,27 @@
             "related_to": " Al Hilal vs Al Nassr "
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Hilal vs Al Nassr "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
+            "related_to": " Al Hilal vs Al Nassr "
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": " Al Hilal vs Al Nassr "
         },
         {
@@ -799,6 +873,90 @@
             "related_to": " Sheffield United vs Crystal Palace "
         },
         {
+            "compet": "Italian Serie C Girone C - Girone C - 21",
+            "match": " Giugliano vs Picerno ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-01-12"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Giugliano vs Picerno "
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Giugliano vs Picerno "
+        },
+        {
+            "channel": "Sky Sport MIX Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11862 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Giugliano vs Picerno "
+        },
+        {
+            "compet": "Italian Serie C Girone C - Girone C - 21",
+            "match": " Salernitana vs Cosenza ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-01-12"
+        },
+        {
+            "channel": "RAI Sport 📺",
+            "sat": "Eutelsat 5 West B 5.0°w",
+            "freq": "11179 V 35300 - 2/3",
+            "encry": "FTA",
+            "link": "https://www.raiplay.it/dirette",
+            "related_to": " Salernitana vs Cosenza "
+        },
+        {
+            "channel": "RAI Sport+ HD 📺",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11013 H 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.raiplay.it/dirette",
+            "related_to": " Salernitana vs Cosenza "
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Salernitana vs Cosenza "
+        },
+        {
+            "channel": "Sky Sport 252 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Salernitana vs Cosenza "
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Salernitana vs Cosenza "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 21",
             "match": " Huesca vs Córdoba ",
             "flags": {
@@ -825,40 +983,12 @@
             "related_to": " Huesca vs Córdoba "
         },
         {
-            "compet": "Italian Serie C Girone C - Girone C - 21",
-            "match": " Salernitana vs Cosenza ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:30",
-            "date": "2026-01-12"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
-            "related_to": " Salernitana vs Cosenza "
-        },
-        {
-            "compet": "Italian Serie C Girone C - Girone C - 21",
-            "match": " Giugliano vs Picerno ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:30",
-            "date": "2026-01-12"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Giugliano vs Picerno "
+            "related_to": " Huesca vs Córdoba "
         },
         {
             "compet": "English FA Cup - 3rd Round",
@@ -869,6 +999,30 @@
             },
             "time": "19:45",
             "date": "2026-01-12"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Liverpool vs Barnsley "
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Liverpool vs Barnsley "
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Liverpool vs Barnsley "
         },
         {
             "channel": "beIN Sports MENA 2 HD",
@@ -924,6 +1078,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": " Liverpool vs Barnsley "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Liverpool vs Barnsley "
         },
         {
@@ -1069,6 +1231,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Juventus vs Cremonese "
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Juventus vs Cremonese "
         },
@@ -1441,6 +1611,38 @@
             "related_to": " Juventus vs Cremonese "
         },
         {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Cremonese "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Cremonese "
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Cremonese "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Cremonese "
+        },
+        {
             "channel": "Sport 1 Czechia HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12070 H 27500 - 3/4",
@@ -1547,6 +1749,30 @@
             "date": "2026-01-12"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sevilla vs Celta Vigo "
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sevilla vs Celta Vigo "
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sevilla vs Celta Vigo "
+        },
+        {
             "channel": "beIN Connect MENA 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1567,6 +1793,14 @@
             "sat": "Hotbird 13E 13.0°e",
             "freq": "11096 H 30000 - 3/4",
             "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Sevilla vs Celta Vigo "
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Sevilla vs Celta Vigo "
         },
@@ -1789,9 +2023,25 @@
             "related_to": " Paris St Germain vs Paris FC "
         },
         {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Paris St Germain vs Paris FC "
+        },
+        {
             "channel": "France 3 HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12168 V 29700 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Paris FC "
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Paris St Germain vs Paris FC "
