@@ -19,6 +19,14 @@
             "related_to": " Braunschweig vs Magdeburg "
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Braunschweig vs Magdeburg "
+        },
+        {
             "channel": "Eleven Sports 2 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
@@ -137,6 +145,14 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Fortuna Düsseldorf vs Arminia Bielefeld "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Fortuna Düsseldorf vs Arminia Bielefeld "
         },
@@ -573,6 +589,14 @@
             "related_to": " Hertha Berlin vs Schalke 04 "
         },
         {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Hertha Berlin vs Schalke 04 "
+        },
+        {
             "channel": "Nova Sports Start Cyprus HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11804 V 29700 - 3/4",
@@ -710,6 +734,120 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 18",
+            "match": " Holstein Kiel vs Paderborn ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:30",
+            "date": "2026-01-18"
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "RTL Deutschland HD 📺",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "12522 V 30000 - 3/5",
+            "encry": "Irdeto",
+            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "RTL Schweiz HD",
+            "sat": "Hotbird 13E 13.0°e",
+            "freq": "11096 H 30000 - 3/4",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "RTL Österreich HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "12226 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "channel": "YouTube: German Football📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "related_to": " Holstein Kiel vs Paderborn "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 18",
             "match": " Bochum vs Darmstadt 98 ",
             "flags": {
                 "team1": "germany",
@@ -821,112 +959,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": " Bochum vs Darmstadt 98 "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 18",
-            "match": " Holstein Kiel vs Paderborn ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "12:30",
-            "date": "2026-01-18"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "RTL Deutschland HD 📺",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "12522 V 30000 - 3/5",
-            "encry": "Irdeto",
-            "link": "https://plus.rtl.de/video-tv/live-tv/rtl-1",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "RTL Schweiz HD",
-            "sat": "Hotbird 13E 13.0°e",
-            "freq": "11096 H 30000 - 3/4",
-            "encry": "HD Panaccess",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "RTL Österreich HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "12226 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Holstein Kiel vs Paderborn "
-        },
-        {
-            "channel": "YouTube: German Football📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": " Holstein Kiel vs Paderborn "
         },
         {
             "compet": "German 2. Bundesliga - Week 18",
