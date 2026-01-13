@@ -1,40 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Spanish La Liga 2 - Week 21",
-            "match": " Huesca vs Córdoba ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:30",
-            "date": "2026-01-12"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Huesca vs Córdoba "
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Huesca vs Córdoba "
-        },
-        {
-            "channel": "LaLiga TV Bar 2",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11038 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Huesca vs Córdoba "
-        },
-        {
             "compet": "Spanish La Liga 2 - Week 22",
             "match": " Castellón vs Leganés ",
             "flags": {
@@ -113,6 +79,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Castellón vs Leganés "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Castellón vs Leganés "
+        },
+        {
+            "channel": "TV2 Sport Premium 2 HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Castellón vs Leganés "
         },
@@ -264,6 +246,14 @@
             "channel": "Megogo Futbol 5",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Almería vs Deportivo La Coruña "
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Almería vs Deportivo La Coruña "
@@ -453,6 +443,22 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10758 V 22000 - 5/6",
             "encry": "Seca",
+            "link": "",
+            "related_to": " Granada vs Eibar "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Granada vs Eibar "
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Granada vs Eibar "
         },
@@ -723,6 +729,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10758 V 22000 - 5/6",
             "encry": "Seca",
+            "link": "",
+            "related_to": " Ceuta vs Cultural Leonesa "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Ceuta vs Cultural Leonesa "
         }
