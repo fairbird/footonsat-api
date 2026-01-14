@@ -117,6 +117,14 @@
             "related_to": " Al Ahli vs Al Taawoun "
         },
         {
+            "channel": "SporTV 2 Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Al Ahli vs Al Taawoun "
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5°e",
             "freq": "10772 V 30000 - 5/6",
@@ -128,6 +136,22 @@
             "channel": "Spíler 1 TV Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Al Ahli vs Al Taawoun "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Al Ahli vs Al Taawoun "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
             "link": "",
             "related_to": " Al Ahli vs Al Taawoun "
@@ -777,6 +801,22 @@
             "date": "2026-01-22"
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
             "channel": "DAZN France",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -994,24 +1034,6 @@
         },
         {
             "compet": "Saudi Professional League - Week 18",
-            "match": " Al Ittihad vs Al Akhdoud ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:30",
-            "date": "2026-01-26"
-        },
-        {
-            "channel": "Thmanyah KSA",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Al Ittihad vs Al Akhdoud "
-        },
-        {
-            "compet": "Saudi Professional League - Week 18",
             "match": " Al Nassr vs Al Taawoun ",
             "flags": {
                 "team1": "saudiarabia",
@@ -1019,6 +1041,22 @@
             },
             "time": "17:30",
             "date": "2026-01-26"
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Nassr vs Al Taawoun "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Al Nassr vs Al Taawoun "
         },
         {
             "channel": "DAZN France",
@@ -1051,6 +1089,24 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": " Al Nassr vs Al Taawoun "
+        },
+        {
+            "compet": "Saudi Professional League - Week 18",
+            "match": " Al Ittihad vs Al Akhdoud ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-26"
+        },
+        {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Akhdoud "
         },
         {
             "compet": "Saudi Professional League - Week 19",
