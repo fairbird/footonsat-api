@@ -419,6 +419,14 @@
             "related_to": " Rio Ave vs Benfica "
         },
         {
+            "channel": "TVi V+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "10770 H 30000 - 5/6",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " Rio Ave vs Benfica "
+        },
+        {
             "channel": "VG+ Sport Norge📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -660,6 +668,24 @@
         },
         {
             "compet": "Portuguese Liga Portugal - Week 19",
+            "match": " Casa Pia vs AVS Futebol ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:15",
+            "date": "2026-01-23"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs AVS Futebol "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 19",
             "match": " Arouca vs Sporting Lisbon ",
             "flags": {
                 "team1": "portugal",
@@ -685,6 +711,14 @@
             "related_to": " Arouca vs Sporting Lisbon "
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arouca vs Sporting Lisbon "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
@@ -693,12 +727,22 @@
             "related_to": " Arouca vs Sporting Lisbon "
         },
         {
-            "channel": "TVi Portugal HD",
+            "compet": "Portuguese Liga Portugal - Week 19",
+            "match": " Estoril vs Vitória Guimarães ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12130 H 27500 - 3/4",
+            "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Arouca vs Sporting Lisbon "
+            "related_to": " Estoril vs Vitória Guimarães "
         },
         {
             "compet": "Portuguese Liga Portugal - Week 19",
