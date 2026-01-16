@@ -259,18 +259,18 @@
             "date": "2026-01-17"
         },
         {
-            "channel": "Arena Sport 1x2 Srbija",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Rio Ave vs Benfica "
-        },
-        {
             "channel": "Arena Sport 2 Slovakia HD",
             "sat": "Belintersat 1 51.5°e",
             "freq": "11230 H 45000 - 8/9",
             "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Rio Ave vs Benfica "
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Rio Ave vs Benfica "
         },
@@ -527,6 +527,22 @@
             "related_to": " Tondela vs Sporting Braga "
         },
         {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Tondela vs Sporting Braga "
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Tondela vs Sporting Braga "
+        },
+        {
             "compet": "Portuguese Liga Portugal - Week 18",
             "match": " Vitória Guimarães vs FC Porto ",
             "flags": {
@@ -637,6 +653,22 @@
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Vitória Guimarães vs FC Porto "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Vitória Guimarães vs FC Porto "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Vitória Guimarães vs FC Porto "
         },
