@@ -421,6 +421,14 @@
             "related_to": " Coventry City vs Leicester City "
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Coventry City vs Leicester City "
+        },
+        {
             "channel": "SuperSport Variety 3 HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11170 H 30000 - 5/6",
@@ -1589,6 +1597,22 @@
             "related_to": " Derby County vs West Bromwich Albion "
         },
         {
+            "channel": "beIN Sports France 10 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Derby County vs West Bromwich Albion "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Derby County vs West Bromwich Albion "
+        },
+        {
             "channel": "EXXEN Digital Türkiye📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2598,32 +2622,6 @@
         },
         {
             "compet": "English Championship - Week 35",
-            "match": " Leicester City vs Norwich City ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "12:30",
-            "date": "2026-02-28"
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Leicester City vs Norwich City "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Leicester City vs Norwich City "
-        },
-        {
-            "compet": "English Championship - Week 35",
             "match": " Portsmouth vs Hull City ",
             "flags": {
                 "team1": "england",
@@ -2647,6 +2645,32 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Portsmouth vs Hull City "
+        },
+        {
+            "compet": "English Championship - Week 35",
+            "match": " Leicester City vs Norwich City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2026-02-28"
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Leicester City vs Norwich City "
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Leicester City vs Norwich City "
         },
         {
             "compet": "English Championship - Week 35",
