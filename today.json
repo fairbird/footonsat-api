@@ -633,6 +633,14 @@
             "related_to": " Al Ittihad vs Al Ettifaq "
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Ettifaq "
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -1149,64 +1157,6 @@
             "related_to": " Braunschweig vs Magdeburg "
         },
         {
-            "compet": "German 3. Liga - Week 20",
-            "match": " Jahn Regensburg vs Ingolstadt ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "18:00",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "Arena Sport 2 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11230 H 45000 - 8/9",
-            "encry": "HD Panaccess",
-            "link": "",
-            "related_to": " Jahn Regensburg vs Ingolstadt "
-        },
-        {
-            "channel": "DFB Play TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dfbplay.tv/",
-            "related_to": " Jahn Regensburg vs Ingolstadt "
-        },
-        {
-            "channel": "Magenta Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": " Jahn Regensburg vs Ingolstadt "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Jahn Regensburg vs Ingolstadt "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Jahn Regensburg vs Ingolstadt "
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Jahn Regensburg vs Ingolstadt "
-        },
-        {
             "compet": "French Ligue 1 - Week 18",
             "match": " Monaco vs Lorient ",
             "flags": {
@@ -1246,6 +1196,14 @@
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Monaco vs Lorient "
+        },
+        {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": " Monaco vs Lorient "
         },
         {
@@ -1449,6 +1407,64 @@
             "related_to": " Monaco vs Lorient "
         },
         {
+            "compet": "German 3. Liga - Week 20",
+            "match": " Jahn Regensburg vs Ingolstadt ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Jahn Regensburg vs Ingolstadt "
+        },
+        {
+            "channel": "DFB Play TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": " Jahn Regensburg vs Ingolstadt "
+        },
+        {
+            "channel": "Magenta Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " Jahn Regensburg vs Ingolstadt "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Jahn Regensburg vs Ingolstadt "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Jahn Regensburg vs Ingolstadt "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Jahn Regensburg vs Ingolstadt "
+        },
+        {
             "compet": "Romanian Superliga - Week 22",
             "match": " Arges vs FCSB ",
             "flags": {
@@ -1502,58 +1518,6 @@
         },
         {
             "compet": "French National 1 - Week 17",
-            "match": " Ajaccio vs Villefranche ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:30",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "FFFtv National 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "FTA",
-            "link": "https://ffftv.fff.fr/",
-            "related_to": " Ajaccio vs Villefranche "
-        },
-        {
-            "channel": "YouTube: National FFF 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://www.youtube.com/@Championnat_National_Officiel/streams",
-            "related_to": " Ajaccio vs Villefranche "
-        },
-        {
-            "compet": "French National 1 - Week 17",
-            "match": " Boulogne vs Villefranche ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:30",
-            "date": "2026-01-16"
-        },
-        {
-            "channel": "FFFtv National 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "FTA",
-            "link": "https://ffftv.fff.fr/",
-            "related_to": " Boulogne vs Villefranche "
-        },
-        {
-            "channel": "YouTube: National FFF 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://www.youtube.com/@Championnat_National_Officiel/streams",
-            "related_to": " Boulogne vs Villefranche "
-        },
-        {
-            "compet": "French National 1 - Week 17",
             "match": " Versailles vs Rouen ",
             "flags": {
                 "team1": "france",
@@ -1568,6 +1532,14 @@
             "freq": "0000",
             "encry": "FTA",
             "link": "https://ffftv.fff.fr/",
+            "related_to": " Versailles vs Rouen "
+        },
+        {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": " Versailles vs Rouen "
         },
         {
@@ -1605,6 +1577,14 @@
             "related_to": " Valenciennes vs Bourg-en-Bresse "
         },
         {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": " Valenciennes vs Bourg-en-Bresse "
+        },
+        {
             "channel": "YouTube: National FFF 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1628,6 +1608,14 @@
             "freq": "0000",
             "encry": "FTA",
             "link": "https://ffftv.fff.fr/",
+            "related_to": " Sochaux vs Châteauroux "
+        },
+        {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": " Sochaux vs Châteauroux "
         },
         {
@@ -1657,6 +1645,14 @@
             "related_to": " Quevilly-Rouen vs Stade Briochin "
         },
         {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": " Quevilly-Rouen vs Stade Briochin "
+        },
+        {
             "channel": "YouTube: National FFF 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1680,6 +1676,14 @@
             "freq": "0000",
             "encry": "FTA",
             "link": "https://ffftv.fff.fr/",
+            "related_to": " Fleury 91 vs Orléans "
+        },
+        {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": " Fleury 91 vs Orléans "
         },
         {
@@ -1709,6 +1713,14 @@
             "related_to": " Dijon vs Le Puy Foot 43 "
         },
         {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": " Dijon vs Le Puy Foot 43 "
+        },
+        {
             "channel": "YouTube: National FFF 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1732,6 +1744,14 @@
             "freq": "0000",
             "encry": "FTA",
             "link": "https://ffftv.fff.fr/",
+            "related_to": " Concarneau vs Caen "
+        },
+        {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": " Concarneau vs Caen "
         },
         {
@@ -1766,6 +1786,14 @@
             "freq": "0000",
             "encry": "FTA",
             "link": "https://ffftv.fff.fr/",
+            "related_to": " Aubagne vs Paris 13 Atletico "
+        },
+        {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
             "related_to": " Aubagne vs Paris 13 Atletico "
         },
         {
@@ -2127,6 +2155,14 @@
             "related_to": " Werder Bremen vs Eintracht Frankfurt "
         },
         {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "unknown",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " Werder Bremen vs Eintracht Frankfurt "
+        },
+        {
             "channel": "Setanta Sports+ Ukraine HD",
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
@@ -2349,6 +2385,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10758 V 22000 - 5/6",
             "encry": "Seca",
+            "link": "",
+            "related_to": " Castellón vs Leganés "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Castellón vs Leganés "
         },
@@ -3613,6 +3657,14 @@
             "related_to": " Paris St Germain vs Lille "
         },
         {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Paris St Germain vs Lille "
+        },
+        {
             "channel": "beIN Connect MENA 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -3785,6 +3837,14 @@
             "sat": "KazSat 3 58.5°e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Paris St Germain vs Lille "
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "unknown",
+            "freq": "",
+            "encry": "",
             "link": "",
             "related_to": " Paris St Germain vs Lille "
         },
@@ -4267,6 +4327,14 @@
             "related_to": " Sporting Lisbon vs Casa Pia "
         },
         {
+            "channel": "Sport 1 Lithuania HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sporting Lisbon vs Casa Pia "
+        },
+        {
             "channel": "Sport 2 Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11766 V 28000 - 7/8",
@@ -4345,6 +4413,24 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": " Sporting Lisbon vs Casa Pia "
+        },
+        {
+            "compet": "Colombian Primera A - Apertura Round 1",
+            "match": " Pereira vs Llaneros ",
+            "flags": {
+                "team1": "colombia",
+                "team2": "colombia"
+            },
+            "time": "23:20",
+            "date": "2026-01-16"
+        },
+        {
+            "channel": "Fanatiz USA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": " Pereira vs Llaneros "
         }
     ]
 }
