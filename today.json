@@ -381,24 +381,6 @@
             "related_to": " Levante vs Real Madrid "
         },
         {
-            "compet": "Portuguese Womens Cup - Quarter Final",
-            "match": " Vitória Guimarães vs Famalicão ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "11:00",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vitória Guimarães vs Famalicão "
-        },
-        {
             "compet": "Spanish Liga F Femenino - Week 16",
             "match": " Granada vs DUX Logroño ",
             "flags": {
@@ -423,6 +405,24 @@
             "encry": "",
             "link": "",
             "related_to": " Granada vs DUX Logroño "
+        },
+        {
+            "compet": "Portuguese Womens Cup - Quarter Final",
+            "match": " Vitória Guimarães vs Famalicão ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "11:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vitória Guimarães vs Famalicão "
         },
         {
             "compet": "Portuguese Liga Portugal 2 - Week 18",
@@ -515,6 +515,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Uzbekistan U-23 vs China U-23 "
+        },
+        {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "",
             "related_to": " Uzbekistan U-23 vs China U-23 "
         },
@@ -1335,6 +1343,14 @@
             "related_to": " Coventry City vs Leicester City "
         },
         {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Coventry City vs Leicester City "
+        },
+        {
             "channel": "SuperSport Variety 3 HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11170 H 30000 - 5/6",
@@ -1709,6 +1725,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Manchester United vs Manchester City "
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
             "link": "",
             "related_to": " Manchester United vs Manchester City "
         },
@@ -2427,6 +2451,24 @@
             "related_to": " Tranmere Rovers vs Walsall "
         },
         {
+            "compet": "French Ligue 2 - Week 19",
+            "match": " Grenoble Foot 38 vs Red Star FC ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "13:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Grenoble Foot 38 vs Red Star FC "
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 20",
             "match": " Real Madrid vs Levante ",
             "flags": {
@@ -2765,6 +2807,14 @@
             "related_to": " Real Madrid vs Levante "
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Real Madrid vs Levante "
+        },
+        {
             "channel": "Setanta Sports 2 Eurasia HD",
             "sat": "KazSat 3 58.5°e",
             "freq": "12657 V 45000 - 3/4",
@@ -2776,6 +2826,14 @@
             "channel": "Spíler 2 TV Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Real Madrid vs Levante "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
             "encry": "Conax",
             "link": "",
             "related_to": " Real Madrid vs Levante "
@@ -2877,22 +2935,38 @@
             "related_to": " Real Madrid vs Levante "
         },
         {
-            "compet": "French Ligue 2 - Week 19",
-            "match": " Grenoble Foot 38 vs Red Star FC ",
+            "compet": "Spanish La Liga 2 - Week 22",
+            "match": " Ceuta vs Real Valladolid ",
             "flags": {
-                "team1": "france",
-                "team2": "france"
+                "team1": "spain",
+                "team2": "spain"
             },
             "time": "13:00",
             "date": "2026-01-17"
         },
         {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
-            "related_to": " Grenoble Foot 38 vs Red Star FC "
+            "related_to": " Ceuta vs Real Valladolid "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Ceuta vs Real Valladolid "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Ceuta vs Real Valladolid "
         },
         {
             "compet": "French Ligue 2 - Week 19",
@@ -3039,40 +3113,6 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Troyes vs Reims "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 22",
-            "match": " Ceuta vs Real Valladolid ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "13:00",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Ceuta vs Real Valladolid "
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Ceuta vs Real Valladolid "
-        },
-        {
-            "channel": "LaLiga TV Bar 2",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11038 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Ceuta vs Real Valladolid "
         },
         {
             "compet": "German 3. Liga - Week 20",
@@ -4069,6 +4109,14 @@
             "related_to": " Udinese vs Inter Milan "
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Udinese vs Inter Milan "
+        },
+        {
             "channel": "Setanta Sports Qazaqstan HD",
             "sat": "KazSat 3 58.5°e",
             "freq": "12657 V 45000 - 3/4",
@@ -4683,6 +4731,14 @@
             "related_to": " Borussia Dortmund vs St Pauli "
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Borussia Dortmund vs St Pauli "
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "11853 H 25000 - 3/4",
@@ -4885,6 +4941,14 @@
             "related_to": " Hoffenheim vs Bayer Leverkusen "
         },
         {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Hoffenheim vs Bayer Leverkusen "
+        },
+        {
             "channel": "Tivibu Spor 3 HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "11880 H 20000 - 3/4",
@@ -5063,6 +5127,14 @@
             "related_to": " Hamburg vs Mönchengladbach "
         },
         {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Hamburg vs Mönchengladbach "
+        },
+        {
             "channel": "Tivibu Spor 4 HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "11880 H 20000 - 3/4",
@@ -5217,6 +5289,14 @@
             "related_to": " FC Cologne vs Mainz 05 "
         },
         {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " FC Cologne vs Mainz 05 "
+        },
+        {
             "channel": "Tring Sport 5 HD",
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
@@ -5363,6 +5443,14 @@
             "related_to": " Wolfsburg vs Heidenheim "
         },
         {
+            "channel": "ST Sports Focus",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Wolfsburg vs Heidenheim "
+        },
+        {
             "channel": "Tring Sport 6 HD",
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
@@ -5443,6 +5531,560 @@
             "encry": "FTA",
             "link": "",
             "related_to": " Al Rayyan vs Al Shamal "
+        },
+        {
+            "compet": "English Premier League - Week 22",
+            "match": " Chelsea vs Brentford ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Astro GO Malaysia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Astro Premier League 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Canal+ Extra 3 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Canal+ Polska📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canalplus.com/pl/sport/",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11973 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://livetv.skylink.cz",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Canal+ Sport 360 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Cytavision Sports 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "DAZN Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Disney+ Argentina",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Disney+ Brazil",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Disney+ Chile",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Disney+ Sur",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ESPN Caribbean",
+            "sat": "Telstar 12 15.0°w",
+            "freq": "12609 H 07552 - 3/4",
+            "encry": "BISS",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Fubo Sports USA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "FuboTV Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Hub Premier 2 HD📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Kyivstar TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "NBC Sports Network",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "NOW Premier League HK 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Peacock Premium USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Play Diema XTRA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://gong.bg/streaming",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Play Sports 4 Belgium",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "sat": "unknown",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Sky Sport 3 NZ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "SÝN Sport 4 Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "TSN Malta 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "TV3+ Norge HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12437 H 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "V Sport Premier League 2 HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11372 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Sport News Dansk",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11325 H 25000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brentford "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Chelsea vs Brentford "
         },
         {
             "compet": "English Premier League - Week 22",
@@ -6741,552 +7383,6 @@
             "related_to": " Tottenham Hotspur vs West Ham United "
         },
         {
-            "compet": "English Premier League - Week 22",
-            "match": " Chelsea vs Brentford ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Astro GO Malaysia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://astrogo.astro.com.my/hubSports",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Astro Premier League 3 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10892 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "beIN Sports Türkiye 4 HD",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Canal+ Extra 3 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11278 V 27500 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Canal+ Live 3 France HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "12090 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Canal+ Polska📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canalplus.com/pl/sport/",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Canal+ Sport 1 Czech HD 📺",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11973 V 29900 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://livetv.skylink.cz",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Canal+ Sport 360 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "12090 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Cytavision Sports 5 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "DAZN 2 Bar Espana",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "DAZN 2 Espana HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "10729 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "DAZN Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Disney+ Argentina",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Disney+ Brazil",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Disney+ Chile",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Disney+ Sur",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ESPN 1 Brazil HD",
-            "sat": "SES 6 40.5°w",
-            "freq": "3980 L 21600 - 3/4",
-            "encry": "HD PowerVu",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ESPN Caribbean",
-            "sat": "Telstar 12 15.0°w",
-            "freq": "12609 H 07552 - 3/4",
-            "encry": "BISS",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Fubo Sports USA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "FuboTV Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Hub Premier 2 HD📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Idman TV HD",
-            "sat": "AzerSpace 1 46.0°e",
-            "freq": "11175 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Kyivstar TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.kyivstar.ua/en/live-channels",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Monomax Streaming📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "NBC Sports Network",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Nova Sports 4 Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12169 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "NOW Premier League HK 2",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Peacock Premium USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Play Diema XTRA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://gong.bg/streaming",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Play Sports 4 Belgium",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Premier Sports 2 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Setanta Sports 2 Eurasia HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Setanta Sports 3 Georgia HD",
-            "sat": "unknown",
-            "freq": "",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Setanta Sports Ukraine HD",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Sky Sport 3 NZ HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Sky Sport Uno Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11958 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "SuperSport Variety 3 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "SÝN Sport 4 Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "TSN Malta 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "TV3+ Norge HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12437 H 30000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "V Sport Premier League 2 HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11372 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "V Sport Premium HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10903 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ViaPlay 1 Urheilu HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ViaPlay Sport News Dansk",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11325 H 25000 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
-            "channel": "VOYO Pro TV Romania📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": " Chelsea vs Brentford "
-        },
-        {
             "compet": "English League Two - Week 27",
             "match": " Swindon Town vs Salford City ",
             "flags": {
@@ -7371,6 +7467,24 @@
             "encry": "",
             "link": "",
             "related_to": " Stoke City vs Queens Park Rangers "
+        },
+        {
+            "compet": "English Championship - Week 27",
+            "match": " Wrexham vs Norwich City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wrexham vs Norwich City "
         },
         {
             "compet": "English Championship - Week 27",
@@ -7485,24 +7599,6 @@
             "encry": "",
             "link": "",
             "related_to": " Oxford United vs Bristol City "
-        },
-        {
-            "compet": "English Championship - Week 27",
-            "match": " Wrexham vs Norwich City ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Wrexham vs Norwich City "
         },
         {
             "compet": "Belgian Challenger Pro League - Week 20",
@@ -8323,6 +8419,14 @@
             "related_to": " Mallorca vs Athletic Bilbao "
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Mallorca vs Athletic Bilbao "
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -8463,6 +8567,72 @@
             "related_to": " Farul Constanta vs Hermannstadt "
         },
         {
+            "compet": "AFC U-23 Asian Cup - Quarter Final",
+            "match": " Australia U-23 vs South Korea U-23 ",
+            "flags": {
+                "team1": "australia",
+                "team2": "koreasouth"
+            },
+            "time": "15:30",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Astro GO Malaysia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": " Australia U-23 vs South Korea U-23 "
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Australia U-23 vs South Korea U-23 "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Australia U-23 vs South Korea U-23 "
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Australia U-23 vs South Korea U-23 "
+        },
+        {
+            "channel": "SportKlub 11 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Australia U-23 vs South Korea U-23 "
+        },
+        {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Australia U-23 vs South Korea U-23 "
+        },
+        {
+            "channel": "YouTube: AFC Asian Cup 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@AFCAsianCup",
+            "related_to": " Australia U-23 vs South Korea U-23 "
+        },
+        {
             "compet": "Dutch Eredivisie - Week 19",
             "match": " Ajax vs Go Ahead Eagles ",
             "flags": {
@@ -8585,6 +8755,14 @@
             "related_to": " Ajax vs Go Ahead Eagles "
         },
         {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Ajax vs Go Ahead Eagles "
+        },
+        {
             "channel": "Thriller TV+📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -8615,64 +8793,6 @@
             "encry": "HD DRE-Crypt",
             "link": "",
             "related_to": " Ajax vs Go Ahead Eagles "
-        },
-        {
-            "compet": "AFC U-23 Asian Cup - Quarter Final",
-            "match": " Australia U-23 vs South Korea U-23 ",
-            "flags": {
-                "team1": "australia",
-                "team2": "koreasouth"
-            },
-            "time": "15:30",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Astro GO Malaysia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://astrogo.astro.com.my/hubSports",
-            "related_to": " Australia U-23 vs South Korea U-23 "
-        },
-        {
-            "channel": "beIN Sports MENA 7 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Australia U-23 vs South Korea U-23 "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Australia U-23 vs South Korea U-23 "
-        },
-        {
-            "channel": "Spor Smart Türkiye HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Australia U-23 vs South Korea U-23 "
-        },
-        {
-            "channel": "SportKlub 11 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Australia U-23 vs South Korea U-23 "
-        },
-        {
-            "channel": "YouTube: AFC Asian Cup 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@AFCAsianCup",
-            "related_to": " Australia U-23 vs South Korea U-23 "
         },
         {
             "compet": "German 3. Liga - Week 20",
@@ -8903,6 +9023,30 @@
             "related_to": " Egypt vs Nigeria "
         },
         {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "beIN Sports MENA Max 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
             "channel": "beIN Sports US Español",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -8927,11 +9071,35 @@
             "related_to": " Egypt vs Nigeria "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "Canal+ CAN Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11611 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
             "channel": "Channel 4 Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.channel4.com/",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
             "related_to": " Egypt vs Nigeria "
         },
         {
@@ -8964,6 +9132,30 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "Gabon 1ère 📺",
+            "sat": "SES 5 5.0°e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "M+ #Vamos Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Egypt vs Nigeria "
         },
         {
@@ -9004,6 +9196,54 @@
             "freq": "12285 V 30000 - 2/3",
             "encry": "FTA",
             "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "NTA Sports 24",
+            "sat": "NigComSat 1R 42.5°e",
+            "freq": "12589 H 30000 - 2/3",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "RTB Burkina Faso",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "12437 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "AsiaSat 5 100.5°e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "RTS 2 Senegal HD 📺",
+            "sat": "Amos 17 17.0°e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "SABC 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 V 28750 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
             "related_to": " Egypt vs Nigeria "
         },
         {
@@ -9050,6 +9290,22 @@
             "channel": "SuperSport PSL HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "TVGE Internacional",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Egypt vs Nigeria "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0°e",
+            "freq": "3778 R 5720 - 3/4",
             "encry": "Irdeto",
             "link": "",
             "related_to": " Egypt vs Nigeria "
@@ -9563,160 +9819,6 @@
             "related_to": " Al Sailiya vs Qatar SC "
         },
         {
-            "compet": "Türkiye Süper Lig - Week 18",
-            "match": " Galatasaray vs Gaziantep ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Arena Sport 3 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "ART Motion Sport 4 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Connect Canada 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-ca.beinsports.com/",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Connect Indonesia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-id.beinsports.com/id",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Sports 2 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Sports Indonesia 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Sports Türkiye 1 HD",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11180 H 30000 - 3/4",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "beIN Sports US 5",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "Prima Sport RO PPV 3",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "Sport 3 Hungary HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://hu.selekt.tv/sport3",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "Sport TV7 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Galatasaray vs Gaziantep "
-        },
-        {
             "compet": "Italian Serie A - Week 21",
             "match": " Napoli vs Sassuolo ",
             "flags": {
@@ -10215,6 +10317,14 @@
             "related_to": " Napoli vs Sassuolo "
         },
         {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Napoli vs Sassuolo "
+        },
+        {
             "channel": "Setanta Sports 2 Georgia HD",
             "sat": "unknown",
             "freq": "",
@@ -10365,6 +10475,168 @@
             "encry": "HD Mediaguard",
             "link": "",
             "related_to": " Napoli vs Sassuolo "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 18",
+            "match": " Galatasaray vs Gaziantep ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "ART Motion Sport 4 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Connect Canada 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ca.beinsports.com/",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Connect Indonesia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Connect USA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Sports Indonesia 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Sports Türkiye 1 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11180 H 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "beIN Sports US 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "Prima Sport RO PPV 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "Sport 3 Hungary HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://hu.selekt.tv/sport3",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Galatasaray vs Gaziantep "
         },
         {
             "compet": "French National 2 - Week 15",
@@ -10999,6 +11271,14 @@
             "related_to": " Osasuna vs Real Oviedo "
         },
         {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Osasuna vs Real Oviedo "
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -11553,6 +11833,14 @@
             "related_to": " Nottingham Forest vs Arsenal "
         },
         {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Nottingham Forest vs Arsenal "
+        },
+        {
             "channel": "ViaPlay 2 Urheilu HD",
             "sat": "Thor 5 0.8°w",
             "freq": "11278 V 25000 - 3/4",
@@ -11707,6 +11995,14 @@
             "related_to": " RB Leipzig vs Bayern Munich "
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " RB Leipzig vs Bayern Munich "
+        },
+        {
             "channel": "Go3 Sport 2 Baltic HD 📺",
             "sat": "Astra 4A 5.0°e",
             "freq": "11958 H 27500 - 5/6",
@@ -11783,6 +12079,14 @@
             "sat": "Thor 6 5.0°e",
             "freq": "11265 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " RB Leipzig vs Bayern Munich "
+        },
+        {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " RB Leipzig vs Bayern Munich "
         },
@@ -11883,6 +12187,14 @@
             "related_to": " RB Leipzig vs Bayern Munich "
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " RB Leipzig vs Bayern Munich "
+        },
+        {
             "channel": "Tivibu Spor 2 HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "11853 H 25000 - 3/4",
@@ -11979,72 +12291,6 @@
             "related_to": " RB Leipzig vs Bayern Munich "
         },
         {
-            "compet": "Spanish La Liga 2 - Week 22",
-            "match": " Real Zaragoza vs Real Sociedad II ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:30",
-            "date": "2026-01-17"
-        },
-        {
-            "channel": "Aragon Deporte Stream 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.cartv.es/aragondeporte/directo",
-            "related_to": " Real Zaragoza vs Real Sociedad II "
-        },
-        {
-            "channel": "Aragón TV HD",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - 0",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Real Zaragoza vs Real Sociedad II "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Zaragoza vs Real Sociedad II "
-        },
-        {
-            "channel": "GOL España HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 - -",
-            "encry": "Seca",
-            "link": "https://www.goltelevision.com/en-directo",
-            "related_to": " Real Zaragoza vs Real Sociedad II "
-        },
-        {
-            "channel": "GolStadium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://app.golstadium.com/football",
-            "related_to": " Real Zaragoza vs Real Sociedad II "
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Real Zaragoza vs Real Sociedad II "
-        },
-        {
-            "channel": "LaLiga TV Bar 2",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11038 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Real Zaragoza vs Real Sociedad II "
-        },
-        {
             "compet": "Saudi Pro League - Week 16",
             "match": " Al Nassr vs Al Shabab ",
             "flags": {
@@ -12083,6 +12329,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Al Nassr vs Al Shabab "
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "Seca",
             "link": "",
             "related_to": " Al Nassr vs Al Shabab "
         },
@@ -12183,10 +12437,34 @@
             "related_to": " Al Nassr vs Al Shabab "
         },
         {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Al Nassr vs Al Shabab "
+        },
+        {
+            "channel": "Strike TV",
+            "sat": "Thor 6 0.8°w",
+            "freq": "12245 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Al Nassr vs Al Shabab "
+        },
+        {
             "channel": "SuperSport 5 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10804 H 29950 - 2/3",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Al Nassr vs Al Shabab "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Al Nassr vs Al Shabab "
         },
@@ -12205,6 +12483,72 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": " Al Nassr vs Al Shabab "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 22",
+            "match": " Real Zaragoza vs Real Sociedad II ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2026-01-17"
+        },
+        {
+            "channel": "Aragon Deporte Stream 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.cartv.es/aragondeporte/directo",
+            "related_to": " Real Zaragoza vs Real Sociedad II "
+        },
+        {
+            "channel": "Aragón TV HD",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Real Zaragoza vs Real Sociedad II "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Zaragoza vs Real Sociedad II "
+        },
+        {
+            "channel": "GOL España HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "Seca",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": " Real Zaragoza vs Real Sociedad II "
+        },
+        {
+            "channel": "GolStadium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://app.golstadium.com/football",
+            "related_to": " Real Zaragoza vs Real Sociedad II "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Real Zaragoza vs Real Sociedad II "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Real Zaragoza vs Real Sociedad II "
         },
         {
             "compet": "Spanish Liga F Femenino - Week 16",
@@ -12865,6 +13209,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Fortuna Sittard vs PSV Eindhoven "
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Fortuna Sittard vs PSV Eindhoven "
         },
@@ -13741,6 +14093,14 @@
             "related_to": " Cagliari vs Juventus "
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Cagliari vs Juventus "
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6°w",
             "freq": "12130 H 28000 - 7/8",
@@ -13833,6 +14193,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Cagliari vs Juventus "
+        },
+        {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Cagliari vs Juventus "
         },
@@ -14555,6 +14923,14 @@
             "related_to": " Real Betis vs Villarreal "
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs Villarreal "
+        },
+        {
             "channel": "Setanta Sports 2 Eurasia HD",
             "sat": "KazSat 3 58.5°e",
             "freq": "12657 V 45000 - 3/4",
@@ -14566,6 +14942,14 @@
             "channel": "Spíler 2 TV Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Real Betis vs Villarreal "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
             "encry": "Conax",
             "link": "",
             "related_to": " Real Betis vs Villarreal "
@@ -14648,6 +15032,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": " Real Betis vs Villarreal "
+        },
+        {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
             "related_to": " Real Betis vs Villarreal "
         },
         {
@@ -14737,6 +15129,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Almería vs Deportivo La Coruña "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Almería vs Deportivo La Coruña "
         },
