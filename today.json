@@ -28,6 +28,40 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": " Zeleznicar vs Dynamo Makhachkala ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "russia"
+            },
+            "time": "13:00",
+            "date": "2026-01-22"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zeleznicar vs Dynamo Makhachkala "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Zeleznicar vs Dynamo Makhachkala "
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zeleznicar vs Dynamo Makhachkala "
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": " Partizan Belgrade vs Gangwon ",
             "flags": {
                 "team1": "serbia",
@@ -53,32 +87,6 @@
             "related_to": " Partizan Belgrade vs Gangwon "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": " Zeleznicar vs Dynamo Makhachkala ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "russia"
-            },
-            "time": "14:30",
-            "date": "2026-01-22"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Zeleznicar vs Dynamo Makhachkala "
-        },
-        {
-            "channel": "Arena Sport 10 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Zeleznicar vs Dynamo Makhachkala "
-        },
-        {
             "compet": "Saudi Pro League - Week 17",
             "match": " Al Taawoun vs Al Hazem ",
             "flags": {
@@ -87,6 +95,14 @@
             },
             "time": "15:15",
             "date": "2026-01-22"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Taawoun vs Al Hazem "
         },
         {
             "channel": "Thmanyah KSA",
@@ -172,6 +188,32 @@
         },
         {
             "compet": "Saudi Pro League - Week 17",
+            "match": " Al Hilal vs Al Fayha ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-22"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Hilal vs Al Fayha "
+        },
+        {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Al Fayha "
+        },
+        {
+            "compet": "Saudi Pro League - Week 17",
             "match": " Al Qadisiyah vs Al Ittihad ",
             "flags": {
                 "team1": "saudiarabia",
@@ -237,11 +279,27 @@
             "related_to": " Al Qadisiyah vs Al Ittihad "
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
             "channel": "Setanta Sports Premium HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/setantasports",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
             "related_to": " Al Qadisiyah vs Al Ittihad "
         },
         {
@@ -269,6 +327,22 @@
             "related_to": " Al Qadisiyah vs Al Ittihad "
         },
         {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
             "channel": "SPOTV Malaysia HD",
             "sat": "Measat 3b 91.5°e",
             "freq": "10772 V 30000 - 5/6",
@@ -285,10 +359,26 @@
             "related_to": " Al Qadisiyah vs Al Ittihad "
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
             "channel": "SuperSport 5 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10804 H 29950 - 2/3",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Al Qadisiyah vs Al Ittihad "
         },
@@ -307,24 +397,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": " Al Qadisiyah vs Al Ittihad "
-        },
-        {
-            "compet": "Saudi Pro League - Week 17",
-            "match": " Al Hilal vs Al Fayha ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:30",
-            "date": "2026-01-22"
-        },
-        {
-            "channel": "Thmanyah KSA",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Al Hilal vs Al Fayha "
         },
         {
             "compet": "UEFA Europa League - Matchday 7",
