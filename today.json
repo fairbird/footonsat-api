@@ -1181,6 +1181,14 @@
             "related_to": " West Ham United vs Sunderland "
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " West Ham United vs Sunderland "
+        },
+        {
             "channel": "Spíler 1 TV Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11766 V 28000 - 7/8",
@@ -2006,6 +2014,14 @@
             "channel": "Arena Sport 3 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Rayo Vallecano vs Osasuna "
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Rayo Vallecano vs Osasuna "
@@ -3327,6 +3343,14 @@
             "related_to": " Bayern Munich vs Augsburg "
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bayern Munich vs Augsburg "
+        },
+        {
             "channel": "beIN Sports 3 HD",
             "sat": "Measat 3b 91.5°e",
             "freq": "10732 V 30000 - 5/6",
@@ -4159,64 +4183,6 @@
             "related_to": " Eintracht Frankfurt vs Hoffenheim "
         },
         {
-            "compet": "AFC U-23 Asian Cup - FINAL",
-            "match": " China U-23 vs Japan U-23 ",
-            "flags": {
-                "team1": "china",
-                "team2": "japan"
-            },
-            "time": "15:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Astro Arena Bola HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10772 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " China U-23 vs Japan U-23 "
-        },
-        {
-            "channel": "Astro GO Malaysia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://astrogo.astro.com.my/hubSports",
-            "related_to": " China U-23 vs Japan U-23 "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " China U-23 vs Japan U-23 "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " China U-23 vs Japan U-23 "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0°e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "",
-            "related_to": " China U-23 vs Japan U-23 "
-        },
-        {
-            "channel": "YouTube: AFC Asian Cup 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@AFCAsianCup",
-            "related_to": " China U-23 vs Japan U-23 "
-        },
-        {
             "compet": "English Premier League - Week 23",
             "match": " Manchester City vs Wolves ",
             "flags": {
@@ -4347,6 +4313,14 @@
             "related_to": " Manchester City vs Wolves "
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " Manchester City vs Wolves "
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12399 H 27500 - 3/4",
@@ -4463,6 +4437,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Wolves "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Manchester City vs Wolves "
         },
@@ -5395,6 +5377,64 @@
             "related_to": " Partick Thistle vs Ayr United "
         },
         {
+            "compet": "AFC U-23 Asian Cup - FINAL",
+            "match": " China U-23 vs Japan U-23 ",
+            "flags": {
+                "team1": "china",
+                "team2": "japan"
+            },
+            "time": "15:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " China U-23 vs Japan U-23 "
+        },
+        {
+            "channel": "Astro GO Malaysia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://astrogo.astro.com.my/hubSports",
+            "related_to": " China U-23 vs Japan U-23 "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " China U-23 vs Japan U-23 "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " China U-23 vs Japan U-23 "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " China U-23 vs Japan U-23 "
+        },
+        {
+            "channel": "YouTube: AFC Asian Cup 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@AFCAsianCup",
+            "related_to": " China U-23 vs Japan U-23 "
+        },
+        {
             "compet": "Scottish League 2 - Week 22",
             "match": " Clyde vs Spartans ",
             "flags": {
@@ -6102,6 +6142,14 @@
             "channel": "Arena Sport 3 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Valencia vs Espanyol "
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Valencia vs Espanyol "
@@ -7719,6 +7767,440 @@
             "related_to": " Portsmouth vs Birmingham City "
         },
         {
+            "compet": "English Premier League - Week 23",
+            "match": " Bournemouth vs Liverpool ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "17:30",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Astro Premier League HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Astro Sports UHD",
+            "sat": "Measat 3a 91.4°e",
+            "freq": "11775 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Canal+ Live 5 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Canal+ Sport 1 Czech HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11973 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://livetv.skylink.cz",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "FuboTV Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Hub Premier 1 HD📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Hub Premier 2 HD📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Hub Premier 2 UHD📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky Sport 8 NZ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky Sport Premier League DE HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Sky UK Ultra HD 1",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12246 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "TSN Malta 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "USA Network HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "V Sport Premier League HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "V Sport Ultra 4K UHD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11372 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 21",
             "match": " Sevilla vs Athletic Bilbao ",
             "flags": {
@@ -7757,6 +8239,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Sevilla vs Athletic Bilbao "
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Sevilla vs Athletic Bilbao "
         },
@@ -8081,432 +8571,6 @@
             "related_to": " Sevilla vs Athletic Bilbao "
         },
         {
-            "compet": "English Premier League - Week 23",
-            "match": " Bournemouth vs Liverpool ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "17:30",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Arena Sport 1 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Astro Grandstand HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10932 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Astro Premier League HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10772 V 30000 - 5/6",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Astro Sports UHD",
-            "sat": "Measat 3a 91.4°e",
-            "freq": "11775 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "beIN Sports MENA 4K UHD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "11310 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "beIN Sports Türkiye 3 HD",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Canal+ Extra 1 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11278 V 27500 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Canal+ Live 5 France HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Canal+ Sport 1 Czech HD 📺",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11973 V 29900 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://livetv.skylink.cz",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "DAZN 1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "FuboTV Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Hub Premier 1 HD📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Hub Premier 2 HD📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Hub Premier 2 UHD📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.starhubtvplus.com/eplmatches",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Monomax Streaming📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "NBC Universo USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Nova Sports Premier League HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11804 V 29700 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Setanta Sports Ukraine HD",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky Sport 8 NZ HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky Sport Premier League DE HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky Sport Uno Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11958 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11856 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12207 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Sky UK Ultra HD 1",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12246 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Spíler 1 TV Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "TSN Malta 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "TV3+ Dansk HD",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11823 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "USA Network HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "V Sport Premier League HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "V Sport Premium HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10903 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "V Sport Ultra 4K UHD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11372 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
-            "channel": "VOYO Pro TV Romania📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": " Bournemouth vs Liverpool "
-        },
-        {
             "compet": "German 1. Bundesliga - Week 19",
             "match": " Union Berlin vs Borussia Dortmund ",
             "flags": {
@@ -8520,6 +8584,14 @@
             "channel": "Arena Premium 4 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Union Berlin vs Borussia Dortmund "
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Union Berlin vs Borussia Dortmund "
@@ -9579,24 +9651,6 @@
             "related_to": " Reims vs St Etienne "
         },
         {
-            "compet": "CAF African Confederation Cup - Group Stage: Round 3",
-            "match": " USM Alger vs Djoliba ",
-            "flags": {
-                "team1": "algeria",
-                "team2": "mali"
-            },
-            "time": "19:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " USM Alger vs Djoliba "
-        },
-        {
             "compet": "Colombian Primera A - Week 2",
             "match": " Pereira vs Fortaleza CEIF ",
             "flags": {
@@ -9719,6 +9773,24 @@
             "encry": "MPEG-4 DreCrypt",
             "link": "",
             "related_to": " PSV Eindhoven vs NAC Breda "
+        },
+        {
+            "compet": "CAF African Confederation Cup - Group Stage: Round 3",
+            "match": " USM Alger vs Djoliba ",
+            "flags": {
+                "team1": "algeria",
+                "team2": "mali"
+            },
+            "time": "19:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " USM Alger vs Djoliba "
         },
         {
             "compet": "CAF African Champions League - Group Stage: Round 3",
@@ -10453,6 +10525,14 @@
             "related_to": " Villarreal vs Real Madrid "
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Villarreal vs Real Madrid "
+        },
+        {
             "channel": "beIN Connect MENA 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -10785,6 +10865,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Villarreal vs Real Madrid "
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "",
             "related_to": " Villarreal vs Real Madrid "
         },
