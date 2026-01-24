@@ -147,6 +147,14 @@
             "related_to": " Macarthur FC vs Melbourne City "
         },
         {
+            "channel": "Dubai Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": " Macarthur FC vs Melbourne City "
+        },
+        {
             "channel": "Sky Sport 4 NZ HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2591,6 +2599,14 @@
             "date": "2026-01-24"
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Shabab "
+        },
+        {
             "channel": "Thmanyah KSA",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
@@ -3415,6 +3431,14 @@
             "related_to": " Bayern Munich vs Augsburg "
         },
         {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bayern Munich vs Augsburg "
+        },
+        {
             "channel": "Nova Sports 3 Cyprus HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11823 H 27500 - 3/4",
@@ -4183,6 +4207,16 @@
             "related_to": " Eintracht Frankfurt vs Hoffenheim "
         },
         {
+            "compet": "Scottish Premiership - Week 23",
+            "match": " Aberdeen vs Albany ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "asoncaa"
+            },
+            "time": "15:00",
+            "date": "2026-01-24"
+        },
+        {
             "compet": "English Premier League - Week 23",
             "match": " Manchester City vs Wolves ",
             "flags": {
@@ -4542,6 +4576,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Manchester City vs Wolves "
+        },
+        {
+            "channel": "YTV Botswana",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "12634 V 16166 - 5/6",
+            "encry": "FTA",
+            "link": "",
             "related_to": " Manchester City vs Wolves "
         },
         {
@@ -5279,6 +5321,66 @@
             "related_to": " Hull City vs Swansea City "
         },
         {
+            "compet": "Scottish Premiership - Week 23",
+            "match": " Dundee United vs St Mirren ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "15:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Dundee United vs St Mirren "
+        },
+        {
+            "channel": "Dundee United TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.dundeeunitedfc.co.uk/",
+            "related_to": " Dundee United vs St Mirren "
+        },
+        {
+            "channel": "St Mirren TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://tv.stmirren.com/",
+            "related_to": " Dundee United vs St Mirren "
+        },
+        {
+            "compet": "Scottish League 1 - Week 22",
+            "match": " Montrose vs Peterhead ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "15:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Montrose vs Peterhead "
+        },
+        {
+            "channel": "Montrose FC LIVE📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Montrose vs Peterhead "
+        },
+        {
             "compet": "English National League 1 - Week 29",
             "match": " Gateshead vs Wealdstone ",
             "flags": {
@@ -5303,24 +5405,6 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Gateshead vs Wealdstone "
-        },
-        {
-            "compet": "Scottish League 1 - Week 22",
-            "match": " Montrose vs Peterhead ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "15:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Montrose FC LIVE📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Montrose vs Peterhead "
         },
         {
             "compet": "Scottish League 1 - Week 22",
@@ -5615,24 +5699,6 @@
             "related_to": " Vizela U-23 vs Marítimo U-23 "
         },
         {
-            "compet": "Portuguese Liga Revelação U-23 - Losers Stage - 5",
-            "match": " Rio Ave U-23 vs Estrela U-23 ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "15:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Canal 11📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": " Rio Ave U-23 vs Estrela U-23 "
-        },
-        {
             "compet": "English League Two - Week 28",
             "match": " Milton Keynes Dons vs Shrewsbury Town ",
             "flags": {
@@ -5758,32 +5824,6 @@
         },
         {
             "compet": "Scottish Premiership - Week 23",
-            "match": " Dundee United vs St Mirren ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "15:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Dundee United TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.dundeeunitedfc.co.uk/",
-            "related_to": " Dundee United vs St Mirren "
-        },
-        {
-            "channel": "St Mirren TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://tv.stmirren.com/",
-            "related_to": " Dundee United vs St Mirren "
-        },
-        {
-            "compet": "Scottish Premiership - Week 23",
             "match": " Motherwell vs Kilmarnock ",
             "flags": {
                 "team1": "scotland",
@@ -5807,24 +5847,6 @@
             "encry": "LiveOnSat.com",
             "link": "https://live.motherwellfc.co.uk/",
             "related_to": " Motherwell vs Kilmarnock "
-        },
-        {
-            "compet": "Scottish Premiership - Week 23",
-            "match": " Aberdeen vs Livingston ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "15:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Red TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://redtv.afc.co.uk/",
-            "related_to": " Aberdeen vs Livingston "
         },
         {
             "compet": "Scottish Premiership - Week 23",
@@ -6479,6 +6501,14 @@
             "date": "2026-01-24"
         },
         {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Kholood vs Al Ettifaq "
+        },
+        {
             "channel": "Thmanyah KSA",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
@@ -6510,6 +6540,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Ajax vs Volendam "
+        },
+        {
+            "channel": "Dubai Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
             "related_to": " Ajax vs Volendam "
         },
         {
@@ -8307,6 +8345,14 @@
             "related_to": " Sevilla vs Athletic Bilbao "
         },
         {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " Sevilla vs Athletic Bilbao "
+        },
+        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11798 H 27500 - 9/0",
@@ -8571,6 +8617,80 @@
             "related_to": " Sevilla vs Athletic Bilbao "
         },
         {
+            "compet": "Saudi Pro League - Week 18",
+            "match": " NEOM SC vs Al Ahli ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "17:30",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "Cosmote Sport 6 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
+            "channel": "DAZN France",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
+            "channel": "YouTube: Saudi Pro League 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@-saudiproleague/streams",
+            "related_to": " NEOM SC vs Al Ahli "
+        },
+        {
             "compet": "German 1. Bundesliga - Week 19",
             "match": " Union Berlin vs Borussia Dortmund ",
             "flags": {
@@ -8649,6 +8769,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Union Berlin vs Borussia Dortmund "
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Union Berlin vs Borussia Dortmund "
         },
@@ -8945,72 +9073,6 @@
             "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Asteras Tripolis vs AEK Athens "
-        },
-        {
-            "compet": "Saudi Pro League - Week 18",
-            "match": " NEOM SC vs Al Ahli ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:30",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Cosmote Sport 6 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12418 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " NEOM SC vs Al Ahli "
-        },
-        {
-            "channel": "DAZN France",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " NEOM SC vs Al Ahli "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " NEOM SC vs Al Ahli "
-        },
-        {
-            "channel": "Sport TV7 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " NEOM SC vs Al Ahli "
-        },
-        {
-            "channel": "Sportitalia SoloCalcio HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11179 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sisolocalcio/",
-            "related_to": " NEOM SC vs Al Ahli "
-        },
-        {
-            "channel": "Thmanyah KSA",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " NEOM SC vs Al Ahli "
-        },
-        {
-            "channel": "YouTube: Saudi Pro League 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@-saudiproleague/streams",
-            "related_to": " NEOM SC vs Al Ahli "
         },
         {
             "compet": "English National League 1 - Week 29",
@@ -9651,24 +9713,6 @@
             "related_to": " Reims vs St Etienne "
         },
         {
-            "compet": "Colombian Primera A - Week 2",
-            "match": " Pereira vs Fortaleza CEIF ",
-            "flags": {
-                "team1": "colombia",
-                "team2": "colombia"
-            },
-            "time": "19:00",
-            "date": "2026-01-24"
-        },
-        {
-            "channel": "Fanatiz USA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fanatiz.com/",
-            "related_to": " Pereira vs Fortaleza CEIF "
-        },
-        {
             "compet": "Dutch Eredivisie - Week 20",
             "match": " PSV Eindhoven vs NAC Breda ",
             "flags": {
@@ -9692,6 +9736,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " PSV Eindhoven vs NAC Breda "
+        },
+        {
+            "channel": "Dubai Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
             "related_to": " PSV Eindhoven vs NAC Breda "
         },
         {
@@ -9773,6 +9825,24 @@
             "encry": "MPEG-4 DreCrypt",
             "link": "",
             "related_to": " PSV Eindhoven vs NAC Breda "
+        },
+        {
+            "compet": "Colombian Primera A - Week 2",
+            "match": " Pereira vs Fortaleza CEIF ",
+            "flags": {
+                "team1": "colombia",
+                "team2": "colombia"
+            },
+            "time": "19:00",
+            "date": "2026-01-24"
+        },
+        {
+            "channel": "Fanatiz USA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fanatiz.com/",
+            "related_to": " Pereira vs Fortaleza CEIF "
         },
         {
             "compet": "CAF African Confederation Cup - Group Stage: Round 3",
@@ -10900,6 +10970,14 @@
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Barracas Central vs River Plate "
+        },
+        {
+            "channel": "Dubai Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
             "related_to": " Barracas Central vs River Plate "
         },
         {
