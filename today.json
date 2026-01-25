@@ -539,24 +539,6 @@
             "related_to": " Telstar vs AZ Alkmaar "
         },
         {
-            "compet": "Dutch Vrouwen Eredivisie - Week 12",
-            "match": " PSV Eindhoven vs Utrecht ",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "11:15",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " PSV Eindhoven vs Utrecht "
-        },
-        {
             "compet": "Italian Serie A - Week 22",
             "match": " Sassuolo vs Cremonese ",
             "flags": {
@@ -1721,6 +1703,66 @@
             "related_to": " Waldhof Mannheim vs Hansa Rostock "
         },
         {
+            "compet": "Romanian Superliga - Week 23",
+            "match": " Petrolul vs Farul Constanta ",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "12:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Petrolul vs Farul Constanta "
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Petrolul vs Farul Constanta "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Petrolul vs Farul Constanta "
+        },
+        {
+            "compet": "Albanian Superliga - Week 21",
+            "match": " KF Tirana vs Flamurtari ",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania"
+            },
+            "time": "12:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": " KF Tirana vs Flamurtari "
+        },
+        {
+            "channel": "RTSH Tani",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " KF Tirana vs Flamurtari "
+        },
+        {
             "compet": "Albanian Superliga - Week 21",
             "match": " Teuta vs Vora ",
             "flags": {
@@ -1781,40 +1823,6 @@
             "encry": "",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": " Antwerp vs Sporting Charleroi "
-        },
-        {
-            "compet": "Romanian Superliga - Week 23",
-            "match": " Petrolul vs Farul Constanta ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "12:30",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "Arena Sport 10 Hrvatska HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Petrolul vs Farul Constanta "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Petrolul vs Farul Constanta "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Petrolul vs Farul Constanta "
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 21",
@@ -2203,24 +2211,6 @@
             "related_to": " Atlético Madrid vs Mallorca "
         },
         {
-            "compet": "CAF African Champions League - Group Stage: Round 3",
-            "match": " St Eloi Lupopo vs MC Alger ",
-            "flags": {
-                "team1": "congodr",
-                "team2": "algeria"
-            },
-            "time": "13:00",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " St Eloi Lupopo vs MC Alger "
-        },
-        {
             "compet": "CAF African Confederation Cup - Group Stage: Round 3",
             "match": " ZESCO United vs Kaizer Chiefs ",
             "flags": {
@@ -2373,6 +2363,24 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Nairobi United vs Azam "
+        },
+        {
+            "compet": "CAF African Champions League - Group Stage: Round 3",
+            "match": " St Eloi Lupopo vs MC Alger ",
+            "flags": {
+                "team1": "congodr",
+                "team2": "algeria"
+            },
+            "time": "13:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " St Eloi Lupopo vs MC Alger "
         },
         {
             "compet": "Swiss Challenge League - Week 19",
@@ -5239,6 +5247,48 @@
             "related_to": " DUX Logroño vs Deportivo La Coruña "
         },
         {
+            "compet": "Spanish La Liga 2 - Week 23",
+            "match": " Eibar vs Almería ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "15:15",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Eibar vs Almería "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Eibar vs Almería "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Eibar vs Almería "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Eibar vs Almería "
+        },
+        {
             "compet": "Spanish La Liga (Primera) - Week 21",
             "match": " Barcelona vs Real Oviedo ",
             "flags": {
@@ -5641,48 +5691,6 @@
             "related_to": " Barcelona vs Real Oviedo "
         },
         {
-            "compet": "Spanish La Liga 2 - Week 23",
-            "match": " Eibar vs Almería ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "15:15",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Eibar vs Almería "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Eibar vs Almería "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Eibar vs Almería "
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Eibar vs Almería "
-        },
-        {
             "compet": "Saudi Pro League - Week 18",
             "match": " Al Najma vs Al Qadisiyah ",
             "flags": {
@@ -5755,6 +5763,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Zürich vs Basel "
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Zürich vs Basel "
         },
@@ -6111,24 +6127,6 @@
             "related_to": " ADO Den Haag vs Ajax "
         },
         {
-            "compet": "CAF African Confederation Cup - Group Stage: Round 3",
-            "match": " San-Pédro vs Olympic Safi ",
-            "flags": {
-                "team1": "ivorycoast",
-                "team2": "morocco"
-            },
-            "time": "16:00",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " San-Pédro vs Olympic Safi "
-        },
-        {
             "compet": "CAF African Champions League - Group Stage: Round 3",
             "match": " Stade Malien vs Petro de Luanda ",
             "flags": {
@@ -6187,6 +6185,24 @@
             "encry": "FTA",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Manisa FK vs Istanbulspor "
+        },
+        {
+            "compet": "CAF African Confederation Cup - Group Stage: Round 3",
+            "match": " San-Pédro vs Olympic Safi ",
+            "flags": {
+                "team1": "ivorycoast",
+                "team2": "morocco"
+            },
+            "time": "16:00",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " San-Pédro vs Olympic Safi "
         },
         {
             "compet": "Greek Super League 1 - Week 18",
@@ -8017,11 +8033,43 @@
             "related_to": " Fenerbahçe vs Göztepe "
         },
         {
+            "channel": "beIN Connect Hong Kong 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-hk.beinsports.com/en",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
+            "channel": "beIN Connect Indonesia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-id.beinsports.com/id",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
             "channel": "beIN Connect Malaysia 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect-my.beinsports.com/en",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
+            "channel": "beIN Connect New Zealand 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
+            "channel": "beIN Connect Philippines 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-ph.beinsports.com/en",
             "related_to": " Fenerbahçe vs Göztepe "
         },
         {
@@ -8185,6 +8233,14 @@
             "related_to": " Fenerbahçe vs Göztepe "
         },
         {
+            "channel": "ESPN 2 Africa",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10977 H 24114 - 1/2",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
             "channel": "ESPN 2 Brazil HD",
             "sat": "SES 6 40.5°w",
             "freq": "3980 L 21600 - 3/4",
@@ -8301,6 +8357,22 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11387 H 32000 - 3/4",
             "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Fenerbahçe vs Göztepe "
         },
@@ -8739,6 +8811,48 @@
             "related_to": " Real Sociedad vs Celta Vigo "
         },
         {
+            "compet": "Greek Super League 1 - Week 18",
+            "match": " Atromitos vs Panathinaikos ",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "17:30",
+            "date": "2026-01-25"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Atromitos vs Panathinaikos "
+        },
+        {
+            "channel": "Nova Sports Prime Cyprus HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Atromitos vs Panathinaikos "
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Atromitos vs Panathinaikos "
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Atromitos vs Panathinaikos "
+        },
+        {
             "compet": "Saudi Pro League - Week 18",
             "match": " Al Riyadh vs Al Hilal ",
             "flags": {
@@ -8919,40 +9033,6 @@
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": " Bayern Munich vs RB Leipzig "
-        },
-        {
-            "compet": "Greek Super League 1 - Week 18",
-            "match": " Atromitos vs Panathinaikos ",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "time": "17:30",
-            "date": "2026-01-25"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Atromitos vs Panathinaikos "
-        },
-        {
-            "channel": "Nova Sports Prime Cyprus HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Atromitos vs Panathinaikos "
-        },
-        {
-            "channel": "Nova Sports Prime Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Atromitos vs Panathinaikos "
         },
         {
             "compet": "Belgian Pro League - Week 22",
