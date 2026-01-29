@@ -181,6 +181,22 @@
             "related_to": " Real Betis vs Feyenoord "
         },
         {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Real Betis vs Feyenoord "
+        },
+        {
+            "channel": "MAX Sport 1 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs Feyenoord "
+        },
+        {
             "channel": "Megogo Futbol 1📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -537,6 +553,14 @@
             "related_to": " Aston Villa vs Salzburg "
         },
         {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Aston Villa vs Salzburg "
+        },
+        {
             "channel": "SuperSport 3 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -613,6 +637,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Aston Villa vs Salzburg "
+        },
+        {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "",
             "related_to": " Aston Villa vs Salzburg "
         },
@@ -775,6 +807,14 @@
             "sat": "Astra 2G 28.2°e",
             "freq": "11612 H 22000 - 5/6",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Nottingham Forest vs Ferencváros "
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Nottingham Forest vs Ferencváros "
         },
@@ -1023,9 +1063,25 @@
             "related_to": " Lyon vs PAOK Thessaloniki "
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Lyon vs PAOK Thessaloniki "
+        },
+        {
             "channel": "Megogo Futbol 8",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Lyon vs PAOK Thessaloniki "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Lyon vs PAOK Thessaloniki "
@@ -1035,6 +1091,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Lyon vs PAOK Thessaloniki "
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
             "link": "",
             "related_to": " Lyon vs PAOK Thessaloniki "
         },
@@ -1275,6 +1339,14 @@
             "related_to": " FC Porto vs Rangers "
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " FC Porto vs Rangers "
+        },
+        {
             "channel": "Polsat Sport Premium 1 HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11117 V 27500 - 3/4",
@@ -1437,6 +1509,14 @@
             "related_to": " Panathinaikos vs Roma "
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Panathinaikos vs Roma "
+        },
+        {
             "channel": "Megogo Futbol 4",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1571,6 +1651,14 @@
             "sat": "Astra 1L 19.2°e",
             "freq": "12728 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FCSB vs Fenerbahçe "
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
             "link": "",
             "related_to": " FCSB vs Fenerbahçe "
         },
@@ -1775,6 +1863,120 @@
             "encry": "FTA",
             "link": "",
             "related_to": " Midtjylland vs Dinamo Zagreb "
+        },
+        {
+            "compet": "UEFA Europa League - Matchday 8",
+            "match": " Ludogorets vs Nice ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "france"
+            },
+            "time": "20:00",
+            "date": "2026-01-29"
+        },
+        {
+            "channel": "beIN Connect Malaysia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-my.beinsports.com/en",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "beIN Connect Singapore 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-sg.beinsports.com/en",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "BeIN Sports MENA Xtra 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "bTV Action HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "Discovery+ UK📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "Megogo Futbol 14",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
+        },
+        {
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Ludogorets vs Nice "
         },
         {
             "compet": "UEFA Europa League - Matchday 8",
@@ -2019,112 +2221,6 @@
             "encry": "FTA",
             "link": "",
             "related_to": " Go Ahead Eagles vs Sporting Braga "
-        },
-        {
-            "compet": "UEFA Europa League - Matchday 8",
-            "match": " Ludogorets vs Nice ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "france"
-            },
-            "time": "20:00",
-            "date": "2026-01-29"
-        },
-        {
-            "channel": "beIN Connect Malaysia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-my.beinsports.com/en",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "beIN Connect Singapore 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-sg.beinsports.com/en",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "BeIN Sports MENA Xtra 6 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "Canal+ Live 3 France HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "12090 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "Discovery+ UK📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.discoveryplus.co.uk/olympics/home",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "Disney+ Sverige",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "Megogo Futbol 14",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Ludogorets vs Nice "
         },
         {
             "compet": "UEFA Europa League - Matchday 8",
