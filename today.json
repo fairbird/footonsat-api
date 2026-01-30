@@ -981,14 +981,6 @@
             "related_to": " Al Kholood vs Al Nassr "
         },
         {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12070 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Kholood vs Al Nassr "
-        },
-        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11798 H 27500 - 9/0",
@@ -1192,6 +1184,14 @@
             "channel": "ST World Football HD",
             "sat": "Eutelsat 10B 10.0°e",
             "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Al Kholood vs Al Nassr "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
             "link": "",
             "related_to": " Al Kholood vs Al Nassr "
@@ -2155,14 +2155,6 @@
             "related_to": " Lens vs Le Havre "
         },
         {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12070 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Lens vs Le Havre "
-        },
-        {
             "channel": "DAZN 2 Bar Deutsch HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11798 H 27500 - 9/0",
@@ -2547,6 +2539,14 @@
             "related_to": " Bristol City vs Derby County "
         },
         {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bristol City vs Derby County "
+        },
+        {
             "channel": "Sky Go UK",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2769,6 +2769,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Espanyol vs Alavés "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Espanyol vs Alavés "
         },
