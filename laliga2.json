@@ -2,32 +2,6 @@
     "footonsat": [
         {
             "compet": "Spanish La Liga 2 - Week 24",
-            "match": " Cultural Leonesa vs Deportivo La Coruña ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:30",
-            "date": "2026-01-31"
-        },
-        {
-            "channel": "beIN Sports France 6 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cultural Leonesa vs Deportivo La Coruña "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Cultural Leonesa vs Deportivo La Coruña "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 24",
             "match": " Almería vs Ceuta ",
             "flags": {
                 "team1": "spain",
@@ -97,6 +71,24 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": " Leganés vs Granada "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 25",
+            "match": " Real Valladolid vs Castellón ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "13:00",
+            "date": "2026-02-08"
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Valladolid vs Castellón "
         }
     ]
 }
