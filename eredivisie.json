@@ -1,6 +1,32 @@
 {
     "footonsat": [
         {
+            "compet": "Dutch Cup (KNVB Beker)",
+            "match": " AZ Alkmaar vs Twente ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-02-03"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Twente "
+        },
+        {
+            "channel": "SuperSport 5 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Twente "
+        },
+        {
             "compet": "Dutch Eredivisie - Week 22",
             "match": " NEC Nijmegen vs Heracles Almelo ",
             "flags": {
