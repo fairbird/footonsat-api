@@ -145,6 +145,14 @@
             "related_to": " Nantes vs Lyon "
         },
         {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Nantes vs Lyon "
+        },
+        {
             "channel": "TV5 Monde Afrique HD",
             "sat": "Eutelsat 36C 35.9°e",
             "freq": "11977 H 27500 - 3/4",
@@ -345,6 +353,42 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Paris St Germain vs Marseille "
+        },
+        {
+            "compet": "French Ligue 1 - Week 22",
+            "match": " Lille vs Brest ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Lille vs Brest "
+        },
+        {
+            "compet": "French Ligue 1 - Week 22",
+            "match": " Paris FC vs Lens ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "20:05",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Paris FC vs Lens "
         }
     ]
 }
