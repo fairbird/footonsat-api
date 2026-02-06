@@ -2,6 +2,42 @@
     "footonsat": [
         {
             "compet": "Saudi Pro League - Week 21",
+            "match": " NEOM SC vs Al Riyadh ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "14:25",
+            "date": "2026-02-06"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " NEOM SC vs Al Riyadh "
+        },
+        {
+            "compet": "Saudi Pro League - Week 21",
+            "match": " Al Ettifaq vs Damac FC ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "15:00",
+            "date": "2026-02-06"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Ettifaq vs Damac FC "
+        },
+        {
+            "compet": "Saudi Pro League - Week 21",
             "match": " Al Nassr vs Al Ittihad ",
             "flags": {
                 "team1": "saudiarabia",
@@ -87,14 +123,6 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ittihad "
-        },
-        {
-            "channel": "Persiana Sport HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "FTA",
             "link": "",
             "related_to": " Al Nassr vs Al Ittihad "
         },
@@ -255,6 +283,14 @@
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "",
+            "related_to": " Al Nassr vs Al Ittihad "
+        },
+        {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Al Nassr vs Al Ittihad "
         },
