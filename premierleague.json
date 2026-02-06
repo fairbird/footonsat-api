@@ -59,6 +59,14 @@
             "related_to": " Leeds United vs Nottingham Forest "
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Nottingham Forest "
+        },
+        {
             "channel": "DAZN 1 Bar Espana",
             "sat": "Astra 1L 19.2°e",
             "freq": "11097 V 22000 - 5/6",
@@ -70,6 +78,14 @@
             "channel": "DAZN 1 Espana HD",
             "sat": "Astra 1KR 19.2°e",
             "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Nottingham Forest "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Leeds United vs Nottingham Forest "
@@ -107,6 +123,14 @@
             "related_to": " Leeds United vs Nottingham Forest "
         },
         {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Leeds United vs Nottingham Forest "
+        },
+        {
             "channel": "See Dansk HD",
             "sat": "Thor 6 5.0°e",
             "freq": "11265 H 30000 - 3/4",
@@ -127,6 +151,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Leeds United vs Nottingham Forest "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Leeds United vs Nottingham Forest "
+        },
+        {
+            "channel": "Sky Sport Italia 4K UHD",
+            "sat": "Hotbird 13E 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Leeds United vs Nottingham Forest "
         },
@@ -159,6 +199,22 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Leeds United vs Nottingham Forest "
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Leeds United vs Nottingham Forest "
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
             "link": "",
             "related_to": " Leeds United vs Nottingham Forest "
         },
@@ -5182,32 +5238,6 @@
         },
         {
             "compet": "English Premier League - Week 30",
-            "match": " Manchester United vs Aston Villa ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-03-14"
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Manchester United vs Aston Villa "
-        },
-        {
-            "channel": "Sky Sports HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11856 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester United vs Aston Villa "
-        },
-        {
-            "compet": "English Premier League - Week 30",
             "match": " Chelsea vs Newcastle United ",
             "flags": {
                 "team1": "england",
@@ -5305,6 +5335,32 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Arsenal vs Everton "
+        },
+        {
+            "compet": "English Premier League - Week 30",
+            "match": " Manchester United vs Aston Villa ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-03-15"
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Manchester United vs Aston Villa "
+        },
+        {
+            "channel": "Sky Sports HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester United vs Aston Villa "
         },
         {
             "compet": "English Premier League - Week 30",
@@ -5500,32 +5556,6 @@
         },
         {
             "compet": "English Premier League - Week 31",
-            "match": " Aston Villa vs West Ham United ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-03-21"
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Aston Villa vs West Ham United "
-        },
-        {
-            "channel": "Sky Sports HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11856 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Aston Villa vs West Ham United "
-        },
-        {
-            "compet": "English Premier League - Week 31",
             "match": " Everton vs Chelsea ",
             "flags": {
                 "team1": "england",
@@ -5715,6 +5745,32 @@
             "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Tottenham Hotspur vs Nottingham Forest "
+        },
+        {
+            "compet": "English Premier League - Week 31",
+            "match": " Aston Villa vs West Ham United ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:15",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Aston Villa vs West Ham United "
+        },
+        {
+            "channel": "Sky Sports HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11856 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Aston Villa vs West Ham United "
         },
         {
             "compet": "English Premier League - Week 35",
