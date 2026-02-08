@@ -2,94 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga Portugal - Week 21",
-            "match": " Estrela Amadora vs Santa Clara ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "15:30",
-            "date": "2026-02-07"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Estrela Amadora vs Santa Clara "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 21",
-            "match": " Moreirense vs Gil Vicente ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "15:30",
-            "date": "2026-02-07"
-        },
-        {
-            "channel": "TVi Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Moreirense vs Gil Vicente "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 21",
-            "match": " Estoril vs Tondela ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "18:00",
-            "date": "2026-02-07"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Estoril vs Tondela "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 21",
-            "match": " Arouca vs Vitória Guimarães ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "20:30",
-            "date": "2026-02-07"
-        },
-        {
-            "channel": "beIN Sports France 6 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Arouca vs Vitória Guimarães "
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Arouca vs Vitória Guimarães "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Arouca vs Vitória Guimarães "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 21",
             "match": " Nacional Madeira vs Casa Pia ",
             "flags": {
                 "team1": "portugal",
@@ -133,6 +45,38 @@
             "related_to": " Sporting Braga vs Rio Ave "
         },
         {
+            "channel": "Cosmote Sport 9 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sporting Braga vs Rio Ave "
+        },
+        {
+            "channel": "Cytavision Sports 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Sporting Braga vs Rio Ave "
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sporting Braga vs Rio Ave "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sporting Braga vs Rio Ave "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -145,6 +89,22 @@
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sporting Braga vs Rio Ave "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Sporting Braga vs Rio Ave "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Sporting Braga vs Rio Ave "
         },
@@ -215,6 +175,22 @@
             "related_to": " Benfica vs Alverca "
         },
         {
+            "channel": "Cosmote Sport 9 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
+            "channel": "Cytavision Sports 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
             "channel": "DAZN Italia",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -223,10 +199,26 @@
             "related_to": " Benfica vs Alverca "
         },
         {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
             "channel": "ESPN 3 Brazil HD",
             "sat": "SES 6 40.5°w",
             "freq": "3980 L 21600 - 3/4",
             "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Benfica vs Alverca "
         },
@@ -247,6 +239,14 @@
             "related_to": " Benfica vs Alverca "
         },
         {
+            "channel": "Sport 1 Lithuania HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
             "channel": "Sport Live Dansk HD",
             "sat": "Thor 6 5.0°e",
             "freq": "10934 V 25000 - 2/4",
@@ -255,10 +255,34 @@
             "related_to": " Benfica vs Alverca "
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Benfica vs Alverca "
         },
@@ -279,6 +303,14 @@
             "related_to": " Benfica vs Alverca "
         },
         {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
             "channel": "Voyo Player PPV",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -295,6 +327,14 @@
             },
             "time": "18:45",
             "date": "2026-02-09"
+        },
+        {
+            "channel": "Cosmote Sport 9 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Famalicão vs AVS Futebol "
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -339,10 +379,34 @@
             "related_to": " FC Porto vs Sporting Lisbon "
         },
         {
+            "channel": "Sport 1 Lithuania HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " FC Porto vs Sporting Lisbon "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FC Porto vs Sporting Lisbon "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " FC Porto vs Sporting Lisbon "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " FC Porto vs Sporting Lisbon "
         },
@@ -369,6 +433,176 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " FC Porto vs Sporting Lisbon "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Santa Clara vs Benfica ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:30",
+            "date": "2026-02-13"
+        },
+        {
+            "channel": "Cosmote Sport 9 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Santa Clara vs Benfica "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Santa Clara vs Benfica "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Tondela vs Alverca ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:45",
+            "date": "2026-02-13"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Tondela vs Alverca "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Casa Pia vs Arouca ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "15:30",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Arouca "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Vitória Guimarães vs Estrela Amadora ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vitória Guimarães vs Estrela Amadora "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Gil Vicente vs Sporting Braga ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-02-14"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Gil Vicente vs Sporting Braga "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Nacional Madeira vs FC Porto ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "15:30",
+            "date": "2026-02-15"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Nacional Madeira vs FC Porto "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " AVS Futebol vs Estoril ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-02-15"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " AVS Futebol vs Estoril "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Sporting Lisbon vs Famalicão ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-02-15"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Lisbon vs Famalicão "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 22",
+            "match": " Rio Ave vs Moreirense ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:15",
+            "date": "2026-02-16"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Rio Ave vs Moreirense "
         }
     ]
 }
