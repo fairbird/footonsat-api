@@ -43,6 +43,14 @@
             "related_to": " Sanfrecce Hiroshima vs Johor Darul Ta'zim "
         },
         {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "",
+            "related_to": " Sanfrecce Hiroshima vs Johor Darul Ta'zim "
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "12188 V 27500 - 5/6",
@@ -71,6 +79,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11231 V 42000 - 5/6",
             "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Sanfrecce Hiroshima vs Johor Darul Ta'zim "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
             "link": "",
             "related_to": " Sanfrecce Hiroshima vs Johor Darul Ta'zim "
         },
@@ -109,6 +125,14 @@
             "related_to": " Vissel Kobe vs FC Seoul "
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Vissel Kobe vs FC Seoul "
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12560 V 30000 - 5/6",
@@ -125,6 +149,14 @@
             "related_to": " Vissel Kobe vs FC Seoul "
         },
         {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Vissel Kobe vs FC Seoul "
+        },
+        {
             "channel": "Spor Smart 2 Türkiye HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "12245 H 27500 - 5/6",
@@ -137,6 +169,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Vissel Kobe vs FC Seoul "
+        },
+        {
+            "channel": "Sportdigital 1+ Deutsch HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Vissel Kobe vs FC Seoul "
         },
@@ -157,6 +197,14 @@
             "related_to": " Vissel Kobe vs FC Seoul "
         },
         {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Vissel Kobe vs FC Seoul "
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -173,6 +221,14 @@
             },
             "time": "12:15",
             "date": "2026-02-10"
+        },
+        {
+            "channel": "Astro Arena 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10852 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chengdu Rongcheng vs Buriram United "
         },
         {
             "channel": "beIN Sports MENA 4 HD",
@@ -204,6 +260,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " Chengdu Rongcheng vs Buriram United "
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
             "related_to": " Chengdu Rongcheng vs Buriram United "
         },
         {
@@ -239,6 +303,14 @@
             "related_to": " Chengdu Rongcheng vs Buriram United "
         },
         {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Chengdu Rongcheng vs Buriram United "
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -255,6 +327,14 @@
             },
             "time": "12:15",
             "date": "2026-02-10"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Shanghai Shenhua vs Machida Zelvia "
         },
         {
             "channel": "beIN Sports MENA 5 HD",
@@ -281,11 +361,35 @@
             "related_to": " Shanghai Shenhua vs Machida Zelvia "
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Shanghai Shenhua vs Machida Zelvia "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " Shanghai Shenhua vs Machida Zelvia "
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Shanghai Shenhua vs Machida Zelvia "
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
             "related_to": " Shanghai Shenhua vs Machida Zelvia "
         },
         {
@@ -321,6 +425,14 @@
             "related_to": " Shanghai Shenhua vs Machida Zelvia "
         },
         {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Shanghai Shenhua vs Machida Zelvia "
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -339,6 +451,30 @@
             "date": "2026-02-10"
         },
         {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Free To Air",
+            "link": "",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
             "channel": "DAZN Japan",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -355,11 +491,43 @@
             "related_to": " Tractor Sazi vs Al Sadd "
         },
         {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
             "related_to": " Tractor Sazi vs Al Sadd "
         },
         {
@@ -395,6 +563,14 @@
             "related_to": " Tractor Sazi vs Al Sadd "
         },
         {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Tractor Sazi vs Al Sadd "
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -413,10 +589,42 @@
             "date": "2026-02-10"
         },
         {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Free To Air",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Gharafa "
+        },
+        {
+            "channel": "Astro Arena Bola HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Gharafa "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Gharafa "
+        },
+        {
             "channel": "DAZN Japan",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Gharafa "
+        },
+        {
+            "channel": "ESPN 2 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
             "link": "",
             "related_to": " Al Ittihad vs Al Gharafa "
         },
@@ -426,6 +634,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " Al Ittihad vs Al Gharafa "
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Gharafa "
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
             "related_to": " Al Ittihad vs Al Gharafa "
         },
         {
@@ -457,6 +681,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Gharafa "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
             "link": "",
             "related_to": " Al Ittihad vs Al Gharafa "
         },
