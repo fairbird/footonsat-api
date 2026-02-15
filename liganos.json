@@ -2,60 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga Portugal - Week 22",
-            "match": " Casa Pia vs Arouca ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "15:30",
-            "date": "2026-02-14"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Casa Pia vs Arouca "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 22",
-            "match": " Vitória Guimarães vs Estrela Amadora ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "18:00",
-            "date": "2026-02-14"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vitória Guimarães vs Estrela Amadora "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 22",
-            "match": " Gil Vicente vs Sporting Braga ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "20:30",
-            "date": "2026-02-14"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Gil Vicente vs Sporting Braga "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 22",
             "match": " Nacional Madeira vs FC Porto ",
             "flags": {
                 "team1": "portugal",
@@ -109,6 +55,14 @@
             "date": "2026-02-15"
         },
         {
+            "channel": "Bold+ Dansk📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": " Sporting Lisbon vs Famalicão "
+        },
+        {
             "channel": "Ring Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
@@ -129,6 +83,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sporting Lisbon vs Famalicão "
+        },
+        {
+            "channel": "Sport Live Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "10934 V 25000 - 2/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Sporting Lisbon vs Famalicão "
         },
@@ -191,6 +153,42 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Sporting Braga vs Vitória Guimarães "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 23",
+            "match": " Estoril vs Gil Vicente ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-02-22"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Estoril vs Gil Vicente "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 23",
+            "match": " FC Porto vs Rio Ave ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-02-22"
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " FC Porto vs Rio Ave "
         }
     ]
 }
