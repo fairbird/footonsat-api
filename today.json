@@ -355,6 +355,14 @@
             "related_to": " Al Sadd vs Al Ittihad "
         },
         {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Al Sadd vs Al Ittihad "
+        },
+        {
             "channel": "Spor Smart Türkiye HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "12188 V 27500 - 5/6",
@@ -767,6 +775,14 @@
             "date": "2026-02-17"
         },
         {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Sparta Rotterdam vs NEC Nijmegen "
+        },
+        {
             "channel": "ESPN Extra Nederland",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -985,14 +1001,6 @@
             "date": "2026-02-17"
         },
         {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Spartans vs Forfar Athletic "
-        },
-        {
             "channel": "Spartans FC TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1145,40 +1153,6 @@
             "related_to": " Sutton United vs Woking "
         },
         {
-            "compet": "Northern Ireland Premiership - Week 24",
-            "match": " Portadown vs Cliftonville ",
-            "flags": {
-                "team1": "nireland",
-                "team2": "nireland"
-            },
-            "time": "19:45",
-            "date": "2026-02-17"
-        },
-        {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Portadown vs Cliftonville "
-        },
-        {
-            "channel": "NIFL TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Portadown vs Cliftonville "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Portadown vs Cliftonville "
-        },
-        {
             "compet": "English National League 1 - Week 30",
             "match": " Halifax Town vs Gateshead ",
             "flags": {
@@ -1211,6 +1185,32 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Halifax Town vs Gateshead "
+        },
+        {
+            "compet": "Northern Ireland Premiership - Week 24",
+            "match": " Portadown vs Cliftonville ",
+            "flags": {
+                "team1": "nireland",
+                "team2": "nireland"
+            },
+            "time": "19:45",
+            "date": "2026-02-17"
+        },
+        {
+            "channel": "NIFL TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Portadown vs Cliftonville "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Portadown vs Cliftonville "
         },
         {
             "compet": "Northern Ireland Premiership - Week 28",
@@ -1287,7 +1287,7 @@
         {
             "channel": "Montrose FC LIVE📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Montrose vs Dundee United "
@@ -2111,6 +2111,14 @@
             "sat": "NSS 12 57.0°e",
             "freq": "3798 R 19167 - 3/5",
             "encry": "Irdeto [c]",
+            "link": "",
+            "related_to": " Monaco vs Paris St Germain "
+        },
+        {
+            "channel": "TNT Sports 9",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11597 V 23000 - 2/3",
+            "encry": "VideoGuard",
             "link": "",
             "related_to": " Monaco vs Paris St Germain "
         },
