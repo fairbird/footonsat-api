@@ -4375,6 +4375,14 @@
             "date": "2026-03-08"
         },
         {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Villarreal vs Elche "
+        },
+        {
             "channel": "ESPN Deportes",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4396,6 +4404,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
+            "related_to": " Villarreal vs Elche "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
             "related_to": " Villarreal vs Elche "
         },
         {
@@ -4536,6 +4552,56 @@
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 28",
+            "match": " Girona vs Athletic Bilbao ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "13:00",
+            "date": "2026-03-14"
+        },
+        {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Girona vs Athletic Bilbao "
+        },
+        {
+            "channel": "ESPN Deportes",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Girona vs Athletic Bilbao "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Girona vs Athletic Bilbao "
+        },
+        {
+            "channel": "Fubo Sports USA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.fubosportsnetwork.com/",
+            "related_to": " Girona vs Athletic Bilbao "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Girona vs Athletic Bilbao "
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 28",
             "match": " Alavés vs Villarreal ",
             "flags": {
                 "team1": "spain",
@@ -4669,40 +4735,6 @@
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
             "related_to": " Real Betis vs Celta Vigo "
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 28",
-            "match": " Girona vs Athletic Bilbao ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:00",
-            "date": "2026-03-15"
-        },
-        {
-            "channel": "ESPN Deportes",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Girona vs Athletic Bilbao "
-        },
-        {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Girona vs Athletic Bilbao "
-        },
-        {
-            "channel": "Fubo Sports USA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": " Girona vs Athletic Bilbao "
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 28",
