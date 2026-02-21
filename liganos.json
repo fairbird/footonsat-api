@@ -2,32 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga Portugal - Week 23",
-            "match": " Estrela Amadora vs Tondela ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "20:45",
-            "date": "2026-02-20"
-        },
-        {
-            "channel": "Cosmote Sport 7 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Estrela Amadora vs Tondela "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Estrela Amadora vs Tondela "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 23",
             "match": " Alverca vs Santa Clara ",
             "flags": {
                 "team1": "portugal",
@@ -291,6 +265,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " FC Porto vs Arouca "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 24",
+            "match": " Nacional Madeira vs Sporting Braga ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-02-28"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Nacional Madeira vs Sporting Braga "
         }
     ]
 }
