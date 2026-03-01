@@ -2,24 +2,6 @@
     "footonsat": [
         {
             "compet": "NBA Regular Season",
-            "match": " Oklahoma Thunder vs Denver Nuggets ",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "02:30",
-            "date": "2026-02-28"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Oklahoma Thunder vs Denver Nuggets "
-        },
-        {
-            "compet": "NBA Regular Season",
             "match": " Golden State Warriors vs Los Angeles Lakers ",
             "flags": {
                 "team1": "assocnba",
@@ -215,6 +197,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Oklahoma Thunder vs Golden State Warriors "
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": " Cleveland Cavaliers vs Boston Celtics ",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "17:00",
+            "date": "2026-03-08"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Cleveland Cavaliers vs Boston Celtics "
         }
     ]
 }
