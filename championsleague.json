@@ -1,3 +1,50 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "UEFA Champions League - Last 16 (1st Leg)",
+            "match": " Galatasaray vs Liverpool ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "england"
+            },
+            "time": "17:45",
+            "date": "2026-03-10"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": " Galatasaray vs Liverpool "
+        },
+        {
+            "compet": "UEFA Champions League - Last 16 (2nd Leg)",
+            "match": " Sporting Lisbon vs Bodø/Glimt ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "norway"
+            },
+            "time": "17:45",
+            "date": "2026-03-17"
+        },
+        {
+            "compet": "UEFA Champions League - Last 16 (2nd Leg)",
+            "match": " Liverpool vs Galatasaray ",
+            "flags": {
+                "team1": "england",
+                "team2": "turkey"
+            },
+            "time": "20:00",
+            "date": "2026-03-18"
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": " Liverpool vs Galatasaray "
+        }
+    ]
 }
