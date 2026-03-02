@@ -1,32 +1,14 @@
 {
     "footonsat": [
         {
-            "compet": "Major League Soccer (MLS) - Week",
-            "match": " Orlando City vs Inter Miami ",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "00:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "MLS Season Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Orlando City vs Inter Miami "
-        },
-        {
             "compet": "Argentinean Primera División - Week 8",
-            "match": " Defensa y Justicia vs Lanús ",
+            "match": " Banfield vs Aldosivi ",
             "flags": {
                 "team1": "argentina",
                 "team2": "argentina"
             },
             "time": "00:30",
-            "date": "2026-03-02"
+            "date": "2026-03-03"
         },
         {
             "channel": "Fanatiz EU📺",
@@ -34,17 +16,33 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://www.fanatiz.com/",
-            "related_to": " Defensa y Justicia vs Lanús "
+            "related_to": " Banfield vs Aldosivi "
         },
         {
             "compet": "Argentinean Primera División - Week 8",
-            "match": " Tigre vs Gimnasia La Plata ",
+            "match": " Independiente RM vs River Plate ",
             "flags": {
                 "team1": "argentina",
                 "team2": "argentina"
             },
             "time": "00:30",
-            "date": "2026-03-02"
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Independiente RM vs River Plate "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Independiente RM vs River Plate "
         },
         {
             "channel": "Fanatiz EU📺",
@@ -52,741 +50,25 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://www.fanatiz.com/",
-            "related_to": " Tigre vs Gimnasia La Plata "
+            "related_to": " Independiente RM vs River Plate "
         },
         {
-            "compet": "Major League Soccer (MLS) - Week",
-            "match": " San Diego FC vs St Louis City ",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "02:15",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "MLS Season Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " San Diego FC vs St Louis City "
-        },
-        {
-            "compet": "Russian Premier League - Week 19",
-            "match": " Sochi vs Spartak Moscow ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "12:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Sport 8 Hrvatska HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sochi vs Spartak Moscow "
-        },
-        {
-            "compet": "Bulgarian First League - Week 23",
-            "match": " Ludogorets vs Lokomotiv Plovdiv ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "16:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Ludogorets vs Lokomotiv Plovdiv "
-        },
-        {
-            "compet": "Serbian Super League - Week 25",
-            "match": " IMT Novi Belgrade vs Radnik ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "16:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " IMT Novi Belgrade vs Radnik "
-        },
-        {
-            "compet": "Türkiye 1. Lig - Week 28",
-            "match": " Manisa FK vs Corum FK ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "17:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Manisa FK vs Corum FK "
-        },
-        {
-            "channel": "beIN Sports Türkiye 2 HD",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Manisa FK vs Corum FK "
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": " Manisa FK vs Corum FK "
-        },
-        {
-            "compet": "Romanian Superliga - Week 29",
-            "match": " Unirea Slobozia vs Rapid Bucharest ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "17:30",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11862 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Unirea Slobozia vs Rapid Bucharest "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12290 V 30000 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Unirea Slobozia vs Rapid Bucharest "
-        },
-        {
-            "compet": "Italian Serie A - Week 27",
-            "match": " Pisa vs Bologna ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "17:30",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Pisa vs Bologna "
+            "related_to": " Independiente RM vs River Plate "
         },
         {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN France",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN Great Britain📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN Ireland📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "DAZN USA en Español",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "FuboTV Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "MTV Katsomon+📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "S Sport 2 Türkiye HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "Starzplay Sports HD",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "Tivibu Spor 1 HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Pisa vs Bologna "
-        },
-        {
-            "compet": "Polish Ekstraklasa - Week 23",
-            "match": " Zaglebie Lubin vs Wisla Plock ",
+            "compet": "AFC Champions League Elite - Play-Off (1st Leg)",
+            "match": " Melbourne City vs Buriram United ",
             "flags": {
-                "team1": "poland",
-                "team2": "poland"
+                "team1": "australia",
+                "team2": "thailand"
             },
-            "time": "18:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Zaglebie Lubin vs Wisla Plock "
-        },
-        {
-            "channel": "Canal+ Sport 3 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "10892 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Zaglebie Lubin vs Wisla Plock "
-        },
-        {
-            "channel": "Ekstraklasa TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.ekstraklasa.tv/ekstraklasa/",
-            "related_to": " Zaglebie Lubin vs Wisla Plock "
-        },
-        {
-            "compet": "Portuguese Liga Portugal 2 - Week 24",
-            "match": " Feirense vs Felgueiras ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "18:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Sport TV+ Portugal",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Feirense vs Felgueiras "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 28",
-            "match": " Sporting Gijón vs Leganés ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Sporting Gijón vs Leganés "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 28",
-            "match": " Córdoba vs Andorra ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:30",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Córdoba vs Andorra "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Córdoba vs Andorra "
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Córdoba vs Andorra "
-        },
-        {
-            "channel": "Nova Sports Start Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11804 V 29700 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Córdoba vs Andorra "
-        },
-        {
-            "compet": "French Ligue 2 - Week 25",
-            "match": " Amiens vs Troyes ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "19:45",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Amiens vs Troyes "
-        },
-        {
-            "channel": "beIN Sports MENA French 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Amiens vs Troyes "
-        },
-        {
-            "compet": "Italian Serie A - Week 27",
-            "match": " Udinese vs Fiorentina ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:45",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "Cosmote Sport 7 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN France",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN Great Britain📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN Ireland📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "DAZN USA en Español",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "FuboTV Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "MTV Katsomon+📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "S Sport 2 Türkiye HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "Starzplay Sports HD",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "Tivibu Spor 1 HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11880 H 20000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "Tring Sport 1 HD",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Udinese vs Fiorentina "
-        },
-        {
-            "compet": "Irish Premier Division - Week 2",
-            "match": " St Patrick's Athletic vs Galway United ",
-            "flags": {
-                "team1": "ireland",
-                "team2": "ireland"
-            },
-            "time": "19:45",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " St Patrick's Athletic vs Galway United "
-        },
-        {
-            "channel": "LOI TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.loitv.ie/",
-            "related_to": " St Patrick's Athletic vs Galway United "
-        },
-        {
-            "compet": "English Championship - Week 35",
-            "match": " Birmingham City vs Middlesbrough ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "20:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "beIN Sports Australia 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
+            "time": "07:45",
+            "date": "2026-03-03"
         },
         {
             "channel": "beIN Sports MENA 2 HD",
@@ -794,177 +76,7 @@
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "EXXEN Digital Türkiye📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.exxen.com/en",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11856 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12207 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "Sky UK Ultra HD 1",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12246 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Birmingham City vs Middlesbrough "
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 26",
-            "match": " Real Madrid vs Getafe ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "20:00",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "beIN Sports Australia 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "beIN Sports MENA French 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "DAZN 1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Melbourne City vs Buriram United "
         },
         {
             "channel": "DAZN Japan",
@@ -972,135 +84,875 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Melbourne City vs Buriram United "
         },
         {
-            "channel": "ESPN Deportes",
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Melbourne City vs Buriram United "
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Melbourne City vs Buriram United "
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": " Melbourne City vs Buriram United "
+        },
+        {
+            "compet": "Türkiye Cup - Group Stage: Round 4",
+            "match": " Fethiyespor vs Fatih Karagümrük ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "10:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "A Spor Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Fethiyespor vs Fatih Karagümrük "
+        },
+        {
+            "compet": "AFC Champions League Elite - Play-Off (1st Leg)",
+            "match": " Gangwon vs Machida Zelvia ",
+            "flags": {
+                "team1": "koreasouth",
+                "team2": "japan"
+            },
+            "time": "10:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Gangwon vs Machida Zelvia "
+        },
+        {
+            "channel": "DAZN Japan",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Gangwon vs Machida Zelvia "
         },
         {
-            "channel": "ESPN+ USA",
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Gangwon vs Machida Zelvia "
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Gangwon vs Machida Zelvia "
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": " Gangwon vs Machida Zelvia "
+        },
+        {
+            "compet": "Bulgarian First League - Week 24",
+            "match": " Spartak Varna vs Montana ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "11:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Spartak Varna vs Montana "
+        },
+        {
+            "compet": "Türkiye Cup - Group Stage: Round 4",
+            "match": " Istanbulspor vs Boluspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "A Spor Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Istanbulspor vs Boluspor "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Istanbulspor vs Boluspor "
+        },
+        {
+            "compet": "Bulgarian First League - Week 24",
+            "match": " Beroe vs Slavia Sofia ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "14:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Beroe vs Slavia Sofia "
+        },
+        {
+            "compet": "Bulgarian First League - Week 24",
+            "match": " Botev Plovdiv vs Septemvri Sofia ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "16:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Botev Plovdiv vs Septemvri Sofia "
+        },
+        {
+            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - League A, Round 1",
+            "match": " Denmark vs Serbia ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "serbia"
+            },
+            "time": "17:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Denmark vs Serbia "
+        },
+        {
+            "channel": "DR2 Dansk HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11881 H 28000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Denmark vs Serbia "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Ospitaletto vs Pro Patria ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Ospitaletto vs Pro Patria "
         },
         {
-            "channel": "Fast Sports📺",
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Lumezzane vs Arzignano ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/live-sports?sport_type=football",
-            "related_to": " Real Madrid vs Getafe "
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lumezzane vs Arzignano "
         },
         {
-            "channel": "Fubo Sports USA📺",
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Pergolettese vs Pro Vercelli ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Pergolettese vs Pro Vercelli "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Alcione Milano vs Giana Erminio ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Alcione Milano vs Giana Erminio "
+        },
+        {
+            "compet": "Türkiye Cup - Group Stage: Round 4",
+            "match": " Alanyaspor vs Galatasaray ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "A Haber HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Alanyaspor vs Galatasaray "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Alanyaspor vs Galatasaray "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": " Real Madrid vs Getafe "
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Alanyaspor vs Galatasaray "
         },
         {
-            "channel": "LaLiga TV UK",
+            "compet": "Türkiye Cup - Group Stage: Round 4",
+            "match": " Istanbul Basaksehir vs Trabzonspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "A Spor Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Istanbul Basaksehir vs Trabzonspor "
+        },
+        {
+            "compet": "South African Premiership - Week 20",
+            "match": " Richards Bay vs Kaizer Chiefs ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "southafrica"
+            },
+            "time": "17:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Richards Bay vs Kaizer Chiefs "
+        },
+        {
+            "compet": "South African Premiership - Week 20",
+            "match": " Siwelele vs Stellenbosch ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "southafrica"
+            },
+            "time": "17:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "SuperSport OTT 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Siwelele vs Stellenbosch "
+        },
+        {
+            "compet": "South African Premiership - Week 20",
+            "match": " TS Galaxy vs Orbit College ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "southafrica"
+            },
+            "time": "17:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "SuperSport OTT 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " TS Galaxy vs Orbit College "
+        },
+        {
+            "compet": "Italian Serie BKT - Week 28",
+            "match": " Padova vs Spezia ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Padova vs Spezia "
+        },
+        {
+            "compet": "German 3. Liga - Week 27",
+            "match": " 1860 Munich vs Erzgebirge Aue ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DFB Play TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": " 1860 Munich vs Erzgebirge Aue "
+        },
+        {
+            "channel": "Magenta Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " 1860 Munich vs Erzgebirge Aue "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " 1860 Munich vs Erzgebirge Aue "
+        },
+        {
+            "channel": "YouTube: German Football📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "related_to": " 1860 Munich vs Erzgebirge Aue "
+        },
+        {
+            "compet": "German 3. Liga - Week 27",
+            "match": " Osnabrück vs Viktoria Cologne ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DFB Play TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dfbplay.tv/",
+            "related_to": " Osnabrück vs Viktoria Cologne "
+        },
+        {
+            "channel": "Magenta Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " Osnabrück vs Viktoria Cologne "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Osnabrück vs Viktoria Cologne "
+        },
+        {
+            "compet": "German 3. Liga - Week 27",
+            "match": " Stuttgart II vs Energie Cottbus ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Magenta Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " Stuttgart II vs Energie Cottbus "
+        },
+        {
+            "compet": "German 3. Liga - Week 27",
+            "match": " SSV Ulm vs Hoffenheim II ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Magenta Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " SSV Ulm vs Hoffenheim II "
+        },
+        {
+            "compet": "German 3. Liga - Week 27",
+            "match": " SC Verl vs Jahn Regensburg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Magenta Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " SC Verl vs Jahn Regensburg "
+        },
+        {
+            "compet": "Italian Serie BKT - Week 28",
+            "match": " Venezia vs Avellino ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Venezia vs Avellino "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Venezia vs Avellino "
+        },
+        {
+            "compet": "Italian Serie BKT - Week 28",
+            "match": " Virtus Entella vs Modena ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Virtus Entella vs Modena "
+        },
+        {
+            "compet": "Italian Serie BKT - Week 28",
+            "match": " Reggiana vs SüdTirol ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Reggiana vs SüdTirol "
+        },
+        {
+            "compet": "Italian Serie BKT - Week 28",
+            "match": " Cesena vs Monza ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cesena vs Monza "
+        },
+        {
+            "compet": "Dutch Cup (KNVB Beker) - Semi Final",
+            "match": " NEC Nijmegen vs PSV Eindhoven ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " NEC Nijmegen vs PSV Eindhoven "
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " NEC Nijmegen vs PSV Eindhoven "
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " NEC Nijmegen vs PSV Eindhoven "
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 26",
+            "match": " Emmen vs Utrecht Youths ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "ESPN 1 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Emmen vs Utrecht Youths "
+        },
+        {
+            "compet": "Dutch Eerste Divisie (2nd) - Week 26",
+            "match": " Cambuur-Leeuwarden vs Almere City ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Cambuur-Leeuwarden vs Almere City "
+        },
+        {
+            "compet": "English Premier League - Week 29",
+            "match": " Leeds United vs Sunderland ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports Türkiye 4 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Canal+ Extra 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Canal+ Live 4 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11934 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Canal+ Sport France HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "DAZN 4 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11436 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Discovery+ UK📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "FuboTV Canada",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Leeds United vs Sunderland "
         },
         {
-            "channel": "MTV Katsomon+📺",
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Monomax Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": " Real Madrid vs Getafe "
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Leeds United vs Sunderland "
         },
         {
-            "channel": "Nova Sports 1 Hellas HD",
+            "channel": "Nova Sports 2 Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Leeds United vs Sunderland "
         },
         {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Leeds United vs Sunderland "
         },
         {
-            "channel": "Premier Sports 1 UK HD",
+            "channel": "SuperSport Variety 3 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "TNT Sports 2 HD",
             "sat": "Astra 2G 28.2°e",
-            "freq": "11686 V 23000 - 2/3",
+            "freq": "11582 H 23000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Leeds United vs Sunderland "
         },
         {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "S Sport 1 Türkiye HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12188 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "TSN+ Canada📺",
+            "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
-            "link": "https://www.tsn.ca/tsnplus",
-            "related_to": " Real Madrid vs Getafe "
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
         },
         {
-            "channel": "TV2 Play Danmark📺",
+            "channel": "ViaPlay Nederland HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Real Madrid vs Getafe "
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Real Madrid vs Getafe "
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -1108,35 +960,1163 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Real Madrid vs Getafe "
+            "related_to": " Leeds United vs Sunderland "
         },
         {
-            "compet": "Bosnia-Herzegovina Premier Liga - Week 23",
-            "match": " Zeljeznicar vs Zrinjski ",
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "compet": "English Premier League - Week 29",
+            "match": " Everton vs Burnley ",
             "flags": {
-                "team1": "bosnia",
-                "team2": "bosnia"
+                "team1": "england",
+                "team2": "england"
             },
-            "time": "20:00",
-            "date": "2026-03-02"
+            "time": "19:30",
+            "date": "2026-03-03"
         },
         {
-            "channel": "Arena Sport 9 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11895 V 30000 - 3/4",
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "beIN Sports Türkiye 5 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11180 H 29750 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Canal+ Extra 3 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Canal+ Live 3 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12090 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Zeljeznicar vs Zrinjski "
+            "related_to": " Everton vs Burnley "
         },
         {
-            "compet": "Portuguese Liga Portugal - Week 24",
-            "match": " Gil Vicente vs Benfica ",
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Discovery+ UK📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "FuboTV Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Everton vs Burnley "
+        },
+        {
+            "compet": "English Premier League - Week 29",
+            "match": " Bournemouth vs Brentford ",
             "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
+                "team1": "england",
+                "team2": "england"
             },
-            "time": "20:15",
-            "date": "2026-03-02"
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Canal+ Extra 5 Polska HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "DAZN 3 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11436 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Discovery+ UK📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "FuboTV Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "SuperSport Action HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Bournemouth vs Brentford "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Cittadella vs Inter Milan U-23 ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cittadella vs Inter Milan U-23 "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Triestina vs Dolomiti Bellunesi ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Triestina vs Dolomiti Bellunesi "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " AlbinoLeffe vs Union Brescia ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " AlbinoLeffe vs Union Brescia "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Virtus Verona vs Novara ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Virtus Verona vs Novara "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Lecco vs Renate ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lecco vs Renate "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 30",
+            "match": " Vicenza vs Trento ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:30",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Vicenza vs Trento "
+        },
+        {
+            "compet": "English League One - Week 17",
+            "match": " Exeter City vs Burton Albion ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Exeter City vs Burton Albion "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Exeter City vs Burton Albion "
+        },
+        {
+            "compet": "English Championship - Week 32",
+            "match": " Ipswich Town vs Hull City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Ipswich Town vs Hull City "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Ipswich Town vs Hull City "
+        },
+        {
+            "compet": "English League One - Week 26",
+            "match": " Barnsley vs Wycombe Wanderers ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barnsley vs Wycombe Wanderers "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barnsley vs Wycombe Wanderers "
+        },
+        {
+            "compet": "English League Two - Week 26",
+            "match": " Chesterfield vs Colchester United ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chesterfield vs Colchester United "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Chesterfield vs Colchester United "
+        },
+        {
+            "compet": "English League Two - Week 26",
+            "match": " Grimsby Town vs Salford City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Grimsby Town vs Salford City "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Grimsby Town vs Salford City "
+        },
+        {
+            "compet": "English League Two - Week 25",
+            "match": " Newport County vs Tranmere Rovers ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Newport County vs Tranmere Rovers "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Newport County vs Tranmere Rovers "
+        },
+        {
+            "compet": "English League Two - Week 25",
+            "match": " Walsall vs Fleetwood Town ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Walsall vs Fleetwood Town "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Walsall vs Fleetwood Town "
+        },
+        {
+            "compet": "Northern Ireland Premiership - Week 16",
+            "match": " Glentoran vs Carrick Rangers ",
+            "flags": {
+                "team1": "nireland",
+                "team2": "nireland"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Glentoran vs Carrick Rangers "
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Glentoran vs Carrick Rangers "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Glentoran vs Carrick Rangers "
+        },
+        {
+            "channel": "BBC Sport NI Online 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.com/sport/northern-ireland",
+            "related_to": " Glentoran vs Carrick Rangers "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Glentoran vs Carrick Rangers "
+        },
+        {
+            "compet": "English National League 1 - Week 30",
+            "match": " Yeovil Town vs Tamworth ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "** P-O-S-T-P-O-N-E-D **",
+            "sat": "unknown",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " Yeovil Town vs Tamworth "
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Yeovil Town vs Tamworth "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Yeovil Town vs Tamworth "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Yeovil Town vs Tamworth "
+        },
+        {
+            "compet": "Cymru Premier - Championship Group - 27",
+            "match": " Connah's Quay vs The New Saints ",
+            "flags": {
+                "team1": "wales",
+                "team2": "wales"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Connah's Quay vs The New Saints "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Connah's Quay vs The New Saints "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " Connah's Quay vs The New Saints "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " Connah's Quay vs The New Saints "
+        },
+        {
+            "channel": "YouTube: Sgorio 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
+            "related_to": " Connah's Quay vs The New Saints "
+        },
+        {
+            "compet": "English National League South - South - 26",
+            "match": " Maidstone United vs Weston-super-Mare ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Worldwide📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": " Maidstone United vs Weston-super-Mare "
+        },
+        {
+            "compet": "English National League North - North - 18",
+            "match": " Scarborough Athletic vs Hereford FC ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Scarborough Athletic vs Hereford FC "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Scarborough Athletic vs Hereford FC "
+        },
+        {
+            "channel": "DAZN Worldwide📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": " Scarborough Athletic vs Hereford FC "
+        },
+        {
+            "compet": "English National League North - North - 29",
+            "match": " South Shields vs Fylde ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " South Shields vs Fylde "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " South Shields vs Fylde "
+        },
+        {
+            "channel": "DAZN Worldwide📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com",
+            "related_to": " South Shields vs Fylde "
+        },
+        {
+            "compet": "Scottish League 2 - Week 24",
+            "match": " Spartans vs Stirling Albion ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Spartans FC TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://spartansfc.tv/",
+            "related_to": " Spartans vs Stirling Albion "
+        },
+        {
+            "compet": "Scottish Premiership - Week 23",
+            "match": " Dundee United vs St Mirren ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Dundee United TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.dundeeunitedfc.co.uk/",
+            "related_to": " Dundee United vs St Mirren "
+        },
+        {
+            "compet": "English National League 1 - Week 30",
+            "match": " Wealdstone vs Morecambe ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Wealdstone vs Morecambe "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Wealdstone vs Morecambe "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wealdstone vs Morecambe "
+        },
+        {
+            "compet": "English FA Cup - 4th Round Proper",
+            "match": " Port Vale vs Bristol City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Port Vale vs Bristol City "
+        },
+        {
+            "compet": "Scottish Championship - Week 21",
+            "match": " Dunfermline Athletic vs Ross County ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Pars TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://parstv.co.uk/",
+            "related_to": " Dunfermline Athletic vs Ross County "
+        },
+        {
+            "compet": "English National League 1 - Week 36",
+            "match": " Boston United vs Woking ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Boston United vs Woking "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Boston United vs Woking "
+        },
+        {
+            "compet": "English National League 1 - Week 33",
+            "match": " Hartlepool United vs Sutton United ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Hartlepool United vs Sutton United "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Hartlepool United vs Sutton United "
+        },
+        {
+            "compet": "French Cup (Coupe de France) - Quarter Final",
+            "match": " Strasbourg vs Reims ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "20:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Strasbourg vs Reims "
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Strasbourg vs Reims "
+        },
+        {
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Strasbourg vs Reims "
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Strasbourg vs Reims "
+        },
+        {
+            "compet": "Italian Cup (Coppa Italia) - Semi Final (1st Leg)",
+            "match": " Como vs Inter Milan ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "20:00",
+            "date": "2026-03-03"
         },
         {
             "channel": "Arena Premium 4 Srbija HD",
@@ -1144,7 +2124,15 @@
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Gil Vicente vs Benfica "
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Como vs Inter Milan "
         },
         {
             "channel": "Bold+ Dansk📺",
@@ -1152,15 +2140,161 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://bold.dk/plus",
-            "related_to": " Gil Vicente vs Benfica "
+            "related_to": " Como vs Inter Milan "
         },
         {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
+            "channel": "Canale 5 Italia HD 📺",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/canale5_cC5",
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Gil Vicente vs Benfica "
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "channel": "Sport Live Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "10934 V 25000 - 2/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Como vs Inter Milan "
+        },
+        {
+            "compet": "Spanish Cup (Copa del Rey) - Semi Final (2nd Leg)",
+            "match": " Barcelona vs Atlético Madrid ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "20:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "M+ LaLiga HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "Movistar Plus+ HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "Orange Fútbol 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "RTVE Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": " Barcelona vs Atlético Madrid "
         },
         {
             "channel": "S Sport+ Streaming",
@@ -1168,91 +2302,367 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Gil Vicente vs Benfica "
+            "related_to": " Barcelona vs Atlético Madrid "
         },
         {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
+            "channel": "TV3 Catalunya HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "TVE La 1 HD España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "channel": "TVE La 1 UHD 4K",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "Free To Air UHD",
+            "link": "",
+            "related_to": " Barcelona vs Atlético Madrid "
+        },
+        {
+            "compet": "English Premier League - Week 29",
+            "match": " Wolves vs Liverpool ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "20:15",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Gil Vicente vs Benfica "
+            "related_to": " Wolves vs Liverpool "
         },
         {
-            "channel": "Tivibu Spor 2 HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11853 H 25000 - 3/4",
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Gil Vicente vs Benfica "
+            "related_to": " Wolves vs Liverpool "
         },
         {
-            "channel": "Tring Sport 2 HD",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Gil Vicente vs Benfica "
-        },
-        {
-            "compet": "Argentinean Primera División - Week 8",
-            "match": " Deportivo Riestra vs Platense ",
-            "flags": {
-                "team1": "argentina",
-                "team2": "argentina"
-            },
-            "time": "22:15",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Deportivo Riestra vs Platense "
-        },
-        {
-            "compet": "Argentinean Primera División - Week 8",
-            "match": " Estudiantes LP vs Vélez Sarsfield ",
-            "flags": {
-                "team1": "argentina",
-                "team2": "argentina"
-            },
-            "time": "22:15",
-            "date": "2026-03-02"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Estudiantes LP vs Vélez Sarsfield "
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Estudiantes LP vs Vélez Sarsfield "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12245 H 27500 - 5/6",
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11310 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Estudiantes LP vs Vélez Sarsfield "
+            "related_to": " Wolves vs Liverpool "
         },
         {
-            "channel": "Sportitalia SoloCalcio HD 📺",
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "DAZN 1 Bar Espana",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Discovery+ UK📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.discoveryplus.co.uk/olympics/home",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "FuboTV Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
-            "freq": "11179 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sisolocalcio/",
-            "related_to": " Estudiantes LP vs Vélez Sarsfield "
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "TNT Sports Digital Exclusive",
+            "sat": "Download APP 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "TNT Sports Ultimate UHD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Wolves vs Liverpool "
+        },
+        {
+            "compet": "Portuguese Cup (Taça de Portugal) - Semi Final (1st Leg)",
+            "match": " Sporting Lisbon vs FC Porto ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:45",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sporting Lisbon vs FC Porto "
+        },
+        {
+            "channel": "RTP 1 Portugal HD 📺",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": " Sporting Lisbon vs FC Porto "
+        },
+        {
+            "channel": "RTP Internacional 📺",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11977 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "https://www.rtp.pt/play/direto/rtpinternacional",
+            "related_to": " Sporting Lisbon vs FC Porto "
+        },
+        {
+            "channel": "RTP África 📺",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "https://www.rtp.pt/play/direto/rtpafrica",
+            "related_to": " Sporting Lisbon vs FC Porto "
+        },
+        {
+            "compet": "Argentinean Primera División - Week 8",
+            "match": " Sarmiento vs Estudiantes Río Cuarto ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "22:00",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Sarmiento vs Estudiantes Río Cuarto "
+        },
+        {
+            "compet": "Argentinean Primera División - Week 8",
+            "match": " Huracán vs Belgrano ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "22:15",
+            "date": "2026-03-03"
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Huracán vs Belgrano "
         }
     ]
 }
