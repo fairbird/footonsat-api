@@ -181,6 +181,14 @@
             "date": "2026-03-07"
         },
         {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Blackburn Rovers vs Portsmouth "
+        },
+        {
             "channel": "beIN Sports France 9 HD max",
             "sat": "Astra 1M 19.2°e",
             "freq": "11895 V 29700 - 2/3",
@@ -407,6 +415,22 @@
             },
             "time": "15:00",
             "date": "2026-03-07"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Derby County vs Sheffield Wednesday "
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Derby County vs Sheffield Wednesday "
         },
         {
             "channel": "Astro Football HD",
@@ -834,6 +858,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.exxen.com/en",
+            "related_to": " Queens Park Rangers vs Middlesbrough "
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
             "related_to": " Queens Park Rangers vs Middlesbrough "
         },
         {
@@ -1329,6 +1361,14 @@
             "related_to": " Stoke City vs Ipswich Town "
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Stoke City vs Ipswich Town "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1581,6 +1621,14 @@
             "related_to": " Coventry City vs Preston N.E. "
         },
         {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Coventry City vs Preston N.E. "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -1643,6 +1691,14 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wrexham vs Swansea City "
+        },
+        {
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Wrexham vs Swansea City "
         },
@@ -1931,6 +1987,150 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Swansea City vs Coventry City "
+        },
+        {
+            "compet": "English Championship - Week 40",
+            "match": " Oxford United vs Hull City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-03"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Oxford United vs Hull City "
+        },
+        {
+            "compet": "English Championship - Week 40",
+            "match": " Coventry City vs Derby County ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-03"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Coventry City vs Derby County "
+        },
+        {
+            "compet": "English Championship - Week 40",
+            "match": " Middlesbrough vs Millwall ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-03"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Middlesbrough vs Millwall "
+        },
+        {
+            "compet": "English Championship - Week 40",
+            "match": " Southampton vs Ipswich Town ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-03"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Southampton vs Ipswich Town "
+        },
+        {
+            "compet": "English Championship - Week 41",
+            "match": " Watford vs Charlton Athletic ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-06"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Watford vs Charlton Athletic "
+        },
+        {
+            "compet": "English Championship - Week 41",
+            "match": " Hull City vs Coventry City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-06"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hull City vs Coventry City "
+        },
+        {
+            "compet": "English Championship - Week 41",
+            "match": " Portsmouth vs Oxford United ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-06"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portsmouth vs Oxford United "
+        },
+        {
+            "compet": "English Championship - Week 41",
+            "match": " Swansea City vs Middlesbrough ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-04-06"
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Swansea City vs Middlesbrough "
         }
     ]
 }
