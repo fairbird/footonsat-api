@@ -1,72 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Cup (KNVB Beker) - Semi Final",
-            "match": " AZ Alkmaar vs Telstar ",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-03-04"
-        },
-        {
-            "channel": "Arena Sport 1 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11290 H 45000 - 8/9",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Telstar "
-        },
-        {
-            "channel": "Cablenet Sports 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Telstar "
-        },
-        {
-            "channel": "Dubai Sports 1 HD 📺",
-            "sat": "Badr 8 26.0°e",
-            "freq": "12130 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
-            "related_to": " AZ Alkmaar vs Telstar "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Telstar "
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Telstar "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Telstar "
-        },
-        {
-            "channel": "SportKlub 10 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Telstar "
-        },
-        {
             "compet": "Dutch Eredivisie - Week 26",
             "match": " Heracles Almelo vs Utrecht ",
             "flags": {
@@ -179,6 +113,14 @@
             "sat": "Turksat 4A 42.0°e",
             "freq": "11880 H 20000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Groningen vs Ajax "
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Groningen vs Ajax "
         },
@@ -617,6 +559,14 @@
             "sat": "Turksat 4A 42.0°e",
             "freq": "11880 H 20000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " NEC Nijmegen vs Volendam "
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " NEC Nijmegen vs Volendam "
         },
