@@ -11,6 +11,22 @@
             "date": "2026-03-06"
         },
         {
+            "channel": "Aragon Deporte Stream 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.cartv.es/aragondeporte/directo",
+            "related_to": " Cádiz vs Real Zaragoza "
+        },
+        {
+            "channel": "Aragón TV HD",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Cádiz vs Real Zaragoza "
+        },
+        {
             "channel": "Arena Sport 1x2 Srbija",
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -43,6 +59,14 @@
             "related_to": " Cádiz vs Real Zaragoza "
         },
         {
+            "channel": "Canal Sur 1 Andalucía",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Cádiz vs Real Zaragoza "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -51,10 +75,34 @@
             "related_to": " Cádiz vs Real Zaragoza "
         },
         {
+            "channel": "GOL España HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": " Cádiz vs Real Zaragoza "
+        },
+        {
+            "channel": "GolStadium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://app.golstadium.com/football",
+            "related_to": " Cádiz vs Real Zaragoza "
+        },
+        {
             "channel": "LaLiga Hypermotion HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "10936 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cádiz vs Real Zaragoza "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Cádiz vs Real Zaragoza "
         },
@@ -125,6 +173,22 @@
             "related_to": " Huesca vs Albacete "
         },
         {
+            "channel": "LaLiga Hypermotion 2",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Huesca vs Albacete "
+        },
+        {
+            "channel": "LaLiga TV Bar 3",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Huesca vs Albacete "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 29",
             "match": " Real Sociedad II vs Castellón ",
             "flags": {
@@ -143,6 +207,14 @@
             "related_to": " Real Sociedad II vs Castellón "
         },
         {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Real Sociedad II vs Castellón "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 29",
             "match": " Burgos vs Mirandés ",
             "flags": {
@@ -157,6 +229,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Burgos vs Mirandés "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Burgos vs Mirandés "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Burgos vs Mirandés "
         },
@@ -211,9 +299,33 @@
             "related_to": " Málaga vs Real Valladolid "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Real Valladolid "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Real Valladolid "
+        },
+        {
             "channel": "Megogo Futbol 5",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Real Valladolid "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Málaga vs Real Valladolid "
@@ -261,6 +373,22 @@
             "related_to": " Las Palmas vs Ceuta "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Las Palmas vs Ceuta "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Las Palmas vs Ceuta "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 29",
             "match": " Andorra vs Sporting Gijón ",
             "flags": {
@@ -275,6 +403,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Andorra vs Sporting Gijón "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Andorra vs Sporting Gijón "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Andorra vs Sporting Gijón "
         },
@@ -305,6 +449,30 @@
             "related_to": " Racing Santander vs Córdoba "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Racing Santander vs Córdoba "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Racing Santander vs Córdoba "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Racing Santander vs Córdoba "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 29",
             "match": " Leganés vs Eibar ",
             "flags": {
@@ -319,6 +487,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Leganés vs Eibar "
+        },
+        {
+            "channel": "LaLiga Hypermotion 2",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Leganés vs Eibar "
+        },
+        {
+            "channel": "LaLiga TV Bar 3",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Leganés vs Eibar "
         },
@@ -373,9 +557,33 @@
             "related_to": " Deportivo La Coruña vs Granada "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo La Coruña vs Granada "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo La Coruña vs Granada "
+        },
+        {
             "channel": "Megogo Futbol 5",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Deportivo La Coruña vs Granada "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Deportivo La Coruña vs Granada "
@@ -439,6 +647,22 @@
             "related_to": " Almería vs Cultural Leonesa "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Almería vs Cultural Leonesa "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Almería vs Cultural Leonesa "
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11934 V 27500 - 3/4",
@@ -497,6 +721,22 @@
             "related_to": " Mirandés vs Cádiz "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Mirandés vs Cádiz "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Mirandés vs Cádiz "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 30",
             "match": " Cultural Leonesa vs Racing Santander ",
             "flags": {
@@ -515,6 +755,22 @@
             "related_to": " Cultural Leonesa vs Racing Santander "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Cultural Leonesa vs Racing Santander "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Cultural Leonesa vs Racing Santander "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 30",
             "match": " Real Zaragoza vs Almería ",
             "flags": {
@@ -525,11 +781,51 @@
             "date": "2026-03-14"
         },
         {
+            "channel": "Aragon Deporte Stream 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.cartv.es/aragondeporte/directo",
+            "related_to": " Real Zaragoza vs Almería "
+        },
+        {
+            "channel": "Aragón TV HD",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Real Zaragoza vs Almería "
+        },
+        {
+            "channel": "Canal Sur 1 Andalucía",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Real Zaragoza vs Almería "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Real Zaragoza vs Almería "
+        },
+        {
+            "channel": "GOL España HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": " Real Zaragoza vs Almería "
+        },
+        {
+            "channel": "GolStadium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://app.golstadium.com/football",
             "related_to": " Real Zaragoza vs Almería "
         },
         {
@@ -569,6 +865,14 @@
             "related_to": " Ceuta vs Deportivo La Coruña "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Ceuta vs Deportivo La Coruña "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 30",
             "match": " Córdoba vs Real Sociedad II ",
             "flags": {
@@ -587,6 +891,14 @@
             "related_to": " Córdoba vs Real Sociedad II "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Córdoba vs Real Sociedad II "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 30",
             "match": " Granada vs Andorra ",
             "flags": {
@@ -601,6 +913,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Granada vs Andorra "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Granada vs Andorra "
         },
@@ -641,6 +961,14 @@
             "related_to": " Málaga vs Huesca "
         },
         {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Huesca "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 30",
             "match": " Sporting Gijón vs Castellón ",
             "flags": {
@@ -667,6 +995,22 @@
             "related_to": " Sporting Gijón vs Castellón "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Sporting Gijón vs Castellón "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sporting Gijón vs Castellón "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 30",
             "match": " Albacete vs Las Palmas ",
             "flags": {
@@ -683,6 +1027,308 @@
             "encry": "",
             "link": "",
             "related_to": " Albacete vs Las Palmas "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Albacete vs Las Palmas "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Huesca vs Almería ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:30",
+            "date": "2026-03-20"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Huesca vs Almería "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Huesca vs Almería "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Leganés vs Ceuta ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "13:00",
+            "date": "2026-03-21"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Leganés vs Ceuta "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Leganés vs Ceuta "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Racing Santander vs Albacete ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "15:15",
+            "date": "2026-03-21"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Racing Santander vs Albacete "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Andorra vs Eibar ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "15:15",
+            "date": "2026-03-21"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Andorra vs Eibar "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Cádiz vs Málaga ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2026-03-21"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Cádiz vs Málaga "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Cádiz vs Málaga "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Cádiz vs Málaga "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Deportivo La Coruña vs Real Zaragoza ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "20:00",
+            "date": "2026-03-21"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Deportivo La Coruña vs Real Zaragoza "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo La Coruña vs Real Zaragoza "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Deportivo La Coruña vs Real Zaragoza "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Burgos vs Córdoba ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "13:00",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Burgos vs Córdoba "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Burgos vs Córdoba "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Mirandés vs Real Valladolid ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "15:15",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Mirandés vs Real Valladolid "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Real Sociedad II vs Granada ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "15:15",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Sociedad II vs Granada "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Las Palmas vs Sporting Gijón ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2026-03-22"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Las Palmas vs Sporting Gijón "
+        },
+        {
+            "channel": "GOL España HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": " Las Palmas vs Sporting Gijón "
+        },
+        {
+            "channel": "GolStadium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://app.golstadium.com/football",
+            "related_to": " Las Palmas vs Sporting Gijón "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Las Palmas vs Sporting Gijón "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 31",
+            "match": " Castellón vs Cultural Leonesa ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:30",
+            "date": "2026-03-23"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Castellón vs Cultural Leonesa "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Castellón vs Cultural Leonesa "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Castellón vs Cultural Leonesa "
         }
     ]
 }
