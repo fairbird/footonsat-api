@@ -29,6 +29,14 @@
             "date": "2026-03-14"
         },
         {
+            "channel": "Cosmote Sport 5 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12418 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Nassr "
+        },
+        {
             "channel": "New World Sport 4 Togo",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "12604 H 30000 - 3/4",
@@ -53,6 +61,14 @@
             "related_to": " Al Khaleej vs Al Nassr "
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Nassr "
+        },
+        {
             "channel": "Sporty TV Africa",
             "sat": "Astra 2F 28.2°e",
             "freq": "12605 V 30000 - 5/6",
@@ -65,6 +81,14 @@
             "sat": "Measat 3b 91.5°e",
             "freq": "10772 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Nassr "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Al Khaleej vs Al Nassr "
         },
@@ -103,9 +127,25 @@
             "date": "2026-03-14"
         },
         {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Fateh vs Al Hilal "
+        },
+        {
             "channel": "New World Sport 6 Togo",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Al Fateh vs Al Hilal "
+        },
+        {
+            "channel": "ST Sports Arena",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11938 V 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Al Fateh vs Al Hilal "
