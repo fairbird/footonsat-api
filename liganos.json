@@ -2,92 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga Portugal - Week 26",
-            "match": " Vitória Guimarães vs Famalicão ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "15:30",
-            "date": "2026-03-14"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vitória Guimarães vs Famalicão "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 26",
-            "match": " Gil Vicente vs Alverca ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "18:00",
-            "date": "2026-03-14"
-        },
-        {
-            "channel": "Sport TV4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Gil Vicente vs Alverca "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 26",
-            "match": " Arouca vs Benfica ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "20:30",
-            "date": "2026-03-14"
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Arouca vs Benfica "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Arouca vs Benfica "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Arouca vs Benfica "
-        },
-        {
-            "channel": "Tivibu Spor 2 HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11853 H 25000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Arouca vs Benfica "
-        },
-        {
-            "channel": "Tring Sport 3 HD",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Arouca vs Benfica "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 26",
             "match": " AVS Futebol vs Santa Clara ",
             "flags": {
                 "team1": "portugal",
@@ -169,10 +83,42 @@
             "date": "2026-03-15"
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " FC Porto vs Moreirense "
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " FC Porto vs Moreirense "
+        },
+        {
+            "channel": "Bold+ Dansk📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://bold.dk/plus",
+            "related_to": " FC Porto vs Moreirense "
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " FC Porto vs Moreirense "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " FC Porto vs Moreirense "
         },
@@ -189,6 +135,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FC Porto vs Moreirense "
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " FC Porto vs Moreirense "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " FC Porto vs Moreirense "
         },
@@ -393,6 +355,14 @@
             },
             "time": "20:30",
             "date": "2026-03-22"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Braga vs FC Porto "
         },
         {
             "channel": "Sport TV1 Portugal HD",
