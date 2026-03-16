@@ -27,6 +27,14 @@
             "related_to": " Lens vs Angers "
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Lens vs Angers "
+        },
+        {
             "channel": "Arena Sport 3 Slovenija HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -125,6 +133,14 @@
             "related_to": " Toulouse vs Lorient "
         },
         {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Toulouse vs Lorient "
+        },
+        {
             "channel": "Megogo Futbol 3",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -195,6 +211,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Auxerre vs Brest "
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Auxerre vs Brest "
         },
@@ -276,6 +300,14 @@
             "channel": "Arena Sport 1 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11720 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Nice vs Paris St Germain "
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
             "encry": "HD Conax",
             "link": "",
             "related_to": " Nice vs Paris St Germain "
@@ -427,14 +459,6 @@
             "related_to": " Lyon vs Monaco "
         },
         {
-            "channel": "Ligue 1+📺",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": " Lyon vs Monaco "
-        },
-        {
             "channel": "Megogo Futbol 2",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -491,6 +515,22 @@
             },
             "time": "16:15",
             "date": "2026-03-22"
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Marseille vs Lille "
+        },
+        {
+            "channel": "Ligue 1+ 6📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Marseille vs Lille "
         },
         {
             "channel": "Megogo Futbol 3",
@@ -551,6 +591,22 @@
             "date": "2026-03-22"
         },
         {
+            "channel": "Arena Sport 10 Hrvatska HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paris FC vs Le Havre "
+        },
+        {
+            "channel": "Ligue 1+ 5📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Paris FC vs Le Havre "
+        },
+        {
             "channel": "Megogo Futbol 6",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -607,6 +663,22 @@
             },
             "time": "16:15",
             "date": "2026-03-22"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Rennes vs Metz "
+        },
+        {
+            "channel": "Ligue 1+ 4📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Rennes vs Metz "
         },
         {
             "channel": "Megogo Futbol 4",
@@ -675,6 +747,14 @@
             "related_to": " Nantes vs Strasbourg "
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Nantes vs Strasbourg "
+        },
+        {
             "channel": "Arena Sport 3 Slovenija HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -737,6 +817,168 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Nantes vs Strasbourg "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Paris St Germain vs Toulouse ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:45",
+            "date": "2026-04-03"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Paris St Germain vs Toulouse "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Strasbourg vs Nice ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:00",
+            "date": "2026-04-04"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Strasbourg vs Nice "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Brest vs Rennes ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "17:00",
+            "date": "2026-04-04"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Brest vs Rennes "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Lille vs Lens ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "19:05",
+            "date": "2026-04-04"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Lille vs Lens "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Angers vs Lyon ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "13:00",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Angers vs Lyon "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Le Havre vs Auxerre ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Ligue 1+ 6📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Le Havre vs Auxerre "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Lorient vs Paris FC ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Ligue 1+ 5📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Lorient vs Paris FC "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Metz vs Nantes ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "15:15",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Ligue 1+ 4📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Metz vs Nantes "
+        },
+        {
+            "compet": "French Ligue 1 - Week 28",
+            "match": " Monaco vs Marseille ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:45",
+            "date": "2026-04-05"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Monaco vs Marseille "
         }
     ]
 }

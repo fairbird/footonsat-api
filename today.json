@@ -105,6 +105,14 @@
             "date": "2026-03-16"
         },
         {
+            "channel": "DAZN France",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Sassuolo vs Inter Milan "
+        },
+        {
             "channel": "DAZN Great Britain📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -176,6 +184,14 @@
             "channel": "Arena Premium 1 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Botosani vs Unirea Slobozia "
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
             "encry": "HD Conax",
             "link": "",
             "related_to": " Botosani vs Unirea Slobozia "
@@ -272,6 +288,14 @@
             "freq": "12533 V 44950 - 4/5",
             "encry": "MPEG-4 Irdeto",
             "link": "",
+            "related_to": " Torpedo Moscow vs Neftekhimik "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
             "related_to": " Torpedo Moscow vs Neftekhimik "
         },
         {
@@ -376,6 +400,14 @@
             "channel": "Arena Premium 3 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Pogon Szczecin vs Korona Kielce "
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
             "related_to": " Pogon Szczecin vs Korona Kielce "
@@ -537,6 +569,64 @@
             "related_to": " Mezokövesd-Zsóry vs Vasas "
         },
         {
+            "compet": "Spanish Liga F Femenino - Week 22",
+            "match": " Espanyol vs Eibar ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-03-16"
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Espanyol vs Eibar "
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Espanyol vs Eibar "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Espanyol vs Eibar "
+        },
+        {
+            "channel": "Esport 3 Catalunya 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "FTA",
+            "link": "https://www.3cat.cat/3cat/directes/esport3/",
+            "related_to": " Espanyol vs Eibar "
+        },
+        {
+            "channel": "RTVE Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": " Espanyol vs Eibar "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Espanyol vs Eibar "
+        },
+        {
             "compet": "Italian Serie C Girone A - Girone A - 32",
             "match": " Vicenza vs Inter Milan U-23 ",
             "flags": {
@@ -621,6 +711,14 @@
             "related_to": " Albacete vs Las Palmas "
         },
         {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Albacete vs Las Palmas "
+        },
+        {
             "channel": "Blue Sport 2 Live HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -640,6 +738,14 @@
             "channel": "LaLiga Hypermotion HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Albacete vs Las Palmas "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
             "encry": "NagraVision",
             "link": "",
             "related_to": " Albacete vs Las Palmas "
@@ -753,6 +859,14 @@
             "related_to": " Cremonese vs Fiorentina "
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cremonese vs Fiorentina "
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -861,7 +975,15 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": " Cremonese vs Fiorentina "
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD Conax",
+            "link": "",
             "related_to": " Cremonese vs Fiorentina "
         },
         {
@@ -893,6 +1015,22 @@
             "sat": "KazSat 3 58.5°e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Cremonese vs Fiorentina "
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cremonese vs Fiorentina "
+        },
+        {
+            "channel": "Sport 1 Slovakia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD CryptoWorks",
             "link": "",
             "related_to": " Cremonese vs Fiorentina "
         },
@@ -1061,6 +1199,14 @@
             "related_to": " Brentford vs Wolves "
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
             "channel": "Arena Sport 1 Slovenija HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1130,6 +1276,14 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://go3.tv/extra_sports",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "Hub Premier 1 HD📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.starhubtvplus.com/eplmatches",
             "related_to": " Brentford vs Wolves "
         },
         {
@@ -1261,6 +1415,22 @@
             "related_to": " Brentford vs Wolves "
         },
         {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1343,6 +1513,14 @@
             "related_to": " Portsmouth vs Derby County "
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
@@ -1415,6 +1593,14 @@
             "related_to": " Portsmouth vs Derby County "
         },
         {
+            "channel": "ViaPlay 1 Urheilu HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1451,6 +1637,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "Viaplay TV Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Portsmouth vs Derby County "
         },
@@ -1493,6 +1687,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Rayo Vallecano vs Levante "
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Rayo Vallecano vs Levante "
         },
@@ -1661,7 +1863,15 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "related_to": " Rayo Vallecano vs Levante "
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
             "related_to": " Rayo Vallecano vs Levante "
         },
         {
