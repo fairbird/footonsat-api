@@ -105,6 +105,14 @@
             "date": "2026-03-16"
         },
         {
+            "channel": "DAZN Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sassuolo vs Inter Milan "
+        },
+        {
             "channel": "DAZN France",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -169,6 +177,24 @@
             "encry": "FTA",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Corum FK vs Esenler Erokspor "
+        },
+        {
+            "compet": "Portuguese Liga Revelação U-23 - Losers Stage - 8",
+            "match": " Estoril U-23 vs Farense U-23 ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "14:00",
+            "date": "2026-03-16"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Estoril U-23 vs Farense U-23 "
         },
         {
             "compet": "Romanian Superliga - Relegation Group - 1",
@@ -463,6 +489,22 @@
             "related_to": " Silkeborg vs Vejle BK "
         },
         {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Silkeborg vs Vejle BK "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Silkeborg vs Vejle BK "
+        },
+        {
             "compet": "Argentinean Primera División - Week 11",
             "match": " Aldosivi vs Huracán ",
             "flags": {
@@ -723,6 +765,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Albacete vs Las Palmas "
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Albacete vs Las Palmas "
         },
@@ -1035,6 +1085,14 @@
             "related_to": " Cremonese vs Fiorentina "
         },
         {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cremonese vs Fiorentina "
+        },
+        {
             "channel": "Tivibu Spor 1 HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "11880 H 20000 - 3/4",
@@ -1056,6 +1114,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
+            "related_to": " Cremonese vs Fiorentina "
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
             "related_to": " Cremonese vs Fiorentina "
         },
         {
@@ -1215,6 +1281,14 @@
             "related_to": " Brentford vs Wolves "
         },
         {
+            "channel": "Astro Premier League HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
             "channel": "beIN Connect MENA 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1247,11 +1321,59 @@
             "related_to": " Brentford vs Wolves "
         },
         {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
             "channel": "Canal+ Sport 1 Czech HD 📺",
             "sat": "Astra 3B 23.5°e",
             "freq": "11973 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://livetv.skylink.cz",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "DAZN 1 Bar Espana",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Brentford vs Wolves "
         },
         {
@@ -1307,6 +1429,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Brentford vs Wolves "
         },
@@ -1399,10 +1529,26 @@
             "related_to": " Brentford vs Wolves "
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
             "channel": "SuperSport Premier League HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Brentford vs Wolves "
+        },
+        {
+            "channel": "SÝN Sport 1 Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Brentford vs Wolves "
         },
@@ -1593,6 +1739,22 @@
             "related_to": " Portsmouth vs Derby County "
         },
         {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
             "channel": "ViaPlay 1 Urheilu HD",
             "sat": "Thor 5 0.8°w",
             "freq": "11278 V 25000 - 3/4",
@@ -1743,6 +1905,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Rayo Vallecano vs Levante "
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Rayo Vallecano vs Levante "
         },
@@ -1939,6 +2109,14 @@
             "related_to": " Rayo Vallecano vs Levante "
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Rayo Vallecano vs Levante "
+        },
+        {
             "channel": "SuperSport LaLiga HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11554 V 30000 - 2/3",
@@ -1971,11 +2149,35 @@
             "related_to": " Rayo Vallecano vs Levante "
         },
         {
+            "channel": "TV2 Sport Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Rayo Vallecano vs Levante "
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Rayo Vallecano vs Levante "
+        },
+        {
             "channel": "TV4 Play Sverige📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": " Rayo Vallecano vs Levante "
+        },
+        {
+            "channel": "TV4 Sport Live 2 HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": " Rayo Vallecano vs Levante "
         },
         {
@@ -2091,6 +2293,14 @@
             },
             "time": "23:00",
             "date": "2026-03-16"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chapecoense vs Grêmio "
         },
         {
             "channel": "Fanatiz EU📺",
