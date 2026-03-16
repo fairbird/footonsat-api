@@ -2,24 +2,6 @@
     "footonsat": [
         {
             "compet": "Saudi King's Cup - Semi Final",
-            "match": " Al Kholood vs Al Ittihad ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "19:00",
-            "date": "2026-03-18"
-        },
-        {
-            "channel": "Como TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Al Kholood vs Al Ittihad "
-        },
-        {
-            "compet": "Saudi King's Cup - Semi Final",
             "match": " Al Ahli vs Al Hilal ",
             "flags": {
                 "team1": "saudiarabia",
@@ -43,6 +25,48 @@
             "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Al Ahli vs Al Hilal "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Al Ahli vs Al Hilal "
+        },
+        {
+            "compet": "Saudi King's Cup - Semi Final",
+            "match": " Al Kholood vs Al Ittihad ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "19:00",
+            "date": "2026-03-18"
+        },
+        {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Al Kholood vs Al Ittihad "
+        },
+        {
+            "channel": "Cosmote Sport 9 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Kholood vs Al Ittihad "
+        },
+        {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Al Kholood vs Al Ittihad "
         }
     ]
 }
