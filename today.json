@@ -1,40 +1,48 @@
 {
     "footonsat": [
         {
-            "compet": "Argentinean Primera División - Week 12",
-            "match": " Huracán vs Barracas Central ",
+            "compet": "Australian W-League - Week 5",
+            "match": " Central Coast Mariners vs Wellington Phoenix ",
             "flags": {
-                "team1": "argentina",
-                "team2": "argentina"
+                "team1": "australia",
+                "team2": "newzealand"
             },
-            "time": "00:15",
-            "date": "2026-03-24"
+            "time": "08:00",
+            "date": "2026-03-25"
         },
         {
-            "channel": "Fanatiz EU📺",
+            "channel": "HBO Max📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Huracán vs Barracas Central "
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com/ie/en",
+            "related_to": " Central Coast Mariners vs Wellington Phoenix "
         },
         {
-            "compet": "UEFA Womens Champions League - Quarter Final (1st Leg)",
-            "match": " Wolfsburg vs Lyon ",
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Central Coast Mariners vs Wellington Phoenix "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Kazakhstan vs Namibia ",
             "flags": {
-                "team1": "germany",
-                "team2": "france"
+                "team1": "kazstan",
+                "team2": "namibia"
             },
-            "time": "17:45",
-            "date": "2026-03-24"
+            "time": "12:00",
+            "date": "2026-03-25"
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
+            "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
+            "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Kazakhstan vs Namibia "
         },
         {
             "channel": "beIN Sports MENA English 1 HD",
@@ -42,7 +50,81 @@
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Kazakhstan vs Namibia "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Kazakhstan vs Namibia "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Kazakhstan vs Namibia "
+        },
+        {
+            "channel": "Sky Sport 3 NZ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Kazakhstan vs Namibia "
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Kazakhstan vs Namibia "
+        },
+        {
+            "channel": "Sport 1 Slovakia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD CryptoWorks",
+            "link": "",
+            "related_to": " Kazakhstan vs Namibia "
+        },
+        {
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Kazakhstan vs Namibia "
+        },
+        {
+            "compet": "UEFA Womens Champions League - Quarter Final (1st Leg)",
+            "match": " Real Madrid vs Barcelona ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:45",
+            "date": "2026-03-25"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Real Madrid vs Barcelona "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
             "channel": "Cablenet Sports 2 HD",
@@ -50,7 +132,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
             "channel": "Disney+ Espana",
@@ -58,7 +140,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
             "channel": "Disney+ Norge",
@@ -66,7 +148,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
             "channel": "Disney+ UK",
@@ -74,7 +156,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
             "channel": "Disney+ WORLDWIDE",
@@ -82,7 +164,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
             "channel": "ESPN Africa",
@@ -90,15 +172,31 @@
             "freq": "11429 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
-            "channel": "La Chaine L´Équipe HD 📺",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "https://www.lequipe.fr/tv/",
-            "related_to": " Wolfsburg vs Lyon "
+            "channel": "NRK 2 Norge HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12015 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Madrid vs Barcelona "
+        },
+        {
+            "channel": "NRK TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://tv.nrk.no/direkte/nrk1",
+            "related_to": " Real Madrid vs Barcelona "
+        },
+        {
+            "channel": "RTVE Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
             "channel": "SuperSport ESPN HD",
@@ -106,17 +204,33 @@
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
             "link": "",
-            "related_to": " Wolfsburg vs Lyon "
+            "related_to": " Real Madrid vs Barcelona "
         },
         {
-            "compet": "German Regionalliga: Nordost - Week 22",
-            "match": " FSV Zwickau vs Hertha Berlin II ",
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Real Madrid vs Barcelona "
+        },
+        {
+            "channel": "TV3 Catalunya HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Real Madrid vs Barcelona "
+        },
+        {
+            "compet": "German Regionalliga: Nordost - Week 21",
+            "match": " Lok Leipzig vs Hertha Zehlendorf ",
             "flags": {
                 "team1": "germany",
                 "team2": "germany"
             },
             "time": "18:00",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
             "channel": "MDR LiveStream Online 📺",
@@ -124,95 +238,17 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.mdr.de/sport/livestreams/index.html",
-            "related_to": " FSV Zwickau vs Hertha Berlin II "
-        },
-        {
-            "compet": "Dutch Eerste Divisie (2nd) - Week 22",
-            "match": " Emmen vs Cambuur-Leeuwarden ",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "19:00",
-            "date": "2026-03-24"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Emmen vs Cambuur-Leeuwarden "
-        },
-        {
-            "compet": "Scottish Championship - Week 28",
-            "match": " Raith Rovers vs Partick Thistle ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "19:45",
-            "date": "2026-03-24"
-        },
-        {
-            "channel": "Raith TV Live📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.raith.tv/",
-            "related_to": " Raith Rovers vs Partick Thistle "
-        },
-        {
-            "compet": "English National League South - South - 15",
-            "match": " Weston-super-Mare vs Worthing ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2026-03-24"
-        },
-        {
-            "channel": "** P-O-S-T-P-O-N-E-D **",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Weston-super-Mare vs Worthing "
-        },
-        {
-            "channel": "DAZN Great Britain📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Weston-super-Mare vs Worthing "
-        },
-        {
-            "channel": "DAZN Ireland📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Weston-super-Mare vs Worthing "
-        },
-        {
-            "channel": "DAZN Worldwide📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.dazn.com",
-            "related_to": " Weston-super-Mare vs Worthing "
+            "related_to": " Lok Leipzig vs Hertha Zehlendorf "
         },
         {
             "compet": "English National League 1 - Week 40",
-            "match": " Aldershot vs Boreham Wood ",
+            "match": " Morecambe vs Hartlepool United ",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
             "time": "19:45",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
             "channel": "DAZN Great Britain📺",
@@ -220,7 +256,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Aldershot vs Boreham Wood "
+            "related_to": " Morecambe vs Hartlepool United "
         },
         {
             "channel": "DAZN Ireland📺",
@@ -228,17 +264,17 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Aldershot vs Boreham Wood "
+            "related_to": " Morecambe vs Hartlepool United "
         },
         {
             "compet": "English National League 1 - Week 40",
-            "match": " Boston United vs Altrincham ",
+            "match": " Scunthorpe United vs Rochdale ",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
             "time": "19:45",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
             "channel": "DAZN Great Britain📺",
@@ -246,7 +282,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Boston United vs Altrincham "
+            "related_to": " Scunthorpe United vs Rochdale "
         },
         {
             "channel": "DAZN Ireland📺",
@@ -254,17 +290,17 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Boston United vs Altrincham "
+            "related_to": " Scunthorpe United vs Rochdale "
         },
         {
             "compet": "English National League 1 - Week 40",
-            "match": " Brackley Town vs Braintree Town ",
+            "match": " Southend United vs Woking ",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
             "time": "19:45",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
             "channel": "DAZN Great Britain📺",
@@ -272,7 +308,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Brackley Town vs Braintree Town "
+            "related_to": " Southend United vs Woking "
         },
         {
             "channel": "DAZN Ireland📺",
@@ -280,17 +316,17 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Brackley Town vs Braintree Town "
+            "related_to": " Southend United vs Woking "
         },
         {
             "compet": "English National League 1 - Week 40",
-            "match": " Eastleigh vs Sutton United ",
+            "match": " Tamworth vs Forest Green Rovers ",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
             "time": "19:45",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
             "channel": "DAZN Great Britain📺",
@@ -298,7 +334,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Eastleigh vs Sutton United "
+            "related_to": " Tamworth vs Forest Green Rovers "
         },
         {
             "channel": "DAZN Ireland📺",
@@ -306,17 +342,17 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Eastleigh vs Sutton United "
+            "related_to": " Tamworth vs Forest Green Rovers "
         },
         {
             "compet": "English National League 1 - Week 40",
-            "match": " Halifax Town vs Carlisle United ",
+            "match": " Truro City vs Solihull Moors ",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
             "time": "19:45",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
             "channel": "DAZN Great Britain📺",
@@ -324,7 +360,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Halifax Town vs Carlisle United "
+            "related_to": " Truro City vs Solihull Moors "
         },
         {
             "channel": "DAZN Ireland📺",
@@ -332,17 +368,17 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Halifax Town vs Carlisle United "
+            "related_to": " Truro City vs Solihull Moors "
         },
         {
             "compet": "English National League 1 - Week 40",
-            "match": " Gateshead vs York City ",
+            "match": " Wealdstone vs Yeovil Town ",
             "flags": {
                 "team1": "england",
                 "team2": "england"
             },
             "time": "19:45",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
             "channel": "DAZN Great Britain📺",
@@ -350,7 +386,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Gateshead vs York City "
+            "related_to": " Wealdstone vs Yeovil Town "
         },
         {
             "channel": "DAZN Ireland📺",
@@ -358,101 +394,25 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Gateshead vs York City "
-        },
-        {
-            "compet": "Scottish League 2 - Week 21",
-            "match": " Stranraer vs Clyde ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "19:45",
-            "date": "2026-03-24"
-        },
-        {
-            "channel": "Clyde FC Live Stream📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://clydefc.univtec.com/home",
-            "related_to": " Stranraer vs Clyde "
-        },
-        {
-            "compet": "English League Two - Week 26",
-            "match": " Oldham Athletic vs Notts County ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:45",
-            "date": "2026-03-24"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Oldham Athletic vs Notts County "
+            "related_to": " Wealdstone vs Yeovil Town "
         },
         {
             "compet": "UEFA Womens Champions League - Quarter Final (1st Leg)",
-            "match": " Arsenal vs Chelsea ",
+            "match": " Manchester United vs Bayern Munich ",
             "flags": {
                 "team1": "england",
-                "team2": "england"
+                "team2": "germany"
             },
             "time": "20:00",
-            "date": "2026-03-24"
+            "date": "2026-03-25"
         },
         {
-            "channel": "BBC iPlayer📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Arsenal vs Chelsea "
-        },
-        {
-            "channel": "BBC iPlayer 4K📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Arsenal vs Chelsea "
-        },
-        {
-            "channel": "BBC Sport Website📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": " Arsenal vs Chelsea "
-        },
-        {
-            "channel": "BBC Two HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "10803 H 23000 - 3/4",
-            "encry": "HD Panaccess",
-            "link": "",
-            "related_to": " Arsenal vs Chelsea "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
+            "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
             "channel": "Cablenet Sports 2 HD",
@@ -460,7 +420,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
             "channel": "Disney+ Espana",
@@ -468,7 +428,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
             "channel": "Disney+ Norge",
@@ -476,7 +436,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
             "channel": "Disney+ UK",
@@ -484,7 +444,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
             "channel": "Disney+ WORLDWIDE",
@@ -492,7 +452,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
             "channel": "ESPN Africa",
@@ -500,15 +460,15 @@
             "freq": "11429 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
-            "channel": "ORF Sport+ Austria HD 📺",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11244 H 22000 - 5/6",
-            "encry": "Cryptoworks",
-            "link": "https://tvthek.orf.at/live",
-            "related_to": " Arsenal vs Chelsea "
+            "channel": "MUTV HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12266 V 29500 - 8/9",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester United vs Bayern Munich "
         },
         {
             "channel": "SuperSport ESPN HD",
@@ -516,7 +476,77 @@
             "freq": "10970 V 30000 - 5/6",
             "encry": "Irdeto",
             "link": "",
-            "related_to": " Arsenal vs Chelsea "
+            "related_to": " Manchester United vs Bayern Munich "
+        },
+        {
+            "compet": "Argentinean Primera División - Week 12",
+            "match": " Deportivo Riestra vs San Lorenzo ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "22:00",
+            "date": "2026-03-25"
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Deportivo Riestra vs San Lorenzo "
+        },
+        {
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": " NJ/NY Gotham vs Denver Summit ",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "23:00",
+            "date": "2026-03-25"
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com/ie/en",
+            "related_to": " NJ/NY Gotham vs Denver Summit "
+        },
+        {
+            "channel": "NWSL+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " NJ/NY Gotham vs Denver Summit "
+        },
+        {
+            "channel": "TNT Sports 2 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " NJ/NY Gotham vs Denver Summit "
+        },
+        {
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": " Washington Spirit vs Utah Royals ",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "23:00",
+            "date": "2026-03-25"
+        },
+        {
+            "channel": "NWSL+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Washington Spirit vs Utah Royals "
         }
     ]
 }
