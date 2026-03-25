@@ -381,6 +381,14 @@
             "date": "2026-03-31"
         },
         {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Real Valladolid vs Cádiz "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -411,6 +419,24 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": " Real Valladolid vs Cádiz "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 33",
+            "match": " Racing Santander vs Sporting Gijón ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:30",
+            "date": "2026-04-01"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Racing Santander vs Sporting Gijón "
         }
     ]
 }
