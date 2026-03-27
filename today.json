@@ -217,6 +217,14 @@
             "date": "2026-03-27"
         },
         {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Russia vs Nicaragua "
+        },
+        {
             "channel": "MATCH! Russia HD",
             "sat": "Yamal 401 90.0°e",
             "freq": "3786 R 15284 - 3/4",
@@ -401,6 +409,24 @@
             "related_to": " Germany U-21 vs Northern Ireland U-21 "
         },
         {
+            "compet": "Friendly International",
+            "match": " South Africa vs Panama ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "panama"
+            },
+            "time": "17:00",
+            "date": "2026-03-27"
+        },
+        {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11010 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " South Africa vs Panama "
+        },
+        {
             "compet": "German Frauen Bundesliga - Week 22",
             "match": " Carl Zeiss Jena vs RB Leipzig ",
             "flags": {
@@ -547,6 +573,24 @@
             "encry": "",
             "link": "https://www.youtube.com/Sgorio",
             "related_to": " Wales U-21 vs Belarus U-21 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Saudi Arabia vs Egypt ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "egypt"
+            },
+            "time": "17:30",
+            "date": "2026-03-27"
+        },
+        {
+            "channel": "ON Sport 1 HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11862 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Saudi Arabia vs Egypt "
         },
         {
             "compet": "UEFA U-21 Championship 2027 Qualifiers",
@@ -875,6 +919,24 @@
             "encry": "HD VideoGuard",
             "link": "https://tvthek.orf.at/live",
             "related_to": " Belgium U-21 vs Austria U-21 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Algeria vs Guatemala ",
+            "flags": {
+                "team1": "algeria",
+                "team2": "guatemala"
+            },
+            "time": "19:30",
+            "date": "2026-03-27"
+        },
+        {
+            "channel": "ENTV Algérie HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11680 H 27500 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Algeria vs Guatemala "
         },
         {
             "compet": "Friendly International",
