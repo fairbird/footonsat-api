@@ -2,60 +2,6 @@
     "footonsat": [
         {
             "compet": "NBA Regular Season",
-            "match": " Indiana Pacers vs Los Angeles Clippers ",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "23:00",
-            "date": "2026-03-27"
-        },
-        {
-            "channel": "NBA League Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Indiana Pacers vs Los Angeles Clippers "
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": " Boston Celtics vs Atlanta Hawks ",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "23:30",
-            "date": "2026-03-27"
-        },
-        {
-            "channel": "NBA League Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Boston Celtics vs Atlanta Hawks "
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": " Cleveland Cavaliers vs Miami Heat ",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "23:30",
-            "date": "2026-03-27"
-        },
-        {
-            "channel": "NBA League Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cleveland Cavaliers vs Miami Heat "
-        },
-        {
-            "compet": "NBA Regular Season",
             "match": " Memphis Grizzlies vs Houston Rockets ",
             "flags": {
                 "team1": "assocnba",
@@ -731,6 +677,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Philadelphia 76ers vs Minnesota Timberwolves "
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": " Philadelphia 76ers vs Detroit Pistons ",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "23:00",
+            "date": "2026-04-04"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Philadelphia 76ers vs Detroit Pistons "
         }
     ]
 }
