@@ -1,31 +1,13 @@
 {
     "footonsat": [
         {
-            "compet": "National Womens Soccer League (NWSL) - Group Stage",
-            "match": " San Diego Wave vs Chicago Red Stars ",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "00:45",
-            "date": "2026-03-29"
-        },
-        {
-            "channel": "NWSL+",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " San Diego Wave vs Chicago Red Stars "
-        },
-        {
             "compet": "Friendly International",
             "match": " Mexico vs Portugal ",
             "flags": {
                 "team1": "mexico",
                 "team2": "portugal"
             },
-            "time": "02:00",
+            "time": "00:00",
             "date": "2026-03-29"
         },
         {
@@ -75,6 +57,24 @@
             "encry": "FTA",
             "link": "",
             "related_to": " Mexico vs Portugal "
+        },
+        {
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": " San Diego Wave vs Chicago Red Stars ",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "00:45",
+            "date": "2026-03-29"
+        },
+        {
+            "channel": "NWSL+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " San Diego Wave vs Chicago Red Stars "
         },
         {
             "compet": "Australian W-League - Week 21",
@@ -869,6 +869,22 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Colombia vs France "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Colombia vs France "
+        },
+        {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
             "link": "",
             "related_to": " Colombia vs France "
         },
