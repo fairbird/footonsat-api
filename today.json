@@ -1,30 +1,66 @@
 {
     "footonsat": [
         {
-            "compet": "Friendly International",
-            "match": " Cyprus vs Moldova ",
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Hungary U-21 vs Ukraine U-21 ",
             "flags": {
-                "team1": "cyprus",
-                "team2": "moldova"
+                "team1": "hungary",
+                "team2": "ukraine"
+            },
+            "time": "14:30",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Hungary U-21 vs Ukraine U-21 "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Czechia U-21 vs Gibraltar U-21 ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "gibraltar"
+            },
+            "time": "15:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12344 H 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Czechia U-21 vs Gibraltar U-21 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Montenegro vs Slovenia ",
+            "flags": {
+                "team1": "montenegro",
+                "team2": "slovenia"
             },
             "time": "16:00",
-            "date": "2026-03-30"
+            "date": "2026-03-31"
         },
         {
-            "channel": "beIN Sports MENA 2 HD",
+            "channel": "beIN Sports MENA 4 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
+            "freq": "10810 V 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Cyprus vs Moldova "
+            "related_to": " Montenegro vs Slovenia "
         },
         {
-            "channel": "beIN Sports MENA English 1 HD",
+            "channel": "beIN Sports MENA English 2 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
+            "freq": "11390 V 27500 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Cyprus vs Moldova "
+            "related_to": " Montenegro vs Slovenia "
         },
         {
             "channel": "DAZN Deutsch",
@@ -32,7 +68,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Cyprus vs Moldova "
+            "related_to": " Montenegro vs Slovenia "
         },
         {
             "channel": "EXXEN Digital Türkiye📺",
@@ -40,107 +76,51 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.exxen.com/en",
-            "related_to": " Cyprus vs Moldova "
+            "related_to": " Montenegro vs Slovenia "
         },
         {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Cyprus vs Moldova "
-        },
-        {
-            "compet": "German Frauen Bundesliga - Week 22",
-            "match": " Hamburg vs Bayer Leverkusen ",
+            "compet": "UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)",
+            "match": " Latvia vs Gibraltar ",
             "flags": {
-                "team1": "germany",
-                "team2": "germany"
+                "team1": "latvia",
+                "team2": "gibraltar"
             },
             "time": "16:00",
-            "date": "2026-03-30"
+            "date": "2026-03-31"
         },
         {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Hamburg vs Bayer Leverkusen "
+            "related_to": " Latvia vs Gibraltar "
         },
         {
-            "channel": "DAZN Great Britain📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Hamburg vs Bayer Leverkusen "
-        },
-        {
-            "channel": "Magenta Sport📺",
+            "channel": "EXXEN Digital Türkiye📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": " Hamburg vs Bayer Leverkusen "
+            "link": "https://www.exxen.com/en",
+            "related_to": " Latvia vs Gibraltar "
         },
         {
-            "channel": "Sport 1 Germany HD 📺",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "10803 H 22000 - 3/4",
+            "compet": "UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)",
+            "match": " Luxembourg vs Malta ",
+            "flags": {
+                "team1": "luxembourg",
+                "team2": "malta"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
-            "link": "https://tv.sport1.de/sport1/",
-            "related_to": " Hamburg vs Bayer Leverkusen "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Germany vs Ghana ",
-            "flags": {
-                "team1": "germany",
-                "team2": "ghana"
-            },
-            "time": "18:45",
-            "date": "2026-03-30"
-        },
-        {
-            "channel": "ARD Das Erste HD 📺",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11494 H 22000 - 2/3",
-            "encry": "HD Panaccess",
-            "link": "https://live.daserste.de/",
-            "related_to": " Germany vs Ghana "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Germany vs Ghana "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Germany vs Ghana "
-        },
-        {
-            "channel": "CBC Sport HD",
-            "sat": "AzerSpace 1 46.0°e",
-            "freq": "11175 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Germany vs Ghana "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Luxembourg vs Malta "
         },
         {
             "channel": "EXXEN Digital Türkiye📺",
@@ -148,15 +128,135 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.exxen.com/en",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Luxembourg vs Malta "
         },
         {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
+            "compet": "Friendly International",
+            "match": " Norway vs Switzerland ",
+            "flags": {
+                "team1": "norway",
+                "team2": "switzerland"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "Play RTS Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Norway vs Switzerland "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Austria U-21 vs Belarus U-21 ",
+            "flags": {
+                "team1": "austria",
+                "team2": "belarus"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11244 H 22000 - 5/6",
+            "encry": "Cryptoworks",
+            "link": "https://tvthek.orf.at/live",
+            "related_to": " Austria U-21 vs Belarus U-21 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " San Marino vs Andorra ",
+            "flags": {
+                "team1": "sanmarino",
+                "team2": "andorra"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " San Marino vs Andorra "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Spain vs Egypt ",
+            "flags": {
+                "team1": "spain",
+                "team2": "egypt"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
         },
         {
             "channel": "Prime Video UK PPV📺",
@@ -164,23 +264,403 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Spain vs Egypt "
         },
         {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Germany vs Ghana "
+            "channel": "RTVE Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": " Spain vs Egypt "
         },
         {
-            "channel": "Sport 1 Slovakia HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12012 V 29900 - 3/4",
-            "encry": "HD CryptoWorks",
+            "channel": "TVE La 1 HD España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": " Spain vs Egypt "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Denmark U-21 vs Wales U-21 ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "wales"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Denmark U-21 vs Wales U-21 "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Denmark U-21 vs Wales U-21 "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " Denmark U-21 vs Wales U-21 "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " Denmark U-21 vs Wales U-21 "
+        },
+        {
+            "channel": "YouTube: Sgorio 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
+            "related_to": " Denmark U-21 vs Wales U-21 "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Greece U-21 vs Germany U-21 ",
+            "flags": {
+                "team1": "greece",
+                "team2": "germany"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "ProSieben MAXX Austria",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11670 H 22000 - 2/3",
+            "encry": "FTA",
             "link": "",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Greece U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "ProSieben MAXX Deutsch HD 📺",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "12545 H 22000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "https://www.prosiebenmaxx.de/livestream",
+            "related_to": " Greece U-21 vs Germany U-21 "
+        },
+        {
+            "compet": "Friendly International - Mukuru 4 Nations - Final",
+            "match": " Zimbabwe vs Zambia ",
+            "flags": {
+                "team1": "zimbabwe",
+                "team2": "zambia"
+            },
+            "time": "16:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Zimbabwe vs Zambia "
+        },
+        {
+            "channel": "SuperSport Variety 4 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Zimbabwe vs Zambia "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Hungary vs Greece ",
+            "flags": {
+                "team1": "hungary",
+                "team2": "greece"
+            },
+            "time": "17:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hungary vs Greece "
+        },
+        {
+            "channel": "SuperSport Action HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Hungary vs Greece "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 33",
+            "match": " Mirandés vs Albacete ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Mirandés vs Albacete "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 33",
+            "match": " Deportivo La Coruña vs Córdoba ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "18:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Deportivo La Coruña vs Córdoba "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " England U-21 vs Moldova U-21 ",
+            "flags": {
+                "team1": "england",
+                "team2": "moldova"
+            },
+            "time": "18:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "YouTube: England FA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/user/fatv/featured",
+            "related_to": " England U-21 vs Moldova U-21 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Scotland vs Ivory Coast ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "ivorycoast"
+            },
+            "time": "18:30",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "BBC Scotland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10803 H 22000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "BBC Sport",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "BBC Sport Scotland Online 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/scotland",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "BBC Two HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "BBC Two HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10773 H 22000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Ivory Coast "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Portugal U-21 vs Scotland U-21 ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "scotland"
+            },
+            "time": "18:30",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "YouTube: Scotland NT 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/c/ScotlandNationalTeam",
+            "related_to": " Portugal U-21 vs Scotland U-21 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " England vs Japan ",
+            "flags": {
+                "team1": "england",
+                "team2": "japan"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "ITV 1 England HD 📺",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "ITV X📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "STV Player📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12110 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "SuperSport Premier League HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England vs Japan "
         },
         {
             "channel": "UEFA.TV PPV📺",
@@ -188,7 +668,331 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.uefa.tv/",
-            "related_to": " Germany vs Ghana "
+            "related_to": " England vs Japan "
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " England vs Japan "
+        },
+        {
+            "compet": "English National League North - North - 11",
+            "match": " Hereford FC vs Macclesfield Town ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Hereford FC vs Macclesfield Town "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Hereford FC vs Macclesfield Town "
+        },
+        {
+            "compet": "English National League 1 - Week 36",
+            "match": " Wealdstone vs Hartlepool United ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Wealdstone vs Hartlepool United "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Wealdstone vs Hartlepool United "
+        },
+        {
+            "compet": "FIFA/UEFA World Cup Play-Offs - Path A FINAL",
+            "match": " Bosnia-Herzegovina vs Italy ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "italy"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bosnia-Herzegovina vs Italy "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Bosnia-Herzegovina vs Italy "
+        },
+        {
+            "channel": "MTV Katsomon+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": " Bosnia-Herzegovina vs Italy "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Bosnia-Herzegovina vs Italy "
+        },
+        {
+            "channel": "RAI 1 Italia HD 📺",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10992 V 27500 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "https://www.raiplay.it/dirette/rai1",
+            "related_to": " Bosnia-Herzegovina vs Italy "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Bosnia-Herzegovina vs Italy "
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Bosnia-Herzegovina vs Italy "
+        },
+        {
+            "compet": "FIFA/UEFA World Cup Play-Offs - Path B FINAL",
+            "match": " Sweden vs Poland ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "poland"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sweden vs Poland "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sweden vs Poland "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Sweden vs Poland "
+        },
+        {
+            "channel": "MTV Katsomon+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": " Sweden vs Poland "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Sweden vs Poland "
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sweden vs Poland "
+        },
+        {
+            "compet": "FIFA/UEFA World Cup Play-Offs - Path C FINAL",
+            "match": " Kosovo vs Türkiye ",
+            "flags": {
+                "team1": "kosova",
+                "team2": "turkey"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "channel": "MTV Katsomon+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "channel": "SuperSport Action HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "channel": "TV8 Türkiye HD 📺",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12346 H 09600 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.tv8.com.tr/canli-yayin",
+            "related_to": " Kosovo vs Türkiye "
+        },
+        {
+            "compet": "FIFA/UEFA World Cup Play-Offs - Path D FINAL",
+            "match": " Czechia vs Denmark ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "denmark"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Czechia vs Denmark "
+        },
+        {
+            "channel": "CT Sport Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12344 H 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Czechia vs Denmark "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Czechia vs Denmark "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Czechia vs Denmark "
+        },
+        {
+            "channel": "MTV Katsomon+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": " Czechia vs Denmark "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Czechia vs Denmark "
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Czechia vs Denmark "
         },
         {
             "channel": "Virgin Media PLAY",
@@ -196,7 +1000,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Czechia vs Denmark "
         },
         {
             "channel": "Virgin Media TV",
@@ -204,7 +1008,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Czechia vs Denmark "
         },
         {
             "channel": "Virgin Media Two HD",
@@ -212,7 +1016,475 @@
             "freq": "11856 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Germany vs Ghana "
+            "related_to": " Czechia vs Denmark "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Netherlands vs Ecuador ",
+            "flags": {
+                "team1": "holland",
+                "team2": "ecuador"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Netherlands vs Ecuador "
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Netherlands vs Ecuador "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Netherlands vs Ecuador "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Netherlands vs Ecuador "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Netherlands vs Ecuador "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Netherlands vs Ecuador "
+        },
+        {
+            "channel": "UEFA.TV PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.uefa.tv/",
+            "related_to": " Netherlands vs Ecuador "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Austria vs South Korea ",
+            "flags": {
+                "team1": "austria",
+                "team2": "koreasouth"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Austria vs South Korea "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Austria vs South Korea "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Ireland vs North Macedonia ",
+            "flags": {
+                "team1": "ireland",
+                "team2": "northmacedonia"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Ireland vs North Macedonia "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Ireland vs North Macedonia "
+        },
+        {
+            "channel": "RTÉ 2 Ireland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11914 H 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Ireland vs North Macedonia "
+        },
+        {
+            "channel": "RTÉ News Ireland",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11914 H 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Ireland vs North Macedonia "
+        },
+        {
+            "channel": "RTÉ Player📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rte.ie/player/onnow",
+            "related_to": " Ireland vs North Macedonia "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Wales vs Northern Ireland ",
+            "flags": {
+                "team1": "wales",
+                "team2": "nireland"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "BBC One Northern Ireland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "BBC One Wales HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Sport",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Sport NI Online 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.com/sport/northern-ireland",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Three HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "S4C Digital HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11426 V 29500 - 8/9",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " Wales vs Northern Ireland "
+        },
+        {
+            "compet": "English National League 1 - Week 36",
+            "match": " Southend United vs Yeovil Town ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Southend United vs Yeovil Town "
+        },
+        {
+            "compet": "English National League 1 - Week 33",
+            "match": " Woking vs Altrincham ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Woking vs Altrincham "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 33",
+            "match": " Real Valladolid vs Cádiz ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:30",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Real Valladolid vs Cádiz "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Valladolid vs Cádiz "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Valladolid vs Cádiz "
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Valladolid vs Cádiz "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Real Valladolid vs Cádiz "
+        },
+        {
+            "compet": "FIFA/WC Inter Confederation Play-Offs - Path 1 FINAL",
+            "match": " Jamaica vs Congo DR ",
+            "flags": {
+                "team1": "jamaica",
+                "team2": "congodr"
+            },
+            "time": "21:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Jamaica vs Congo DR "
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Jamaica vs Congo DR "
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Jamaica vs Congo DR "
+        },
+        {
+            "channel": "FIFA+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "-",
+            "link": "https://www.fifa.com/fifaplus/en/live",
+            "related_to": " Jamaica vs Congo DR "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " United States vs Portugal ",
+            "flags": {
+                "team1": "usa",
+                "team2": "portugal"
+            },
+            "time": "23:00",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "channel": "Peacock Premium USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "channel": "Telemundo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "channel": "TNT USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "channel": "truTV USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " United States vs Portugal "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Argentina vs Zambia ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "zambia"
+            },
+            "time": "23:15",
+            "date": "2026-03-31"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Argentina vs Zambia "
+        },
+        {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Argentina vs Zambia "
         }
     ]
 }
