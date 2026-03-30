@@ -27,6 +27,14 @@
             "related_to": " Rayo Vallecano vs Elche "
         },
         {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Rayo Vallecano vs Elche "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -65,6 +73,14 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "11390 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Real Sociedad vs Levante "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Real Sociedad vs Levante "
         },
@@ -111,6 +127,14 @@
             "related_to": " Mallorca vs Real Madrid "
         },
         {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Mallorca vs Real Madrid "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -141,6 +165,14 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "11390 V 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Real Betis vs Espanyol "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Real Betis vs Espanyol "
         },
@@ -187,6 +219,22 @@
             "related_to": " Atlético Madrid vs Barcelona "
         },
         {
+            "channel": "Disney+ UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Atlético Madrid vs Barcelona "
+        },
+        {
+            "channel": "Mediaset 20 Italia HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11432 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/20mediaset_cLB",
+            "related_to": " Atlético Madrid vs Barcelona "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -203,6 +251,14 @@
             },
             "time": "12:00",
             "date": "2026-04-05"
+        },
+        {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Getafe vs Athletic Bilbao "
         },
         {
             "channel": "beIN Sports France 2 HD",
@@ -273,11 +329,27 @@
             "related_to": " Real Oviedo vs Sevilla "
         },
         {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Real Oviedo vs Sevilla "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Real Oviedo vs Sevilla "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
             "related_to": " Real Oviedo vs Sevilla "
         },
         {
@@ -289,6 +361,14 @@
             },
             "time": "19:00",
             "date": "2026-04-05"
+        },
+        {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Alavés vs Osasuna "
         },
         {
             "channel": "beIN Sports MENA English 1 HD",
@@ -317,12 +397,46 @@
             "date": "2026-04-06"
         },
         {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Girona vs Villarreal "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Girona vs Villarreal "
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 31",
+            "match": " Athletic Bilbao vs Villarreal ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-04-12"
+        },
+        {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Athletic Bilbao vs Villarreal "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Athletic Bilbao vs Villarreal "
         }
     ]
 }
