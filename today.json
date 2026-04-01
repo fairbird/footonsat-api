@@ -265,12 +265,38 @@
             "date": "2026-04-01"
         },
         {
+            "channel": "DAZN Japan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Vissel Kobe vs Shimizu S-Pulse "
+        },
+        {
             "channel": "YouTube: J.League International 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "FTA",
             "link": "https://www.youtube.com/c/jleagueinternational",
             "related_to": " Vissel Kobe vs Shimizu S-Pulse "
+        },
+        {
+            "compet": "Japanese J1 League - Week 11",
+            "match": " Machida Zelvia vs FC Tokyo ",
+            "flags": {
+                "team1": "japan",
+                "team2": "japan"
+            },
+            "time": "10:00",
+            "date": "2026-04-01"
+        },
+        {
+            "channel": "DAZN Japan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Machida Zelvia vs FC Tokyo "
         },
         {
             "compet": "UEFA Womens Champions League - Quarter Final (2nd Leg)",
