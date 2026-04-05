@@ -2,102 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga Portugal - Week 28",
-            "match": " Nacional Madeira vs Estrela Amadora ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "14:30",
-            "date": "2026-04-04"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Nacional Madeira vs Estrela Amadora "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 28",
-            "match": " Moreirense vs Sporting Braga ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "17:00",
-            "date": "2026-04-04"
-        },
-        {
-            "channel": "TVi Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Moreirense vs Sporting Braga "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 28",
-            "match": " Rio Ave vs Alverca ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "17:00",
-            "date": "2026-04-04"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Rio Ave vs Alverca "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 28",
-            "match": " FC Porto vs Famalicão ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:30",
-            "date": "2026-04-04"
-        },
-        {
-            "channel": "Arena Sport 2 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11230 H 45000 - 8/9",
-            "encry": "HD Panaccess",
-            "link": "",
-            "related_to": " FC Porto vs Famalicão "
-        },
-        {
-            "channel": "beIN Sports France 6 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " FC Porto vs Famalicão "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " FC Porto vs Famalicão "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL 2",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " FC Porto vs Famalicão "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 28",
             "match": " Arouca vs Estoril ",
             "flags": {
                 "team1": "portugal",
@@ -157,6 +61,60 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Estrela Amadora vs Sporting Lisbon "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 29",
+            "match": " Sporting Braga vs Arouca ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-04-12"
+        },
+        {
+            "channel": "beIN Sports France 10 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Braga vs Arouca "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 29",
+            "match": " Benfica vs Nacional Madeira ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-04-12"
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Benfica vs Nacional Madeira "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 29",
+            "match": " Estoril vs FC Porto ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:30",
+            "date": "2026-04-12"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Estoril vs FC Porto "
         }
     ]
 }
