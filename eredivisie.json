@@ -2,6 +2,24 @@
     "footonsat": [
         {
             "compet": "Dutch Eredivisie - Week 30",
+            "match": " Sparta Rotterdam vs PSV Eindhoven ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "16:45",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Sparta Rotterdam vs PSV Eindhoven "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 30",
             "match": " Heracles Almelo vs Ajax ",
             "flags": {
                 "team1": "holland",
@@ -9,6 +27,14 @@
             },
             "time": "19:00",
             "date": "2026-04-11"
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Heracles Almelo vs Ajax "
         },
         {
             "channel": "Premier Sports 1 Ireland HD",
@@ -35,6 +61,32 @@
             "related_to": " Heracles Almelo vs Ajax "
         },
         {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Heracles Almelo vs Ajax "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 30",
+            "match": " Fortuna Sittard vs NAC Breda ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "10:15",
+            "date": "2026-04-12"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Fortuna Sittard vs NAC Breda "
+        },
+        {
             "compet": "Dutch Eredivisie - Week 30",
             "match": " NEC Nijmegen vs Feyenoord ",
             "flags": {
@@ -50,6 +102,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " NEC Nijmegen vs Feyenoord "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
             "related_to": " NEC Nijmegen vs Feyenoord "
         },
         {

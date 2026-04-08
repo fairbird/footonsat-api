@@ -2,6 +2,32 @@
     "footonsat": [
         {
             "compet": "Saudi Pro League - Week 29",
+            "match": " Al Fayha vs Al Ahli ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "15:55",
+            "date": "2026-04-08"
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Fayha vs Al Ahli "
+        },
+        {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Fayha vs Al Ahli "
+        },
+        {
+            "compet": "Saudi Pro League - Week 29",
             "match": " Al Hilal vs Al Kholood ",
             "flags": {
                 "team1": "saudiarabia",
@@ -99,6 +125,22 @@
             "related_to": " Al Hilal vs Al Kholood "
         },
         {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Al Kholood "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Al Kholood "
+        },
+        {
             "channel": "SporTV Brazil HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -139,6 +181,14 @@
             "related_to": " Al Hilal vs Al Kholood "
         },
         {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Al Kholood "
+        },
+        {
             "compet": "Saudi Pro League - Week 29",
             "match": " Al Ittihad vs NEOM SC ",
             "flags": {
@@ -153,6 +203,14 @@
             "sat": "SES 6 40.5°w",
             "freq": "11680 V 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Ittihad vs NEOM SC "
+        },
+        {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Al Ittihad vs NEOM SC "
         },
@@ -173,6 +231,32 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Damac FC vs Al Qadisiyah "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Damac FC vs Al Qadisiyah "
+        },
+        {
+            "compet": "Saudi Pro League - Week 28",
+            "match": " Al Akhdoud vs Al Nassr ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-04-11"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Al Akhdoud vs Al Nassr "
         }
     ]
 }
