@@ -2,56 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga Portugal - Week 29",
-            "match": " Estrela Amadora vs Sporting Lisbon ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:30",
-            "date": "2026-04-11"
-        },
-        {
-            "channel": "Arena Sport 1 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11290 H 45000 - 8/9",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Estrela Amadora vs Sporting Lisbon "
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Estrela Amadora vs Sporting Lisbon "
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Estrela Amadora vs Sporting Lisbon "
-        },
-        {
-            "channel": "Eleven Sports 3 Polska HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Estrela Amadora vs Sporting Lisbon "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Estrela Amadora vs Sporting Lisbon "
-        },
-        {
-            "compet": "Portuguese Liga Portugal - Week 29",
             "match": " Benfica vs Nacional Madeira ",
             "flags": {
                 "team1": "portugal",
@@ -203,6 +153,42 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Sporting Lisbon vs Benfica "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 30",
+            "match": " FC Porto vs Tondela ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:30",
+            "date": "2026-04-19"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FC Porto vs Tondela "
+        },
+        {
+            "compet": "Portuguese Liga Portugal - Week 30",
+            "match": " Sporting Braga vs Famalicão ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:30",
+            "date": "2026-04-19"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Braga vs Famalicão "
         }
     ]
 }
