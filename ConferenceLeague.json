@@ -906,10 +906,10 @@
         },
         {
             "compet": "UEFA Conference League - Semi Final (1st Leg)",
-            "match": " Shakhtar Donetsk vs ** T.B.D. ** ",
+            "match": " Rayo Vallecano vs Strasbourg ",
             "flags": {
-                "team1": "ukraine",
-                "team2": "notspecific"
+                "team1": "spain",
+                "team2": "france"
             },
             "time": "19:00",
             "date": "2026-04-30"
@@ -920,13 +920,49 @@
             "freq": "0000",
             "encry": "",
             "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": " Shakhtar Donetsk vs ** T.B.D. ** "
+            "related_to": " Rayo Vallecano vs Strasbourg "
+        },
+        {
+            "compet": "UEFA Conference League - Semi Final (1st Leg)",
+            "match": " Shakhtar Donetsk vs Crystal Palace ",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-04-30"
+        },
+        {
+            "channel": "RTL+ Deutschland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": " Shakhtar Donetsk vs Crystal Palace "
         },
         {
             "compet": "UEFA Conference League - Semi Final (2nd Leg)",
-            "match": " ** T.B.D. ** vs Shakhtar Donetsk ",
+            "match": " Strasbourg vs Rayo Vallecano ",
             "flags": {
-                "team1": "notspecific",
+                "team1": "france",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-05-07"
+        },
+        {
+            "channel": "RTL+ Deutschland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://plus.rtl.de/video-tv/live",
+            "related_to": " Strasbourg vs Rayo Vallecano "
+        },
+        {
+            "compet": "UEFA Conference League - Semi Final (2nd Leg)",
+            "match": " Crystal Palace vs Shakhtar Donetsk ",
+            "flags": {
+                "team1": "england",
                 "team2": "ukraine"
             },
             "time": "19:00",
@@ -938,7 +974,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://plus.rtl.de/video-tv/live",
-            "related_to": " ** T.B.D. ** vs Shakhtar Donetsk "
+            "related_to": " Crystal Palace vs Shakhtar Donetsk "
         }
     ]
 }
