@@ -941,6 +941,14 @@
             "related_to": " Bayer Leverkusen vs RB Leipzig "
         },
         {
+            "channel": "Sky Sports MIX UK HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
             "compet": "German 1. Bundesliga - Week 32",
             "match": " Mönchengladbach vs Borussia Dortmund ",
             "flags": {
@@ -1017,6 +1025,40 @@
             "encry": "",
             "link": "https://www.primevideo.com/",
             "related_to": " St Pauli vs Mainz 05 "
+        },
+        {
+            "compet": "German 1. Bundesliga - Week 33",
+            "match": " Wolfsburg vs Bayern Munich ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "13:30",
+            "date": "2026-05-09"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Wolfsburg vs Bayern Munich "
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolfsburg vs Bayern Munich "
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolfsburg vs Bayern Munich "
         },
         {
             "compet": "German 1. Bundesliga - Week 33",
@@ -1137,32 +1179,6 @@
             "encry": "",
             "link": "https://www.primevideo.com/",
             "related_to": " Mainz 05 vs Union Berlin "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 33",
-            "match": " Wolfsburg vs Bayern Munich ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "13:30",
-            "date": "2026-05-09"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Wolfsburg vs Bayern Munich "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolfsburg vs Bayern Munich "
         }
     ]
 }
