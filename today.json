@@ -2,227 +2,21 @@
     "footonsat": [
         {
             "compet": "Saudi Pro League - Week 30",
-            "match": " Al Hilal vs Damac FC ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:00",
-            "date": "2026-04-28"
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11798 H 27500 - 9/0",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "channel": "DAZN France",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "channel": "M+ Liga de Campeones 2 HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "10729 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "channel": "M+ Vamos 2 España HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "10758 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "channel": "Persiana Sports 2 HD 📺",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://pokertvfa.live/",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "channel": "Spíler 1 TV Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Al Hilal vs Damac FC "
-        },
-        {
-            "compet": "Saudi Pro League - Week 30",
-            "match": " Al Nassr vs Al Ahli ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:00",
-            "date": "2026-04-28"
-        },
-        {
-            "channel": "Cosmote Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11798 H 27500 - 9/0",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "DAZN France",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "M+ #Vamos Bar",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10876 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "M+ Liga de Campeones 2 HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "10729 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "M+ Vamos España HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "10818 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "Persiana Sports 2 HD 📺",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://pokertvfa.live/",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "channel": "Spíler 1 TV Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Al Nassr vs Al Ahli "
-        },
-        {
-            "compet": "Saudi Pro League - Week 30",
-            "match": " Al Taawoun vs Al Ittihad ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "17:00",
-            "date": "2026-04-28"
-        },
-        {
-            "channel": "Cosmote Sport 8 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Taawoun vs Al Ittihad "
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11798 H 27500 - 9/0",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Taawoun vs Al Ittihad "
-        },
-        {
-            "channel": "DAZN France",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Al Taawoun vs Al Ittihad "
-        },
-        {
-            "channel": "M+ #Vamos Bar 2",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Al Taawoun vs Al Ittihad "
-        },
-        {
-            "channel": "M+ Vamos 2 España HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "10758 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Al Taawoun vs Al Ittihad "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Al Taawoun vs Al Ittihad "
-        },
-        {
-            "compet": "Saudi Pro League - Week 30",
             "match": " Al Shabab vs Al Fateh ",
             "flags": {
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
-            "time": "17:00",
+            "time": "16:00",
             "date": "2026-04-28"
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Shabab vs Al Fateh "
         },
         {
             "channel": "Persiana Sports 2 HD 📺",
@@ -231,6 +25,192 @@
             "encry": "FTA",
             "link": "https://pokertvfa.live/",
             "related_to": " Al Shabab vs Al Fateh "
+        },
+        {
+            "compet": "Saudi Pro League - Week 30",
+            "match": " Al Hilal vs Damac FC ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-04-28"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Band Sports Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "11680 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "DAZN France",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Fox Deportes USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "M+ Vamos 2 España HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "10758 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://sportitalialive.it/sisolocalcio/",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Al Hilal vs Damac FC "
         },
         {
             "compet": "English Championship - Week 40",
@@ -327,6 +307,14 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Southampton vs Ipswich Town "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Southampton vs Ipswich Town "
         },
@@ -449,11 +437,51 @@
             "date": "2026-04-28"
         },
         {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Arezo TV HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "12054 H 27500 - 3/5",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "ART Motion Sport 1 HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
@@ -473,6 +501,54 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "Blue Sport 1 Live HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Blue Sport 1 Live UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Blue Sport 2 Live HDR",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Blue Sport D 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Blue ZOOM F Suisse 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bluewin.ch/de/campaign/bluezoom.html",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Canal+ Foot HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "12012 V 29700 - 2/3",
@@ -481,10 +557,34 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "CBS USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Cosmote Sport 1 HD",
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Cosmote Sport 4K UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
@@ -513,6 +613,22 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "DAZN Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "DAZN USA en Español",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Digi 4K UHD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -534,6 +650,22 @@
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
@@ -585,6 +717,22 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "Megogo Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Movistar Plus+ HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11097 V 22000 - 5/6",
@@ -597,6 +745,14 @@
             "sat": "Thor 7 0.6°w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
@@ -625,10 +781,26 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Persiana Sport HD",
             "sat": "MonacoSat 52.0°e",
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Pickx+ Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
@@ -645,6 +817,14 @@
             "sat": "Telstar 18 138.0°e",
             "freq": "12598 H 45000 - 5/6",
             "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD Viaccess",
             "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
@@ -697,6 +877,14 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "unknown",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Silk Universal HD",
             "sat": "Astra 5B 31.5°e",
             "freq": "12207 V 27500 - 5/6",
@@ -737,6 +925,38 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Sony Sports TEN 3 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Sony Sports TEN 4 India HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "3868 H 14450 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Sport 24 At Sea HD",
             "sat": "NSS 12 57.0°e",
             "freq": "4095 R 30000 - 3/4",
@@ -753,11 +973,27 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "Sport TV Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
@@ -773,6 +1009,14 @@
             "sat": "Intelsat 20 68.5°e",
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "SÝN Sport ViaPlay HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
@@ -801,10 +1045,26 @@
             "related_to": " Paris St Germain vs Bayern Munich "
         },
         {
+            "channel": "TUDN Español USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
             "channel": "TV3+ Dansk HD",
             "sat": "Astra 4A 5.0°e",
             "freq": "11823 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Univision USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         },
@@ -845,6 +1105,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Paris St Germain vs Bayern Munich "
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "",
             "related_to": " Paris St Germain vs Bayern Munich "
         }
