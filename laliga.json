@@ -518,6 +518,40 @@
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 35",
+            "match": " Real Sociedad vs Real Betis ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-05-09"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Sociedad vs Real Betis "
+        },
+        {
+            "channel": "Disney+ UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Sociedad vs Real Betis "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Real Sociedad vs Real Betis "
+        },
+        {
+            "compet": "Spanish La Liga (Primera) - Week 35",
             "match": " Rayo Vallecano vs Girona ",
             "flags": {
                 "team1": "spain",
@@ -639,24 +673,6 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": " Mallorca vs Villarreal "
-        },
-        {
-            "compet": "Spanish La Liga (Primera) - Week 35",
-            "match": " Real Sociedad vs Real Betis ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "16:00",
-            "date": "2026-05-10"
-        },
-        {
-            "channel": "Disney+ UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Sociedad vs Real Betis "
         },
         {
             "compet": "Spanish La Liga (Primera) - Week 35",
@@ -897,8 +913,16 @@
                 "team1": "spain",
                 "team2": "spain"
             },
-            "time": "16:00",
+            "time": "17:00",
             "date": "2026-05-13"
+        },
+        {
+            "channel": "DAZN España HD FTA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Villarreal vs Sevilla "
         },
         {
             "channel": "Premier Sports GB Player HD 📺",
@@ -906,6 +930,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Villarreal vs Sevilla "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
             "related_to": " Villarreal vs Sevilla "
         }
     ]
