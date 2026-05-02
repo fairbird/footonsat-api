@@ -59,10 +59,42 @@
             "related_to": " Ajax vs PSV Eindhoven "
         },
         {
+            "channel": "Setanta Sports 2 Eurasia HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Ajax vs PSV Eindhoven "
+        },
+        {
             "channel": "Sport TV Uzbekistan",
             "sat": "NSS 12 57.0°e",
             "freq": "11610 H 20200 - 3/4",
             "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Ajax vs PSV Eindhoven "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ajax vs PSV Eindhoven "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Ajax vs PSV Eindhoven "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Ajax vs PSV Eindhoven "
         },
@@ -102,6 +134,24 @@
         },
         {
             "compet": "Dutch Eredivisie - Week 32",
+            "match": " Volendam vs Heerenveen ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "10:15",
+            "date": "2026-05-03"
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Volendam vs Heerenveen "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 32",
             "match": " Fortuna Sittard vs Feyenoord ",
             "flags": {
                 "team1": "holland",
@@ -123,6 +173,38 @@
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Fortuna Sittard vs Feyenoord "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Fortuna Sittard vs Feyenoord "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Fortuna Sittard vs Feyenoord "
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Fortuna Sittard vs Feyenoord "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Fortuna Sittard vs Feyenoord "
         },
@@ -172,6 +254,14 @@
             "channel": "Ring Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Twente "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " AZ Alkmaar vs Twente "
