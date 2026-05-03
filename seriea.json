@@ -181,6 +181,14 @@
             "related_to": " Sassuolo vs AC Milan "
         },
         {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sassuolo vs AC Milan "
+        },
+        {
             "channel": "Cytavision Sports 4 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -349,6 +357,14 @@
             "related_to": " Sassuolo vs AC Milan "
         },
         {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sassuolo vs AC Milan "
+        },
+        {
             "channel": "TV4 Sport Live 3 HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10778 H 25000 - 3/4",
@@ -437,6 +453,14 @@
             "sat": "Measat 3b 91.5°e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Hellas Verona "
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Juventus vs Hellas Verona "
         },
@@ -577,6 +601,14 @@
             "related_to": " Juventus vs Hellas Verona "
         },
         {
+            "channel": "Sport TV 2 Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Juventus vs Hellas Verona "
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -597,6 +629,14 @@
             "sat": "Express AMU1 36.1°e",
             "freq": "12130 H 27500 - 2/3",
             "encry": "Irdeto",
+            "link": "",
+            "related_to": " Juventus vs Hellas Verona "
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Juventus vs Hellas Verona "
         },
@@ -639,6 +679,14 @@
             "sat": "Measat 3b 91.5°e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Inter Milan vs Parma "
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Inter Milan vs Parma "
         },
@@ -803,9 +851,25 @@
             "related_to": " Inter Milan vs Parma "
         },
         {
+            "channel": "Sport TV Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Inter Milan vs Parma "
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Inter Milan vs Parma "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Inter Milan vs Parma "
@@ -1048,6 +1112,64 @@
         },
         {
             "compet": "Italian Serie A - Week 36",
+            "match": " Napoli vs Bologna ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "13:00",
+            "date": "2026-05-10"
+        },
+        {
+            "channel": "BBC Alba HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11023 H 23000 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Napoli vs Bologna "
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Napoli vs Bologna "
+        },
+        {
+            "channel": "BBC Sport",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Napoli vs Bologna "
+        },
+        {
+            "channel": "BBC Sport Scotland Online 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/scotland",
+            "related_to": " Napoli vs Bologna "
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Napoli vs Bologna "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Napoli vs Bologna "
+        },
+        {
+            "compet": "Italian Serie A - Week 36",
             "match": " Cremonese vs Pisa ",
             "flags": {
                 "team1": "italy",
@@ -1175,32 +1297,6 @@
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
             "related_to": " AC Milan vs Atalanta "
-        },
-        {
-            "compet": "Italian Serie A - Week 36",
-            "match": " Napoli vs Bologna ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "13:00",
-            "date": "2026-05-10"
-        },
-        {
-            "channel": "DAZN Great Britain📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Napoli vs Bologna "
-        },
-        {
-            "channel": "DAZN Ireland📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Napoli vs Bologna "
         },
         {
             "compet": "Italian Serie A - Week 36",

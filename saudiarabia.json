@@ -2,6 +2,24 @@
     "footonsat": [
         {
             "compet": "Saudi Pro League - Week 31",
+            "match": " Al Shabab vs Al Taawoun ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "16:00",
+            "date": "2026-05-03"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Shabab vs Al Taawoun "
+        },
+        {
+            "compet": "Saudi Pro League - Week 31",
             "match": " Al Qadisiyah vs Al Nassr ",
             "flags": {
                 "team1": "saudiarabia",
@@ -91,6 +109,14 @@
             "related_to": " Al Qadisiyah vs Al Nassr "
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Nassr "
+        },
+        {
             "channel": "Sport TV6 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
@@ -119,14 +145,6 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "",
-            "related_to": " Al Qadisiyah vs Al Nassr "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12605 V 30000 - 5/6",
-            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Al Qadisiyah vs Al Nassr "
         },
@@ -225,6 +243,14 @@
             "sat": "Thor 6 5.0°e",
             "freq": "11938 V 27500 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Al Ahli vs Al Akhdoud "
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Al Ahli vs Al Akhdoud "
         },
