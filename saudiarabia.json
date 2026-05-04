@@ -1,3 +1,62 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "Saudi Pro League - Week 28",
+            "match": " Al Khaleej vs Al Hilal ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-05-05"
+        },
+        {
+            "channel": "Cosmote Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Hilal "
+        },
+        {
+            "channel": "DAZN France",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Hilal "
+        },
+        {
+            "channel": "M+ #Vamos Bar",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Hilal "
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Hilal "
+        },
+        {
+            "channel": "M+ Vamos España HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Hilal "
+        },
+        {
+            "channel": "SPOTV Malaysia HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Hilal "
+        }
+    ]
 }
