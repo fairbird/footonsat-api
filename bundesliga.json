@@ -1,6 +1,32 @@
 {
     "footonsat": [
         {
+            "compet": "German 1. Bundesliga - U19 - Semi Final",
+            "match": " Hoffenheim U-19 vs Mainz 05 U-19 ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:00",
+            "date": "2026-05-15"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hoffenheim U-19 vs Mainz 05 U-19 "
+        },
+        {
+            "channel": "Sky Sport News Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hoffenheim U-19 vs Mainz 05 U-19 "
+        },
+        {
             "compet": "German 1. Bundesliga - Week 34",
             "match": " Bayern Munich vs FC Cologne ",
             "flags": {
@@ -313,6 +339,32 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Union Berlin vs Augsburg "
+        },
+        {
+            "compet": "German 1. Bundesliga - U19 - Semi Final",
+            "match": " Paderborn vs FC Cologne U-19 ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "09:00",
+            "date": "2026-05-17"
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paderborn vs FC Cologne U-19 "
+        },
+        {
+            "channel": "Sky Sport News Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paderborn vs FC Cologne U-19 "
         }
     ]
 }
