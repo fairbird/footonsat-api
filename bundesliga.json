@@ -37,10 +37,58 @@
             "date": "2026-05-16"
         },
         {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "M+ #Vamos Bar",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "Orange Fútbol 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Bayern Munich vs FC Cologne "
         },
@@ -57,6 +105,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
             "link": "",
             "related_to": " Bayern Munich vs FC Cologne "
         },
@@ -93,10 +149,26 @@
             "related_to": " Bayern Munich vs FC Cologne "
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
             "channel": "Tivibu Spor 4 HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "11880 H 20000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Bayern Munich vs FC Cologne "
         },
@@ -119,10 +191,26 @@
             "related_to": " St Pauli vs Wolfsburg "
         },
         {
+            "channel": "Nova Sports Extra 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " St Pauli vs Wolfsburg "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " St Pauli vs Wolfsburg "
+        },
+        {
+            "channel": "See Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11265 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " St Pauli vs Wolfsburg "
         },
@@ -161,6 +249,22 @@
             "related_to": " Werder Bremen vs Borussia Dortmund "
         },
         {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Werder Bremen vs Borussia Dortmund "
+        },
+        {
+            "channel": "Nova Sports 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Werder Bremen vs Borussia Dortmund "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -173,6 +277,14 @@
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Werder Bremen vs Borussia Dortmund "
+        },
+        {
+            "channel": "SporTV 2 Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Werder Bremen vs Borussia Dortmund "
         },
@@ -199,6 +311,30 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Eintracht Frankfurt vs Stuttgart "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Eintracht Frankfurt vs Stuttgart "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Eintracht Frankfurt vs Stuttgart "
+        },
+        {
+            "channel": "Nova Sports Extra 4 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11938 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Eintracht Frankfurt vs Stuttgart "
         },
@@ -245,6 +381,14 @@
             "related_to": " Bayer Leverkusen vs Hamburg "
         },
         {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs Hamburg "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -287,6 +431,14 @@
             "related_to": " Mönchengladbach vs Hoffenheim "
         },
         {
+            "channel": "Nova Sports Extra 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Mönchengladbach vs Hoffenheim "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -319,6 +471,14 @@
             },
             "time": "13:30",
             "date": "2026-05-16"
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Freiburg vs RB Leipzig "
         },
         {
             "channel": "S Sport+ Streaming",
@@ -355,6 +515,14 @@
             "date": "2026-05-16"
         },
         {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Heidenheim vs Mainz 05 "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -387,6 +555,14 @@
             },
             "time": "13:30",
             "date": "2026-05-16"
+        },
+        {
+            "channel": "Nova Sports Extra 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Union Berlin vs Augsburg "
         },
         {
             "channel": "S Sport+ Streaming",
