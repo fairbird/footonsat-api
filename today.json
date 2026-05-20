@@ -133,10 +133,18 @@
             "related_to": " Al Khaleej vs Al Ahli "
         },
         {
-            "channel": "Sport TV1 Portugal HD",
+            "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Ahli "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Al Khaleej vs Al Ahli "
         },
@@ -205,6 +213,14 @@
             "related_to": " Al Khaleej vs Al Ahli "
         },
         {
+            "channel": "Thmanyah 1 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Khaleej vs Al Ahli "
+        },
+        {
             "channel": "Thmanyah KSA",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
@@ -219,6 +235,24 @@
             "encry": "",
             "link": "https://www.youtube.com/@-saudiproleague/streams",
             "related_to": " Al Khaleej vs Al Ahli "
+        },
+        {
+            "compet": "Saudi Pro League - Week 34",
+            "match": " Al Najma vs Al Shabab ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-05-20"
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Al Najma vs Al Shabab "
         },
         {
             "compet": "UEFA Europa League - FINAL (Tüpras Stadyumu, Istanbul)",
@@ -467,6 +501,14 @@
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "",
+            "related_to": " Freiburg vs Aston Villa "
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
             "link": "",
             "related_to": " Freiburg vs Aston Villa "
         },
@@ -735,6 +777,14 @@
             "related_to": " Freiburg vs Aston Villa "
         },
         {
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Freiburg vs Aston Villa "
+        },
+        {
             "channel": "Setanta Sports 1 Georgia HD",
             "sat": "unknown",
             "freq": "",
@@ -947,6 +997,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Freiburg vs Aston Villa "
+        },
+        {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
             "link": "",
             "related_to": " Freiburg vs Aston Villa "
         },
