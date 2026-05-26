@@ -1,6 +1,24 @@
 {
     "footonsat": [
         {
+            "compet": "Friendly International",
+            "match": " Morocco vs Burundi ",
+            "flags": {
+                "team1": "morocco",
+                "team2": "burundi"
+            },
+            "time": "15:00",
+            "date": "2026-05-26"
+        },
+        {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5°e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Morocco vs Burundi "
+        },
+        {
             "compet": "German 2. Bundesliga - Promotion/Relegation Play-off (2nd Leg)",
             "match": " Greuther Fürth vs Rot-Weiss Essen ",
             "flags": {
@@ -213,11 +231,27 @@
             "related_to": " Nigeria vs Zimbabwe "
         },
         {
+            "channel": "NTA Sports 24",
+            "sat": "NigComSat 1R 42.5°e",
+            "freq": "12589 H 30000 - 2/3",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Nigeria vs Zimbabwe "
+        },
+        {
             "channel": "Persiana Sports 2 HD 📺",
             "sat": "MonacoSat 52.0°e",
             "freq": "10804 H 27500 - 2/3",
             "encry": "FTA",
             "link": "https://pokertvfa.live/",
+            "related_to": " Nigeria vs Zimbabwe "
+        },
+        {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
             "related_to": " Nigeria vs Zimbabwe "
         },
         {
@@ -315,6 +349,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " St Etienne vs Nice "
+        },
+        {
+            "channel": "Cablenet Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " St Etienne vs Nice "
         },
@@ -419,6 +461,14 @@
             "sat": "KazSat 3 58.5°e",
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " St Etienne vs Nice "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " St Etienne vs Nice "
         },
