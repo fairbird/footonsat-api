@@ -11,6 +11,14 @@
             "date": "2026-06-05"
         },
         {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Czechia vs Guatemala "
+        },
+        {
             "channel": "CT Sport Czech HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "12344 H 29900 - 2/3",
@@ -32,6 +40,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " Czechia vs Guatemala "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": " Czechia vs Guatemala "
         },
         {
@@ -175,6 +191,14 @@
             "date": "2026-06-05"
         },
         {
+            "channel": "1TV Georgia HD 📺",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "HD BISS",
+            "link": "https://player.1tv.ge/1tv/",
+            "related_to": " Georgia vs Bahrain "
+        },
+        {
             "channel": "Megogo Futbol 6",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -201,6 +225,14 @@
             "related_to": " Slovakia vs Montenegro "
         },
         {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Slovakia vs Montenegro "
+        },
+        {
             "compet": "Friendly International",
             "match": " San Marino vs Bangladesh ",
             "flags": {
@@ -220,6 +252,24 @@
         },
         {
             "compet": "Friendly International",
+            "match": " Moldova vs Bulgaria ",
+            "flags": {
+                "team1": "moldova",
+                "team2": "bulgaria"
+            },
+            "time": "17:00",
+            "date": "2026-06-05"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Moldova vs Bulgaria "
+        },
+        {
+            "compet": "Friendly International",
             "match": " Hungary vs Finland ",
             "flags": {
                 "team1": "hungary",
@@ -227,6 +277,14 @@
             },
             "time": "17:45",
             "date": "2026-06-05"
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Hungary vs Finland "
         },
         {
             "channel": "Megogo Futbol 5",
@@ -241,6 +299,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Hungary vs Finland "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Hungary vs Finland "
         },
