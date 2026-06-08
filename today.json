@@ -1,3 +1,484 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "Maurice Revello Tournament - Group B",
+            "match": " Ivory Coast U-20 vs Canada U-20 ",
+            "flags": {
+                "team1": "ivorycoast",
+                "team2": "canada"
+            },
+            "time": "13:00",
+            "date": "2026-06-08"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ivory Coast U-20 vs Canada U-20 "
+        },
+        {
+            "compet": "Maurice Revello Tournament - Group B",
+            "match": " Venezuela U-20 vs Portugal U-20 ",
+            "flags": {
+                "team1": "venezuela",
+                "team2": "portugal"
+            },
+            "time": "16:30",
+            "date": "2026-06-08"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Venezuela U-20 vs Portugal U-20 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Netherlands vs Uzbekistan ",
+            "flags": {
+                "team1": "holland",
+                "team2": "uzbekistan"
+            },
+            "time": "18:45",
+            "date": "2026-06-08"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "Cytavision Sports PPV 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "L´Équipe Live Foot📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "NPO 3 Nederland HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12188 H 29900 - 2/3",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "TV2 Sport 2 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Netherlands vs Uzbekistan "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " France vs Northern Ireland ",
+            "flags": {
+                "team1": "france",
+                "team2": "nireland"
+            },
+            "time": "19:10",
+            "date": "2026-06-08"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Sport",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Sport Website📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Three HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Two Northern Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "10773 H 23000 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "SÝN Sport ViaPlay HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "TF1 4K UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "TF1 France HD 📺",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "https://www.tf1.fr/tf1/direct",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "TF1 Suisse HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10775 H 29900 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Virgin Media PLAY",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Virgin Media Three",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Virgin Media TV",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " France vs Northern Ireland "
+        }
+    ]
 }
