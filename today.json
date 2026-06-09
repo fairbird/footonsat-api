@@ -51,6 +51,14 @@
             "related_to": " Peru vs Spain "
         },
         {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Peru vs Spain "
+        },
+        {
             "channel": "Diema Sport 3 HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12520 V 30000 - 5/6",
@@ -167,6 +175,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Peru vs Spain "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Peru vs Spain "
         },
@@ -293,6 +309,24 @@
             "encry": "Conax",
             "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
             "related_to": " Russia U-21 vs Iraq U-23 "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Tajikistan vs India ",
+            "flags": {
+                "team1": "tajikistan",
+                "team2": "india"
+            },
+            "time": "15:00",
+            "date": "2026-06-09"
+        },
+        {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Tajikistan vs India "
         },
         {
             "compet": "Friendly International - Baltic Cup - 3rd place",
@@ -451,6 +485,14 @@
             "related_to": " Armenia vs Moldova "
         },
         {
+            "channel": "Prime Video USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Armenia vs Moldova "
+        },
+        {
             "channel": "Sport 2 Czechia HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12090 V 29900 - 3/4",
@@ -475,6 +517,14 @@
             "related_to": " Armenia vs Moldova "
         },
         {
+            "channel": "Tubi TV USA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://gdpr.tubi.tv/",
+            "related_to": " Armenia vs Moldova "
+        },
+        {
             "channel": "TV2 Play Norge📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -483,70 +533,12 @@
             "related_to": " Armenia vs Moldova "
         },
         {
-            "compet": "Friendly International - Baltic Cup - Final",
-            "match": " Estonia vs Lithuania ",
-            "flags": {
-                "team1": "estonia",
-                "team2": "lithuania"
-            },
-            "time": "16:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "ETV 2 Estonia",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11938 V 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "LRT Plius HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-plius",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "Megogo Futbol 5",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
             "freq": "0000 0",
-            "encry": "",
+            "encry": "FTA",
             "link": "",
-            "related_to": " Estonia vs Lithuania "
+            "related_to": " Armenia vs Moldova "
         },
         {
             "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A4",
@@ -633,6 +625,14 @@
             "date": "2026-06-09"
         },
         {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://tvthek.orf.at/live",
+            "related_to": " Norway vs Austria "
+        },
+        {
             "channel": "TV2 Direkte Norge HD",
             "sat": "Thor 6 5.0°e",
             "freq": "11385 H 30000 - 3/4",
@@ -649,6 +649,64 @@
             "related_to": " Norway vs Austria "
         },
         {
+            "compet": "Friendly International - Baltic Cup - Final",
+            "match": " Estonia vs Lithuania ",
+            "flags": {
+                "team1": "estonia",
+                "team2": "lithuania"
+            },
+            "time": "16:00",
+            "date": "2026-06-09"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Estonia vs Lithuania "
+        },
+        {
+            "channel": "ETV 2 Estonia",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Estonia vs Lithuania "
+        },
+        {
+            "channel": "LRT Plius HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-plius",
+            "related_to": " Estonia vs Lithuania "
+        },
+        {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Estonia vs Lithuania "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Estonia vs Lithuania "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Estonia vs Lithuania "
+        },
+        {
             "compet": "Friendly International",
             "match": " Belarus vs Burkina Faso ",
             "flags": {
@@ -663,6 +721,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11900 H 28000 - 5/6",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " Belarus vs Burkina Faso "
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Belarus vs Burkina Faso "
         },
@@ -696,6 +762,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": " Belarus vs Burkina Faso "
+        },
+        {
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
             "related_to": " Belarus vs Burkina Faso "
         },
         {
@@ -875,6 +949,48 @@
             "encry": "",
             "link": "https://play.tv2.no/sport",
             "related_to": " Hungary vs Kazakhstan "
+        },
+        {
+            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A1",
+            "match": " Sweden vs Italy ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2026-06-09"
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sweden vs Italy "
+        },
+        {
+            "channel": "RAI 2 Italia HD 📺",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11766 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.raiplay.it/dirette/rai2",
+            "related_to": " Sweden vs Italy "
+        },
+        {
+            "channel": "SVT 2 Sverige HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sweden vs Italy "
+        },
+        {
+            "channel": "SVT Play HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.svtplay.se/",
+            "related_to": " Sweden vs Italy "
         },
         {
             "compet": "Friendly International",
@@ -1135,40 +1251,6 @@
             "related_to": " Sandviken vs Falkenberg "
         },
         {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A1",
-            "match": " Sweden vs Italy ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "italy"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Polsat Sport 2 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "channel": "SVT 2 Sverige HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11216 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "channel": "SVT Play HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.svtplay.se/",
-            "related_to": " Sweden vs Italy "
-        },
-        {
             "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group B4",
             "match": " Luxembourg vs Belgium ",
             "flags": {
@@ -1253,6 +1335,14 @@
             "related_to": " Azerbaijan vs San Marino "
         },
         {
+            "channel": "Sony Sports TEN 1 India HD",
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11630 H 32720 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Azerbaijan vs San Marino "
+        },
+        {
             "channel": "Sport 2 Czechia HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12090 V 29900 - 3/4",
@@ -1317,6 +1407,14 @@
             "related_to": " Azerbaijan vs San Marino "
         },
         {
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Azerbaijan vs San Marino "
+        },
+        {
             "compet": "Spanish La Liga 2 - Promotion Semi Final Play-Off (2nd Leg)",
             "match": " Almería vs Castellón ",
             "flags": {
@@ -1330,6 +1428,14 @@
             "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12422 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Almería vs Castellón "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Almería vs Castellón "
@@ -1582,6 +1688,22 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " England vs Ukraine "
+        },
+        {
+            "channel": "Megogo Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " England vs Ukraine "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": " England vs Ukraine "
         },
         {
