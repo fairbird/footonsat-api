@@ -1,30 +1,56 @@
 {
     "footonsat": [
         {
-            "compet": "Friendly International",
-            "match": " Peru vs Spain ",
+            "compet": "Friendly International (W)",
+            "match": " Brazil vs United States ",
             "flags": {
-                "team1": "peru",
-                "team2": "spain"
+                "team1": "brazil",
+                "team2": "usa"
             },
-            "time": "02:00",
-            "date": "2026-06-09"
+            "time": "00:30",
+            "date": "2026-06-10"
         },
         {
-            "channel": "América Peru HD",
-            "sat": "Telstar 12 15.0°w",
-            "freq": "11919 H 45000 - 4/5",
-            "encry": "MPEG-4 BetaC",
+            "channel": "Peacock Premium USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
-            "related_to": " Peru vs Spain "
+            "related_to": " Brazil vs United States "
         },
         {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD Conax",
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Peru vs Spain "
+            "related_to": " Brazil vs United States "
+        },
+        {
+            "channel": "TNT USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Brazil vs United States "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Argentina vs Iceland ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "iceland"
+            },
+            "time": "01:00",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " Argentina vs Iceland "
         },
         {
             "channel": "Arena Premium 1 Srbija HD",
@@ -32,63 +58,31 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Peru vs Spain "
+            "related_to": " Argentina vs Iceland "
         },
         {
-            "channel": "ART Motion Sport 1 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "DAZN 2 Bar Deutsch HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11798 H 27500 - 9/0",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Peru vs Spain "
+            "related_to": " Argentina vs Iceland "
         },
         {
-            "channel": "Fast Sports TV Armenia 📺",
-            "sat": "Eutelsat 70B 70.5°e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://fasttv.am/tv-channels/fastsports",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Fox Sports 2 USA HD",
+            "channel": "ESPN Deportes",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
-            "encry": "",
+            "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Peru vs Spain "
+            "related_to": " Argentina vs Iceland "
+        },
+        {
+            "channel": "ESPN USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Argentina vs Iceland "
         },
         {
             "channel": "L´Équipe Live Foot📺",
@@ -96,871 +90,23 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://lequipe.fr/",
-            "related_to": " Peru vs Spain "
+            "related_to": " Argentina vs Iceland "
         },
         {
-            "channel": "Megogo Futbol 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12285 V 30000 - 2/3",
-            "encry": "FTA",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Okko Prime Sport HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Polsat Sport 1 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Premier Sports 2 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Prime Video UK PPV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 2 86.5°e",
-            "freq": "11495 V 09000 - 8/9",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Sony Sports TEN 2 India HD",
-            "sat": "G-Sat 10 83.0°e",
-            "freq": "11090 V 32720 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "SporTV Brazil HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Spíler 2 TV Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11727 V 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "TVE La 1 HD España 📺",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - -",
-            "encry": "NagraVision",
-            "link": "http://www.rtve.es/directo/la-1/",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "TVE La 1 UHD 4K",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - -",
-            "encry": "Free To Air UHD",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "channel": "Ziggo Sport HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Peru vs Spain "
-        },
-        {
-            "compet": "Friendly International (W)",
-            "match": " Australia vs Mexico ",
-            "flags": {
-                "team1": "australia",
-                "team2": "mexico"
-            },
-            "time": "10:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "YouTube: Football Australia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@footballaustralia/streams",
-            "related_to": " Australia vs Mexico "
-        },
-        {
-            "compet": "Friendly Youth International",
-            "match": " Russia U-21 vs Iraq U-23 ",
-            "flags": {
-                "team1": "russia",
-                "team2": "iraq"
-            },
-            "time": "14:30",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " Russia U-21 vs Iraq U-23 "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Tajikistan vs India ",
-            "flags": {
-                "team1": "tajikistan",
-                "team2": "india"
-            },
-            "time": "15:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Varzish TV Sport HD",
-            "sat": "NSS 12 57.0°e",
-            "freq": "11566 H 10750 - 3/4",
-            "encry": "HD BISS",
-            "link": "",
-            "related_to": " Tajikistan vs India "
-        },
-        {
-            "compet": "Friendly International - Baltic Cup - 3rd place",
-            "match": " Latvia vs Faroe Islands ",
-            "flags": {
-                "team1": "latvia",
-                "team2": "faroeislands"
-            },
-            "time": "15:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "KVF Sjónvarp Faroes 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "FTA",
-            "link": "https://kvf.fo/live/2",
-            "related_to": " Latvia vs Faroe Islands "
-        },
-        {
-            "channel": "LTV 7 Latvia",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11843 H 27500 - 3/4",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Latvia vs Faroe Islands "
-        },
-        {
-            "channel": "Megogo Futbol 4",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Latvia vs Faroe Islands "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Latvia vs Faroe Islands "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Latvia vs Faroe Islands "
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Latvia vs Faroe Islands "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A4",
-            "match": " Slovenia vs Germany ",
-            "flags": {
-                "team1": "slovenia",
-                "team2": "germany"
-            },
-            "time": "16:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "DAZN España HD FTA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 - -",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "DAZN France",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "DAZN Great Britain📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "DFB Play TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dfbplay.tv/",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "FIFA+📺",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "-",
-            "link": "https://www.fifa.com/fifaplus/en/live",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "Slovenija TV2 HD 📺",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11554 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "YouTube: German Football📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "channel": "ZDF Deutschland HD 📺",
+            "channel": "M+ Fanzone HD",
             "sat": "Astra 1P 19.2°e",
-            "freq": "11954 H 27500 - 3/4",
-            "encry": "HD Panaccess",
-            "link": "https://www.zdf.de/live-tv",
-            "related_to": " Slovenia vs Germany "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Armenia vs Moldova ",
-            "flags": {
-                "team1": "armenia",
-                "team2": "moldova"
-            },
-            "time": "16:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Armenia First TV 📺",
-            "sat": "Eutelsat 70B 70.5°e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://www.1tv.am/en/schedule/metric",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "ART Motion Sport 2 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12070 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Fast Sports TV Armenia 📺",
-            "sat": "Eutelsat 70B 70.5°e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://fasttv.am/tv-channels/fastsports",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Megogo Futbol 3",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12285 V 30000 - 2/3",
-            "encry": "FTA",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Moldova 1 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://moldova1.md/live",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Prime Video USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Sport 2 Czechia HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12090 V 29900 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "SportKlub 6 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "SportKlub 9 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "Tubi TV USA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://gdpr.tubi.tv/",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Armenia vs Moldova "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Congo DR vs Chile ",
-            "flags": {
-                "team1": "congodr",
-                "team2": "chile"
-            },
-            "time": "16:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "ChileVision",
-            "sat": "Telstar 12 15.0°w",
-            "freq": "11857 H 45000 - 4/5",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "",
-            "related_to": " Congo DR vs Chile "
-        },
-        {
-            "channel": "RTNC Congo DR",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11387 V 30000 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Congo DR vs Chile "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A4",
-            "match": " Norway vs Austria ",
-            "flags": {
-                "team1": "norway",
-                "team2": "austria"
-            },
-            "time": "16:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "ORF 1 Austria HD 📺",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11303 H 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://tvthek.orf.at/live",
-            "related_to": " Norway vs Austria "
-        },
-        {
-            "channel": "TV2 Direkte Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11385 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Norway vs Austria "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Norway vs Austria "
-        },
-        {
-            "compet": "Friendly International - Baltic Cup - Final",
-            "match": " Estonia vs Lithuania ",
-            "flags": {
-                "team1": "estonia",
-                "team2": "lithuania"
-            },
-            "time": "16:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "ETV 2 Estonia",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11938 V 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "LRT Plius HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.lrt.lt/mediateka/tiesiogiai/lrt-plius",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "Megogo Futbol 5",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Estonia vs Lithuania "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Belarus vs Burkina Faso ",
-            "flags": {
-                "team1": "belarus",
-                "team2": "burkinafaso"
-            },
-            "time": "16:30",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Digi Sport 3 Romania",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Belarus vs Burkina Faso "
-        },
-        {
-            "channel": "Fox Soccer Plus USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Belarus vs Burkina Faso "
-        },
-        {
-            "channel": "Prima Sport RO 4 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12405 V 30000 - 7/8",
-            "encry": "Viaccess",
-            "link": "",
-            "related_to": " Belarus vs Burkina Faso "
-        },
-        {
-            "channel": "Sport TV Belarus",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Belarus vs Burkina Faso "
-        },
-        {
-            "channel": "SportKlub 8 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Belarus vs Burkina Faso "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Belarus vs Burkina Faso "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Belarus vs Burkina Faso "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A1",
-            "match": " Sweden vs Italy ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "italy"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12090 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "channel": "Persiana Sports 4 HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "11420 V 27500 - 2/3",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "channel": "Polsat Sport 2 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "channel": "Polsat Sport Extra 1 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 3/4",
+            "freq": "10817 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Sweden vs Italy "
+            "related_to": " Argentina vs Iceland "
         },
         {
-            "channel": "RAI 2 Italia HD 📺",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11766 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "https://www.raiplay.it/dirette/rai2",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "channel": "SVT 2 Sverige HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11216 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "channel": "SVT Play HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.svtplay.se/",
-            "related_to": " Sweden vs Italy "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Hungary vs Kazakhstan ",
-            "flags": {
-                "team1": "hungary",
-                "team2": "kazstan"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "ART Motion Sport 3 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Cytavision Sports PPV 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11259 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Fast Sports 1 Armenia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports1",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "M4 Sport Hungary HD 📺",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11778 V 29900 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Megogo Futbol 2",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
+            "related_to": " Argentina vs Iceland "
         },
         {
             "channel": "Persiana Sport HD",
@@ -968,833 +114,7 @@
             "freq": "10762 V 27500 - 2/3",
             "encry": "FTA",
             "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Polsat Sport 1 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Premier Sports 2 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 2 86.5°e",
-            "freq": "11660 V 14663 - 8/9",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "Sport 1 Czechia HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12070 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 32000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "SportKlub 7 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "SporTV Brazil HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Hungary vs Kazakhstan "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Russia vs Trinidad & Tobago ",
-            "flags": {
-                "team1": "russia",
-                "team2": "trinidad"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "IRIB Varzesh HD",
-            "sat": "Intelsat 39 62.0°e",
-            "freq": "11555 V 30000 - 2/3",
-            "encry": "HD BISS",
-            "link": "",
-            "related_to": " Russia vs Trinidad & Tobago "
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " Russia vs Trinidad & Tobago "
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0°e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "",
-            "related_to": " Russia vs Trinidad & Tobago "
-        },
-        {
-            "channel": "Okko Prime Sport HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Russia vs Trinidad & Tobago "
-        },
-        {
-            "channel": "Persiana Sports 2 HD 📺",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "FTA",
-            "link": "https://pokertvfa.live/",
-            "related_to": " Russia vs Trinidad & Tobago "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group B1",
-            "match": " Wales vs Czechia ",
-            "flags": {
-                "team1": "wales",
-                "team2": "czechia"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "BBC iPlayer📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Wales vs Czechia "
-        },
-        {
-            "channel": "BBC Sport",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wales vs Czechia "
-        },
-        {
-            "channel": "BBC Sport Website📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": " Wales vs Czechia "
-        },
-        {
-            "channel": "BBC Two Wales HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "10818 V 23000 - 3/4",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Wales vs Czechia "
-        },
-        {
-            "channel": "CT Sport Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12344 H 29900 - 2/3",
-            "encry": "HD CryptoWorks",
-            "link": "",
-            "related_to": " Wales vs Czechia "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group B2",
-            "match": " Northern Ireland vs Switzerland ",
-            "flags": {
-                "team1": "nireland",
-                "team2": "switzerland"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "BBC iPlayer📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Northern Ireland vs Switzerland "
-        },
-        {
-            "channel": "BBC Sport",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Northern Ireland vs Switzerland "
-        },
-        {
-            "channel": "BBC Sport NI Online 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.com/sport/northern-ireland",
-            "related_to": " Northern Ireland vs Switzerland "
-        },
-        {
-            "channel": "RSI La 2 Svizzera HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
-            "related_to": " Northern Ireland vs Switzerland "
-        },
-        {
-            "channel": "RTS 2 Suisse HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
-            "related_to": " Northern Ireland vs Switzerland "
-        },
-        {
-            "channel": "SRF Zwei Schweiz HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Panaccess",
-            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
-            "related_to": " Northern Ireland vs Switzerland "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A1",
-            "match": " Serbia vs Denmark ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "denmark"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Serbia vs Denmark "
-        },
-        {
-            "channel": "DR TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.dr.dk/drtv/kanal/20875",
-            "related_to": " Serbia vs Denmark "
-        },
-        {
-            "channel": "DR1 Dansk HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11305 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Serbia vs Denmark "
-        },
-        {
-            "compet": "Swedish Superettan - Week 11",
-            "match": " Oster vs IFK Värnamo ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Oster vs IFK Värnamo "
-        },
-        {
-            "channel": "TV4 Sportkanalen HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10778 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Oster vs IFK Värnamo "
-        },
-        {
-            "compet": "Swedish Superettan - Week 11",
-            "match": " Oddevold vs IFK Norrköping ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10872 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Oddevold vs IFK Norrköping "
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Oddevold vs IFK Norrköping "
-        },
-        {
-            "compet": "Swedish Superettan - Week 11",
-            "match": " Brage vs Ljungskile ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Brage vs Ljungskile "
-        },
-        {
-            "compet": "Swedish Superettan - Week 11",
-            "match": " Nordic United vs Ostersund ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Nordic United vs Ostersund "
-        },
-        {
-            "compet": "Swedish Superettan - Week 11",
-            "match": " Sandviken vs Falkenberg ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Sandviken vs Falkenberg "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group B4",
-            "match": " Luxembourg vs Belgium ",
-            "flags": {
-                "team1": "luxembourg",
-                "team2": "belgium"
-            },
-            "time": "17:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Ketnet Belgium HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12129 V 29900 - 2/3",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Luxembourg vs Belgium "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Azerbaijan vs San Marino ",
-            "flags": {
-                "team1": "azerbaijan",
-                "team2": "sanmarino"
-            },
-            "time": "18:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "CBC Sport HD",
-            "sat": "AzerSpace 1 46.0°e",
-            "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12070 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "Megogo Futbol 4",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "Sony Sports TEN 1 India HD",
-            "sat": "Insat 4A 83.0°e",
-            "freq": "11630 H 32720 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "Sport 2 Czechia HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12090 V 29900 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "Sport TV Belarus",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "sat": "Express AMU1 36.1°e",
-            "freq": "12130 H 27500 - 2/3",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "SuperSport Premier League HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "SÝN Sport ViaPlay HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Azerbaijan vs San Marino "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A2",
-            "match": " France vs Ireland ",
-            "flags": {
-                "team1": "france",
-                "team2": "ireland"
-            },
-            "time": "19:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "France 4 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12402 V 29700 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " France vs Ireland "
-        },
-        {
-            "channel": "Nova Sport 2 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11973 V 29900 - 2/3",
-            "encry": "HD CryptoWorks",
-            "link": "",
-            "related_to": " France vs Ireland "
-        },
-        {
-            "channel": "Polsat Sport 3 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12284 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " France vs Ireland "
-        },
-        {
-            "channel": "RTÉ 2 Ireland HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11914 H 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " France vs Ireland "
-        },
-        {
-            "channel": "RTÉ Player📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.rte.ie/player/onnow",
-            "related_to": " France vs Ireland "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Promotion Semi Final Play-Off (2nd Leg)",
-            "match": " Almería vs Castellón ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Azam Sports 4 HD",
-            "sat": "Eutelsat 7C 7.0°e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "beIN Sports 1 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10812 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Cytavision Sports 7 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "DAZN 1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Digi Sport 3 Romania",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Go3 Sport 1 Baltic HD 📺",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11938 V 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "LaLiga Hypermotion HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10758 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "LaLiga TV Bar 2",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11038 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "MAX Sport 4 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "11475 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Megogo Futbol 3",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "MTV Urheilu 1 Suomi HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12476 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Nova Sports 1 Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Orange Fútbol 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Premier Sports 1 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Almería vs Castellón "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Argentina vs Iceland "
         },
         {
             "channel": "S Sport 1 Türkiye HD",
@@ -1802,7 +122,7 @@
             "freq": "12188 V 27500 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Argentina vs Iceland "
         },
         {
             "channel": "S Sport+ Streaming",
@@ -1810,7 +130,395 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Argentina vs Iceland "
+        },
+        {
+            "channel": "SÝN Sport 1 Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Argentina vs Iceland "
+        },
+        {
+            "channel": "TyC Sports Argentina",
+            "sat": "Intelsat 11 43.1°w",
+            "freq": "4030 V 24570 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Argentina vs Iceland "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Argentina vs Iceland "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Iraq vs Venezuela ",
+            "flags": {
+                "team1": "iraq",
+                "team2": "venezuela"
+            },
+            "time": "01:00",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "Al Iraqiya Sport HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12563 H 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Iraq vs Venezuela "
+        },
+        {
+            "channel": "Televen Venezuela",
+            "sat": "Telstar 12 15.0°w",
+            "freq": "10983 H 45000 - 4/5",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Iraq vs Venezuela "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Iraq vs Venezuela "
+        },
+        {
+            "compet": "Maurice Revello Tournament - Group A",
+            "match": " Congo DR U-20 vs Saudi Arabia U-21 ",
+            "flags": {
+                "team1": "congodr",
+                "team2": "saudiarabia"
+            },
+            "time": "11:30",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Congo DR U-20 vs Saudi Arabia U-21 "
+        },
+        {
+            "compet": "Swedish Superettan - Week 11",
+            "match": " Orebro vs GIF Sundsvall ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Orebro vs GIF Sundsvall "
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " Orebro vs GIF Sundsvall "
+        },
+        {
+            "compet": "Maurice Revello Tournament - Group A",
+            "match": " Colombia U-19 vs Tunisia U-23 ",
+            "flags": {
+                "team1": "colombia",
+                "team2": "tunisia"
+            },
+            "time": "17:00",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Colombia U-19 vs Tunisia U-23 "
+        },
+        {
+            "compet": "Swedish Superettan - Week 11",
+            "match": " Varberg vs Norrby ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " Varberg vs Norrby "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Promotion Semi Final Play-Off (2nd Leg)",
+            "match": " Málaga vs Las Palmas ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "19:00",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Canal+ Sport 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Cytavision Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Go3 Sport 1 Baltic HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Megogo Futbol 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Nova Sports 1 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
         },
         {
             "channel": "Setanta Sports 1 Baltic",
@@ -1818,7 +526,7 @@
             "freq": "11958 H 27500 - 5/6",
             "encry": "MPEG-4 NDS",
             "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Málaga vs Las Palmas "
         },
         {
             "channel": "Setanta Sports 1 Eurasia HD",
@@ -1826,7 +534,7 @@
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Málaga vs Las Palmas "
         },
         {
             "channel": "ST Sports Life",
@@ -1834,7 +542,7 @@
             "freq": "12418 H 27500 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Málaga vs Las Palmas "
         },
         {
             "channel": "SuperSport MáXimo 3A HD",
@@ -1842,7 +550,7 @@
             "freq": "12169 V 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Málaga vs Las Palmas "
         },
         {
             "channel": "SuperSport Variety 4 HD",
@@ -1850,7 +558,7 @@
             "freq": "11170 H 30000 - 5/6",
             "encry": "Irdeto",
             "link": "",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Málaga vs Las Palmas "
         },
         {
             "channel": "TV2 Play Norge📺",
@@ -1858,33 +566,145 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
-            "related_to": " Almería vs Castellón "
+            "related_to": " Málaga vs Las Palmas "
         },
         {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A3",
-            "match": " England vs Ukraine ",
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Málaga vs Las Palmas "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " Portugal vs Nigeria ",
             "flags": {
-                "team1": "england",
-                "team2": "ukraine"
+                "team1": "portugal",
+                "team2": "nigeria"
             },
-            "time": "19:00",
-            "date": "2026-06-09"
+            "time": "19:45",
+            "date": "2026-06-10"
         },
         {
-            "channel": "ITV 1 England HD 📺",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11386 V 27500 - 2/3",
-            "encry": "HD Panaccess",
-            "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": " England vs Ukraine "
+            "channel": "Afrosport TV",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "4002 H 2500",
+            "encry": "Free To Air HD [c]",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
         },
         {
-            "channel": "ITV X📺",
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": " England vs Ukraine "
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Cytavision Sports PPV 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "L´Équipe Live Foot📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": " Portugal vs Nigeria "
         },
         {
             "channel": "Megogo Futbol 1📺",
@@ -1892,39 +712,55 @@
             "freq": "0000",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": " England vs Ukraine "
+            "related_to": " Portugal vs Nigeria "
         },
         {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12285 V 30000 - 2/3",
-            "encry": "FTA",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": " England vs Ukraine "
+            "channel": "MTV MAX Suomi HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10841 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
         },
         {
-            "channel": "Nova Sport 1 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11876 H 29900 - 3/4",
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " England vs Ukraine "
+            "related_to": " Portugal vs Nigeria "
         },
         {
-            "channel": "Persiana Sports 4 HD",
+            "channel": "NTA Sports 24",
+            "sat": "NigComSat 1R 42.5°e",
+            "freq": "12589 H 30000 - 2/3",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Okko Prime Sport HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Persiana Sport HD",
             "sat": "MonacoSat 52.0°e",
-            "freq": "11420 V 27500 - 2/3",
+            "freq": "10762 V 27500 - 2/3",
             "encry": "FTA",
             "link": "",
-            "related_to": " England vs Ukraine "
-        },
-        {
-            "channel": "Polsat Sport 2 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " England vs Ukraine "
+            "related_to": " Portugal vs Nigeria "
         },
         {
             "channel": "Polsat Sport Extra 1 HD",
@@ -1932,7 +768,537 @@
             "freq": "12265 V 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " England vs Ukraine "
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Premier Sports 2 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "RTP 1 Portugal HD 📺",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Sport 2 Czechia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Sport 24 Extra HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "PowerVu",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Sport TV Belarus",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Nigeria "
+        },
+        {
+            "compet": "Friendly International",
+            "match": " England vs Costa Rica ",
+            "flags": {
+                "team1": "england",
+                "team2": "costarica"
+            },
+            "time": "21:00",
+            "date": "2026-06-10"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Fast Sports 1 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "ITV 1 England HD 📺",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "ITV X📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "L´Équipe Live Foot📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Megogo Futbol 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12477 H 45000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Sky Sport MIX Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11862 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Sony Sports TEN 1 India HD",
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11630 H 32720 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " England vs Costa Rica "
         },
         {
             "channel": "STV Player📺",
@@ -1940,7 +1306,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://player.stv.tv/live",
-            "related_to": " England vs Ukraine "
+            "related_to": " England vs Costa Rica "
         },
         {
             "channel": "STV Scotland HD",
@@ -1948,7 +1314,71 @@
             "freq": "12110 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " England vs Ukraine "
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "SÝN Sport ViaPlay HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Teletica 7",
+            "sat": "Intelsat 11 43.1°w",
+            "freq": "3828 V 03300 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "TV2 Sport Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " England vs Costa Rica "
         },
         {
             "channel": "UTV Northern Ireland HD",
@@ -1956,93 +1386,63 @@
             "freq": "11386 V 27500 - 3/4",
             "encry": "FTA",
             "link": "",
-            "related_to": " England vs Ukraine "
+            "related_to": " England vs Costa Rica "
         },
         {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A3",
-            "match": " Iceland vs Spain ",
-            "flags": {
-                "team1": "iceland",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-06-09"
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " England vs Costa Rica "
         },
         {
-            "channel": "RTVE Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.rtve.es/play/deportes/",
-            "related_to": " Iceland vs Spain "
-        },
-        {
-            "channel": "RUV 2 Sjonvarpid",
+            "channel": "Virgin Media PLAY",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
-            "encry": "",
+            "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Iceland vs Spain "
+            "related_to": " England vs Costa Rica "
         },
         {
-            "channel": "Teledeporte España 📺",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - -",
-            "encry": "HD NagraVision",
-            "link": "http://www.rtve.es/directo/teledeporte/",
-            "related_to": " Iceland vs Spain "
-        },
-        {
-            "compet": "FIFA/UEFA Womens WC 2027 Qualifiers - Group A2",
-            "match": " Netherlands vs Poland ",
-            "flags": {
-                "team1": "holland",
-                "team2": "poland"
-            },
-            "time": "19:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "NPO 3 Nederland HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12188 H 29900 - 2/3",
-            "encry": "HD Mediaguard",
+            "channel": "Virgin Media Three",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
             "link": "",
-            "related_to": " Netherlands vs Poland "
+            "related_to": " England vs Costa Rica "
         },
         {
-            "channel": "TVP Sport Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "10834 V 27500 - 3/4",
+            "channel": "Virgin Media TV",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " England vs Costa Rica "
+        },
+        {
+            "channel": "Ziggo Sport HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
             "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Netherlands vs Poland "
-        },
-        {
-            "compet": "Friendly International",
-            "match": " Saudi Arabia vs Senegal ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "senegal"
-            },
-            "time": "23:00",
-            "date": "2026-06-09"
-        },
-        {
-            "channel": "RTS 1 Senegal HD 📺",
-            "sat": "AsiaSat 5 100.5°e",
-            "freq": "4080 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax",
-            "link": "https://live.rts.sn/livetv/rts1",
-            "related_to": " Saudi Arabia vs Senegal "
-        },
-        {
-            "channel": "stc tv sports HD 3📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.stctv.com/sa-en",
-            "related_to": " Saudi Arabia vs Senegal "
+            "related_to": " England vs Costa Rica "
         }
     ]
 }
