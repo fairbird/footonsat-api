@@ -37,24 +37,6 @@
             "related_to": " Venezuela U-20 vs Japan U-20 "
         },
         {
-            "compet": "Maurice Revello Tournament - Group B",
-            "match": " Portugal U-20 vs Canada U-20 ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "canada"
-            },
-            "time": "17:00",
-            "date": "2026-06-11"
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal U-20 vs Canada U-20 "
-        },
-        {
             "compet": "Swedish Superettan - Week 11",
             "match": " Helsingborg vs Landskrona ",
             "flags": {
@@ -79,6 +61,24 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Helsingborg vs Landskrona "
+        },
+        {
+            "compet": "Maurice Revello Tournament - Group B",
+            "match": " Portugal U-20 vs Canada U-20 ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "canada"
+            },
+            "time": "17:00",
+            "date": "2026-06-11"
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal U-20 vs Canada U-20 "
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Group A, Round 1",
@@ -171,10 +171,10 @@
             "related_to": " Mexico vs South Africa "
         },
         {
-            "channel": "beIN Sports MENA 4K UHD",
+            "channel": "beIN Sports MENA Global HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "11310 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Mexico vs South Africa "
         },
@@ -199,6 +199,14 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mexico vs South Africa "
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Mexico vs South Africa "
         },
@@ -347,6 +355,22 @@
             "related_to": " Mexico vs South Africa "
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Mexico vs South Africa "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Mexico vs South Africa "
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
@@ -422,6 +446,14 @@
             "channel": "KTRK Kyrgystan",
             "sat": "Eutelsat 70B 70.5°e",
             "freq": "11096 H 23623 - 1/2",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Mexico vs South Africa "
+        },
+        {
+            "channel": "KTRK Sport",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11097 H 23627 - 1/2",
             "encry": "FTA",
             "link": "",
             "related_to": " Mexico vs South Africa "
@@ -691,6 +723,14 @@
             "related_to": " Mexico vs South Africa "
         },
         {
+            "channel": "RTi La 3 Côte d’Ivoire",
+            "sat": "SES 5 5.0°e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Mexico vs South Africa "
+        },
+        {
             "channel": "RTK 1 Kosovo HD 📺",
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10938 H 15835 - 2/3",
@@ -839,6 +879,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Mexico vs South Africa "
+        },
+        {
+            "channel": "Sport TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "",
             "related_to": " Mexico vs South Africa "
         },
