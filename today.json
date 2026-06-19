@@ -861,6 +861,14 @@
             "related_to": " Bohemians vs Dundalk "
         },
         {
+            "channel": "Virgin Media Three",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Bohemians vs Dundalk "
+        },
+        {
             "channel": "Virgin Media TV",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1049,6 +1057,14 @@
             "date": "2026-06-19"
         },
         {
+            "channel": "AFN Sports HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "Antena 1 Romania HD",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12565 V 30000 - 7/8",
@@ -1161,9 +1177,25 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "beIN Sports MENA Max 1 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "beIN Sports MENA Max 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " United States vs Australia "
@@ -1173,6 +1205,38 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "ChileVision",
+            "sat": "Telstar 12 15.0°w",
+            "freq": "11857 H 45000 - 4/5",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1217,6 +1281,30 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "ETV Estonia",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "ETV+ Estonia",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "Fast Sports TV Armenia 📺",
             "sat": "Eutelsat 70B 70.5°e",
             "freq": "11050 H 20030 - 1/2",
@@ -1257,6 +1345,62 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Gabon 1ère 📺",
+            "sat": "SES 5 5.0°e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "GRTS Gambia",
+            "sat": "Intelsat 905 24.5°w",
+            "freq": "4070 R 03800 - 1/2",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "GTV Ghana",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12418 H 31420 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "GTV Sports + HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12645 V 32700 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Hagerie TV Ethiopia",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11105 H 45000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11637 V 30000 - 2/3",
@@ -1265,10 +1409,50 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "IRIB TV3 HD",
             "sat": "Intelsat 39 62.0°e",
             "freq": "11555 V 30000 - 3/4",
             "encry": "HD BISS",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "JOJ Šport SVK HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Jurnal TV Moldova",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "KBC 1 Kenya",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 31420 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "KC2 Rwanda",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12188 V 27500 - 2/3",
+            "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1286,6 +1470,22 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "La Nouvelle Chaîne Ivorienne 📺",
+            "sat": "SES 5 5.0°e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
             "related_to": " United States vs Australia "
         },
         {
@@ -1308,6 +1508,14 @@
             "channel": "M6 Suisse HD",
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3852 R 14167 - 3/4",
             "encry": "FTA",
             "link": "",
             "related_to": " United States vs Australia "
@@ -1345,6 +1553,14 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "Media Sports Infos",
+            "sat": "Rascom QAF 1R 2.8°e",
+            "freq": "4071 R 2083 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "Megogo Futbol 1📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1353,10 +1569,42 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "MTV Urheilu 1 Suomi HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12476 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "NBC 2 Namibia",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "NBC Universo USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1390,6 +1638,46 @@
             "freq": "0000",
             "encry": "",
             "link": "https://tv.nrk.no/direkte/nrk1",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "PTV Sports",
+            "sat": "Paksat 1R 38.0°e",
+            "freq": "3870 H 13333 - 3/4",
+            "encry": "FTA",
+            "link": "",
             "related_to": " United States vs Australia "
         },
         {
@@ -1433,10 +1721,34 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "RTB Zénith",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3729 L 16833 - 5/6",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0°e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1457,11 +1769,43 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "RTNC Congo DR",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11387 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "AsiaSat 5 100.5°e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "RTS 1 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "RTS 2 Senegal HD 📺",
+            "sat": "Amos 17 17.0°e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": " United States vs Australia "
         },
         {
@@ -1489,6 +1833,62 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "Rustavi 2",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12207 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Servus TV Österreich HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "unknown",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Sigma TV Cyprus",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "Slovenija TV2 HD 📺",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11554 H 30000 - 3/4",
@@ -1497,10 +1897,26 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "Sport TV Belarus",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1513,10 +1929,42 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0°e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1545,10 +1993,34 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "TBC 1 Tanzania",
+            "sat": "Intelsat 22 72.1°e",
+            "freq": "4120 L 9583 - 3/4",
+            "encry": "MPEG-4 Crypto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11052 V 05962 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1593,6 +2065,54 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TV Malagasy Madagascar",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 2/3",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TV3 Ghana",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12522 V 27000 - 7/8",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TV6 Latvija",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11785 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "TVCG 1 HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11817 V 30000 - 3/4",
@@ -1617,10 +2137,114 @@
             "related_to": " United States vs Australia "
         },
         {
+            "channel": "TVM 1 Mozambique",
+            "sat": "Intelsat 906 64.0°e",
+            "freq": "3654 R 05632 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TVP 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11449 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "TyC Sports Argentina",
+            "sat": "Intelsat 11 43.1°w",
+            "freq": "4030 V 24570 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Télé Tchad",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12687 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " United States vs Australia "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " United States vs Australia "
         },
@@ -1641,6 +2265,14 @@
             },
             "time": "22:00",
             "date": "2026-06-19"
+        },
+        {
+            "channel": "AFN Sports HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 L 11000 - 1/2",
+            "encry": "PowerVu [c]",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
         },
         {
             "channel": "Al Aoula HD📺",
@@ -1731,10 +2363,58 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "beIN Sports MENA 4K UHD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11310 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "beIN Sports MENA Max 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "beIN Sports MENA Max 5 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 H 27500 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "beIN Sports MENA Max 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Caracol Nacional",
+            "sat": "Intelsat 21 58.0°w",
+            "freq": "3807 H 02083 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "ChileVision",
+            "sat": "Telstar 12 15.0°w",
+            "freq": "11857 H 45000 - 4/5",
+            "encry": "MPEG-4 Verimatrix",
             "link": "",
             "related_to": " Scotland vs Morocco "
         },
@@ -1779,11 +2459,43 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "Fast Sports TV Armenia 📺",
             "sat": "Eutelsat 70B 70.5°e",
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "FOX Sports USA 4K",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "FOX TV USA 4K",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Fox TV USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": " Scotland vs Morocco "
         },
         {
@@ -1795,10 +2507,42 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "HRT 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0°e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
             "link": "",
             "related_to": " Scotland vs Morocco "
         },
@@ -1827,11 +2571,27 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "JOJ Šport SVK HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "KTRK Sport",
             "sat": "Eutelsat 70B 70.5°e",
             "freq": "11097 H 23627 - 1/2",
             "encry": "FTA",
             "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
             "related_to": " Scotland vs Morocco "
         },
         {
@@ -1875,6 +2635,38 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "MTV 3 Suomi HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 H 24500 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Nova Action HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11876 H 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "Now Sports 618 HK",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1907,6 +2699,30 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "PTV Sports",
+            "sat": "Paksat 1R 38.0°e",
+            "freq": "3870 H 13333 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "Qazaqstan TV HD",
             "sat": "KazSat 2 86.5°e",
             "freq": "11495 V 09000 - 8/9",
@@ -1920,6 +2736,30 @@
             "freq": "11495 V 09000 - 8/9",
             "encry": "MPEG-4 Irdeto",
             "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "RCN TV HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "4009 R 09240 - 3/4",
+            "encry": "HD Director",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "RDS Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
             "related_to": " Scotland vs Morocco "
         },
         {
@@ -1939,6 +2779,14 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "RTÉ 2 Ireland HD",
             "sat": "Astra 2E 28.2°e",
             "freq": "11914 H 27500 - 5/6",
@@ -1955,6 +2803,46 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "Rustavi 2",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "RUV 2 Sjonvarpid",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Servus TV Österreich HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "unknown",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Sigma TV Cyprus",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "Slovenija TV2 HD 📺",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11554 H 30000 - 3/4",
@@ -1963,11 +2851,35 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "Sport TV Belarus",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
             "related_to": " Scotland vs Morocco "
         },
         {
@@ -1991,6 +2903,22 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Scotland vs Morocco "
         },
@@ -2035,6 +2963,30 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "TSN Canada 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TSN Canada 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TSN Canada 4 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "Turkmenistan Sport HD 📺",
             "sat": "MonacoSat 52.0°e",
             "freq": "12303 V 27500 - 2/3",
@@ -2043,10 +2995,66 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "TV Klan HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 29950 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TV3 Estonia HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "TVCG 2 HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11817 V 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TVP 2 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Scotland vs Morocco "
         },
@@ -2059,10 +3067,42 @@
             "related_to": " Scotland vs Morocco "
         },
         {
+            "channel": "Varzish TV Sport HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11566 H 10750 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
             "channel": "VRT 1 Belgium HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "We Sport Moldova",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Scotland vs Morocco "
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "",
             "related_to": " Scotland vs Morocco "
         },
