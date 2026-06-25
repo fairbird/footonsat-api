@@ -1,3 +1,30 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
+            "match": " AGF Århus vs Lech Poznan ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "poland"
+            },
+            "time": "17:00",
+            "date": "2026-07-21"
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " AGF Århus vs Lech Poznan "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " AGF Århus vs Lech Poznan "
+        }
+    ]
 }
