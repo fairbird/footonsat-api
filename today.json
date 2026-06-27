@@ -395,10 +395,10 @@
             "related_to": " Cape Verde vs Saudi Arabia "
         },
         {
-            "channel": "ORTM 1 Mali",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "12604 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax",
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0°w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Cape Verde vs Saudi Arabia "
         },
@@ -1751,6 +1751,14 @@
             "related_to": " Egypt vs Iran "
         },
         {
+            "channel": "beIN Sports MENA Global HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Egypt vs Iran "
+        },
+        {
             "channel": "beIN Sports MENA Max 1 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 V 27500 - 2/3",
@@ -2955,6 +2963,24 @@
             "related_to": " Ilves Tampere vs SJK Seinäjoki "
         },
         {
+            "compet": "All-Island Womens Cup - Semi Final",
+            "match": " Shelbourne vs Bohemians ",
+            "flags": {
+                "team1": "ireland",
+                "team2": "ireland"
+            },
+            "time": "12:00",
+            "date": "2026-06-27"
+        },
+        {
+            "channel": "LOI TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.loitv.ie/",
+            "related_to": " Shelbourne vs Bohemians "
+        },
+        {
             "compet": "Swedish Damallsvenskan - Week 11",
             "match": " Malmö FF vs Kristianstad ",
             "flags": {
@@ -3329,6 +3355,24 @@
             "related_to": " Dynamo Brest vs FC Minsk "
         },
         {
+            "compet": "All-Island Womens Cup - Semi Final",
+            "match": " Galway United vs Peamount United ",
+            "flags": {
+                "team1": "ireland",
+                "team2": "ireland"
+            },
+            "time": "16:00",
+            "date": "2026-06-27"
+        },
+        {
+            "channel": "LOI TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.loitv.ie/",
+            "related_to": " Galway United vs Peamount United "
+        },
+        {
             "compet": "Norwegian 1. Divisjon - Week 13",
             "match": " Strømsgodset vs Odd ",
             "flags": {
@@ -3584,6 +3628,14 @@
             "freq": "10758 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Croatia vs Ghana "
+        },
+        {
+            "channel": "Duna World HD 📺",
+            "sat": "Optus D2 152.0°e",
+            "freq": "12608 H 22500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://mediaklikk.hu/duna-world-elo/",
             "related_to": " Croatia vs Ghana "
         },
         {
@@ -5254,6 +5306,14 @@
             "freq": "10758 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Congo DR vs Uzbekistan "
+        },
+        {
+            "channel": "Duna World HD 📺",
+            "sat": "Optus D2 152.0°e",
+            "freq": "12608 H 22500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://mediaklikk.hu/duna-world-elo/",
             "related_to": " Congo DR vs Uzbekistan "
         },
         {
