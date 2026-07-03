@@ -2111,6 +2111,14 @@
             "related_to": " Argentina vs Cape Verde "
         },
         {
+            "channel": "Filinfo TV Burkina Faso",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3729 L 16833 - 3/5",
+            "encry": "BISS [c]",
+            "link": "",
+            "related_to": " Argentina vs Cape Verde "
+        },
+        {
             "channel": "FOX Sports USA 4K",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2395,7 +2403,7 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": " Argentina vs Cape Verde "
         },
         {
@@ -2411,6 +2419,14 @@
             "sat": "Intelsat 20 68.5°e",
             "freq": "11130 V 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "",
+            "related_to": " Argentina vs Cape Verde "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Argentina vs Cape Verde "
         },
@@ -3095,6 +3111,14 @@
             "related_to": " Argentina vs Cape Verde "
         },
         {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Argentina vs Cape Verde "
+        },
+        {
             "channel": "Zap Viva Internacional HD",
             "sat": "Eutelsat 10B 10.0°e",
             "freq": "12734 V 4000",
@@ -3350,6 +3374,14 @@
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Colombia vs Ghana "
+        },
+        {
+            "channel": "Filinfo TV Burkina Faso",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3729 L 16833 - 3/5",
+            "encry": "BISS [c]",
+            "link": "",
             "related_to": " Colombia vs Ghana "
         },
         {
@@ -3613,6 +3645,14 @@
             "sat": "Thor 7 0.6°w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Colombia vs Ghana "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Colombia vs Ghana "
         },
@@ -4189,6 +4229,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Colombia vs Ghana "
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Colombia vs Ghana "
         },
@@ -6310,10 +6358,10 @@
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (Atlanta)",
-            "match": " Argentina/Cape Verde vs Australia/Egypt ",
+            "match": " Argentina/Cape Verde vs Egypt ",
             "flags": {
                 "team1": "notspecific",
-                "team2": "notspecific"
+                "team2": "egypt"
             },
             "time": "16:00",
             "date": "2026-07-07"
@@ -6324,7 +6372,7 @@
             "freq": "11494 H 22000 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://live.daserste.de/",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Arena Premium 1 Srbija HD",
@@ -6332,7 +6380,7 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "BarTV Mundial HD",
@@ -6340,7 +6388,7 @@
             "freq": "10818 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "DAZN España",
@@ -6348,7 +6396,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "DAZN Italia",
@@ -6356,7 +6404,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "DAZN Mundial Espana HD",
@@ -6364,7 +6412,7 @@
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Fubo Sports USA📺",
@@ -6372,7 +6420,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Go3 World Cup Baltics📺",
@@ -6380,7 +6428,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://go3.ee/fifa2026",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "HRT 2 Hrvatska HD",
@@ -6388,7 +6436,7 @@
             "freq": "11637 V 30000 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "ITV 1 England HD 📺",
@@ -6396,7 +6444,7 @@
             "freq": "11344 H 27500 - 2/3",
             "encry": "HD Panaccess",
             "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "ITV X📺",
@@ -6404,7 +6452,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "JOJ Play📺",
@@ -6412,7 +6460,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://play.joj.sk/",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "M4 Sport Hungary HD 📺",
@@ -6420,7 +6468,7 @@
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Magenta Sport📺",
@@ -6428,7 +6476,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "MATCH! Futbol 1 HD",
@@ -6436,7 +6484,7 @@
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "MATCH! Premier HD 📺",
@@ -6444,7 +6492,7 @@
             "freq": "11720 H 28800 - 3/4",
             "encry": "Conax",
             "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "MATCH! Russia HD",
@@ -6452,7 +6500,7 @@
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "MATCH! TV📺",
@@ -6460,7 +6508,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "NPO 1 4K UHD",
@@ -6468,7 +6516,7 @@
             "freq": "11895 V 29900 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "NPO 1 Nederland HD",
@@ -6476,7 +6524,7 @@
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Peacock Premium USA",
@@ -6484,7 +6532,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Play RTS Sport📺",
@@ -6492,7 +6540,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "RTÉ 2 Ireland HD",
@@ -6500,7 +6548,7 @@
             "freq": "11914 H 27500 - 5/6",
             "encry": "VideoGuard",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "RTÉ Player📺",
@@ -6508,7 +6556,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Slovenija TV2 HD 📺",
@@ -6516,7 +6564,7 @@
             "freq": "11554 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "https://4d.rtvslo.si/zivo/tvs2",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Sport TV5 Portugal HD",
@@ -6524,7 +6572,7 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "STV Player📺",
@@ -6532,7 +6580,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://player.stv.tv/live",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "STV Scotland HD",
@@ -6540,7 +6588,7 @@
             "freq": "11386 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "SuperSport PSL HD",
@@ -6548,7 +6596,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "Telemundo USA",
@@ -6556,7 +6604,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "TSN Canada 1 HD",
@@ -6564,7 +6612,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "TSN+ Canada📺",
@@ -6572,7 +6620,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.tsn.ca/tsnplus",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "TV2 Danmark HD",
@@ -6580,7 +6628,7 @@
             "freq": "10716 H 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "TV2 Play Danmark📺",
@@ -6588,7 +6636,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.dk/sport",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "TVP 2 Polska HD",
@@ -6596,7 +6644,7 @@
             "freq": "12265 V 27500 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "TVP Sport Polska HD",
@@ -6604,7 +6652,7 @@
             "freq": "10834 V 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "channel": "UTV Northern Ireland HD",
@@ -6612,7 +6660,7 @@
             "freq": "11386 V 27500 - 3/4",
             "encry": "FTA",
             "link": "",
-            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+            "related_to": " Argentina/Cape Verde vs Egypt "
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (Vancouver)",
