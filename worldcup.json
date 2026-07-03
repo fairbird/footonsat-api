@@ -2123,7 +2123,7 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": " Argentina vs Cape Verde "
         },
         {
@@ -3133,7 +3133,7 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
+            "link": "https://www.mtv.fi/urheilu",
             "related_to": " Colombia vs Ghana "
         },
         {
@@ -5655,6 +5655,14 @@
             "related_to": " Argentina/Cape Verde vs Australia/Egypt "
         },
         {
+            "channel": "ITV 1 England HD 📺",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+        },
+        {
             "channel": "ITV X📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -5759,6 +5767,22 @@
             "related_to": " Argentina/Cape Verde vs Australia/Egypt "
         },
         {
+            "channel": "STV Player📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+        },
+        {
             "channel": "SuperSport PSL HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11594 V 27500 - 5/6",
@@ -5819,6 +5843,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "10834 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Argentina/Cape Verde vs Australia/Egypt "
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Argentina/Cape Verde vs Australia/Egypt "
         },
@@ -5913,6 +5945,14 @@
             "related_to": " Switzerland/Algeria vs Colombia/Ghana "
         },
         {
+            "channel": "ITV 1 England HD 📺",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11344 H 27500 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " Switzerland/Algeria vs Colombia/Ghana "
+        },
+        {
             "channel": "ITV X📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6017,6 +6057,22 @@
             "related_to": " Switzerland/Algeria vs Colombia/Ghana "
         },
         {
+            "channel": "STV Player📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.stv.tv/live",
+            "related_to": " Switzerland/Algeria vs Colombia/Ghana "
+        },
+        {
+            "channel": "STV Scotland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11386 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Switzerland/Algeria vs Colombia/Ghana "
+        },
+        {
             "channel": "SuperSport PSL HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11594 V 27500 - 5/6",
@@ -6061,6 +6117,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "10834 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Switzerland/Algeria vs Colombia/Ghana "
+        },
+        {
+            "channel": "UTV Northern Ireland HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11386 V 27500 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Switzerland/Algeria vs Colombia/Ghana "
         },
