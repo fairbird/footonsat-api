@@ -196,6 +196,50 @@
         },
         {
             "compet": "Swedish Allsvenskan - Week 11",
+            "match": " IFK Gotenberg vs AIK Stockholm ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "12:00",
+            "date": "2026-07-05"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " IFK Gotenberg vs AIK Stockholm "
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " IFK Gotenberg vs AIK Stockholm "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " AGF Århus vs Motherwell ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "scotland"
+            },
+            "time": "12:00",
+            "date": "2026-07-05"
+        },
+        {
+            "channel": "AGF Play+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://play.agf.dk/agf-livestreams",
+            "related_to": " AGF Århus vs Motherwell "
+        },
+        {
+            "compet": "Swedish Allsvenskan - Week 11",
             "match": " Kalmar vs Orgryte ",
             "flags": {
                 "team1": "sweden",
@@ -219,24 +263,6 @@
             "encry": "HD Conax",
             "link": "",
             "related_to": " Kalmar vs Orgryte "
-        },
-        {
-            "compet": "Swedish Allsvenskan - Week 11",
-            "match": " IFK Gotenberg vs AIK Stockholm ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "12:00",
-            "date": "2026-07-05"
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " IFK Gotenberg vs AIK Stockholm "
         },
         {
             "compet": "Swedish Allsvenskan - Week 11",
