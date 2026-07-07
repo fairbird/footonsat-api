@@ -11,6 +11,22 @@
             "date": "2026-07-07"
         },
         {
+            "channel": "Armenia First TV 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": " Ararat-Armenia vs FC Riga "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Ararat-Armenia vs FC Riga "
+        },
+        {
             "channel": "Sporta Centrs TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -71,6 +87,14 @@
             "date": "2026-07-07"
         },
         {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vardar Skopje vs KuPS Kuopio "
+        },
+        {
             "channel": "Arena Sport 1 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12460 H 30000 - 3/4",
@@ -87,6 +111,14 @@
             },
             "time": "17:30",
             "date": "2026-07-07"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Floriana vs Shamrock Rovers "
         },
         {
             "channel": "TVM Sport+ HD",
@@ -115,22 +147,6 @@
             "date": "2026-07-07"
         },
         {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Borac Banja Luka vs Levski Sofia "
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Borac Banja Luka vs Levski Sofia "
-        },
-        {
             "channel": "Diema Sport HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12520 V 30000 - 5/6",
@@ -157,11 +173,27 @@
             "date": "2026-07-07"
         },
         {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Tre Fiori vs Larne "
+        },
+        {
             "channel": "Arena Premium 4 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Tre Fiori vs Larne "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": " Tre Fiori vs Larne "
         },
         {
@@ -171,6 +203,24 @@
             "encry": "",
             "link": "",
             "related_to": " Tre Fiori vs Larne "
+        },
+        {
+            "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+            "match": " KÍ Klaksvík vs Atert Bissen ",
+            "flags": {
+                "team1": "faroeislands",
+                "team2": "luxembourg"
+            },
+            "time": "18:45",
+            "date": "2026-07-07"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " KÍ Klaksvík vs Atert Bissen "
         },
         {
             "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
@@ -262,7 +312,7 @@
         },
         {
             "compet": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
-            "match": " AGF Århus vs Lech Poznan ",
+            "match": " AGF Aarhus vs Lech Poznan ",
             "flags": {
                 "team1": "denmark",
                 "team2": "poland"
@@ -276,7 +326,7 @@
             "freq": "11823 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " AGF Århus vs Lech Poznan "
+            "related_to": " AGF Aarhus vs Lech Poznan "
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -284,7 +334,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " AGF Århus vs Lech Poznan "
+            "related_to": " AGF Aarhus vs Lech Poznan "
         },
         {
             "compet": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
