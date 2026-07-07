@@ -835,6 +835,14 @@
             "related_to": " United States vs Belgium "
         },
         {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " United States vs Belgium "
+        },
+        {
             "channel": "TVP 2 Polska HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12265 V 27500 - 3/4",
@@ -942,10 +950,10 @@
         },
         {
             "compet": "Friendly Club Match",
-            "match": " CSKA 1948 Sofia vs Zeleznicar ",
+            "match": " Zeleznicar vs CSKA 1948 Sofia ",
             "flags": {
-                "team1": "bulgaria",
-                "team2": "serbia"
+                "team1": "serbia",
+                "team2": "bulgaria"
             },
             "time": "15:30",
             "date": "2026-07-07"
@@ -956,7 +964,7 @@
             "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " CSKA 1948 Sofia vs Zeleznicar "
+            "related_to": " Zeleznicar vs CSKA 1948 Sofia "
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -964,7 +972,7 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "",
-            "related_to": " CSKA 1948 Sofia vs Zeleznicar "
+            "related_to": " Zeleznicar vs CSKA 1948 Sofia "
         },
         {
             "channel": "Arena Sport 10 Srbija HD",
@@ -972,7 +980,41 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " CSKA 1948 Sofia vs Zeleznicar "
+            "related_to": " Zeleznicar vs CSKA 1948 Sofia "
+        },
+        {
+            "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+            "match": " Sabah vs The New Saints ",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "wales"
+            },
+            "time": "16:00",
+            "date": "2026-07-07"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Sabah vs The New Saints "
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Sabah vs The New Saints "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " Sabah vs The New Saints "
         },
         {
             "compet": "FIFA WORLD CUP 2026 - Round of 16 (Atlanta)",
@@ -2179,29 +2221,11 @@
             "related_to": " Ararat-Armenia vs FC Riga "
         },
         {
-            "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-            "match": " Sabah vs The New Saints ",
-            "flags": {
-                "team1": "azerbaijan",
-                "team2": "wales"
-            },
-            "time": "16:00",
-            "date": "2026-07-07"
-        },
-        {
-            "channel": "CBC Sport HD",
-            "sat": "AzerSpace 1 46.0°e",
-            "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Sabah vs The New Saints "
-        },
-        {
             "compet": "Friendly Club Match",
-            "match": " Buducnost vs Radnicki 1923 ",
+            "match": " Radnicki 1923 vs Buducnost ",
             "flags": {
-                "team1": "montenegro",
-                "team2": "serbia"
+                "team1": "serbia",
+                "team2": "montenegro"
             },
             "time": "16:30",
             "date": "2026-07-07"
@@ -2212,7 +2236,7 @@
             "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Buducnost vs Radnicki 1923 "
+            "related_to": " Radnicki 1923 vs Buducnost "
         },
         {
             "channel": "Arena Premium 4 Srbija HD",
@@ -2220,7 +2244,7 @@
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Buducnost vs Radnicki 1923 "
+            "related_to": " Radnicki 1923 vs Buducnost "
         },
         {
             "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
@@ -2273,6 +2297,32 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Shelbourne vs Celtic "
+        },
+        {
+            "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+            "match": " Floriana vs Shamrock Rovers ",
+            "flags": {
+                "team1": "malta",
+                "team2": "ireland"
+            },
+            "time": "17:30",
+            "date": "2026-07-07"
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Floriana vs Shamrock Rovers "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Floriana vs Shamrock Rovers "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -2353,6 +2403,14 @@
             "date": "2026-07-07"
         },
         {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Borac Banja Luka vs Levski Sofia "
+        },
+        {
             "channel": "Arena Sport 1x2 Srbija",
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -2366,6 +2424,14 @@
             "freq": "12520 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
+            "related_to": " Borac Banja Luka vs Levski Sofia "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": " Borac Banja Luka vs Levski Sofia "
         },
         {
@@ -3295,6 +3361,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "11817 V 30000 - 3/4",
             "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Switzerland vs Colombia "
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Switzerland vs Colombia "
         },

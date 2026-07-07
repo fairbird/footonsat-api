@@ -37,11 +37,27 @@
             "date": "2026-07-07"
         },
         {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Sabah vs The New Saints "
+        },
+        {
             "channel": "CBC Sport HD",
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
             "link": "",
+            "related_to": " Sabah vs The New Saints "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
             "related_to": " Sabah vs The New Saints "
         },
         {
@@ -64,6 +80,32 @@
         },
         {
             "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+            "match": " Floriana vs Shamrock Rovers ",
+            "flags": {
+                "team1": "malta",
+                "team2": "ireland"
+            },
+            "time": "17:30",
+            "date": "2026-07-07"
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Floriana vs Shamrock Rovers "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Floriana vs Shamrock Rovers "
+        },
+        {
+            "compet": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
             "match": " Borac Banja Luka vs Levski Sofia ",
             "flags": {
                 "team1": "bosnia",
@@ -71,6 +113,14 @@
             },
             "time": "18:30",
             "date": "2026-07-07"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Borac Banja Luka vs Levski Sofia "
         },
         {
             "channel": "Arena Sport 1x2 Srbija",
@@ -86,6 +136,14 @@
             "freq": "12520 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
+            "related_to": " Borac Banja Luka vs Levski Sofia "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": " Borac Banja Luka vs Levski Sofia "
         },
         {
