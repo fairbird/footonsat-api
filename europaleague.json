@@ -2,6 +2,42 @@
     "footonsat": [
         {
             "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+            "match": " Qarabagh vs Vestri ",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "iceland"
+            },
+            "time": "16:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Qarabagh vs Vestri "
+        },
+        {
+            "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+            "match": " Sheriff Tiraspol vs Aluminij ",
+            "flags": {
+                "team1": "moldova",
+                "team2": "slovenia"
+            },
+            "time": "17:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "We Sport Moldova",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sheriff Tiraspol vs Aluminij "
+        },
+        {
+            "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
             "match": " Dynamo Kyiv vs Universitatea Cluj ",
             "flags": {
                 "team1": "ukraine",
@@ -11,11 +47,27 @@
             "date": "2026-07-09"
         },
         {
+            "channel": "2+2 Ukraine",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12226 V 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Dynamo Kyiv vs Universitatea Cluj "
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11823 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Dynamo Kyiv vs Universitatea Cluj "
+        },
+        {
+            "channel": "Kyivstar TV | Evrokubki📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/ru/live-channels/680910b3cb142ecb94435f79-ks-tv-evrokubki",
             "related_to": " Dynamo Kyiv vs Universitatea Cluj "
         },
         {
@@ -73,11 +125,27 @@
             "date": "2026-07-09"
         },
         {
+            "channel": "DvojkaHD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12363 V 29500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.stvr.sk/televizia/live-2",
+            "related_to": " Hajduk Split vs MSK Zilina "
+        },
+        {
             "channel": "Hajduk TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.hajduk.hr/",
+            "related_to": " Hajduk Split vs MSK Zilina "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
             "related_to": " Hajduk Split vs MSK Zilina "
         },
         {

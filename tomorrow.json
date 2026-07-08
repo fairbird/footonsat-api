@@ -19,6 +19,14 @@
             "related_to": " Atletic Escaldes vs Mornar "
         },
         {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Atletic Escaldes vs Mornar "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Debrecen vs Zeleznicar ",
             "flags": {
@@ -62,10 +70,10 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": " Hegelmann vs Paide Linnameeskond ",
+            "match": " Alashkert vs Yelimay Semey ",
             "flags": {
-                "team1": "lithuania",
-                "team2": "estonia"
+                "team1": "armenia",
+                "team2": "kazstan"
             },
             "time": "16:00",
             "date": "2026-07-09"
@@ -76,7 +84,23 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Hegelmann vs Paide Linnameeskond "
+            "related_to": " Alashkert vs Yelimay Semey "
+        },
+        {
+            "channel": "Armenia First News TV",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " Alashkert vs Yelimay Semey "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Alashkert vs Yelimay Semey "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -97,11 +121,27 @@
             "related_to": " FK Liepaja vs Decic Tuzi "
         },
         {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " FK Liepaja vs Decic Tuzi "
+        },
+        {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " FK Liepaja vs Decic Tuzi "
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": " Dila Gori vs Virtus ",
+            "match": " Hegelmann vs Paide Linnameeskond ",
             "flags": {
-                "team1": "georgia",
-                "team2": "sanmarino"
+                "team1": "lithuania",
+                "team2": "estonia"
             },
             "time": "16:00",
             "date": "2026-07-09"
@@ -112,25 +152,15 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Dila Gori vs Virtus "
+            "related_to": " Hegelmann vs Paide Linnameeskond "
         },
         {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": " Alashkert vs Yelimay Semey ",
-            "flags": {
-                "team1": "armenia",
-                "team2": "kazstan"
-            },
-            "time": "16:00",
-            "date": "2026-07-09"
-        },
-        {
-            "channel": "- - -",
+            "channel": "Solidsport Broadcast📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
-            "related_to": " Alashkert vs Yelimay Semey "
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Hegelmann vs Paide Linnameeskond "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st  Leg)",
@@ -149,6 +179,50 @@
             "encry": "",
             "link": "https://live.linfieldtv.com/linfieldfc/",
             "related_to": " Nõmme Kalju vs Linfield "
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://tv.soccernet.ee/",
+            "related_to": " Nõmme Kalju vs Linfield "
+        },
+        {
+            "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+            "match": " Qarabagh vs Vestri ",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "iceland"
+            },
+            "time": "16:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Qarabagh vs Vestri "
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": " Dila Gori vs Virtus ",
+            "flags": {
+                "team1": "georgia",
+                "team2": "sanmarino"
+            },
+            "time": "16:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dila Gori vs Virtus "
         },
         {
             "compet": "Friendly Club Match",
@@ -178,24 +252,6 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": " Velez Mostar vs Milsami Orhei ",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "moldova"
-            },
-            "time": "17:00",
-            "date": "2026-07-09"
-        },
-        {
-            "channel": "MY TV BiH 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://mymedia.ba/",
-            "related_to": " Velez Mostar vs Milsami Orhei "
-        },
-        {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": " Marsaxlokk vs Pyunik ",
             "flags": {
                 "team1": "malta",
@@ -213,22 +269,28 @@
             "related_to": " Marsaxlokk vs Pyunik "
         },
         {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": " Dynamo Minsk vs Sileks ",
-            "flags": {
-                "team1": "belarus",
-                "team2": "northmacedonia"
-            },
-            "time": "17:00",
-            "date": "2026-07-09"
+            "channel": "Armenia First TV 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": " Marsaxlokk vs Pyunik "
         },
         {
-            "channel": "- - -",
+            "channel": "TVM Sport+ HD",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Dynamo Minsk vs Sileks "
+            "related_to": " Marsaxlokk vs Pyunik "
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Marsaxlokk vs Pyunik "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -249,6 +311,14 @@
             "related_to": " Bohemians vs St Joseph's "
         },
         {
+            "channel": "Bohemians FC Stream📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.bohemians.ie/bohemiansplay",
+            "related_to": " Bohemians vs St Joseph's "
+        },
+        {
             "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
             "match": " Dynamo Kyiv vs Universitatea Cluj ",
             "flags": {
@@ -259,12 +329,90 @@
             "date": "2026-07-09"
         },
         {
+            "channel": "2+2 Ukraine",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12226 V 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Dynamo Kyiv vs Universitatea Cluj "
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11823 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Dynamo Kyiv vs Universitatea Cluj "
+        },
+        {
+            "channel": "Kyivstar TV | Evrokubki📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/ru/live-channels/680910b3cb142ecb94435f79-ks-tv-evrokubki",
+            "related_to": " Dynamo Kyiv vs Universitatea Cluj "
+        },
+        {
+            "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+            "match": " Sheriff Tiraspol vs Aluminij ",
+            "flags": {
+                "team1": "moldova",
+                "team2": "slovenia"
+            },
+            "time": "17:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "We Sport Moldova",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sheriff Tiraspol vs Aluminij "
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": " Dynamo Minsk vs Sileks ",
+            "flags": {
+                "team1": "belarus",
+                "team2": "northmacedonia"
+            },
+            "time": "17:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dynamo Minsk vs Sileks "
+        },
+        {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Dynamo Minsk vs Sileks "
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": " Velez Mostar vs Milsami Orhei ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "moldova"
+            },
+            "time": "17:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "MY TV BiH 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://mymedia.ba/",
+            "related_to": " Velez Mostar vs Milsami Orhei "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -303,6 +451,14 @@
             "related_to": " Europa vs Shkëndija "
         },
         {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Europa vs Shkëndija "
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": " Caernarfon Town vs FCI Levadia ",
             "flags": {
@@ -319,6 +475,48 @@
             "encry": "",
             "link": "https://www.cymrufootball.tv/en",
             "related_to": " Caernarfon Town vs FCI Levadia "
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://tv.soccernet.ee/",
+            "related_to": " Caernarfon Town vs FCI Levadia "
+        },
+        {
+            "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+            "match": " Hajduk Split vs MSK Zilina ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "slovakia"
+            },
+            "time": "18:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "DvojkaHD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12363 V 29500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.stvr.sk/televizia/live-2",
+            "related_to": " Hajduk Split vs MSK Zilina "
+        },
+        {
+            "channel": "Hajduk TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.hajduk.hr/",
+            "related_to": " Hajduk Split vs MSK Zilina "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Hajduk Split vs MSK Zilina "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -339,22 +537,12 @@
             "related_to": " Vllaznia Shkodër vs Malisheva "
         },
         {
-            "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
-            "match": " Hajduk Split vs MSK Zilina ",
-            "flags": {
-                "team1": "croatia",
-                "team2": "slovakia"
-            },
-            "time": "18:00",
-            "date": "2026-07-09"
-        },
-        {
-            "channel": "Hajduk TV📺",
+            "channel": "Solidsport Broadcast📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://tv.hajduk.hr/",
-            "related_to": " Hajduk Split vs MSK Zilina "
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Vllaznia Shkodër vs Malisheva "
         },
         {
             "compet": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
@@ -437,6 +625,22 @@
             "related_to": " Glentoran vs Rigas FS "
         },
         {
+            "channel": "Sporta Centrs TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://sportacentrs.com/sportacentrs_tv/live/",
+            "related_to": " Glentoran vs Rigas FS "
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Glentoran vs Rigas FS "
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": " NSI Runavik vs Hamrun Spartans ",
             "flags": {
@@ -455,6 +659,14 @@
             "related_to": " NSI Runavik vs Hamrun Spartans "
         },
         {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " NSI Runavik vs Hamrun Spartans "
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": " Petrovac vs Zalgiris ",
             "flags": {
@@ -469,6 +681,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Petrovac vs Zalgiris "
+        },
+        {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Petrovac vs Zalgiris "
         },
@@ -492,6 +712,40 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": " Stjarnan vs Víkingur Gøta ",
+            "flags": {
+                "team1": "iceland",
+                "team2": "faroeislands"
+            },
+            "time": "19:00",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Stjarnan vs Víkingur Gøta "
+        },
+        {
+            "channel": "SÝN Sport 6 Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Stjarnan vs Víkingur Gøta "
+        },
+        {
+            "channel": "SÝN Sport Island 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Stjarnan vs Víkingur Gøta "
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": " FK Sarajevo vs Inter Turku ",
             "flags": {
                 "team1": "bosnia",
@@ -506,6 +760,22 @@
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " FK Sarajevo vs Inter Turku "
+        },
+        {
+            "channel": "Jalkapallo TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://jalkapallotv.com/jalkapallo",
+            "related_to": " FK Sarajevo vs Inter Turku "
+        },
+        {
+            "channel": "MY TV BiH 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://mymedia.ba/",
             "related_to": " FK Sarajevo vs Inter Turku "
         },
         {
@@ -527,30 +797,20 @@
             "related_to": " Dinamo City vs Astana "
         },
         {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": " Stjarnan vs Víkingur Gøta ",
-            "flags": {
-                "team1": "iceland",
-                "team2": "faroeislands"
-            },
-            "time": "19:00",
-            "date": "2026-07-09"
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Dinamo City vs Astana "
         },
         {
-            "channel": "SÝN Sport 6 Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
+            "channel": "SuperSport 1 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
             "link": "",
-            "related_to": " Stjarnan vs Víkingur Gøta "
-        },
-        {
-            "channel": "SÝN Sport Island 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Stjarnan vs Víkingur Gøta "
+            "related_to": " Dinamo City vs Astana "
         },
         {
             "compet": "Icelandic Womens Úrvalsdeild - Week 11",
@@ -753,6 +1013,22 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "Canal 2 International",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "21576 H 02420 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "CTV Canada HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -781,6 +1057,14 @@
             "sat": "Astra 1L 19.2°e",
             "freq": "10906 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
             "link": "",
             "related_to": " France vs Morocco "
         },
@@ -857,6 +1141,46 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "GRTS Gambia",
+            "sat": "Intelsat 905 24.5°w",
+            "freq": "4070 R 03800 - 1/2",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "GTV Ghana",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12418 H 31420 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "GTV Sports + HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12645 V 32700 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "Hagerie TV Ethiopia",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11105 H 45000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "HRT 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11637 V 30000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "Ictimai TV HD",
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11095 H 30000 - 5/6",
@@ -889,6 +1213,38 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "KBC 1 Kenya",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 31420 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "KC2 Rwanda",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12188 V 27500 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "La Nouvelle Chaîne Ivorienne 📺",
+            "sat": "SES 5 5.0°e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.nci.ci/",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "M6 France 4K UHD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -908,6 +1264,14 @@
             "channel": "M6 Suisse HD",
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "Mafken TV Zambia",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3852 R 14167 - 3/4",
             "encry": "FTA",
             "link": "",
             "related_to": " France vs Morocco "
@@ -945,6 +1309,22 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "NBC 2 Namibia",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "NOW Sports HK 4K 616",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -977,6 +1357,30 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://tvthek.orf.at/live",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "ORF 4K UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "Peacock Premium USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -990,6 +1394,22 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "PTV Sports",
+            "sat": "Paksat 1R 38.0°e",
+            "freq": "3870 H 13333 - 3/4",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
             "related_to": " France vs Morocco "
         },
         {
@@ -1017,10 +1437,26 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11411 H 27500 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "RTi La 3 Côte d’Ivoire",
+            "sat": "SES 5 5.0°e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " France vs Morocco "
         },
@@ -1030,6 +1466,14 @@
             "freq": "11914 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": " France vs Morocco "
         },
         {
@@ -1057,10 +1501,34 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "Rwanda TV HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12207 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "SABC 3 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 V 28750 - 1/2",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "Setanta Sports 1 Georgia HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
             "link": "",
             "related_to": " France vs Morocco "
         },
@@ -1089,6 +1557,30 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "STV Player📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1101,6 +1593,14 @@
             "sat": "Astra 2E 28.2°e",
             "freq": "11386 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "Sun Sports TV Zambia",
+            "sat": "SES 5 5.0°e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " France vs Morocco "
         },
@@ -1137,10 +1637,26 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "TBC 1 Tanzania",
+            "sat": "Intelsat 22 72.1°e",
+            "freq": "4120 L 9583 - 3/4",
+            "encry": "MPEG-4 Crypto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "Telemundo USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11052 V 05962 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " France vs Morocco "
         },
@@ -1193,10 +1709,34 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "Turkmenistan Sport HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "12303 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://turkmentv.gov.tm/page/6",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "TV Klan HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10804 H 29950 - 2/3",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "TV Malagasy Madagascar",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 2/3",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "TV Miramar Mozambique",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "12245 H 27500 3/4",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " France vs Morocco "
         },
@@ -1233,6 +1773,46 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "TVCG 1 HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "TVi Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "TVM 1 Mozambique",
+            "sat": "Intelsat 906 64.0°e",
+            "freq": "3654 R 05632 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "TVP 1 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11449 H 27500 - 3/4",
@@ -1249,6 +1829,22 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "Télé Sahel Niger",
+            "sat": "Badr 8 26.0°e",
+            "freq": "4099 L 20000 - 2/3",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0°e",
+            "freq": "3778 R 5720 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "UTV Northern Ireland HD",
             "sat": "Astra 2E 28.2°e",
             "freq": "11386 V 27500 - 3/4",
@@ -1261,6 +1857,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "12188 H 29900 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "We Sport Moldova",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " France vs Morocco "
         },
@@ -1285,6 +1889,22 @@
             "sat": "Eutelsat 36D 35.9°e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "ZBC Zimbabwe HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11474 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " France vs Morocco "
         }
