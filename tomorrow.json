@@ -1,6 +1,50 @@
 {
     "footonsat": [
         {
+            "compet": "Friendly Club Match",
+            "match": " FC Kharkiv vs Wolfsberger AC ",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "austria"
+            },
+            "time": "08:30",
+            "date": "2026-07-10"
+        },
+        {
+            "channel": "UPL TV Ukraine📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://upl.ua/en/upltv",
+            "related_to": " FC Kharkiv vs Wolfsberger AC "
+        },
+        {
+            "compet": "Belarus Premier League - Week 15",
+            "match": " Dnepr Mogilev vs FC Minsk ",
+            "flags": {
+                "team1": "belarus",
+                "team2": "belarus"
+            },
+            "time": "15:30",
+            "date": "2026-07-10"
+        },
+        {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Dnepr Mogilev vs FC Minsk "
+        },
+        {
+            "channel": "Belarus 5 Internet",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dnepr Mogilev vs FC Minsk "
+        },
+        {
             "compet": "UEFA Womens U-19 Championship - FINAL",
             "match": " Germany U-19 vs Spain U-19 ",
             "flags": {
@@ -27,11 +71,27 @@
             "related_to": " Germany U-19 vs Spain U-19 "
         },
         {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Germany U-19 vs Spain U-19 "
+        },
+        {
             "channel": "M4 Sport Hungary HD 📺",
             "sat": "Astra 3B 23.5°e",
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Germany U-19 vs Spain U-19 "
+        },
+        {
+            "channel": "Megogo Futbol 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": " Germany U-19 vs Spain U-19 "
         },
         {
@@ -57,6 +117,24 @@
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Germany U-19 vs Spain U-19 "
+        },
+        {
+            "compet": "Finnish Veikkausliiga - Week 15",
+            "match": " VPS Vaasa vs SJK Seinäjoki ",
+            "flags": {
+                "team1": "finland",
+                "team2": "finland"
+            },
+            "time": "16:00",
+            "date": "2026-07-10"
+        },
+        {
+            "channel": "Ruutu+ Suomi📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.ruutu.fi/urheilu",
+            "related_to": " VPS Vaasa vs SJK Seinäjoki "
         },
         {
             "compet": "Friendly Club Match",
