@@ -289,14 +289,6 @@
             "related_to": " Marsaxlokk vs Pyunik "
         },
         {
-            "channel": "TVM Sport+ HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Marsaxlokk vs Pyunik "
-        },
-        {
             "channel": "TVM+ Malta HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -387,14 +379,6 @@
             "sat": "Belintersat 1 51.5°e",
             "freq": "11290 H 45000 - 8/9",
             "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Sheriff Tiraspol vs Aluminij "
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Sheriff Tiraspol vs Aluminij "
         },
@@ -529,6 +513,14 @@
             },
             "time": "18:00",
             "date": "2026-07-09"
+        },
+        {
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Vllaznia Shkodër vs Malisheva "
         },
         {
             "channel": "RTSH Sport Albania 📺",
@@ -686,6 +678,32 @@
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+            "match": " NSI Runavik vs Hamrun Spartans ",
+            "flags": {
+                "team1": "faroeislands",
+                "team2": "malta"
+            },
+            "time": "18:45",
+            "date": "2026-07-09"
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " NSI Runavik vs Hamrun Spartans "
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " NSI Runavik vs Hamrun Spartans "
+        },
+        {
+            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
             "match": " Pen-Y-Bont vs FC Santa Coloma ",
             "flags": {
                 "team1": "wales",
@@ -735,24 +753,6 @@
             "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Petrovac vs Zalgiris "
-        },
-        {
-            "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-            "match": " NSI Runavik vs Hamrun Spartans ",
-            "flags": {
-                "team1": "faroeislands",
-                "team2": "malta"
-            },
-            "time": "18:45",
-            "date": "2026-07-09"
-        },
-        {
-            "channel": "Solidsport Broadcast📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
-            "related_to": " NSI Runavik vs Hamrun Spartans "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
@@ -1601,6 +1601,14 @@
             "related_to": " France vs Morocco "
         },
         {
+            "channel": "RTB Zénith",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3729 L 16833 - 5/6",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
             "channel": "RTBF Tipik Belgique",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11411 H 27500 - 5/6",
@@ -2089,14 +2097,6 @@
             "related_to": " France vs Morocco "
         },
         {
-            "channel": "TVM Sport+ HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " France vs Morocco "
-        },
-        {
             "channel": "TVM+ Malta HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2221,6 +2221,14 @@
             "sat": "Intelsat 20 68.5°e",
             "freq": "11130 H 30000 - 5/6",
             "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Morocco "
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "",
             "related_to": " France vs Morocco "
         }
