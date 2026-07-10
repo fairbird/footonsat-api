@@ -237,6 +237,24 @@
             "related_to": " Shanghai Shenhua vs Beijing Guoan "
         },
         {
+            "compet": "Norwegian Eliteserien - Week 13",
+            "match": " Fredrikstad vs Lillestrøm ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "12:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Fredrikstad vs Lillestrøm "
+        },
+        {
             "compet": "Finnish Veikkausliiga - Week 15",
             "match": " FC Lahti vs HJK Helsinki ",
             "flags": {
@@ -245,6 +263,14 @@
             },
             "time": "12:00",
             "date": "2026-07-11"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " FC Lahti vs HJK Helsinki "
         },
         {
             "channel": "Ruutu+ Suomi📺",
@@ -271,6 +297,24 @@
             "encry": "",
             "link": "https://nifltv.co.uk/en",
             "related_to": " Moyola Park vs Ballymena United "
+        },
+        {
+            "compet": "Kazakhstan Premier League - Week 17",
+            "match": " Zhetysu vs Altai FC ",
+            "flags": {
+                "team1": "kazstan",
+                "team2": "kazstan"
+            },
+            "time": "13:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Zhetysu vs Altai FC "
         },
         {
             "compet": "Belarus Premier League - Week 15",
@@ -370,6 +414,102 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": " Babelsberg vs St Pauli ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "13:30",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "YouTube: St Pauli 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@fcstpauli",
+            "related_to": " Babelsberg vs St Pauli "
+        },
+        {
+            "compet": "Norwegian Eliteserien - Week 13",
+            "match": " Aalesund vs Molde ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "14:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Aalesund vs Molde "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Aalesund vs Molde "
+        },
+        {
+            "compet": "Finnish Veikkausliiga - Week 15",
+            "match": " TPS Turku vs AC Oulu ",
+            "flags": {
+                "team1": "finland",
+                "team2": "finland"
+            },
+            "time": "14:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " TPS Turku vs AC Oulu "
+        },
+        {
+            "channel": "Ruutu+ Suomi📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.ruutu.fi/urheilu",
+            "related_to": " TPS Turku vs AC Oulu "
+        },
+        {
+            "compet": "Finnish Veikkausliiga - Week 15",
+            "match": " Gnistan vs IFK Mariehamn ",
+            "flags": {
+                "team1": "finland",
+                "team2": "finland"
+            },
+            "time": "14:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Gnistan vs IFK Mariehamn "
+        },
+        {
+            "channel": "Ruutu+ Suomi📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.ruutu.fi/urheilu",
+            "related_to": " Gnistan vs IFK Mariehamn "
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": " York City vs Burnley ",
             "flags": {
                 "team1": "england",
@@ -385,42 +525,6 @@
             "encry": "",
             "link": "https://www.247.tv/live/football",
             "related_to": " York City vs Burnley "
-        },
-        {
-            "compet": "Finnish Veikkausliiga - Week 15",
-            "match": " Gnistan vs IFK Mariehamn ",
-            "flags": {
-                "team1": "finland",
-                "team2": "finland"
-            },
-            "time": "14:00",
-            "date": "2026-07-11"
-        },
-        {
-            "channel": "Ruutu+ Suomi📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.ruutu.fi/urheilu",
-            "related_to": " Gnistan vs IFK Mariehamn "
-        },
-        {
-            "compet": "Finnish Veikkausliiga - Week 15",
-            "match": " TPS Turku vs AC Oulu ",
-            "flags": {
-                "team1": "finland",
-                "team2": "finland"
-            },
-            "time": "14:00",
-            "date": "2026-07-11"
-        },
-        {
-            "channel": "Ruutu+ Suomi📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.ruutu.fi/urheilu",
-            "related_to": " TPS Turku vs AC Oulu "
         },
         {
             "compet": "Scottish League Cup - Round 1",
@@ -635,6 +739,24 @@
             "related_to": " East Kilbride vs Dunfermline Athletic "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Sturm Graz vs Sanfrecce Hiroshima ",
+            "flags": {
+                "team1": "austria",
+                "team2": "japan"
+            },
+            "time": "15:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "YouTube: SKSturmTV 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.youtube.com/@SKSturmTV",
+            "related_to": " Sturm Graz vs Sanfrecce Hiroshima "
+        },
+        {
             "compet": "Russian Womens Supreme Division - Week 13",
             "match": " CSKA Moscow vs Spartak Moscow ",
             "flags": {
@@ -763,6 +885,32 @@
             "encry": "",
             "link": "",
             "related_to": " Dynamo Brest vs Slavia Mozyr "
+        },
+        {
+            "compet": "Norwegian Eliteserien - Week 13",
+            "match": " Tromsø vs Vålerenga ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "16:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Tromsø vs Vålerenga "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Tromsø vs Vålerenga "
         },
         {
             "compet": "Irish Premier Division - Week 24",
@@ -1345,6 +1493,22 @@
             "related_to": " Norway vs England "
         },
         {
+            "channel": "ETV Estonia",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
+            "channel": "ETV+ Estonia",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
             "channel": "Fast Sports📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1717,6 +1881,22 @@
             "sat": "Paksat 1R 38.0°e",
             "freq": "3870 H 13333 - 3/4",
             "encry": "FTA",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Norway vs England "
         },
@@ -2129,6 +2309,22 @@
             "related_to": " Norway vs England "
         },
         {
+            "channel": "TV3 Ghana",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12522 V 27000 - 7/8",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
             "channel": "TV4 Play Sverige📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2141,6 +2337,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "10934 H 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
+            "channel": "TV6 Latvija",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11785 V 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Norway vs England "
         },
@@ -2237,6 +2441,14 @@
             "sat": "Eutelsat 36D 35.9°e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "",
             "related_to": " Norway vs England "
         },
