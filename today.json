@@ -473,32 +473,6 @@
             "related_to": " Babelsberg vs St Pauli "
         },
         {
-            "compet": "Norwegian Eliteserien - Week 13",
-            "match": " Aalesund vs Molde ",
-            "flags": {
-                "team1": "norway",
-                "team2": "norway"
-            },
-            "time": "14:00",
-            "date": "2026-07-11"
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Aalesund vs Molde "
-        },
-        {
-            "channel": "TV2 Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11385 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Aalesund vs Molde "
-        },
-        {
             "compet": "Scottish League Cup - Round 1",
             "match": " Greenock Morton vs Linlithgow Rose ",
             "flags": {
@@ -533,6 +507,32 @@
             "encry": "LiveOnSat.com",
             "link": "https://tv.ptfc.co.uk/",
             "related_to": " Partick Thistle vs Brechin City "
+        },
+        {
+            "compet": "Norwegian Eliteserien - Week 13",
+            "match": " Aalesund vs Molde ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "14:00",
+            "date": "2026-07-11"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Aalesund vs Molde "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Aalesund vs Molde "
         },
         {
             "compet": "Friendly Club Match",
@@ -1765,6 +1765,14 @@
             "related_to": " Norway vs England "
         },
         {
+            "channel": "Filinfo TV Burkina Faso",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3729 L 16833 - 3/5",
+            "encry": "BISS [c]",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
             "channel": "Fox Sports USA 4K",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2129,6 +2137,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10804 H 30000 - 2/3",
             "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Norway vs England "
+        },
+        {
+            "channel": "ORTM 2 Mali",
+            "sat": "Intelsat 37e 18.0°w",
+            "freq": "4129 L 02060 - 3/4",
+            "encry": "FTA",
             "link": "",
             "related_to": " Norway vs England "
         },
