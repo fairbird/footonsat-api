@@ -11,9 +11,9 @@
             "date": "2026-07-14"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "channel": "Rtv San Marino DTT",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " La Fiorita vs UNA Strassen "
@@ -47,30 +47,12 @@
             "date": "2026-07-15"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Decic Tuzi vs FK Liepaja "
-        },
-        {
-            "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
-            "match": " Yelimay Semey vs Alashkert ",
-            "flags": {
-                "team1": "kazstan",
-                "team2": "armenia"
-            },
-            "time": "15:00",
-            "date": "2026-07-16"
-        },
-        {
-            "channel": "Qazaqstan TV HD",
-            "sat": "KazSat 2 86.5°e",
-            "freq": "11495 V 09000 - 8/9",
+            "channel": "TVCG 3",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10972 V 27500 - 3/5",
             "encry": "MPEG-4 NDS",
             "link": "",
-            "related_to": " Yelimay Semey vs Alashkert "
+            "related_to": " Decic Tuzi vs FK Liepaja "
         },
         {
             "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
@@ -121,6 +103,14 @@
             "sat": "Belintersat 1 51.5°e",
             "freq": "11290 H 45000 - 8/9",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Astana vs Dinamo City "
+        },
+        {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Astana vs Dinamo City "
         },
@@ -285,6 +275,14 @@
             "related_to": " Zalgiris vs Petrovac "
         },
         {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Zalgiris vs Petrovac "
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-3]",
             "match": " Víkingur Gøta vs Stjarnan ",
             "flags": {
@@ -313,11 +311,11 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "- - -",
+            "channel": "Moldova 2 HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "",
+            "link": "https://moldova1.md/moldova2/live",
             "related_to": " Milsami Orhei vs Velez Mostar "
         },
         {
@@ -421,11 +419,11 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "Arena Sport 1 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11290 H 45000 - 8/9",
-            "encry": "HD Irdeto",
-            "link": "",
+            "channel": "MRT 2 North Macedonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "http://play.mrt.com.mk/live/46",
             "related_to": " Shkëndija vs Europa "
         },
         {
@@ -457,10 +455,10 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "TVCG 3",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10972 V 27500 - 3/5",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Mornar vs Atletic Escaldes "
         },
