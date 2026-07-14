@@ -424,7 +424,7 @@
         },
         {
             "compet": "Scottish League Cup - Round 2",
-            "match": " Kilmarnock vs Raith Rovers ",
+            "match": " Dunfermline Athletic vs Dumbarton ",
             "flags": {
                 "team1": "scotland",
                 "team2": "scotland"
@@ -433,20 +433,12 @@
             "date": "2026-07-14"
         },
         {
-            "channel": "Kilmarnock TV📺",
+            "channel": "DAFC Live📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
-            "link": "https://tv.kilmarnockfc.co.uk/",
-            "related_to": " Kilmarnock vs Raith Rovers "
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Kilmarnock vs Raith Rovers "
+            "link": "https://www.dafc.co.uk/videos",
+            "related_to": " Dunfermline Athletic vs Dumbarton "
         },
         {
             "compet": "Scottish League Cup - Round 2",
@@ -473,6 +465,32 @@
             "encry": "",
             "link": "https://dtvlive.airdriefc.com/",
             "related_to": " Clyde vs Airdrieonians "
+        },
+        {
+            "compet": "Scottish League Cup - Round 2",
+            "match": " Kilmarnock vs Raith Rovers ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "18:45",
+            "date": "2026-07-14"
+        },
+        {
+            "channel": "Kilmarnock TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.kilmarnockfc.co.uk/",
+            "related_to": " Kilmarnock vs Raith Rovers "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Kilmarnock vs Raith Rovers "
         },
         {
             "compet": "Scottish League Cup - Round 2",
@@ -863,6 +881,14 @@
             "related_to": " France vs Spain "
         },
         {
+            "channel": "CTV Canada HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " France vs Spain "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -907,6 +933,14 @@
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12242 H 13381 - 3/4",
             "encry": "HD BISS",
+            "link": "",
+            "related_to": " France vs Spain "
+        },
+        {
+            "channel": "Eswatini TV",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " France vs Spain "
         },
@@ -1019,6 +1053,22 @@
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11095 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "",
+            "related_to": " France vs Spain "
+        },
+        {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0°e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "",
+            "related_to": " France vs Spain "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
             "link": "",
             "related_to": " France vs Spain "
         },
@@ -1148,6 +1198,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": " France vs Spain "
+        },
+        {
+            "channel": "Media Sports Infos",
+            "sat": "Rascom QAF 1R 2.8°e",
+            "freq": "4071 R 2083 - 3/4",
+            "encry": "MPEG-4 Seca",
+            "link": "",
             "related_to": " France vs Spain "
         },
         {
@@ -1623,6 +1681,14 @@
             "related_to": " France vs Spain "
         },
         {
+            "channel": "Telemundo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " France vs Spain "
+        },
+        {
             "channel": "TPA 2 Angola",
             "sat": "Belintersat 1 51.5°e",
             "freq": "11052 V 05962 - 3/4",
@@ -1831,6 +1897,14 @@
             "related_to": " France vs Spain "
         },
         {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0°e",
+            "freq": "3778 R 5720 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " France vs Spain "
+        },
+        {
             "channel": "UTV Northern Ireland HD",
             "sat": "Astra 2E 28.2°e",
             "freq": "11386 V 27500 - 3/4",
@@ -1875,6 +1949,14 @@
             "sat": "Eutelsat 36D 35.9°e",
             "freq": "11263 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " France vs Spain "
+        },
+        {
+            "channel": "Zap Viva Internacional HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "12734 V 4000",
+            "encry": "FTA",
             "link": "",
             "related_to": " France vs Spain "
         },
