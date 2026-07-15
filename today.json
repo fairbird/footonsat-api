@@ -1,6 +1,24 @@
 {
     "footonsat": [
         {
+            "compet": "Friendly Club Match",
+            "match": " Salzburg vs Gamba Osaka ",
+            "flags": {
+                "team1": "austria",
+                "team2": "japan"
+            },
+            "time": "13:00",
+            "date": "2026-07-15"
+        },
+        {
+            "channel": "YouTube: RB Salzburg 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@fcrbs/streams",
+            "related_to": " Salzburg vs Gamba Osaka "
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-2]",
             "match": " Malisheva vs Vllaznia Shkodër ",
             "flags": {
@@ -17,6 +35,24 @@
             "encry": "MPEG-4 Conax",
             "link": "https://www.rtklive.com/sq/livestream/rtk1/",
             "related_to": " Malisheva vs Vllaznia Shkodër "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Ajax vs Bochum ",
+            "flags": {
+                "team1": "holland",
+                "team2": "germany"
+            },
+            "time": "15:00",
+            "date": "2026-07-15"
+        },
+        {
+            "channel": "YouTube: Ajax TV 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@AFCAjax/streams",
+            "related_to": " Ajax vs Bochum "
         },
         {
             "compet": "Kazakhstan Cup - Semi Final (1st Leg)",
@@ -71,6 +107,24 @@
             "encry": "HD BISS",
             "link": "https://www.skai.gr/tv/live",
             "related_to": " Rapid Vienna vs Panathinaikos "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Salzburg vs Istanbul Basaksehir ",
+            "flags": {
+                "team1": "austria",
+                "team2": "turkey"
+            },
+            "time": "16:30",
+            "date": "2026-07-15"
+        },
+        {
+            "channel": "YouTube: RB Salzburg 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@fcrbs/streams",
+            "related_to": " Salzburg vs Istanbul Basaksehir "
         },
         {
             "compet": "Friendly Club Match",
@@ -671,6 +725,14 @@
             "related_to": " England vs Argentina "
         },
         {
+            "channel": "IRIB 4K UHD",
+            "sat": "Express AM7 40.0°e",
+            "freq": "11637 H 30000 - 3/4",
+            "encry": "Free To Air UHD",
+            "link": "",
+            "related_to": " England vs Argentina "
+        },
+        {
             "channel": "IRIB TV3 HD",
             "sat": "Intelsat 39 62.0°e",
             "freq": "11555 V 30000 - 3/4",
@@ -923,6 +985,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " England vs Argentina "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " England vs Argentina "
         },
@@ -1625,6 +1695,14 @@
             "date": "2026-07-15"
         },
         {
+            "channel": "Qazaqstan TV HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Sutjeska vs Kairat Almaty "
+        },
+        {
             "channel": "TVCG 2 HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11817 V 30000 - 3/4",
@@ -1648,6 +1726,14 @@
             "freq": "0000 0",
             "encry": "FTA",
             "link": "https://moldova1.md/live",
+            "related_to": " Egnatia vs Petrocub "
+        },
+        {
+            "channel": "RTSH Sport Albania 📺",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10930 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
             "related_to": " Egnatia vs Petrocub "
         },
         {
