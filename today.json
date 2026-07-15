@@ -37,6 +37,14 @@
             "related_to": " Malisheva vs Vllaznia Shkodër "
         },
         {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Malisheva vs Vllaznia Shkodër "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Ajax vs Bochum ",
             "flags": {
@@ -432,6 +440,22 @@
             "channel": "beIN Sports MENA Max 1 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Argentina "
+        },
+        {
+            "channel": "beIN Sports MENA Max 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Argentina "
+        },
+        {
+            "channel": "beIN Sports MENA Max 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " England vs Argentina "
@@ -989,6 +1013,14 @@
             "related_to": " England vs Argentina "
         },
         {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " England vs Argentina "
+        },
+        {
             "channel": "ORTM 1 Mali",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "12604 H 30000 - 2/3",
@@ -1373,11 +1405,11 @@
             "related_to": " England vs Argentina "
         },
         {
-            "channel": "TRT 1 Türkiye HD 📺",
+            "channel": "TRT Spor Türkiye HD 📺",
             "sat": "Turksat 3A 42.0°e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " England vs Argentina "
         },
         {
@@ -1565,6 +1597,22 @@
             "related_to": " England vs Argentina "
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " England vs Argentina "
+        },
+        {
+            "channel": "TVM+ Malta HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " England vs Argentina "
+        },
+        {
             "channel": "TVP 1 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11449 H 27500 - 3/4",
@@ -1685,6 +1733,40 @@
             "related_to": " England vs Argentina "
         },
         {
+            "compet": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-1]",
+            "match": " Egnatia vs Petrocub ",
+            "flags": {
+                "team1": "albania",
+                "team2": "moldova"
+            },
+            "time": "19:00",
+            "date": "2026-07-15"
+        },
+        {
+            "channel": "Moldova 1 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://moldova1.md/live",
+            "related_to": " Egnatia vs Petrocub "
+        },
+        {
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Egnatia vs Petrocub "
+        },
+        {
+            "channel": "RTSH Sport Albania 📺",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10930 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
+            "related_to": " Egnatia vs Petrocub "
+        },
+        {
             "compet": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-2]",
             "match": " Sutjeska vs Kairat Almaty ",
             "flags": {
@@ -1709,32 +1791,6 @@
             "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Sutjeska vs Kairat Almaty "
-        },
-        {
-            "compet": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-1]",
-            "match": " Egnatia vs Petrocub ",
-            "flags": {
-                "team1": "albania",
-                "team2": "moldova"
-            },
-            "time": "19:00",
-            "date": "2026-07-15"
-        },
-        {
-            "channel": "Moldova 1 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://moldova1.md/live",
-            "related_to": " Egnatia vs Petrocub "
-        },
-        {
-            "channel": "RTSH Sport Albania 📺",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10930 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax",
-            "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
-            "related_to": " Egnatia vs Petrocub "
         },
         {
             "compet": "Icelandic Womens Úrvalsdeild - Week 12",
