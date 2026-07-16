@@ -385,6 +385,14 @@
             "date": "2026-07-17"
         },
         {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Red Star Belgrade vs Macva Sabac "
+        },
+        {
             "channel": "Arena Premium 1 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
@@ -916,32 +924,6 @@
         },
         {
             "compet": "Brazilian Série A - Week 19",
-            "match": " Mirassol vs Grêmio ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "23:00",
-            "date": "2026-07-17"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Mirassol vs Grêmio "
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Mirassol vs Grêmio "
-        },
-        {
-            "compet": "Brazilian Série A - Week 19",
             "match": " Fluminense vs Bragantino ",
             "flags": {
                 "team1": "brazil",
@@ -949,6 +931,14 @@
             },
             "time": "23:00",
             "date": "2026-07-17"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Fluminense vs Bragantino "
         },
         {
             "channel": "Arena Premium 1 BiH HD",
@@ -989,6 +979,32 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Fluminense vs Bragantino "
+        },
+        {
+            "compet": "Brazilian Série A - Week 19",
+            "match": " Mirassol vs Grêmio ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "23:00",
+            "date": "2026-07-17"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mirassol vs Grêmio "
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Mirassol vs Grêmio "
         }
     ]
 }

@@ -113,6 +113,14 @@
             "date": "2026-07-16"
         },
         {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Ferencváros vs Vojvodina "
+        },
+        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -147,19 +155,19 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "DvojkaHD 📺",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12363 V 29500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "https://www.stvr.sk/televizia/live-2",
-            "related_to": " MSK Zilina vs Hajduk Split "
-        },
-        {
             "channel": "Hajduk TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.hajduk.hr/",
+            "related_to": " MSK Zilina vs Hajduk Split "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
             "related_to": " MSK Zilina vs Hajduk Split "
         },
         {
@@ -171,6 +179,14 @@
             },
             "time": "20:00",
             "date": "2026-07-16"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Vestri vs Qarabagh "
         },
         {
             "channel": "SÝN Sport Island 1 HD",

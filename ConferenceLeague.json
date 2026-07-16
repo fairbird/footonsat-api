@@ -1,58 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-2]",
-            "match": " Malisheva vs Vllaznia Shkodër ",
-            "flags": {
-                "team1": "kosova",
-                "team2": "albania"
-            },
-            "time": "14:30",
-            "date": "2026-07-15"
-        },
-        {
-            "channel": "RTK 1 Kosovo HD 📺",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10938 H 15835 - 2/3",
-            "encry": "MPEG-4 Conax",
-            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
-            "related_to": " Malisheva vs Vllaznia Shkodër "
-        },
-        {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Malisheva vs Vllaznia Shkodër "
-        },
-        {
-            "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-1]",
-            "match": " Decic Tuzi vs FK Liepaja ",
-            "flags": {
-                "team1": "montenegro",
-                "team2": "latvia"
-            },
-            "time": "18:30",
-            "date": "2026-07-15"
-        },
-        {
-            "channel": "Solidsport Broadcast📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
-            "related_to": " Decic Tuzi vs FK Liepaja "
-        },
-        {
-            "channel": "TVCG 3",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10972 V 27500 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Decic Tuzi vs FK Liepaja "
-        },
-        {
             "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
             "match": " Yelimay Semey vs Alashkert ",
             "flags": {
@@ -161,6 +109,14 @@
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "FTA",
+            "link": "",
+            "related_to": " Torpedo Kutaisi vs Zira "
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
             "link": "",
             "related_to": " Torpedo Kutaisi vs Zira "
         },
@@ -417,11 +373,43 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "- - -",
+            "channel": "BBC iPlayer📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " FC Santa Coloma vs Pen-Y-Bont "
+        },
+        {
+            "channel": "RTVA Andorra",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
+            "related_to": " FC Santa Coloma vs Pen-Y-Bont "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " FC Santa Coloma vs Pen-Y-Bont "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " FC Santa Coloma vs Pen-Y-Bont "
+        },
+        {
+            "channel": "YouTube: Sgorio 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
             "related_to": " FC Santa Coloma vs Pen-Y-Bont "
         },
         {
@@ -435,11 +423,11 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
+            "channel": "1TV Georgia HD 📺",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "HD BISS",
+            "link": "https://player.1tv.ge/1tv/",
             "related_to": " Dinamo Tbilisi vs Mondorf "
         },
         {
@@ -479,6 +467,14 @@
             "related_to": " Hamrun Spartans vs NSI Runavik "
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Hamrun Spartans vs NSI Runavik "
+        },
+        {
             "compet": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-0]",
             "match": " Sileks vs Dynamo Minsk ",
             "flags": {
@@ -489,10 +485,10 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Sileks vs Dynamo Minsk "
         },
@@ -508,9 +504,9 @@
         },
         {
             "channel": "MRT 2 North Macedonia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12441 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
             "link": "http://play.mrt.com.mk/live/46",
             "related_to": " Shkëndija vs Europa "
         },
@@ -619,9 +615,9 @@
             "date": "2026-07-16"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "channel": "Rtv San Marino DTT",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Virtus vs Dila Gori "
