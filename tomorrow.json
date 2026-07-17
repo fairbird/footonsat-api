@@ -1943,6 +1943,24 @@
             "related_to": " Dundee United vs Arbroath "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Olot vs Espanyol XI ",
+            "flags": {
+                "team1": "spain",
+                "team2": "catalonia"
+            },
+            "time": "18:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Esport 3 Catalunya 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "FTA",
+            "link": "https://www.3cat.cat/3cat/directes/esport3/",
+            "related_to": " Olot vs Espanyol XI "
+        },
+        {
             "compet": "National Womens Soccer League (NWSL) - Group Stage",
             "match": " Denver Summit vs Portland Thorns ",
             "flags": {
@@ -1983,24 +2001,6 @@
             "encry": "VideoGuard",
             "link": "",
             "related_to": " Denver Summit vs Portland Thorns "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Olot vs Espanyol XI ",
-            "flags": {
-                "team1": "spain",
-                "team2": "catalonia"
-            },
-            "time": "18:00",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "Esport 3 Catalunya 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "FTA",
-            "link": "https://www.3cat.cat/3cat/directes/esport3/",
-            "related_to": " Olot vs Espanyol XI "
         },
         {
             "compet": "Bulgarian First League - Week 1",
@@ -2635,6 +2635,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12266 H 29900 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " France vs England "
+        },
+        {
+            "channel": "KBC 1 Kenya",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 31420 - 3/4",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " France vs England "
         },
