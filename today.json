@@ -141,11 +141,11 @@
             "date": "2026-07-17"
         },
         {
-            "channel": "YouTube Channel",
+            "channel": "YouTube: FSV Mainz 05 📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@1FSVMainz05/streams",
             "related_to": " Mainz 05 vs Kaiserslautern "
         },
         {
@@ -376,6 +376,24 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": " Austria Vienna vs Paks ",
+            "flags": {
+                "team1": "austria",
+                "team2": "hungary"
+            },
+            "time": "18:00",
+            "date": "2026-07-17"
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11273 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": " Austria Vienna vs Paks "
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": " Motherwell vs Racing Genk ",
             "flags": {
                 "team1": "scotland",
@@ -443,6 +461,14 @@
             "related_to": " Red Star Belgrade vs Macva Sabac "
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Red Star Belgrade vs Macva Sabac "
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8°e",
             "freq": "11840 H 28800 - 2/3",
@@ -483,24 +509,6 @@
             "encry": "",
             "link": "",
             "related_to": " Zeleznicar vs Radnicki Nis "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Austria Vienna vs Paks ",
-            "flags": {
-                "team1": "austria",
-                "team2": "hungary"
-            },
-            "time": "18:00",
-            "date": "2026-07-17"
-        },
-        {
-            "channel": "ORF Sport+ Austria HD 📺",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11273 H 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "https://tvthek.orf.at/live",
-            "related_to": " Austria Vienna vs Paks "
         },
         {
             "compet": "Friendly Club Match",

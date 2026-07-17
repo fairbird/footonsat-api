@@ -581,6 +581,14 @@
             "related_to": " Basel vs Juventus "
         },
         {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Basel vs Juventus "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Ajax vs Olympiacos ",
             "flags": {
@@ -1271,6 +1279,56 @@
             "related_to": " Janesboro vs Sligo Rovers "
         },
         {
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": " NJ/NY Gotham vs Seattle Reign ",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "16:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": " NJ/NY Gotham vs Seattle Reign "
+        },
+        {
+            "channel": "NWSL+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " NJ/NY Gotham vs Seattle Reign "
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "",
+            "related_to": " NJ/NY Gotham vs Seattle Reign "
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11612 H 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " NJ/NY Gotham vs Seattle Reign "
+        },
+        {
+            "channel": "TSN Canada 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " NJ/NY Gotham vs Seattle Reign "
+        },
+        {
             "compet": "Bulgarian First League - Week 1",
             "match": " Septemvri Sofia vs Arda ",
             "flags": {
@@ -1321,48 +1379,6 @@
             "encry": "",
             "link": "",
             "related_to": " Radomlje vs Brinje Grosuplje "
-        },
-        {
-            "compet": "National Womens Soccer League (NWSL) - Group Stage",
-            "match": " NJ/NY Gotham vs Seattle Reign ",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "16:00",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "HBO Max📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": " NJ/NY Gotham vs Seattle Reign "
-        },
-        {
-            "channel": "NWSL+",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " NJ/NY Gotham vs Seattle Reign "
-        },
-        {
-            "channel": "TNT Sports 1 HD",
-            "sat": "NSS 12 57.0°e",
-            "freq": "3775 L 09583 - 2/3",
-            "encry": "Irdeto [c]",
-            "link": "",
-            "related_to": " NJ/NY Gotham vs Seattle Reign "
-        },
-        {
-            "channel": "TSN Canada 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " NJ/NY Gotham vs Seattle Reign "
         },
         {
             "compet": "Latvian Virsliga - Week 23",
@@ -1707,42 +1723,8 @@
             "sat": "Astra 1KR 19.2°e",
             "freq": "11273 H 22000 - 2/3",
             "encry": "HD VideoGuard",
-            "link": "https://tvthek.orf.at/live",
+            "link": "https://on.orf.at/live?channel=orfs",
             "related_to": " Rapid Vienna vs Hamburg "
-        },
-        {
-            "compet": "Serbian Super League - Week 1",
-            "match": " Novi Pazar vs Radnicki 1923 ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:00",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Novi Pazar vs Radnicki 1923 "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Novi Pazar vs Radnicki 1923 "
-        },
-        {
-            "channel": "Arena Sport 4 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Novi Pazar vs Radnicki 1923 "
         },
         {
             "compet": "Serbian Super League - Week 1",
@@ -1795,12 +1777,54 @@
             "related_to": " Zemun vs Partizan Belgrade "
         },
         {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zemun vs Partizan Belgrade "
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8°e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Zemun vs Partizan Belgrade "
+        },
+        {
+            "compet": "Serbian Super League - Week 1",
+            "match": " Novi Pazar vs Radnicki 1923 ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:00",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Novi Pazar vs Radnicki 1923 "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Novi Pazar vs Radnicki 1923 "
+        },
+        {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Novi Pazar vs Radnicki 1923 "
         },
         {
             "compet": "Scottish League Cup - Round 3",
@@ -1961,32 +1985,6 @@
             "related_to": " Denver Summit vs Portland Thorns "
         },
         {
-            "compet": "Slovenian Prva Liga - Week 1",
-            "match": " Olimpija vs Bravo ",
-            "flags": {
-                "team1": "slovenia",
-                "team2": "slovenia"
-            },
-            "time": "18:15",
-            "date": "2026-07-18"
-        },
-        {
-            "channel": "Sport TV1 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Olimpija vs Bravo "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Olimpija vs Bravo "
-        },
-        {
             "compet": "Bulgarian First League - Week 1",
             "match": " Ludogorets vs Lokomotiv Plovdiv ",
             "flags": {
@@ -2011,6 +2009,40 @@
             "encry": "",
             "link": "",
             "related_to": " Ludogorets vs Lokomotiv Plovdiv "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Ludogorets vs Lokomotiv Plovdiv "
+        },
+        {
+            "compet": "Slovenian Prva Liga - Week 1",
+            "match": " Olimpija vs Bravo ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "18:15",
+            "date": "2026-07-18"
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Olimpija vs Bravo "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Olimpija vs Bravo "
         },
         {
             "compet": "Romanian Superliga - Week 1",

@@ -45,6 +45,14 @@
             "date": "2026-07-21"
         },
         {
+            "channel": "Play RTS Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Thun vs Dinamo Zagreb "
+        },
+        {
             "channel": "RSI La 2 Svizzera HD 📺",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "10971 H 29700 - 2/3",
@@ -93,7 +101,7 @@
             "sat": "Astra 1P 19.2°e",
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD Viaccess",
-            "link": "https://tvthek.orf.at/live",
+            "link": "https://on.orf.at/live?channel=orf1",
             "related_to": " Sturm Graz vs Hearts "
         },
         {
@@ -137,6 +145,60 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Levski Sofia vs Universitatea Craiova "
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
+            "match": " Hearts vs Sturm Graz ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "austria"
+            },
+            "time": "18:45",
+            "date": "2026-07-28"
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Hearts vs Sturm Graz "
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
+            "match": " Lech Poznan vs AGF Aarhus ",
+            "flags": {
+                "team1": "poland",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-07-29"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Lech Poznan vs AGF Aarhus "
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg)",
+            "match": " Górnik Zabrze vs Fenerbahçe ",
+            "flags": {
+                "team1": "poland",
+                "team2": "turkey"
+            },
+            "time": "18:00",
+            "date": "2026-07-29"
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Górnik Zabrze vs Fenerbahçe "
         },
         {
             "compet": "UEFA Super Cup - FINAL",
