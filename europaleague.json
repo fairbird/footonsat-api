@@ -65,6 +65,22 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "JOJ Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://play.joj.sk/",
+            "related_to": " St Gallen vs Benfica "
+        },
+        {
+            "channel": "JOJ Šport SVK HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " St Gallen vs Benfica "
+        },
+        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
@@ -87,7 +103,7 @@
                 "team1": "denmark",
                 "team2": "turkey"
             },
-            "time": "08:00",
+            "time": "17:00",
             "date": "2026-07-30"
         },
         {
@@ -97,6 +113,24 @@
             "encry": "",
             "link": "",
             "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
+            "match": " Benfica vs St Gallen ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "switzerland"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "SIC Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Benfica vs St Gallen "
         },
         {
             "compet": "UEFA Super Cup - FINAL",

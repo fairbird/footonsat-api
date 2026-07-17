@@ -27,32 +27,6 @@
             "related_to": " St Louis City vs Sporting Kansas City "
         },
         {
-            "compet": "Major League Soccer (MLS) - Week",
-            "match": " Chicago Fire vs Vancouver Whitecaps ",
-            "flags": {
-                "team1": "usa",
-                "team2": "canada"
-            },
-            "time": "00:30",
-            "date": "2026-07-17"
-        },
-        {
-            "channel": "Apple TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.apple.com/",
-            "related_to": " Chicago Fire vs Vancouver Whitecaps "
-        },
-        {
-            "channel": "MLS Season Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chicago Fire vs Vancouver Whitecaps "
-        },
-        {
             "compet": "Argentinean Cup (Copa Argentina) - Round of 32",
             "match": " Sarmiento vs Boca Juniors ",
             "flags": {
@@ -650,24 +624,6 @@
         },
         {
             "compet": "Friendly Club Match",
-            "match": " Hearts vs Rayo Vallecano ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "spain"
-            },
-            "time": "18:45",
-            "date": "2026-07-17"
-        },
-        {
-            "channel": "Hearts TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://heartstv.heartsfc.co.uk/",
-            "related_to": " Hearts vs Rayo Vallecano "
-        },
-        {
-            "compet": "Friendly Club Match",
             "match": " Benfica vs Villarreal ",
             "flags": {
                 "team1": "portugal",
@@ -681,6 +637,14 @@
             "sat": "Eutelsat 36C 35.9°e",
             "freq": "11304 V 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Benfica vs Villarreal "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Benfica vs Villarreal "
         },
@@ -715,6 +679,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Benfica vs Villarreal "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Hearts vs Rayo Vallecano ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "spain"
+            },
+            "time": "18:45",
+            "date": "2026-07-17"
+        },
+        {
+            "channel": "Hearts TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://heartstv.heartsfc.co.uk/",
+            "related_to": " Hearts vs Rayo Vallecano "
         },
         {
             "compet": "Irish FAI Cup - Round of 32",
