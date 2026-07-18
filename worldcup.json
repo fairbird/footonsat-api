@@ -149,7 +149,7 @@
         {
             "channel": "beIN Sports MENA HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10845 V 27500 - 2/3",
+            "freq": "10850 V 27500 - 2/3",
             "encry": "FTA",
             "link": "",
             "related_to": " France vs England "
@@ -875,6 +875,14 @@
             "related_to": " France vs England "
         },
         {
+            "channel": "RTK 1 Kosovo HD 📺",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": " France vs England "
+        },
+        {
             "channel": "RTNB Burundi",
             "sat": "SES 5 5.0°e",
             "freq": "12380 H 27500 - 3/4",
@@ -1593,14 +1601,6 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "11310 H 27500 - 2/3",
             "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Spain vs Argentina "
-        },
-        {
-            "channel": "beIN Sports MENA HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10845 V 27500 - 2/3",
-            "encry": "FTA",
             "link": "",
             "related_to": " Spain vs Argentina "
         },
@@ -2565,11 +2565,11 @@
             "related_to": " Spain vs Argentina "
         },
         {
-            "channel": "Slovenija TV2 HD 📺",
+            "channel": "Slovenija TV1 HD 📺",
             "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11554 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "https://4d.rtvslo.si/zivo/tvs2",
+            "freq": "11637 V 30000 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "https://4d.rtvslo.si/zivo/tvs1",
             "related_to": " Spain vs Argentina "
         },
         {
