@@ -91,14 +91,6 @@
             "date": "2026-07-22"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bohemians vs Ballkani "
-        },
-        {
             "channel": "Bohemians FC Stream📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -231,14 +223,6 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " FK Liepaja vs Austria Vienna "
-        },
-        {
             "channel": "Solidsport Broadcast📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -293,14 +277,6 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Paide Linnameeskond vs Zira "
-        },
-        {
             "channel": "Soccernet TV Estonia 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -317,14 +293,6 @@
             },
             "time": "16:00",
             "date": "2026-07-23"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Flora Tallinn vs The New Saints "
         },
         {
             "channel": "Soccernet TV Estonia 📺",
@@ -475,14 +443,6 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Raków Czestochowa vs Valletta "
-        },
-        {
             "channel": "YouTube: Kanal Sportowy 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -533,14 +493,6 @@
             },
             "time": "17:00",
             "date": "2026-07-23"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Zimbru Chisinau vs Noah "
         },
         {
             "channel": "Moldova 2 HD 📺",
@@ -675,14 +627,6 @@
             },
             "time": "17:45",
             "date": "2026-07-23"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " FCSB vs Auda "
         },
         {
             "channel": "Pro TV Romania HD",
@@ -969,11 +913,11 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "- - -",
+            "channel": "LOI TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "",
+            "link": "https://www.loitv.ie/",
             "related_to": " Shelbourne vs Nõmme Kalju "
         },
         {
@@ -1011,14 +955,6 @@
             },
             "time": "18:45",
             "date": "2026-07-23"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " NSI Runavik vs Koper "
         },
         {
             "channel": "Solidsport Broadcast📺",
@@ -1073,6 +1009,14 @@
             },
             "time": "19:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "Ilves+ Football📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ilvesplus.com/en",
+            "related_to": " Stjarnan vs Ilves Tampere "
         },
         {
             "channel": "SÝN Sport Island 2 HD",
@@ -1216,6 +1160,24 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
+            "match": " Ilves Tampere vs Stjarnan ",
+            "flags": {
+                "team1": "finland",
+                "team2": "iceland"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Ilves+ Football📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ilvesplus.com/en",
+            "related_to": " Ilves Tampere vs Stjarnan "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
             "match": " Auda vs FCSB ",
             "flags": {
                 "team1": "latvia",
@@ -1267,6 +1229,24 @@
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/live-channels/6a5a2aea87b491a656de4d98-ks-tv-football-3",
             "related_to": " Ajax vs Vojvodina "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
+            "match": " Sion vs BATE Borisov ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "belarus"
+            },
+            "time": "18:15",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Play RTS Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Sion vs BATE Borisov "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
