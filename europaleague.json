@@ -29,6 +29,14 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Hammarby vs Anderlecht "
+        },
+        {
             "channel": "Sport Bladet Play📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -77,6 +85,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "11739 V 29900 - 3/4",
             "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Twente vs Ferencváros "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Twente vs Ferencváros "
         },
@@ -131,6 +147,32 @@
             "related_to": " St Gallen vs Benfica "
         },
         {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
+            "match": " Hajduk Split vs Pafos FC ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "cyprus"
+            },
+            "time": "19:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Hajduk Split vs Pafos FC "
+        },
+        {
+            "channel": "Hajduk TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.hajduk.hr/",
+            "related_to": " Hajduk Split vs Pafos FC "
+        },
+        {
             "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
             "match": " Midtjylland vs Besiktas ",
             "flags": {
@@ -147,6 +189,24 @@
             "encry": "",
             "link": "",
             "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
+            "match": " Hradec Králové vs Tromsø ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "norway"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Sport 1 Czechia HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12070 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Hradec Králové vs Tromsø "
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
