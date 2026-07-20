@@ -37,12 +37,64 @@
             "related_to": " Hammarby vs Anderlecht "
         },
         {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Hammarby vs Anderlecht "
+        },
+        {
+            "channel": "RTL Play Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtlplay.be/",
+            "related_to": " Hammarby vs Anderlecht "
+        },
+        {
             "channel": "Sport Bladet Play📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.sportbladetplay.se/schedule",
             "related_to": " Hammarby vs Anderlecht "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
+            "match": " Dynamo Kyiv vs PAOK Thessaloniki ",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "greece"
+            },
+            "time": "17:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "KS TV | Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
+            "related_to": " Dynamo Kyiv vs PAOK Thessaloniki "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
+            "match": " Tromsø vs Hradec Králové ",
+            "flags": {
+                "team1": "norway",
+                "team2": "czechia"
+            },
+            "time": "17:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Tromsø vs Hradec Králové "
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
@@ -86,6 +138,14 @@
             "freq": "11739 V 29900 - 3/4",
             "encry": "HD Mediaguard",
             "link": "",
+            "related_to": " Twente vs Ferencváros "
+        },
+        {
+            "channel": "KS TV | Futbol 3📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/6a5a2aea87b491a656de4d98-ks-tv-football-3",
             "related_to": " Twente vs Ferencváros "
         },
         {
@@ -173,6 +233,22 @@
             "related_to": " Hajduk Split vs Pafos FC "
         },
         {
+            "channel": "Cytavision Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Hajduk Split vs Pafos FC "
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Hajduk Split vs Pafos FC "
+        },
+        {
             "channel": "Hajduk TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -215,6 +291,24 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Hradec Králové vs Tromsø "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
+            "match": " PAOK Thessaloniki vs Dynamo Kyiv ",
+            "flags": {
+                "team1": "greece",
+                "team2": "ukraine"
+            },
+            "time": "17:45",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "KS TV | Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
+            "related_to": " PAOK Thessaloniki vs Dynamo Kyiv "
         },
         {
             "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg)",
