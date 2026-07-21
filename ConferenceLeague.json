@@ -390,32 +390,6 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": " Dunajská Streda vs Velez Mostar ",
-            "flags": {
-                "team1": "slovakia",
-                "team2": "bosnia"
-            },
-            "time": "16:30",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "MY TV BiH 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://mymedia.ba/",
-            "related_to": " Dunajská Streda vs Velez Mostar "
-        },
-        {
-            "channel": "STVR Šport Slovakia HD 📺",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12012 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "https://www.stvr.sk/televizia/sport",
-            "related_to": " Dunajská Streda vs Velez Mostar "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Rigas FS vs Vestri ",
             "flags": {
                 "team1": "latvia",
@@ -449,6 +423,32 @@
             "encry": "",
             "link": "https://www.youtube.com/@Kanal_Sportowy",
             "related_to": " Raków Czestochowa vs Valletta "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": " Dunajská Streda vs Velez Mostar ",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "bosnia"
+            },
+            "time": "16:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "MY TV BiH 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://mymedia.ba/",
+            "related_to": " Dunajská Streda vs Velez Mostar "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " Dunajská Streda vs Velez Mostar "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -729,6 +729,14 @@
             "related_to": " Paks vs Panathinaikos "
         },
         {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Paks vs Panathinaikos "
+        },
+        {
             "channel": "M4 Sport Hungary HD 📺",
             "sat": "Astra 3B 23.5°e",
             "freq": "11778 V 29900 - 2/3",
@@ -759,6 +767,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Aluminij vs Dinamo City "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Aluminij vs Dinamo City "
         },
@@ -824,24 +840,6 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": " Borac Banja Luka vs Petrocub ",
-            "flags": {
-                "team1": "bosnia",
-                "team2": "moldova"
-            },
-            "time": "18:30",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "RTRS TV",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Borac Banja Luka vs Petrocub "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " MSK Zilina vs GKS Katowice ",
             "flags": {
                 "team1": "slovakia",
@@ -865,6 +863,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " MSK Zilina vs GKS Katowice "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": " Borac Banja Luka vs Petrocub ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "moldova"
+            },
+            "time": "18:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "RTRS TV",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Borac Banja Luka vs Petrocub "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -1228,6 +1244,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.kyivstar.ua/en/live-channels/6a5a2aea87b491a656de4d98-ks-tv-football-3",
+            "related_to": " Ajax vs Vojvodina "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Ajax vs Vojvodina "
         },
         {
