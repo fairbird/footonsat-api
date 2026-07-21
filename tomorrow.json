@@ -291,6 +291,24 @@
             "related_to": " Bologna vs Heidenheim "
         },
         {
+            "compet": "Friendly Club Match (W)",
+            "match": " Mainz 05 vs Borussia Dortmund ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "15:00",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "YouTube: FSV Mainz 05 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@1FSVMainz05/streams",
+            "related_to": " Mainz 05 vs Borussia Dortmund "
+        },
+        {
             "compet": "Friendly Club Match - Hotspur Way, Enfield (Closed)",
             "match": " Tottenham Hotspur vs Milton Keynes Dons ",
             "flags": {
@@ -307,6 +325,24 @@
             "encry": "LiveOnSat.com",
             "link": "https://play.tottenhamhotspur.com/",
             "related_to": " Tottenham Hotspur vs Milton Keynes Dons "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Werder Bremen vs Fagiano Okayama ",
+            "flags": {
+                "team1": "germany",
+                "team2": "japan"
+            },
+            "time": "15:30",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "YouTube: Werder Bremen 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@WerderBremen/streams",
+            "related_to": " Werder Bremen vs Fagiano Okayama "
         },
         {
             "compet": "Friendly Club Match",
@@ -337,10 +373,10 @@
             "date": "2026-07-22"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
             "link": "",
             "related_to": " Neftchi vs Dynamo Minsk "
         },
@@ -377,6 +413,32 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Napoli vs Arezzo "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Las Palmas vs Orlando Pirates ",
+            "flags": {
+                "team1": "spain",
+                "team2": "southafrica"
+            },
+            "time": "17:00",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "SuperSport Variety 4 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Las Palmas vs Orlando Pirates "
+        },
+        {
+            "channel": "TV Canaria",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "",
+            "link": "",
+            "related_to": " Las Palmas vs Orlando Pirates "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -455,42 +517,6 @@
             "related_to": " Omonia Nicosia vs Kairat Almaty "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": " Las Palmas vs Orlando Pirates ",
-            "flags": {
-                "team1": "spain",
-                "team2": "southafrica"
-            },
-            "time": "17:00",
-            "date": "2026-07-22"
-        },
-        {
-            "channel": "TV Canaria",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - -",
-            "encry": "",
-            "link": "",
-            "related_to": " Las Palmas vs Orlando Pirates "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Fiorentina vs Gubbio ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "17:00",
-            "date": "2026-07-22"
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Fiorentina vs Gubbio "
-        },
-        {
             "compet": "Norwegian Eliteserien - Week 2",
             "match": " Bodø/Glimt vs HamKam ",
             "flags": {
@@ -518,6 +544,24 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": " Fiorentina vs Gubbio ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "17:00",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Fiorentina vs Gubbio "
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": " Cádiz vs Leicester City ",
             "flags": {
                 "team1": "spain",
@@ -527,11 +571,11 @@
             "date": "2026-07-22"
         },
         {
-            "channel": "Leicester City TV📺",
+            "channel": "Foxes HUB📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.lcfc.com/tv/live",
+            "link": "https://www.lcfc.com/foxeshub-live",
             "related_to": " Cádiz vs Leicester City "
         },
         {
@@ -631,10 +675,10 @@
             "date": "2026-07-22"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Vardar Skopje vs FC Riga "
         },
@@ -673,6 +717,42 @@
             "encry": "FTA",
             "link": "https://www.3cat.cat/3cat/directes/esport3/",
             "related_to": " Olot vs Girona XI "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Recreativo Huelva vs Real Betis ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "18:30",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "YouTube: Real Betis 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@RealBetis/streams",
+            "related_to": " Recreativo Huelva vs Real Betis "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Burton Albion vs Birmingham City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:30",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "Blues+ TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bcfc.com/pages/en/latest-videos",
+            "related_to": " Burton Albion vs Birmingham City "
         },
         {
             "compet": "Friendly Club Match",
@@ -809,6 +889,58 @@
             "related_to": " Queen of the South vs Aberdeen "
         },
         {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Queen of the South vs Aberdeen "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Rangers vs St Etienne ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "france"
+            },
+            "time": "18:45",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "Rangers TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.rangers.co.uk/",
+            "related_to": " Rangers vs St Etienne "
+        },
+        {
+            "compet": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
+            "match": " Egnatia vs Celje ",
+            "flags": {
+                "team1": "albania",
+                "team2": "slovenia"
+            },
+            "time": "19:00",
+            "date": "2026-07-22"
+        },
+        {
+            "channel": "Kanal A Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Egnatia vs Celje "
+        },
+        {
+            "channel": "Voyo Player Slovenija📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.si/sport",
+            "related_to": " Egnatia vs Celje "
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Zeleznicar vs Sporting Braga ",
             "flags": {
@@ -817,6 +949,14 @@
             },
             "time": "19:00",
             "date": "2026-07-22"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zeleznicar vs Sporting Braga "
         },
         {
             "channel": "Arena Premium 1 BiH HD",
@@ -879,6 +1019,14 @@
             },
             "time": "22:00",
             "date": "2026-07-22"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Independiente Medellín vs Vasco da Gama "
         },
         {
             "channel": "Arena Premium 1 BiH HD",
@@ -1009,6 +1157,14 @@
             },
             "time": "22:30",
             "date": "2026-07-22"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Coritiba vs Palmeiras "
         },
         {
             "channel": "Arena Premium 2 BiH HD",

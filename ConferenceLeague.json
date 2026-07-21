@@ -73,10 +73,10 @@
             "date": "2026-07-22"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
             "link": "",
             "related_to": " Neftchi vs Dynamo Minsk "
         },
@@ -135,10 +135,10 @@
             "date": "2026-07-22"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Vardar Skopje vs FC Riga "
         },
@@ -177,6 +177,14 @@
             },
             "time": "19:00",
             "date": "2026-07-22"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zeleznicar vs Sporting Braga "
         },
         {
             "channel": "Arena Premium 1 BiH HD",
@@ -275,6 +283,14 @@
             },
             "time": "16:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Paide Linnameeskond vs Zira "
         },
         {
             "channel": "Soccernet TV Estonia 📺",
@@ -417,6 +433,14 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Raków Czestochowa vs Valletta "
+        },
+        {
             "channel": "YouTube: Kanal Sportowy 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -493,6 +517,14 @@
             },
             "time": "17:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "Armenia First TV 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": " Zimbru Chisinau vs Noah "
         },
         {
             "channel": "Moldova 2 HD 📺",
@@ -695,6 +727,14 @@
             },
             "time": "18:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paks vs Panathinaikos "
         },
         {
             "channel": "Arena Premium 3 Srbija HD",
@@ -920,6 +960,24 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": " Motherwell vs HB Tórshavn ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "faroeislands"
+            },
+            "time": "18:45",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Motherwell vs HB Tórshavn "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Shelbourne vs Nõmme Kalju ",
             "flags": {
                 "team1": "ireland",
@@ -982,24 +1040,6 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": " Motherwell vs HB Tórshavn ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "faroeislands"
-            },
-            "time": "18:45",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Motherwell vs HB Tórshavn "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Bravo vs Shkëndija ",
             "flags": {
                 "team1": "slovenia",
@@ -1051,6 +1091,14 @@
             },
             "time": "19:00",
             "date": "2026-07-23"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Partizan Belgrade vs UNA Strassen "
         },
         {
             "channel": "Arena Premium 1 Srbija HD",
