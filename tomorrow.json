@@ -127,6 +127,14 @@
             "related_to": " Lanús vs Cienciano "
         },
         {
+            "channel": "beIN Connect USA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": " Lanús vs Cienciano "
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -227,10 +235,34 @@
             "related_to": " Sporting Cristal vs Bragantino "
         },
         {
+            "channel": "beIN Connect USA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": " Sporting Cristal vs Bragantino "
+        },
+        {
             "channel": "beIN Sports MENA English 2 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "11390 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sporting Cristal vs Bragantino "
+        },
+        {
+            "channel": "beIN Sports US Español",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sporting Cristal vs Bragantino "
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Sporting Cristal vs Bragantino "
         },
@@ -468,6 +500,40 @@
         },
         {
             "compet": "Major League Soccer (MLS) - Week",
+            "match": " Portland Timbers vs Dallas ",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "02:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Apple TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.apple.com/",
+            "related_to": " Portland Timbers vs Dallas "
+        },
+        {
+            "channel": "MLS Season Pass",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portland Timbers vs Dallas "
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Portland Timbers vs Dallas "
+        },
+        {
+            "compet": "Major League Soccer (MLS) - Week",
             "match": " San Jose Earthquakes vs Orlando City ",
             "flags": {
                 "team1": "usa",
@@ -601,32 +667,6 @@
             "related_to": " Los Angeles FC vs Real Salt Lake "
         },
         {
-            "compet": "Major League Soccer (MLS) - Week",
-            "match": " Portland Timbers vs Dallas ",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "02:30",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Apple TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.apple.com/",
-            "related_to": " Portland Timbers vs Dallas "
-        },
-        {
-            "channel": "MLS Season Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portland Timbers vs Dallas "
-        },
-        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Malisheva vs Hibernian ",
             "flags": {
@@ -663,6 +703,22 @@
             "related_to": " Alashkert vs CFR Cluj "
         },
         {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Alashkert vs CFR Cluj "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Alashkert vs CFR Cluj "
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " FK Liepaja vs Austria Vienna ",
             "flags": {
@@ -673,11 +729,11 @@
             "date": "2026-07-23"
         },
         {
-            "channel": "Joyn📺",
+            "channel": "Joyn AT📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 -",
             "encry": "",
-            "link": "https://www.joyn.de/sport",
+            "link": "https://www.joyn.at/sport",
             "related_to": " FK Liepaja vs Austria Vienna "
         },
         {
@@ -758,6 +814,72 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": " Flora Tallinn vs The New Saints ",
+            "flags": {
+                "team1": "estonia",
+                "team2": "wales"
+            },
+            "time": "16:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Flora Tallinn vs The New Saints "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Flora Tallinn vs The New Saints "
+        },
+        {
+            "channel": "BBC Sport Website📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": " Flora Tallinn vs The New Saints "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " Flora Tallinn vs The New Saints "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " Flora Tallinn vs The New Saints "
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://tv.soccernet.ee/",
+            "related_to": " Flora Tallinn vs The New Saints "
+        },
+        {
+            "channel": "YouTube: Sgorio 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
+            "related_to": " Flora Tallinn vs The New Saints "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Paide Linnameeskond vs Zira ",
             "flags": {
                 "team1": "estonia",
@@ -815,24 +937,6 @@
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": " HJK Helsinki vs Coleraine "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": " Flora Tallinn vs The New Saints ",
-            "flags": {
-                "team1": "estonia",
-                "team2": "wales"
-            },
-            "time": "16:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Soccernet TV Estonia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://tv.soccernet.ee/",
-            "related_to": " Flora Tallinn vs The New Saints "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -914,6 +1018,32 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": " RFS Riga vs Vestri ",
+            "flags": {
+                "team1": "latvia",
+                "team2": "iceland"
+            },
+            "time": "16:30",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "SÝN Sport Island 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " RFS Riga vs Vestri "
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " RFS Riga vs Vestri "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Raków Czestochowa vs Valletta ",
             "flags": {
                 "team1": "poland",
@@ -937,24 +1067,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@Kanal_Sportowy",
             "related_to": " Raków Czestochowa vs Valletta "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": " RFS Riga vs Vestri ",
-            "flags": {
-                "team1": "latvia",
-                "team2": "iceland"
-            },
-            "time": "16:30",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "TV4 Latvija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " RFS Riga vs Vestri "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
@@ -1382,6 +1494,40 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": " Aluminij vs Dinamo City ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "albania"
+            },
+            "time": "18:00",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Aluminij vs Dinamo City "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Aluminij vs Dinamo City "
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Aluminij vs Dinamo City "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Vojvodina vs Ajax ",
             "flags": {
                 "team1": "serbia",
@@ -1663,32 +1809,6 @@
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
             "related_to": " Polissya Zhytomyr vs FC Copenhagen "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": " Aluminij vs Dinamo City ",
-            "flags": {
-                "team1": "slovenia",
-                "team2": "albania"
-            },
-            "time": "18:00",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Aluminij vs Dinamo City "
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Aluminij vs Dinamo City "
         },
         {
             "compet": "Friendly Club Match",
@@ -2181,6 +2301,14 @@
             "related_to": " Bolívar vs Grêmio "
         },
         {
+            "channel": "beIN Connect USA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": " Bolívar vs Grêmio "
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2201,6 +2329,22 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bolívar vs Grêmio "
+        },
+        {
+            "channel": "beIN Sports US Español",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bolívar vs Grêmio "
+        },
+        {
+            "channel": "beIN Sports US HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Bolívar vs Grêmio "
         },
