@@ -11,6 +11,22 @@
             "date": "2026-07-22"
         },
         {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Neftchi vs Dynamo Minsk "
+        },
+        {
+            "channel": "Belarus 5 Internet",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Neftchi vs Dynamo Minsk "
+        },
+        {
             "channel": "CBC Sport HD",
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11095 H 30000 - 5/6",
@@ -248,6 +264,14 @@
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Alashkert vs CFR Cluj "
+        },
+        {
+            "channel": "Armenia First TV 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
             "related_to": " Alashkert vs CFR Cluj "
         },
         {
@@ -1010,24 +1034,6 @@
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
-            "match": " Motherwell vs HB Tórshavn ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "faroeislands"
-            },
-            "time": "18:45",
-            "date": "2026-07-23"
-        },
-        {
-            "channel": "Solidsport Broadcast📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
-            "related_to": " Motherwell vs HB Tórshavn "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " Shelbourne vs Nõmme Kalju ",
             "flags": {
                 "team1": "ireland",
@@ -1111,6 +1117,24 @@
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": " NSI Runavik vs Koper "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+            "match": " Motherwell vs HB Tórshavn ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "faroeislands"
+            },
+            "time": "18:45",
+            "date": "2026-07-23"
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Motherwell vs HB Tórshavn "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
