@@ -11,6 +11,14 @@
             "date": "2026-07-23"
         },
         {
+            "channel": "RTK 1 Kosovo HD 📺",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": " Malisheva vs Hibernian "
+        },
+        {
             "channel": "Solidsport Broadcast📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -254,6 +262,14 @@
             "freq": "11778 V 29900 - 2/3",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Debrecen vs Pyunik "
+        },
+        {
+            "channel": "Shant TV Armenia",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 19210 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "",
             "related_to": " Debrecen vs Pyunik "
         },
         {
@@ -687,6 +703,14 @@
             "related_to": " Paks vs Panathinaikos "
         },
         {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Paks vs Panathinaikos "
+        },
+        {
             "channel": "SKAI Hellas HD 📺",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12338 H 11568 - 2/3",
@@ -805,6 +829,14 @@
             "related_to": " Polissya Zhytomyr vs FC Copenhagen "
         },
         {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Polissya Zhytomyr vs FC Copenhagen "
+        },
+        {
             "compet": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
             "match": " MSK Zilina vs GKS Katowice ",
             "flags": {
@@ -906,6 +938,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://avs.be/live",
+            "related_to": " LNZ Cherkasy vs AA Gent "
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
             "related_to": " LNZ Cherkasy vs AA Gent "
         },
         {
@@ -1183,6 +1223,24 @@
             "encry": "",
             "link": "",
             "related_to": " Apollon Limassol vs Dila Gori "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-0]",
+            "match": " CSKA 1948 Sofia vs Spartak Trnava ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "slovakia"
+            },
+            "time": "17:30",
+            "date": "2026-07-28"
+        },
+        {
+            "channel": "bTV Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " CSKA 1948 Sofia vs Spartak Trnava "
         },
         {
             "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg)",
