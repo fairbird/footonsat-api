@@ -467,6 +467,22 @@
             "date": "2026-07-26"
         },
         {
+            "channel": "DAZN Japan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Tottenham Hotspur vs Auckland FC "
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Tottenham Hotspur vs Auckland FC "
+        },
+        {
             "channel": "Net4+ Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -475,11 +491,27 @@
             "related_to": " Tottenham Hotspur vs Auckland FC "
         },
         {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Tottenham Hotspur vs Auckland FC "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " Tottenham Hotspur vs Auckland FC "
+        },
+        {
+            "channel": "Sharjah Sports HD 📺",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
             "related_to": " Tottenham Hotspur vs Auckland FC "
         },
         {
@@ -504,6 +536,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://play.tottenhamhotspur.com/",
+            "related_to": " Tottenham Hotspur vs Auckland FC "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
             "related_to": " Tottenham Hotspur vs Auckland FC "
         },
         {
@@ -1489,6 +1529,22 @@
             "related_to": " Eintracht Frankfurt vs Trabzonspor "
         },
         {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Eintracht Frankfurt vs Trabzonspor "
+        },
+        {
+            "channel": "Sky Sport News Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Eintracht Frankfurt vs Trabzonspor "
+        },
+        {
             "channel": "Sport Bladet Play📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2195,32 +2251,6 @@
             "related_to": " Arsenal Dzyarzhynsk vs Neman Grodno "
         },
         {
-            "compet": "Polish 1. Liga - Week 1",
-            "match": " Unia Skierniewice vs Stal Mielec ",
-            "flags": {
-                "team1": "poland",
-                "team2": "poland"
-            },
-            "time": "15:00",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "Sport TVP📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "LiveOnSat.com",
-            "link": "https://sport.tvp.pl/pilka-nozna/betclic-1-liga",
-            "related_to": " Unia Skierniewice vs Stal Mielec "
-        },
-        {
-            "channel": "TVP Sport",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 -",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Unia Skierniewice vs Stal Mielec "
-        },
-        {
             "compet": "Norwegian Eliteserien - Week 15",
             "match": " Sarpsborg 08 vs HamKam ",
             "flags": {
@@ -2245,6 +2275,32 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Sarpsborg 08 vs HamKam "
+        },
+        {
+            "compet": "Polish 1. Liga - Week 1",
+            "match": " Unia Skierniewice vs Stal Mielec ",
+            "flags": {
+                "team1": "poland",
+                "team2": "poland"
+            },
+            "time": "15:00",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "Sport TVP📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "LiveOnSat.com",
+            "link": "https://sport.tvp.pl/pilka-nozna/betclic-1-liga",
+            "related_to": " Unia Skierniewice vs Stal Mielec "
+        },
+        {
+            "channel": "TVP Sport",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 -",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Unia Skierniewice vs Stal Mielec "
         },
         {
             "compet": "Norwegian 1. Divisjon - Week 15",
@@ -2581,9 +2637,9 @@
             "related_to": " Napoli vs Carrarese "
         },
         {
-            "channel": "Sky Sport 251 Italia HD",
+            "channel": "Sky PrimaFila PPV HD",
             "sat": "Hotbird 13F 13.0°e",
-            "freq": "12418 V 29900 - 3/4",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Napoli vs Carrarese "
@@ -3375,24 +3431,6 @@
             "related_to": " Mladost Lucani vs Novi Pazar "
         },
         {
-            "compet": "Serbian Super League - Week 2",
-            "match": " Radnicki 1923 vs Zeleznicar ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:30",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Radnicki 1923 vs Zeleznicar "
-        },
-        {
             "compet": "Austrian Cup (ÖFB Cup) - 1st Round",
             "match": " Wienerberg vs Rapid Vienna ",
             "flags": {
@@ -3417,6 +3455,24 @@
             "encry": "HD VideoGuard",
             "link": "https://on.orf.at/live?channel=orfs",
             "related_to": " Wienerberg vs Rapid Vienna "
+        },
+        {
+            "compet": "Serbian Super League - Week 2",
+            "match": " Radnicki 1923 vs Zeleznicar ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:30",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Radnicki 1923 vs Zeleznicar "
         },
         {
             "compet": "Brazilian Série A - Week 20",

@@ -735,8 +735,8 @@
             "related_to": " AZ Alkmaar vs Olympiacos "
         },
         {
-            "channel": "ON Sport 1 HD",
-            "sat": "Eutelsat 7 West A 7.0°w",
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0°w",
             "freq": "12015 V 27500 - 5/6",
             "encry": "FTA",
             "link": "",
@@ -945,6 +945,24 @@
             "related_to": " IFK Värnamo vs Brage "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Watford vs Hansa Rostock ",
+            "flags": {
+                "team1": "england",
+                "team2": "germany"
+            },
+            "time": "13:15",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "Watford FC TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.watfordfc.com/live",
+            "related_to": " Watford vs Hansa Rostock "
+        },
+        {
             "compet": "Russian Premier League - Week 1",
             "match": " Akron vs Zenit St Petersburg ",
             "flags": {
@@ -1117,6 +1135,24 @@
             "related_to": " IFK Mariehamn vs AC Oulu "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Boston United vs Peterborough United ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "POSH+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.theposh.com/video/live",
+            "related_to": " Boston United vs Peterborough United "
+        },
+        {
             "compet": "Friendly Club Match - Celtic Park, Glasgow",
             "match": " Celtic vs AC Milan ",
             "flags": {
@@ -1127,11 +1163,11 @@
             "date": "2026-07-25"
         },
         {
-            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "channel": "Abu Dhabi Sports 2 HD 📺",
             "sat": "Badr 8 26.0°e",
             "freq": "11804 H 30000 - 3/4",
             "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
             "related_to": " Celtic vs AC Milan "
         },
         {
@@ -1171,6 +1207,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
             "link": "",
             "related_to": " Celtic vs AC Milan "
         },
@@ -2973,6 +3017,14 @@
             "date": "2026-07-25"
         },
         {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3013,10 +3065,26 @@
             "related_to": " Standard Liège vs Juventus "
         },
         {
+            "channel": "Nove Italia HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11393 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://it.dplay.com/nove/",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
             "channel": "Okko Futbol HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
+            "channel": "ON Sport HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
             "link": "",
             "related_to": " Standard Liège vs Juventus "
         },
@@ -3032,6 +3100,14 @@
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Standard Liège vs Juventus "
@@ -3647,6 +3723,14 @@
             "date": "2026-07-25"
         },
         {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " FC Porto vs Aston Villa "
+        },
+        {
             "channel": "Persiana Sports 2 HD 📺",
             "sat": "MonacoSat 52.0°e",
             "freq": "10804 H 27500 - 2/3",
@@ -3951,6 +4035,14 @@
             "related_to": " Liverpool vs Sunderland "
         },
         {
+            "channel": "DAZN Japan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Liverpool vs Sunderland "
+        },
+        {
             "channel": "LFC TV HD",
             "sat": "Astra 2F 28.2°e",
             "freq": "12188 H 27500 - 2/3",
@@ -4003,6 +4095,14 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Liverpool vs Sunderland "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Liverpool vs Sunderland "
         },
@@ -4490,6 +4590,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://video.leedsunited.com/fixtures",
+            "related_to": " Wrexham vs Leeds United "
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
             "related_to": " Wrexham vs Leeds United "
         },
         {
