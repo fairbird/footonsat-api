@@ -833,24 +833,6 @@
             "related_to": " Chengdu Rongcheng vs Beijing Guoan "
         },
         {
-            "compet": "German Regionalliga: Nordost - Week 1",
-            "match": " Carl Zeiss Jena vs FSV Zwickau ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "12:00",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Carl Zeiss Jena vs FSV Zwickau "
-        },
-        {
             "compet": "Friendly Club Match",
             "match": " Ajax vs Burnley ",
             "flags": {
@@ -865,6 +847,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Ajax vs Burnley "
+        },
+        {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Ajax vs Burnley "
         },
@@ -886,6 +876,24 @@
         },
         {
             "compet": "German Regionalliga: Nordost - Week 1",
+            "match": " Carl Zeiss Jena vs FSV Zwickau ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "FreiePresse📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.freiepresse.de/sport",
+            "related_to": " Carl Zeiss Jena vs FSV Zwickau "
+        },
+        {
+            "compet": "German Regionalliga: Nordost - Week 1",
             "match": " Greifswalder FC vs Hallescher FC ",
             "flags": {
                 "team1": "germany",
@@ -895,11 +903,11 @@
             "date": "2026-07-26"
         },
         {
-            "channel": "- - -",
+            "channel": "MZ Deutsch Live📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 -",
             "encry": "",
-            "link": "",
+            "link": "https://www.mz.de/live",
             "related_to": " Greifswalder FC vs Hallescher FC "
         },
         {
@@ -1689,24 +1697,6 @@
             "related_to": " FC Copenhagen vs Lyngby "
         },
         {
-            "compet": "Uruguay Primera División - Torneo Intermedio - 7",
-            "match": " Racing Club vs Boston River ",
-            "flags": {
-                "team1": "uraguay",
-                "team2": "uraguay"
-            },
-            "time": "14:00",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "Antel TV Internacional 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://login.vera.com.uy/login",
-            "related_to": " Racing Club vs Boston River "
-        },
-        {
             "compet": "Finnish Veikkausliiga - Week 17",
             "match": " HJK Helsinki vs TPS Turku ",
             "flags": {
@@ -1767,6 +1757,104 @@
             "encry": "",
             "link": "https://www.loitv.ie/",
             "related_to": " Galway United vs DLR Waves "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Karlsruhe vs Inter Milan ",
+            "flags": {
+                "team1": "germany",
+                "team2": "italy"
+            },
+            "time": "14:30",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Inter TV HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11900 H 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "https://www.inter.it/en/inter-tv",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
+        },
+        {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Karlsruhe vs Inter Milan "
         },
         {
             "compet": "Swiss Super League - Week 1",
@@ -1851,138 +1939,6 @@
             "related_to": " St Gallen vs Zürich "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": " Karlsruhe vs Inter Milan ",
-            "flags": {
-                "team1": "germany",
-                "team2": "italy"
-            },
-            "time": "14:30",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Inter TV HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11900 H 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "https://www.inter.it/en/inter-tv",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Premier Sports 2 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11671 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Sport Bladet Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "channel": "Sport TV2 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Karlsruhe vs Inter Milan "
-        },
-        {
-            "compet": "Romanian Superliga - Week 2",
-            "match": " Sepsi OSK vs Universitatea Cluj ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "14:30",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": "unknown",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Sepsi OSK vs Universitatea Cluj "
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sepsi OSK vs Universitatea Cluj "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sepsi OSK vs Universitatea Cluj "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Sepsi OSK vs Universitatea Cluj "
-        },
-        {
             "compet": "Swedish Allsvenskan - Week 14",
             "match": " Malmö FF vs Elfsborg ",
             "flags": {
@@ -2051,6 +2007,48 @@
             "related_to": " GAIS vs Halmstad "
         },
         {
+            "compet": "Romanian Superliga - Week 2",
+            "match": " Sepsi OSK vs Universitatea Cluj ",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "14:30",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sepsi OSK vs Universitatea Cluj "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sepsi OSK vs Universitatea Cluj "
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sepsi OSK vs Universitatea Cluj "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Sepsi OSK vs Universitatea Cluj "
+        },
+        {
             "compet": "Swiss Super League - Week 1",
             "match": " Lugano vs Vaduz ",
             "flags": {
@@ -2107,6 +2105,32 @@
             "encry": "HD Viaccess",
             "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Lugano vs Vaduz "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Rangers vs West Ham United ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "Rangers TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.rangers.co.uk/",
+            "related_to": " Rangers vs West Ham United "
+        },
+        {
+            "channel": "West Ham TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.whufc.com/whtv",
+            "related_to": " Rangers vs West Ham United "
         },
         {
             "compet": "North Macedonian First League - Week 1",
@@ -2869,6 +2893,32 @@
             "related_to": " Rubin Kazan' vs FK Krasnodar "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Bursaspor vs Shakhtar Donetsk ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "ukraine"
+            },
+            "time": "17:00",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Bursaspor vs Shakhtar Donetsk "
+        },
+        {
+            "channel": "YouTube: Shakhtar FC 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/c/fcshakhtar",
+            "related_to": " Bursaspor vs Shakhtar Donetsk "
+        },
+        {
             "compet": "Serbian Super League - Week 2",
             "match": " Red Star Belgrade vs Vojvodina ",
             "flags": {
@@ -2953,24 +3003,6 @@
             "encry": "LiveOnSat.com",
             "link": "https://voyo.markiza.sk/",
             "related_to": " Dukla Banská Bystrica vs Slovan Bratislava "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Bursaspor vs Shakhtar Donetsk ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "ukraine"
-            },
-            "time": "17:00",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "A Spor Türkiye HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12053 H 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bursaspor vs Shakhtar Donetsk "
         },
         {
             "compet": "Norwegian Eliteserien - Week 15",
@@ -3101,24 +3133,6 @@
             "encry": "MPEG-4 Viaccess",
             "link": "https://m4sport.hu/elo/mtv4plus/",
             "related_to": " Paks vs Ferencváros "
-        },
-        {
-            "compet": "Uruguay Primera División - Torneo Intermedio - 7",
-            "match": " Albion FC vs Danubio ",
-            "flags": {
-                "team1": "uraguay",
-                "team2": "uraguay"
-            },
-            "time": "18:00",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "Antel TV Internacional 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://login.vera.com.uy/login",
-            "related_to": " Albion FC vs Danubio "
         },
         {
             "compet": "Uruguay Primera División - Torneo Intermedio - 6",
@@ -3893,24 +3907,6 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.fanatiz.com/",
             "related_to": " Bragantino vs Coritiba "
-        },
-        {
-            "compet": "Uruguay Primera División - Torneo Intermedio - 7",
-            "match": " Peñarol vs Cerro Largo ",
-            "flags": {
-                "team1": "uraguay",
-                "team2": "uraguay"
-            },
-            "time": "21:30",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "Antel TV Internacional 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://login.vera.com.uy/login",
-            "related_to": " Peñarol vs Cerro Largo "
         },
         {
             "compet": "Argentinean Primera División - Clausura - 1",

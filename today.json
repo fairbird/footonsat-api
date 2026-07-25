@@ -1,48 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "USL Championship - Group Stage",
-            "match": " Birmingham Legion vs New Mexico United ",
-            "flags": {
-                "team1": "usa",
-                "team2": "usa"
-            },
-            "time": "00:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "CBS Sports Golazo N/W📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-            "related_to": " Birmingham Legion vs New Mexico United "
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham Legion vs New Mexico United "
-        },
-        {
-            "channel": "Prime Video USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham Legion vs New Mexico United "
-        },
-        {
-            "channel": "YouTube: USL Championship 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@USL/streams",
-            "related_to": " Birmingham Legion vs New Mexico United "
-        },
-        {
             "compet": "National Womens Soccer League (NWSL) - Group Stage",
             "match": " Orlando Pride vs Chicago Red Stars ",
             "flags": {
@@ -413,6 +371,22 @@
             "related_to": " Fortuna Düsseldorf vs Borussia Dortmund "
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Fortuna Düsseldorf vs Borussia Dortmund "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Fortuna Düsseldorf vs Borussia Dortmund "
+        },
+        {
             "channel": "VG+ Sport Norge📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -728,6 +702,56 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": " AZ Alkmaar vs Olympiacos ",
+            "flags": {
+                "team1": "holland",
+                "team2": "greece"
+            },
+            "time": "13:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Olympiacos "
+        },
+        {
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Olympiacos "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Olympiacos "
+        },
+        {
+            "channel": "ON Sport 1 HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12015 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Olympiacos "
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Olympiacos "
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": " Kickers Offenbach vs Bayer Leverkusen ",
             "flags": {
                 "team1": "germany",
@@ -791,48 +815,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": " Kickers Offenbach vs Bayer Leverkusen "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " AZ Alkmaar vs Olympiacos ",
-            "flags": {
-                "team1": "holland",
-                "team2": "greece"
-            },
-            "time": "13:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Olympiacos "
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Olympiacos "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Olympiacos "
-        },
-        {
-            "channel": "Sport TV4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " AZ Alkmaar vs Olympiacos "
         },
         {
             "compet": "Swedish Allsvenskan - Week 14",
@@ -1135,8 +1117,122 @@
             "related_to": " IFK Mariehamn vs AC Oulu "
         },
         {
+            "compet": "Friendly Club Match - Celtic Park, Glasgow",
+            "match": " Celtic vs AC Milan ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "Celtic Player📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://player.celticfc.com/",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "TV Tipsport Czechia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Celtic vs AC Milan "
+        },
+        {
             "compet": "Scottish League Cup - Round 5",
-            "match": " Aberdeen vs Kelty Hearts ",
+            "match": " Greenock Morton vs Inverness CT ",
             "flags": {
                 "team1": "scotland",
                 "team2": "scotland"
@@ -1145,28 +1241,12 @@
             "date": "2026-07-25"
         },
         {
-            "channel": "Kelty Hearts TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://khtv.co.uk/",
-            "related_to": " Aberdeen vs Kelty Hearts "
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Aberdeen vs Kelty Hearts "
-        },
-        {
-            "channel": "Red TV📺",
+            "channel": "Greenock Morton TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://redtv.afc.co.uk/",
-            "related_to": " Aberdeen vs Kelty Hearts "
+            "encry": "",
+            "link": "https://www.gmfc.net/sponsors/",
+            "related_to": " Greenock Morton vs Inverness CT "
         },
         {
             "compet": "Friendly Club Match",
@@ -1211,6 +1291,14 @@
             "related_to": " Bolton Wanderers vs Everton "
         },
         {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Bolton Wanderers vs Everton "
+        },
+        {
             "channel": "Sport TV1 Slovenija",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11231 V 42000 - 3/5",
@@ -1227,86 +1315,38 @@
             "related_to": " Bolton Wanderers vs Everton "
         },
         {
-            "compet": "Friendly Club Match - Celtic Park, Glasgow",
-            "match": " Celtic vs AC Milan ",
+            "compet": "Scottish League Cup - Round 5",
+            "match": " Aberdeen vs Kelty Hearts ",
             "flags": {
                 "team1": "scotland",
-                "team2": "italy"
+                "team2": "scotland"
             },
             "time": "14:00",
             "date": "2026-07-25"
         },
         {
-            "channel": "Celtic Player📺",
+            "channel": "Kelty Hearts TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://khtv.co.uk/",
+            "related_to": " Aberdeen vs Kelty Hearts "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Aberdeen vs Kelty Hearts "
+        },
+        {
+            "channel": "Red TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
-            "link": "https://player.celticfc.com/",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "Sport Bladet Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "TV Tipsport Czechia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": " Celtic vs AC Milan "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Celtic vs AC Milan "
+            "link": "https://redtv.afc.co.uk/",
+            "related_to": " Aberdeen vs Kelty Hearts "
         },
         {
             "compet": "Scottish League Cup - Round 5",
@@ -1367,6 +1407,24 @@
             "encry": "",
             "link": "https://www.alloaathletic.co.uk/product-category/wasp-tv/",
             "related_to": " Ayr United vs Alloa Athletic "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Salford City vs Dundee United ",
+            "flags": {
+                "team1": "england",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "YouTube: Salford City 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@SalfordCityFootballClub/streams",
+            "related_to": " Salford City vs Dundee United "
         },
         {
             "compet": "Slovak 2. Liga - Week 1",
@@ -1881,24 +1939,6 @@
             "encry": "",
             "link": "",
             "related_to": " Teplice vs Bohemians 1905 "
-        },
-        {
-            "compet": "Uruguay Primera División - Torneo Intermedio - 7",
-            "match": " Central Español vs Liverpool ",
-            "flags": {
-                "team1": "uraguay",
-                "team2": "uraguay"
-            },
-            "time": "15:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "Antel TV Internacional 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://login.vera.com.uy/login",
-            "related_to": " Central Español vs Liverpool "
         },
         {
             "compet": "Czech LIGA - Week 1",
@@ -2965,10 +3005,26 @@
             "related_to": " Standard Liège vs Juventus "
         },
         {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
             "channel": "Okko Futbol HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Standard Liège vs Juventus "
         },
@@ -2986,6 +3042,22 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Standard Liège vs Juventus "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Standard Liège vs Juventus "
         },
         {
@@ -3123,24 +3195,6 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Estoril vs Torreense "
-        },
-        {
-            "compet": "Uruguay Primera División - Torneo Intermedio - 7",
-            "match": " Defensor Sporting vs Cerro ",
-            "flags": {
-                "team1": "uraguay",
-                "team2": "uraguay"
-            },
-            "time": "18:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "Antel TV Internacional 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://login.vera.com.uy/login",
-            "related_to": " Defensor Sporting vs Cerro "
         },
         {
             "compet": "Uruguay Primera División - Torneo Intermedio - 6",
@@ -3505,6 +3559,14 @@
             "related_to": " Sporting Lisbon vs Monaco "
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Sporting Lisbon vs Monaco "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -3583,6 +3645,14 @@
             },
             "time": "19:00",
             "date": "2026-07-25"
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " FC Porto vs Aston Villa "
         },
         {
             "channel": "Premier Sports 2 Ireland HD",
@@ -3719,24 +3789,6 @@
             "encry": "Irdeto",
             "link": "",
             "related_to": " Boston Legacy vs Kansas City "
-        },
-        {
-            "compet": "Uruguay Primera División - Torneo Intermedio - 7",
-            "match": " Deportivo Maldonado vs Juventud ",
-            "flags": {
-                "team1": "uraguay",
-                "team2": "uraguay"
-            },
-            "time": "21:00",
-            "date": "2026-07-25"
-        },
-        {
-            "channel": "Antel TV Internacional 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://login.vera.com.uy/login",
-            "related_to": " Deportivo Maldonado vs Juventud "
         },
         {
             "compet": "Uruguay Primera División - Torneo Intermedio - 6",
@@ -3923,6 +3975,14 @@
             "related_to": " Liverpool vs Sunderland "
         },
         {
+            "channel": "Sharjah Sports HD 📺",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": " Liverpool vs Sunderland "
+        },
+        {
             "channel": "Sport Bladet Play📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3939,11 +3999,27 @@
             "related_to": " Liverpool vs Sunderland "
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Liverpool vs Sunderland "
+        },
+        {
             "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
+            "related_to": " Liverpool vs Sunderland "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Liverpool vs Sunderland "
         },
         {
@@ -4239,6 +4315,48 @@
             "encry": "",
             "link": "https://www.youtube.com/@USL/streams",
             "related_to": " Detroit City vs Las Vegas Lights "
+        },
+        {
+            "compet": "USL Championship - Group Stage",
+            "match": " Birmingham Legion vs New Mexico United ",
+            "flags": {
+                "team1": "usa",
+                "team2": "usa"
+            },
+            "time": "23:00",
+            "date": "2026-07-25"
+        },
+        {
+            "channel": "CBS Sports Golazo N/W📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": " Birmingham Legion vs New Mexico United "
+        },
+        {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham Legion vs New Mexico United "
+        },
+        {
+            "channel": "Prime Video USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham Legion vs New Mexico United "
+        },
+        {
+            "channel": "YouTube: USL Championship 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@USL/streams",
+            "related_to": " Birmingham Legion vs New Mexico United "
         },
         {
             "compet": "Mexican Liga MX - Apertura - 2",
