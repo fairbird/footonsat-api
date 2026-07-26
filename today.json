@@ -789,64 +789,6 @@
             "related_to": " GIF Sundsvall vs Falkenberg "
         },
         {
-            "compet": "Russian Premier League - Week 1",
-            "match": " Orenburg vs Rostov ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "11:30",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Orenburg vs Rostov "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Orenburg vs Rostov "
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Orenburg vs Rostov "
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " Orenburg vs Rostov "
-        },
-        {
-            "channel": "MATCH! TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://matchtv.ru/video/sports/football",
-            "related_to": " Orenburg vs Rostov "
-        },
-        {
-            "channel": "Q Sport International HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Orenburg vs Rostov "
-        },
-        {
             "compet": "Chinese Super League - Week 20",
             "match": " Chengdu Rongcheng vs Beijing Guoan ",
             "flags": {
@@ -1629,6 +1571,32 @@
             "related_to": " Vasas vs Györ "
         },
         {
+            "compet": "Danish Superliga - Week 1",
+            "match": " FC Copenhagen vs Lyngby ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "14:00",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " FC Copenhagen vs Lyngby "
+        },
+        {
+            "channel": "TV2 Sport Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " FC Copenhagen vs Lyngby "
+        },
+        {
             "compet": "Scottish League Cup - Round 5",
             "match": " St Mirren vs Dunfermline Athletic ",
             "flags": {
@@ -1783,32 +1751,6 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Lokomotiv Moscow vs Akhmat Grozny "
-        },
-        {
-            "compet": "Danish Superliga - Week 1",
-            "match": " FC Copenhagen vs Lyngby ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "time": "14:00",
-            "date": "2026-07-26"
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " FC Copenhagen vs Lyngby "
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " FC Copenhagen vs Lyngby "
         },
         {
             "compet": "Finnish Veikkausliiga - Week 17",
@@ -3055,6 +2997,64 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Rubin Kazan' vs FK Krasnodar "
+        },
+        {
+            "compet": "Russian Premier League - Week 1",
+            "match": " Orenburg vs Rostov ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "16:30",
+            "date": "2026-07-26"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Orenburg vs Rostov "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Orenburg vs Rostov "
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Orenburg vs Rostov "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Orenburg vs Rostov "
+        },
+        {
+            "channel": "MATCH! TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": " Orenburg vs Rostov "
+        },
+        {
+            "channel": "Q Sport International HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Orenburg vs Rostov "
         },
         {
             "compet": "Friendly Club Match",
