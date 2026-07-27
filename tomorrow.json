@@ -265,14 +265,6 @@
             "date": "2026-07-28"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Lincoln Red Imps vs Mjällby AIF "
-        },
-        {
             "channel": "Sport Bladet Play📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -305,6 +297,40 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " FC Copenhagen vs HB Køge "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-2]",
+            "match": " Riga FC vs Vardar Skopje ",
+            "flags": {
+                "team1": "latvia",
+                "team2": "northmacedonia"
+            },
+            "time": "17:00",
+            "date": "2026-07-28"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Riga FC vs Vardar Skopje "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Riga FC vs Vardar Skopje "
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Riga FC vs Vardar Skopje "
         },
         {
             "compet": "Friendly Club Match - Como Cup",
@@ -365,40 +391,6 @@
             "encry": "",
             "link": "",
             "related_to": " Apollon Limassol vs Dila Gori "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-2]",
-            "match": " Riga FC vs Vardar Skopje ",
-            "flags": {
-                "team1": "latvia",
-                "team2": "northmacedonia"
-            },
-            "time": "17:00",
-            "date": "2026-07-28"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Riga FC vs Vardar Skopje "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Riga FC vs Vardar Skopje "
-        },
-        {
-            "channel": "TV4 Latvija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Riga FC vs Vardar Skopje "
         },
         {
             "compet": "Russian Cup (Kubok Rossii) - 1st Round (Regions Path)",
@@ -543,14 +535,6 @@
             "date": "2026-07-28"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Drita vs Floriana "
-        },
-        {
             "channel": "RTK 1 Kosovo HD 📺",
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10938 H 15835 - 2/3",
@@ -663,6 +647,14 @@
             "related_to": " Celje vs Egnatia "
         },
         {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Celje vs Egnatia "
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -757,6 +749,14 @@
             },
             "time": "18:45",
             "date": "2026-07-28"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hearts vs Sturm Graz "
         },
         {
             "channel": "Arena Sport 1 Slovakia HD",
@@ -912,6 +912,14 @@
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": " Shamrock Rovers vs Ararat-Armenia "
+        },
+        {
+            "channel": "LOI TV PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.loitv.ie/ie",
             "related_to": " Shamrock Rovers vs Ararat-Armenia "
         },
         {
