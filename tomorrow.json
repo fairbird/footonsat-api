@@ -1,1598 +1,58 @@
 {
     "footonsat": [
         {
-            "compet": "Argentinean Primera División - Clausura - 2",
-            "match": " Rosario Central vs Racing Club ",
+            "compet": "Friendly Hybrid Match",
+            "match": " MLS All Stars vs Liga MX All Stars ",
             "flags": {
-                "team1": "argentina",
-                "team2": "argentina"
+                "team1": "usa",
+                "team2": "mexico"
             },
-            "time": "00:15",
-            "date": "2026-07-29"
+            "time": "00:00",
+            "date": "2026-07-30"
         },
         {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "Okko Futbol HD",
+            "channel": "Apple TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
+            "link": "https://tv.apple.com/",
+            "related_to": " MLS All Stars vs Liga MX All Stars "
         },
         {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "Premier Sports 2 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11671 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Rosario Central vs Racing Club "
-        },
-        {
-            "compet": "CONMEBOL Copa Sudamericana - Round of 16 Qualifier (2nd Leg)",
-            "match": " Santos vs Universidad Central ",
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": " Kansas City vs Racing Louisville ",
             "flags": {
-                "team1": "brazil",
-                "team2": "venezuela"
-            },
-            "time": "00:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "beIN Connect Australia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://connect-au.beinsports.com/en",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "beIN Connect NZ 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-nz.beinsports.com/en",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "Como TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Santos vs Universidad Central "
-        },
-        {
-            "compet": "CONCACAF U-20 Championships - Round 2",
-            "match": " El Salvador U-20 vs United States U-20 ",
-            "flags": {
-                "team1": "elsalvador",
+                "team1": "usa",
                 "team2": "usa"
             },
-            "time": "02:00",
-            "date": "2026-07-29"
+            "time": "00:00",
+            "date": "2026-07-30"
         },
         {
-            "channel": "CONCACAF GO📺",
-            "sat": "* IPTV/Stream 0.0°",
+            "channel": "NWSL+",
+            "sat": "Download APP 0.0°",
             "freq": "0000 0",
             "encry": "FTA",
-            "link": "https://www.concacaf.com/concacaf-go/",
-            "related_to": " El Salvador U-20 vs United States U-20 "
-        },
-        {
-            "channel": "Fox Sports 2 USA HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " El Salvador U-20 vs United States U-20 "
-        },
-        {
-            "channel": "YouTube: CONCACAF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@concacaf/streams",
-            "related_to": " El Salvador U-20 vs United States U-20 "
-        },
-        {
-            "compet": "Friendly Club Match - Allianz Stadium, Sydney",
-            "match": " Tottenham Hotspur vs Sydney FC ",
-            "flags": {
-                "team1": "england",
-                "team2": "australia"
-            },
-            "time": "09:45",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Al Rabiaa Sport Iraq",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "12604 V 27500 - 7/8",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "Net4+ Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "ON Sport Plus HD",
-            "sat": "Nilesat 201 7.0°w",
-            "freq": "11977 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "Sport Bladet Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "SpursPlay📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://play.tottenhamhotspur.com/",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "TV Tipsport Czechia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Tottenham Hotspur vs Sydney FC "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Cerezo Osaka vs Borussia Dortmund ",
-            "flags": {
-                "team1": "japan",
-                "team2": "germany"
-            },
-            "time": "10:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "beIN Sports 3 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Net4+ Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Nova Sports 3 Cyprus HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Nova Sports 3 Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Sky Sport News Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "Sport TV1 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "SportKlub 2 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 32000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "V Sport Premium HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10903 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "ViaPlay 2 Urheilu HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "channel": "YouTube: Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": " Cerezo Osaka vs Borussia Dortmund "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Bayer Leverkusen vs Racing Genk ",
-            "flags": {
-                "team1": "germany",
-                "team2": "belgium"
-            },
-            "time": "13:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "JOJ Šport 2 SVK HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11055 V 27500 - 4/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bayer Leverkusen vs Racing Genk "
-        },
-        {
-            "channel": "Sport TV1 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Bayer Leverkusen vs Racing Genk "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
-            "match": " Dukagjini vs Lugano ",
-            "flags": {
-                "team1": "kosova",
-                "team2": "switzerland"
-            },
-            "time": "14:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Play RTS Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": " Dukagjini vs Lugano "
-        },
-        {
-            "channel": "RSI La 2 Svizzera HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
-            "related_to": " Dukagjini vs Lugano "
-        },
-        {
-            "channel": "RTK 1 Kosovo HD 📺",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10938 H 15835 - 2/3",
-            "encry": "MPEG-4 Conax",
-            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
-            "related_to": " Dukagjini vs Lugano "
-        },
-        {
-            "channel": "SRF Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.srf.ch/play/tv/sport-livestreams",
-            "related_to": " Dukagjini vs Lugano "
-        },
-        {
-            "compet": "Russian Cup (Kubok Rossii) - 1st Round (Regions Path)",
-            "match": " Kristall vs Znamya Noginsk ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "14:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " Kristall vs Znamya Noginsk "
-        },
-        {
-            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg) [0-1]",
-            "match": " Kairat Almaty vs Omonia Nicosia ",
-            "flags": {
-                "team1": "kazstan",
-                "team2": "cyprus"
-            },
-            "time": "15:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena Sport 1 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11290 H 45000 - 8/9",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Kairat Almaty vs Omonia Nicosia "
-        },
-        {
-            "channel": "Cytavision Sports 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Kairat Almaty vs Omonia Nicosia "
-        },
-        {
-            "channel": "Cytavision Sports PPV 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Kairat Almaty vs Omonia Nicosia "
-        },
-        {
-            "channel": "Omonoia TV on Cyta",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Kairat Almaty vs Omonia Nicosia "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 2 86.5°e",
-            "freq": "11495 V 09000 - 8/9",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Kairat Almaty vs Omonia Nicosia "
-        },
-        {
-            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg) [0-0]",
-            "match": " Kauno Zalgiris vs KÍ Klaksvík ",
-            "flags": {
-                "team1": "lithuania",
-                "team2": "faroeislands"
-            },
-            "time": "16:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "TV6 Lietuva",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11958 H 27500 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Kauno Zalgiris vs KÍ Klaksvík "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " AEK Athens vs Samsunspor ",
-            "flags": {
-                "team1": "greece",
-                "team2": "turkey"
-            },
-            "time": "16:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Cosmote Sport 1 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " AEK Athens vs Samsunspor "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Kickers Offenbach vs Stuttgart ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Kickers Offenbach vs Stuttgart "
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Kickers Offenbach vs Stuttgart "
-        },
-        {
-            "channel": "Sky Sport News Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Kickers Offenbach vs Stuttgart "
-        },
-        {
-            "channel": "YouTube: Sky Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@SkySportBundesliga/videos",
-            "related_to": " Kickers Offenbach vs Stuttgart "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Girona XI vs Castellón ",
-            "flags": {
-                "team1": "catalonia",
-                "team2": "spain"
-            },
-            "time": "16:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Esport 3 Catalunya 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "FTA",
-            "link": "https://www.3cat.cat/3cat/directes/esport3/",
-            "related_to": " Girona XI vs Castellón "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-3]",
-            "match": " FC Copenhagen vs Polissya Zhytomyr ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "ukraine"
-            },
-            "time": "17:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena Sport 1 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11290 H 45000 - 8/9",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " FC Copenhagen vs Polissya Zhytomyr "
-        },
-        {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " FC Copenhagen vs Polissya Zhytomyr "
-        },
-        {
-            "channel": "FCK TV ($/geo/R 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://tv.fck.dk/",
-            "related_to": " FC Copenhagen vs Polissya Zhytomyr "
-        },
-        {
-            "channel": "Megogo Futbol 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": " FC Copenhagen vs Polissya Zhytomyr "
-        },
-        {
-            "compet": "Friendly Club Match - Como Cup Day 2",
-            "match": " Al Ula vs Villarreal ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "spain"
-            },
-            "time": "17:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Como TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Al Ula vs Villarreal "
-        },
-        {
-            "channel": "GOL España HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 - -",
-            "encry": "Seca",
-            "link": "https://www.goltelevision.com/en-directo",
-            "related_to": " Al Ula vs Villarreal "
-        },
-        {
-            "compet": "Russian Cup (Kubok Rossii) - 1st Round (Regions Path)",
-            "match": " SKA Rostov vs Zenit Penza ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "17:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " SKA Rostov vs Zenit Penza "
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0°e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "",
-            "related_to": " SKA Rostov vs Zenit Penza "
-        },
-        {
-            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg) [4-1]",
-            "match": " Lech Poznan vs AGF Aarhus ",
-            "flags": {
-                "team1": "poland",
-                "team2": "denmark"
-            },
-            "time": "17:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Bold+ Dansk📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://bold.dk/plus",
-            "related_to": " Lech Poznan vs AGF Aarhus "
-        },
-        {
-            "channel": "TVP Sport Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "10834 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Lech Poznan vs AGF Aarhus "
-        },
-        {
-            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg) [0-1]",
-            "match": " Universitatea Craiova vs Levski Sofia ",
-            "flags": {
-                "team1": "romania",
-                "team2": "bulgaria"
-            },
-            "time": "17:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Universitatea Craiova vs Levski Sofia "
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Universitatea Craiova vs Levski Sofia "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Universitatea Craiova vs Levski Sofia "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Universitatea Craiova vs Levski Sofia "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Deportivo La Coruña vs Lugo ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "TVG Galicia 📺",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - -",
-            "encry": "FTA",
-            "link": "https://www.agalega.gal/videos/76475-tvg",
-            "related_to": " Deportivo La Coruña vs Lugo "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Real Betis vs Lyon ",
-            "flags": {
-                "team1": "spain",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "JOJ Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://play.joj.sk/",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "JOJ Šport SVK HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12266 H 29900 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "OL Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://olplay.ol.fr/en/",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "Premier Sports 1 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Real Betis vs Lyon "
-        },
-        {
-            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg) [4-0]",
-            "match": " Red Star Belgrade vs Larne ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "nireland"
-            },
-            "time": "18:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Red Star Belgrade vs Larne "
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Red Star Belgrade vs Larne "
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Red Star Belgrade vs Larne "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Red Star Belgrade vs Larne "
-        },
-        {
-            "channel": "RTS 2 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11914 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Red Star Belgrade vs Larne "
-        },
-        {
-            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg) [0-1]",
-            "match": " Górnik Zabrze vs Fenerbahçe ",
-            "flags": {
-                "team1": "poland",
-                "team2": "turkey"
-            },
-            "time": "18:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Ictimai TV HD",
-            "sat": "AzerSpace 1 46.0°e",
-            "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Górnik Zabrze vs Fenerbahçe "
-        },
-        {
-            "channel": "Polsat Sport 1 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Górnik Zabrze vs Fenerbahçe "
-        },
-        {
-            "channel": "Polsat Sport Premium 1 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11117 V 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Górnik Zabrze vs Fenerbahçe "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Górnik Zabrze vs Fenerbahçe "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Górnik Zabrze vs Fenerbahçe "
-        },
-        {
-            "channel": "Super Polsat HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11158 V 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Górnik Zabrze vs Fenerbahçe "
-        },
-        {
-            "compet": "Icelandic Womens Úrvalsdeild - Week 14",
-            "match": " IBV Vestmannaeyjar vs FH Hafnarfjördur ",
-            "flags": {
-                "team1": "iceland",
-                "team2": "iceland"
-            },
-            "time": "18:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "SÝN Sport Island 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " IBV Vestmannaeyjar vs FH Hafnarfjördur "
-        },
-        {
-            "compet": "Icelandic Womens Úrvalsdeild - Week 14",
-            "match": " Breidablik vs Thór/KA ",
-            "flags": {
-                "team1": "iceland",
-                "team2": "iceland"
-            },
-            "time": "18:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "SÝN Sport Island 4 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Breidablik vs Thór/KA "
-        },
-        {
-            "compet": "UEFA Champions League - 2nd Qualifying Round (2nd Leg) [2-0]",
-            "match": " Slovan Bratislava vs Iberia 1999 ",
-            "flags": {
-                "team1": "slovakia",
-                "team2": "georgia"
-            },
-            "time": "18:15",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Silk Universal HD",
-            "sat": "Astra 5B 31.5°e",
-            "freq": "12207 V 27500 - 5/6",
-            "encry": "MPEG-4 Bulcrypt",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Iberia 1999 "
-        },
-        {
-            "channel": "STVR Šport Slovakia HD 📺",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12012 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "https://www.stvr.sk/televizia/sport",
-            "related_to": " Slovan Bratislava vs Iberia 1999 "
-        },
-        {
-            "compet": "Friendly Club Match - Como Cup Day 2",
-            "match": " Villarreal vs Como 1907 ",
-            "flags": {
-                "team1": "spain",
-                "team2": "italy"
-            },
-            "time": "18:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "GOL España HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 - -",
-            "encry": "Seca",
-            "link": "https://www.goltelevision.com/en-directo",
-            "related_to": " Villarreal vs Como 1907 "
-        },
-        {
-            "channel": "Sportitalia HD 📺",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12341 V 31400 - 5/6",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sihd/",
-            "related_to": " Villarreal vs Como 1907 "
-        },
-        {
-            "channel": "TV Tipsport Czechia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": " Villarreal vs Como 1907 "
-        },
-        {
-            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-1]",
-            "match": " Rapid Vienna vs FC Santa Coloma ",
-            "flags": {
-                "team1": "austria",
-                "team2": "andorra"
-            },
-            "time": "18:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Rapid Vienna vs FC Santa Coloma "
-        },
-        {
-            "channel": "ORF 1 Austria HD 📺",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11303 H 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://on.orf.at/live?channel=orf1",
-            "related_to": " Rapid Vienna vs FC Santa Coloma "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Bristol City vs Newcastle United ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "NUFC TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.nufc.co.uk/nufc-tv/",
-            "related_to": " Bristol City vs Newcastle United "
-        },
-        {
-            "channel": "Robins TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://robinstv.bcfc.co.uk/",
-            "related_to": " Bristol City vs Newcastle United "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Watford vs Fiorentina ",
-            "flags": {
-                "team1": "england",
-                "team2": "italy"
-            },
-            "time": "18:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Watford vs Fiorentina "
-        },
-        {
-            "channel": "Watford FC TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.watfordfc.com/live",
-            "related_to": " Watford vs Fiorentina "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Doncaster Rovers vs Wolves ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:30",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Wolves TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.wolves.co.uk/",
-            "related_to": " Doncaster Rovers vs Wolves "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Birmingham City vs Barcelona XI ",
-            "flags": {
-                "team1": "england",
-                "team2": "catalonia"
-            },
-            "time": "18:45",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona XI "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona XI "
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": "unknown",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona XI "
-        },
-        {
-            "channel": "Blues+ TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bcfc.com/pages/en/latest-videos",
-            "related_to": " Birmingham City vs Barcelona XI "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona XI "
-        },
-        {
-            "channel": "Ziggo Sport 2",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona XI "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Ipswich Town vs Osasuna ",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "time": "18:45",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Ipswich Town vs Osasuna "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Burnley vs Espanyol XI ",
-            "flags": {
-                "team1": "england",
-                "team2": "catalonia"
-            },
-            "time": "18:45",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Esport 3 Catalunya 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "FTA",
-            "link": "https://www.3cat.cat/3cat/directes/esport3/",
-            "related_to": " Burnley vs Espanyol XI "
-        },
-        {
-            "compet": "Icelandic Womens Úrvalsdeild - Week 14",
-            "match": " Fram Reykjavík vs Valur Reykjavík ",
-            "flags": {
-                "team1": "iceland",
-                "team2": "iceland"
-            },
-            "time": "19:15",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "SÝN Sport Island 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Fram Reykjavík vs Valur Reykjavík "
-        },
-        {
-            "compet": "Friendly Club Match - Como Cup Day 2",
-            "match": " Como 1907 vs Al Ula ",
-            "flags": {
-                "team1": "italy",
-                "team2": "saudiarabia"
-            },
-            "time": "20:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Como TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Como 1907 vs Al Ula "
-        },
-        {
-            "channel": "Sportitalia HD 📺",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12341 V 31400 - 5/6",
-            "encry": "FTA",
-            "link": "https://sportitalialive.it/sihd/",
-            "related_to": " Como 1907 vs Al Ula "
-        },
-        {
-            "compet": "CONCACAF U-20 Championships - Round 2",
-            "match": " Jamaica U-20 vs Panama U-20 ",
-            "flags": {
-                "team1": "jamaica",
-                "team2": "panama"
-            },
-            "time": "20:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "CONCACAF GO📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://www.concacaf.com/concacaf-go/",
-            "related_to": " Jamaica U-20 vs Panama U-20 "
-        },
-        {
-            "channel": "Fox Sports 2 USA HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
             "link": "",
-            "related_to": " Jamaica U-20 vs Panama U-20 "
+            "related_to": " Kansas City vs Racing Louisville "
         },
         {
-            "channel": "TUDN Español USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
             "link": "",
-            "related_to": " Jamaica U-20 vs Panama U-20 "
-        },
-        {
-            "channel": "YouTube: CONCACAF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@concacaf/streams",
-            "related_to": " Jamaica U-20 vs Panama U-20 "
-        },
-        {
-            "compet": "Brazilian Série A - Week 21",
-            "match": " São Paulo vs Santos ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "20:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " São Paulo vs Santos "
-        },
-        {
-            "compet": "Brazilian Série A - Week 21",
-            "match": " Chapecoense vs Vasco da Gama ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "20:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Chapecoense vs Vasco da Gama "
-        },
-        {
-            "compet": "Brazilian Série A - Week 21",
-            "match": " Botafogo vs Grêmio ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "20:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Botafogo vs Grêmio "
-        },
-        {
-            "compet": "Brazilian Série A - Week 21",
-            "match": " Atlético Mineiro vs Bragantino ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "20:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Atlético Mineiro vs Bragantino "
+            "related_to": " Kansas City vs Racing Louisville "
         },
         {
             "compet": "CONMEBOL Copa Sudamericana - Round of 16 Qualifier (2nd Leg)",
-            "match": " Vasco da Gama vs Independiente Medellín ",
+            "match": " Bragantino vs Sporting Cristal ",
             "flags": {
                 "team1": "brazil",
-                "team2": "colombia"
+                "team2": "peru"
             },
-            "time": "22:00",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
+            "time": "00:30",
+            "date": "2026-07-30"
         },
         {
             "channel": "beIN Connect Australia 📺",
@@ -1600,7 +60,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://connect-au.beinsports.com/en",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
+            "related_to": " Bragantino vs Sporting Cristal "
         },
         {
             "channel": "beIN Connect NZ 📺",
@@ -1608,7 +68,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://connect-nz.beinsports.com/en",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
+            "related_to": " Bragantino vs Sporting Cristal "
         },
         {
             "channel": "beIN Connect USA 📺",
@@ -1616,31 +76,15 @@
             "freq": "0000",
             "encry": "",
             "link": "https://connect-us.beinsports.com/",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
+            "related_to": " Bragantino vs Sporting Cristal "
         },
         {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
+            "channel": "beIN Sports MENA English 2 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
+            "freq": "11390 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
+            "related_to": " Bragantino vs Sporting Cristal "
         },
         {
             "channel": "Como TV📺",
@@ -1648,39 +92,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "channel": "M+ #Vamos Bar",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10876 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "channel": "M+ Vamos España HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11156 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
+            "related_to": " Bragantino vs Sporting Cristal "
         },
         {
             "channel": "Okko Futbol HD",
@@ -1688,91 +100,25 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
+            "related_to": " Bragantino vs Sporting Cristal "
         },
         {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vasco da Gama vs Independiente Medellín "
-        },
-        {
-            "compet": "Argentinean Primera División - Clausura - 2",
-            "match": " Gimnasia La Plata vs River Plate ",
-            "flags": {
-                "team1": "argentina",
-                "team2": "argentina"
-            },
-            "time": "22:15",
-            "date": "2026-07-29"
-        },
-        {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Gimnasia La Plata vs River Plate "
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Gimnasia La Plata vs River Plate "
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Gimnasia La Plata vs River Plate "
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Gimnasia La Plata vs River Plate "
-        },
-        {
-            "channel": "Como TV📺",
+            "channel": "Okko Prime Sport HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Gimnasia La Plata vs River Plate "
-        },
-        {
-            "channel": "Sport TV4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Gimnasia La Plata vs River Plate "
-        },
-        {
-            "channel": "Sportdigital FUSSBALL HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11186 V 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Gimnasia La Plata vs River Plate "
+            "related_to": " Bragantino vs Sporting Cristal "
         },
         {
             "compet": "Brazilian Série A - Week 21",
-            "match": " Internacional vs Flamengo ",
+            "match": " Vitória Bahia vs Palmeiras ",
             "flags": {
                 "team1": "brazil",
                 "team2": "brazil"
             },
-            "time": "22:30",
-            "date": "2026-07-29"
+            "time": "00:30",
+            "date": "2026-07-30"
         },
         {
             "channel": "Arena M2 Premium MKD HD",
@@ -1780,7 +126,15 @@
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Internacional vs Flamengo "
+            "related_to": " Vitória Bahia vs Palmeiras "
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vitória Bahia vs Palmeiras "
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -1788,15 +142,7 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "",
-            "related_to": " Internacional vs Flamengo "
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Internacional vs Flamengo "
+            "related_to": " Vitória Bahia vs Palmeiras "
         },
         {
             "channel": "Fanatiz EU📺",
@@ -1804,23 +150,7 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://www.fanatiz.com/",
-            "related_to": " Internacional vs Flamengo "
-        },
-        {
-            "channel": "M+ Liga de Campeones 2 HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "10729 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Internacional vs Flamengo "
-        },
-        {
-            "channel": "M+ Vamos 2 España HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Internacional vs Flamengo "
+            "related_to": " Vitória Bahia vs Palmeiras "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1828,41 +158,107 @@
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "",
-            "related_to": " Internacional vs Flamengo "
+            "related_to": " Vitória Bahia vs Palmeiras "
         },
         {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 3/4",
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Internacional vs Flamengo "
+            "related_to": " Vitória Bahia vs Palmeiras "
         },
         {
-            "channel": "Premier Sports 2 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11671 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Internacional vs Flamengo "
+            "related_to": " Vitória Bahia vs Palmeiras "
         },
         {
-            "channel": "Premier Sports GB Player HD 📺",
+            "compet": "CONMEBOL Copa Sudamericana - Round of 16 Qualifier (2nd Leg)",
+            "match": " Cienciano vs Lanús ",
+            "flags": {
+                "team1": "peru",
+                "team2": "argentina"
+            },
+            "time": "00:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cienciano vs Lanús "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cienciano vs Lanús "
+        },
+        {
+            "channel": "beIN Connect Australia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": " Cienciano vs Lanús "
+        },
+        {
+            "channel": "beIN Connect NZ 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Internacional vs Flamengo "
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": " Cienciano vs Lanús "
+        },
+        {
+            "channel": "beIN Connect USA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": " Cienciano vs Lanús "
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cienciano vs Lanús "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cienciano vs Lanús "
+        },
+        {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Cienciano vs Lanús "
         },
         {
             "compet": "Brazilian Série A - Week 21",
-            "match": " Mirassol vs Remo ",
+            "match": " Fluminense vs Bahia ",
             "flags": {
                 "team1": "brazil",
                 "team2": "brazil"
             },
-            "time": "22:30",
-            "date": "2026-07-29"
+            "time": "00:30",
+            "date": "2026-07-30"
         },
         {
             "channel": "Fanatiz EU📺",
@@ -1870,131 +266,109 @@
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
             "link": "https://www.fanatiz.com/",
-            "related_to": " Mirassol vs Remo "
+            "related_to": " Fluminense vs Bahia "
         },
         {
-            "compet": "USL Championship - Group Stage",
-            "match": " Pittsburgh Riverhounds vs Tulsa ",
+            "compet": "CONCACAF U-20 Championships - Round 2",
+            "match": " Canada U-20 vs Honduras U-20 ",
+            "flags": {
+                "team1": "canada",
+                "team2": "honduras"
+            },
+            "time": "01:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "CONCACAF GO📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.concacaf.com/concacaf-go/",
+            "related_to": " Canada U-20 vs Honduras U-20 "
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Canada U-20 vs Honduras U-20 "
+        },
+        {
+            "channel": "TUDN Español USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Canada U-20 vs Honduras U-20 "
+        },
+        {
+            "channel": "YouTube: CONCACAF📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@concacaf/streams",
+            "related_to": " Canada U-20 vs Honduras U-20 "
+        },
+        {
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": " Utah Royals vs Washington Spirit ",
             "flags": {
                 "team1": "usa",
                 "team2": "usa"
             },
-            "time": "23:00",
-            "date": "2026-07-29"
+            "time": "01:00",
+            "date": "2026-07-30"
         },
         {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Pittsburgh Riverhounds vs Tulsa "
-        },
-        {
-            "channel": "YouTube: USL Championship 📺",
+            "channel": "HBO Max📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.youtube.com/@USL/streams",
-            "related_to": " Pittsburgh Riverhounds vs Tulsa "
+            "link": "https://www.hbomax.com",
+            "related_to": " Utah Royals vs Washington Spirit "
         },
         {
-            "compet": "Friendly Club Match - Yankee Stadium, New York, NY",
-            "match": " Liverpool vs Wrexham ",
+            "channel": "NWSL+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Utah Royals vs Washington Spirit "
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Utah Royals vs Washington Spirit "
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11612 H 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Utah Royals vs Washington Spirit "
+        },
+        {
+            "compet": "National Womens Soccer League (NWSL) - Group Stage",
+            "match": " Bay WFC vs NJ/NY Gotham ",
             "flags": {
-                "team1": "england",
-                "team2": "wales"
+                "team1": "usa",
+                "team2": "usa"
             },
-            "time": "23:30",
-            "date": "2026-07-29"
+            "time": "02:00",
+            "date": "2026-07-30"
         },
         {
-            "channel": "Al Rabiaa Sport Iraq",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "12604 V 27500 - 7/8",
+            "channel": "NWSL+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
             "encry": "FTA",
             "link": "",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "All Red Video📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://video.liverpoolfc.com/",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "LFC TV HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "Net4+ Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "ON Sport Plus HD",
-            "sat": "Nilesat 201 7.0°w",
-            "freq": "11977 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "Sport Bladet Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": " Liverpool vs Wrexham "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Liverpool vs Wrexham "
+            "related_to": " Bay WFC vs NJ/NY Gotham "
         },
         {
             "channel": "Stan Sport Australia📺",
@@ -2002,15 +376,703 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
-            "related_to": " Liverpool vs Wrexham "
+            "related_to": " Bay WFC vs NJ/NY Gotham "
         },
         {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11054 V 30000 - 3/4",
+            "compet": "Ukrainian Womens Premier League - Week 3",
+            "match": " FC Kharkiv vs SeaSters Odesa ",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "ukraine"
+            },
+            "time": "08:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Megogo Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " FC Kharkiv vs SeaSters Odesa "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
             "encry": "FTA",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": " Liverpool vs Wrexham "
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " FC Kharkiv vs SeaSters Odesa "
+        },
+        {
+            "compet": "Russian Cup (Kubok Rossii) - 1st Round (Regions Path)",
+            "match": " Temp Barnaul vs KDV Tomsk ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "12:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Temp Barnaul vs KDV Tomsk "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": " Tobol vs Panevežys ",
+            "flags": {
+                "team1": "kazstan",
+                "team2": "lithuania"
+            },
+            "time": "14:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Delfi TV Lithuania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.delfi.lt/video/tv-gidas/",
+            "related_to": " Tobol vs Panevežys "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Tobol vs Panevežys "
+        },
+        {
+            "channel": "Sport 1 Ukraine",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Tobol vs Panevežys "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-4]",
+            "match": " Atletic Escaldes vs Vaduz ",
+            "flags": {
+                "team1": "andorra",
+                "team2": "liechtenstein"
+            },
+            "time": "14:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Atletic Escaldes vs Vaduz "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Trabzonspor vs Al Sadd ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "qatar"
+            },
+            "time": "15:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "HT Spor Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11837 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Trabzonspor vs Al Sadd "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-2]",
+            "match": " Auda vs FCSB ",
+            "flags": {
+                "team1": "latvia",
+                "team2": "romania"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Auda vs FCSB "
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Auda vs FCSB "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Auda vs FCSB "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-5]",
+            "match": " Nõmme Kalju vs Shelbourne ",
+            "flags": {
+                "team1": "estonia",
+                "team2": "ireland"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
+            "related_to": " Nõmme Kalju vs Shelbourne "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Nõmme Kalju vs Shelbourne "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Pyunik vs Debrecen ",
+            "flags": {
+                "team1": "armenia",
+                "team2": "hungary"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Pyunik vs Debrecen "
+        },
+        {
+            "channel": "Armenia First TV 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": " Pyunik vs Debrecen "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Pyunik vs Debrecen "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": " Noah vs Zimbru Chisinau ",
+            "flags": {
+                "team1": "armenia",
+                "team2": "moldova"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Moldova 2 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://moldova1.md/moldova2/live",
+            "related_to": " Noah vs Zimbru Chisinau "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Zira vs Paide Linnameeskond ",
+            "flags": {
+                "team1": "azerbaijan",
+                "team2": "estonia"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Zira vs Paide Linnameeskond "
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
+            "related_to": " Zira vs Paide Linnameeskond "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": " Inter Turku vs Istanbul Basaksehir ",
+            "flags": {
+                "team1": "finland",
+                "team2": "turkey"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Jalkapallo TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://jalkapallotv.com/jalkapallo",
+            "related_to": " Inter Turku vs Istanbul Basaksehir "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Inter Turku vs Istanbul Basaksehir "
+        },
+        {
+            "channel": "TRT 1 Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "https://www.trtizle.com/canli/tv/trt-1",
+            "related_to": " Inter Turku vs Istanbul Basaksehir "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Rottach-Egern vs Bayern Munich ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "FC Bayern TV PLUS 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://fcbayern.com/fcbayerntv/en/fc-bayern-tv-plus-abo",
+            "related_to": " Rottach-Egern vs Bayern Munich "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-3]",
+            "match": " Jablonec vs Varaždin ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "croatia"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Jablonec vs Varaždin "
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Jablonec vs Varaždin "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Jablonec vs Varaždin "
+        },
+        {
+            "channel": "Nova Sport 5 Slovakia HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12456 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Jablonec vs Varaždin "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Marseille vs Nîmes ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Marseille vs Nîmes "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Ilves Tampere vs Stjarnan ",
+            "flags": {
+                "team1": "finland",
+                "team2": "iceland"
+            },
+            "time": "16:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Ilves+ Football📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.ilvesplus.com/en",
+            "related_to": " Ilves Tampere vs Stjarnan "
+        },
+        {
+            "channel": "SÝN Sport Island 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Ilves Tampere vs Stjarnan "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-1]",
+            "match": " FCI Levadia vs IFK Gotenberg ",
+            "flags": {
+                "team1": "estonia",
+                "team2": "sweden"
+            },
+            "time": "16:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
+            "related_to": " FCI Levadia vs IFK Gotenberg "
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " FCI Levadia vs IFK Gotenberg "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [6-2]",
+            "match": " Györ vs Atert Bissen ",
+            "flags": {
+                "team1": "hungary",
+                "team2": "luxembourg"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "M4 Sport",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Györ vs Atert Bissen "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Györ vs Atert Bissen "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [0-2]",
+            "match": " Pafos FC vs Hajduk Split ",
+            "flags": {
+                "team1": "cyprus",
+                "team2": "croatia"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Cytavision Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Pafos FC vs Hajduk Split "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Pafos FC vs Hajduk Split "
+        },
+        {
+            "channel": "Hajduk TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.hajduk.hr/",
+            "related_to": " Pafos FC vs Hajduk Split "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Pafos FC vs Hajduk Split "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Pafos FC vs Hajduk Split "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-3]",
+            "match": " Petrocub vs Borac Banja Luka ",
+            "flags": {
+                "team1": "moldova",
+                "team2": "bosnia"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "RTRS TV",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Petrocub vs Borac Banja Luka "
+        },
+        {
+            "channel": "We Sport Moldova",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Petrocub vs Borac Banja Luka "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Velez Mostar vs Dunajská Streda ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "slovakia"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "DvojkaHD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12363 V 29500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.stvr.sk/televizia/live-2",
+            "related_to": " Velez Mostar vs Dunajská Streda "
+        },
+        {
+            "channel": "MY TV BiH 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://mymedia.ba/",
+            "related_to": " Velez Mostar vs Dunajská Streda "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Midtjylland vs Besiktas ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "channel": "S Sport 1 Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "channel": "TV Tipsport Czechia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": " Midtjylland vs Besiktas "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-2]",
+            "match": " HB Tórshavn vs Motherwell ",
+            "flags": {
+                "team1": "faroeislands",
+                "team2": "scotland"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " HB Tórshavn vs Motherwell "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HB Tórshavn vs Motherwell "
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HB Tórshavn vs Motherwell "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " HB Tórshavn vs Motherwell "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-3]",
+            "match": " Zalgiris vs Dinamo Tbilisi ",
+            "flags": {
+                "team1": "lithuania",
+                "team2": "georgia"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "1TV Georgia HD 📺",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "HD BISS",
+            "link": "https://player.1tv.ge/1tv/",
+            "related_to": " Zalgiris vs Dinamo Tbilisi "
+        },
+        {
+            "channel": "TV3 Lietuva HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11938 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Zalgiris vs Dinamo Tbilisi "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [1-0]",
+            "match": " Hradec Králové vs Tromsø ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "norway"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "TV Tipsport Czechia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": " Hradec Králové vs Tromsø "
         },
         {
             "channel": "VG+ Sport Norge📺",
@@ -2018,57 +1080,1355 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.vgtv.no/live",
-            "related_to": " Liverpool vs Wrexham "
+            "related_to": " Hradec Králové vs Tromsø "
         },
         {
-            "channel": "Wrexham AFC📺",
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-2]",
+            "match": " Brann vs Universitatea Cluj ",
+            "flags": {
+                "team1": "norway",
+                "team2": "romania"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Brann vs Universitatea Cluj "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [4-2]",
+            "match": " Dynamo Minsk vs Neftchi ",
+            "flags": {
+                "team1": "belarus",
+                "team2": "azerbaijan"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Ictimai TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Dynamo Minsk vs Neftchi "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Nordsjælland vs GAIS ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Nordsjælland vs GAIS "
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nordsjælland vs GAIS "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Nordsjælland vs GAIS "
+        },
+        {
+            "compet": "Russian Cup (Kubok Rossii) - 1st Round (Regions Path)",
+            "match": " FC 10 Moscow vs Kosmos Khimki ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "17:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " FC 10 Moscow vs Kosmos Khimki "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " FC 10 Moscow vs Kosmos Khimki "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-3]",
+            "match": " Valletta vs Raków Czestochowa ",
+            "flags": {
+                "team1": "malta",
+                "team2": "poland"
+            },
+            "time": "17:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.wrexhamafc.co.uk/videos",
-            "related_to": " Liverpool vs Wrexham "
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Valletta vs Raków Czestochowa "
         },
         {
-            "compet": "USL Championship - Group Stage",
-            "match": " Louisville City vs Birmingham Legion ",
+            "channel": "TV Republika HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10758 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Valletta vs Raków Czestochowa "
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Valletta vs Raków Czestochowa "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " The New Saints vs Flora Tallinn ",
             "flags": {
-                "team1": "usa",
-                "team2": "usa"
+                "team1": "wales",
+                "team2": "estonia"
             },
-            "time": "23:30",
-            "date": "2026-07-29"
+            "time": "17:30",
+            "date": "2026-07-30"
         },
         {
-            "channel": "CBS Sports Golazo N/W📺",
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " The New Saints vs Flora Tallinn "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " The New Saints vs Flora Tallinn "
+        },
+        {
+            "channel": "BBC Sport Website📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": " The New Saints vs Flora Tallinn "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " The New Saints vs Flora Tallinn "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " The New Saints vs Flora Tallinn "
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
+            "related_to": " The New Saints vs Flora Tallinn "
+        },
+        {
+            "channel": "YouTube: Sgorio 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
+            "related_to": " The New Saints vs Flora Tallinn "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Derry City vs Rijeka ",
+            "flags": {
+                "team1": "ireland",
+                "team2": "croatia"
+            },
+            "time": "17:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Derry City vs Rijeka "
+        },
+        {
+            "channel": "MAX Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Derry City vs Rijeka "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Derry City vs Rijeka "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [3-2]",
+            "match": " PAOK Thessaloniki vs Dynamo Kyiv ",
+            "flags": {
+                "team1": "greece",
+                "team2": "ukraine"
+            },
+            "time": "17:45",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "2+2 Ukraine",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12226 V 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " PAOK Thessaloniki vs Dynamo Kyiv "
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " PAOK Thessaloniki vs Dynamo Kyiv "
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " PAOK Thessaloniki vs Dynamo Kyiv "
+        },
+        {
+            "channel": "KS TV | Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/68fb631b4eb468b99819f75b-ks-tv-football",
+            "related_to": " PAOK Thessaloniki vs Dynamo Kyiv "
+        },
+        {
+            "channel": "Open Beyond TV HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 27500 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " PAOK Thessaloniki vs Dynamo Kyiv "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [0-0]",
+            "match": " CSKA Sofia vs Qarabagh ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "azerbaijan"
+            },
+            "time": "18:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11095 H 30000 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " CSKA Sofia vs Qarabagh "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " CSKA Sofia vs Qarabagh "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [4-1]",
+            "match": " Ajax vs Vojvodina ",
+            "flags": {
+                "team1": "holland",
+                "team2": "serbia"
+            },
+            "time": "18:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Ajax vs Vojvodina "
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ajax vs Vojvodina "
+        },
+        {
+            "channel": "KS TV | Futbol 3📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/6a5a2aea87b491a656de4d98-ks-tv-football-3",
+            "related_to": " Ajax vs Vojvodina "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ajax vs Vojvodina "
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Ajax vs Vojvodina "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]",
+            "match": " Ballkani vs Bohemians ",
+            "flags": {
+                "team1": "kosova",
+                "team2": "ireland"
+            },
+            "time": "18:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Bohemians FC Stream📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.bohemians.ie/bohemiansplay",
+            "related_to": " Ballkani vs Bohemians "
+        },
+        {
+            "channel": "RTK 1 Kosovo HD 📺",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10938 H 15835 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": " Ballkani vs Bohemians "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Ballkani vs Bohemians "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]",
+            "match": " Shkëndija vs Bravo ",
+            "flags": {
+                "team1": "northmacedonia",
+                "team2": "slovenia"
+            },
+            "time": "18:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Shkëndija vs Bravo "
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Shkëndija vs Bravo "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-4]",
+            "match": " UNA Strassen vs Partizan Belgrade ",
+            "flags": {
+                "team1": "luxembourg",
+                "team2": "serbia"
+            },
+            "time": "18:15",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " UNA Strassen vs Partizan Belgrade "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " UNA Strassen vs Partizan Belgrade "
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " UNA Strassen vs Partizan Belgrade "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " UNA Strassen vs Partizan Belgrade "
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " UNA Strassen vs Partizan Belgrade "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": " Sion vs BATE Borisov ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "belarus"
+            },
+            "time": "18:15",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Play RTS Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Sion vs BATE Borisov "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": " Sion vs BATE Borisov "
+        },
+        {
+            "channel": "SRF Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": " Sion vs BATE Borisov "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": " CFR Cluj vs Alashkert ",
+            "flags": {
+                "team1": "romania",
+                "team2": "armenia"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " CFR Cluj vs Alashkert "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " CFR Cluj vs Alashkert "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": " Anderlecht vs Hammarby ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "sweden"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Anderlecht vs Hammarby "
+        },
+        {
+            "channel": "RTL Club Belgique",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11411 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Anderlecht vs Hammarby "
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Anderlecht vs Hammarby "
+        },
+        {
+            "channel": "VTM 2 Belgium HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Anderlecht vs Hammarby "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-0]",
+            "match": " Austria Vienna vs FK Liepaja ",
+            "flags": {
+                "team1": "austria",
+                "team2": "latvia"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Austria Vienna vs FK Liepaja "
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs FK Liepaja "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-1]",
+            "match": " Panathinaikos vs Paks ",
+            "flags": {
+                "team1": "greece",
+                "team2": "hungary"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Panathinaikos vs Paks "
+        },
+        {
+            "channel": "M4 Sport+ HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "https://m4sport.hu/elo/mtv4plus/",
+            "related_to": " Panathinaikos vs Paks "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12338 H 11568 - 2/3",
+            "encry": "HD BISS",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Panathinaikos vs Paks "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [2-1]",
+            "match": " Ferencváros vs Twente ",
+            "flags": {
+                "team1": "hungary",
+                "team2": "holland"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Twente "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Ferencváros vs Twente "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Zrinjski vs Valur Reykjavík ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "iceland"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zrinjski vs Valur Reykjavík "
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zrinjski vs Valur Reykjavík "
+        },
+        {
+            "channel": "SÝN Sport Island 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Zrinjski vs Valur Reykjavík "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-0]",
+            "match": " AA Gent vs LNZ Cherkasy ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "ukraine"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "AVS TV Belgium 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://avs.be/live",
+            "related_to": " AA Gent vs LNZ Cherkasy "
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " AA Gent vs LNZ Cherkasy "
+        },
+        {
+            "channel": "KS TV | Futbol 2📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.kyivstar.ua/en/live-channels/68fb653f4eb468b99832891a-ks-tv-football-2",
+            "related_to": " AA Gent vs LNZ Cherkasy "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]",
+            "match": " GKS Katowice vs MSK Zilina ",
+            "flags": {
+                "team1": "poland",
+                "team2": "slovakia"
+            },
+            "time": "18:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " GKS Katowice vs MSK Zilina "
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " GKS Katowice vs MSK Zilina "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-0]",
+            "match": " Koper vs NSI Runavik ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "faroeislands"
+            },
+            "time": "18:45",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Koper vs NSI Runavik "
+        },
+        {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Koper vs NSI Runavik "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-5]",
+            "match": " Coleraine vs HJK Helsinki ",
+            "flags": {
+                "team1": "nireland",
+                "team2": "finland"
+            },
+            "time": "18:45",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "HJK TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "FTA",
-            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-            "related_to": " Louisville City vs Birmingham Legion "
+            "link": "https://hjktv.fi/hjk",
+            "related_to": " Coleraine vs HJK Helsinki "
         },
         {
-            "channel": "Paramount+ USA",
+            "channel": "NIFL TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://nifltv.co.uk/en",
+            "related_to": " Coleraine vs HJK Helsinki "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Coleraine vs HJK Helsinki "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-0]",
+            "match": " Sporting Braga vs Zeleznicar ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "serbia"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sporting Braga vs Zeleznicar "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Sporting Braga vs Zeleznicar "
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sporting Braga vs Zeleznicar "
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Braga vs Zeleznicar "
+        },
+        {
+            "compet": "UEFA Europa League - 2nd Qualifying Round (2nd Leg) [1-2]",
+            "match": " Benfica vs St Gallen ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "switzerland"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Benfica TV HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11304 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Benfica vs St Gallen "
+        },
+        {
+            "channel": "Play RTS Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Benfica vs St Gallen "
+        },
+        {
+            "channel": "SIC Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Benfica vs St Gallen "
+        },
+        {
+            "channel": "SRF Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": " Benfica vs St Gallen "
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": " Benfica vs St Gallen "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-1]",
+            "match": " Dinamo City vs Aluminij ",
+            "flags": {
+                "team1": "albania",
+                "team2": "slovenia"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "SuperSport 2 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Dinamo City vs Aluminij "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-3]",
+            "match": " Sutjeska vs ML Vitebsk ",
+            "flags": {
+                "team1": "montenegro",
+                "team2": "belarus"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "TVCG 2 HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Sutjeska vs ML Vitebsk "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-2]",
+            "match": " Hibernian vs Malisheva ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "kosova"
+            },
+            "time": "19:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Hibernian vs Malisheva "
+        },
+        {
+            "compet": "UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-4]",
+            "match": " Vestri vs RFS Riga ",
+            "flags": {
+                "team1": "iceland",
+                "team2": "latvia"
+            },
+            "time": "20:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "SÝN Sport Island 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Louisville City vs Birmingham Legion "
+            "related_to": " Vestri vs RFS Riga "
         },
         {
-            "channel": "Prime Video USA",
+            "compet": "CONMEBOL Copa Sudamericana - Round of 16 Qualifier (2nd Leg)",
+            "match": " Grêmio vs Bolívar ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "bolivia"
+            },
+            "time": "22:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "beIN Connect Australia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "beIN Connect NZ 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "beIN Connect USA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "Okko Futbol HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Louisville City vs Birmingham Legion "
+            "related_to": " Grêmio vs Bolívar "
         },
         {
-            "channel": "YouTube: USL Championship 📺",
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Grêmio vs Bolívar "
+        },
+        {
+            "compet": "CONCACAF U-20 Championships - Round 3",
+            "match": " Costa Rica U-20 vs Antigua & Barbuda U-20 ",
+            "flags": {
+                "team1": "costarica",
+                "team2": "antiguabarbuda"
+            },
+            "time": "22:00",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "CONCACAF GO📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://www.concacaf.com/concacaf-go/",
+            "related_to": " Costa Rica U-20 vs Antigua & Barbuda U-20 "
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.youtube.com/@USL/streams",
-            "related_to": " Louisville City vs Birmingham Legion "
+            "link": "",
+            "related_to": " Costa Rica U-20 vs Antigua & Barbuda U-20 "
+        },
+        {
+            "channel": "TUDN Español USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Costa Rica U-20 vs Antigua & Barbuda U-20 "
+        },
+        {
+            "channel": "YouTube: CONCACAF📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@concacaf/streams",
+            "related_to": " Costa Rica U-20 vs Antigua & Barbuda U-20 "
+        },
+        {
+            "compet": "Brazilian Série A - Week 21",
+            "match": " Corinthians vs Atlético Paranaense ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "22:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "M+ #Vamos Bar",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "M+ Vamos España HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Corinthians vs Atlético Paranaense "
+        },
+        {
+            "compet": "Friendly Club Match - Sports Illustrated Stadium, Harrison, NJ",
+            "match": " Leeds United vs Sunderland ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "23:30",
+            "date": "2026-07-30"
+        },
+        {
+            "channel": "Al Rabiaa Sport Iraq",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 V 27500 - 7/8",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "LUTV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://video.leedsunited.com/fixtures",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Net4+ Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://arena4plus.network4.hu/",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "SAFC Live📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://safc.com/news/team-news/live-video",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Leeds United vs Sunderland "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Leeds United vs Sunderland "
         }
     ]
 }
