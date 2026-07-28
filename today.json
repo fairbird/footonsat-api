@@ -103,9 +103,25 @@
             "related_to": " Western Sydney vs Chelsea "
         },
         {
+            "channel": "Okko Prime Sport HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Western Sydney vs Chelsea "
+        },
+        {
             "channel": "ON Sport Plus HD",
             "sat": "Nilesat 201 7.0°w",
             "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Western Sydney vs Chelsea "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
             "encry": "FTA",
             "link": "",
             "related_to": " Western Sydney vs Chelsea "
@@ -138,6 +154,14 @@
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Western Sydney vs Chelsea "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Western Sydney vs Chelsea "
@@ -341,6 +365,14 @@
             "related_to": " Crystal Palace vs Lens "
         },
         {
+            "channel": "Okko Prime Sport HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Crystal Palace vs Lens "
+        },
+        {
             "channel": "Palace TV+📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -441,32 +473,6 @@
             "related_to": " Apollon Limassol vs Dila Gori "
         },
         {
-            "compet": "Russian Cup (Kubok Rossii) - 1st Round (Regions Path)",
-            "match": " 2Drots vs Oryol ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "17:00",
-            "date": "2026-07-28"
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " 2Drots vs Oryol "
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0°e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "",
-            "related_to": " 2Drots vs Oryol "
-        },
-        {
             "compet": "Swedish Superettan - Week 16",
             "match": " Landskrona vs IFK Norrköping ",
             "flags": {
@@ -491,6 +497,32 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
             "related_to": " Landskrona vs IFK Norrköping "
+        },
+        {
+            "compet": "Russian Cup (Kubok Rossii) - 1st Round (Regions Path)",
+            "match": " 2Drots vs Oryol ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "17:00",
+            "date": "2026-07-28"
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " 2Drots vs Oryol "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " 2Drots vs Oryol "
         },
         {
             "compet": "Friendly Club Match",
@@ -591,6 +623,14 @@
             "related_to": " Dinamo Zagreb vs Thun "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Dinamo Zagreb vs Thun "
+        },
+        {
             "channel": "Play RTS Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -646,6 +686,14 @@
             "freq": "10938 H 15835 - 2/3",
             "encry": "MPEG-4 Conax",
             "link": "https://www.rtklive.com/sq/livestream/rtk1/",
+            "related_to": " Drita vs Floriana "
+        },
+        {
+            "channel": "TVM Sport+ HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Drita vs Floriana "
         },
         {
@@ -735,32 +783,6 @@
             "related_to": " Celje vs Egnatia "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": " Aston Villa vs Real Sociedad ",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "time": "18:30",
-            "date": "2026-07-28"
-        },
-        {
-            "channel": "ETB 1 Basque Country",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - -",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Aston Villa vs Real Sociedad "
-        },
-        {
-            "channel": "Villa TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://video.avfc.co.uk/",
-            "related_to": " Aston Villa vs Real Sociedad "
-        },
-        {
             "compet": "Friendly Club Match - Como Cup Day 1",
             "match": " Famalicão vs Crystal Palace ",
             "flags": {
@@ -776,6 +798,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Famalicão vs Crystal Palace "
+        },
+        {
+            "channel": "Okko Prime Sport HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Famalicão vs Crystal Palace "
         },
         {
@@ -801,6 +831,32 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Famalicão vs Crystal Palace "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Aston Villa vs Real Sociedad ",
+            "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "time": "18:30",
+            "date": "2026-07-28"
+        },
+        {
+            "channel": "ETB 1 Basque Country",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Aston Villa vs Real Sociedad "
+        },
+        {
+            "channel": "Villa TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://video.avfc.co.uk/",
+            "related_to": " Aston Villa vs Real Sociedad "
         },
         {
             "compet": "Friendly Club Match",
@@ -884,6 +940,14 @@
             "freq": "11303 H 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Hearts vs Sturm Graz "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": " Hearts vs Sturm Graz "
         },
         {
@@ -1096,6 +1160,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Lens vs Famalicão "
+        },
+        {
+            "channel": "Okko Prime Sport HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Lens vs Famalicão "
         },
         {
