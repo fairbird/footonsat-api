@@ -1,6 +1,42 @@
 {
     "footonsat": [
         {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
+            "match": " Ajax vs Shelbourne ",
+            "flags": {
+                "team1": "holland",
+                "team2": "ireland"
+            },
+            "time": "17:00",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Ajax vs Shelbourne "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
+            "match": " Sporting Braga vs Dynamo Minsk ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "belarus"
+            },
+            "time": "18:30",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Braga vs Dynamo Minsk "
+        },
+        {
             "compet": "UEFA Super Cup - FINAL",
             "match": " Paris St Germain vs Aston Villa ",
             "flags": {
@@ -71,6 +107,14 @@
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12565 V 30000 - 7/8",
             "encry": "Viaccess",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
         },
