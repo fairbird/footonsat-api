@@ -363,15 +363,15 @@
             "related_to": " FC Tokyo vs Borussia Dortmund "
         },
         {
-            "channel": "Sky Sport Bundesliga 1 HD",
+            "channel": "Sky Sport Bundesliga HD",
             "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
+            "freq": "12304 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " FC Tokyo vs Borussia Dortmund "
         },
         {
-            "channel": "Sky Sport Bundesliga HD",
+            "channel": "Sky Sport News Deutsch HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12304 H 27500 - 9/10",
             "encry": "HD VideoGuard",
@@ -783,6 +783,14 @@
             "sat": "Thor 5 0.8°w",
             "freq": "12265 V 28000 - 7/8",
             "encry": "Conax",
+            "link": "",
+            "related_to": " Manchester City vs Inter Milan "
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Manchester City vs Inter Milan "
         },
@@ -1305,56 +1313,6 @@
             "related_to": " Piast Gliwice vs Wisla Kraków "
         },
         {
-            "compet": "Swedish Allsvenskan - Week 15",
-            "match": " BK Häcken vs Kalmar ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "13:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "MTV Katsomon+📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": " BK Häcken vs Kalmar "
-        },
-        {
-            "channel": "MTV Urheilu 2 Suomi HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11247 V 24500 - 7/8",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " BK Häcken vs Kalmar "
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10872 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " BK Häcken vs Kalmar "
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " BK Häcken vs Kalmar "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " BK Häcken vs Kalmar "
-        },
-        {
             "compet": "Friendly Club Match - Solna, Sweden",
             "match": " Manchester United vs Atlético Madrid ",
             "flags": {
@@ -1411,6 +1369,56 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": " Manchester United vs Atlético Madrid "
+        },
+        {
+            "compet": "Swedish Allsvenskan - Week 15",
+            "match": " BK Häcken vs Kalmar ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "13:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "MTV Katsomon+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": " BK Häcken vs Kalmar "
+        },
+        {
+            "channel": "MTV Urheilu 2 Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11247 V 24500 - 7/8",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " BK Häcken vs Kalmar "
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " BK Häcken vs Kalmar "
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " BK Häcken vs Kalmar "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " BK Häcken vs Kalmar "
         },
         {
             "compet": "South African Premiership - Week 1",
@@ -1821,6 +1829,24 @@
             "related_to": " Haverfordwest vs Airbus UK "
         },
         {
+            "compet": "Scottish Championship - Week 1",
+            "match": " Inverness CT vs Dunfermline Athletic ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "DAFC Live📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.dafc.co.uk/videos",
+            "related_to": " Inverness CT vs Dunfermline Athletic "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Cardiff City vs Roma ",
             "flags": {
@@ -1829,6 +1855,14 @@
             },
             "time": "14:00",
             "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
         },
         {
             "channel": "beIN Sports 1 HD",

@@ -64,6 +64,24 @@
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
+            "match": " Dinamo Zagreb vs Kauno Zalgiris ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "lithuania"
+            },
+            "time": "18:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Dinamo Zagreb vs Kauno Zalgiris "
+        },
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
             "match": " Fenerbahçe vs Sturm Graz ",
             "flags": {
                 "team1": "turkey",
@@ -71,6 +89,14 @@
             },
             "time": "18:00",
             "date": "2026-08-05"
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Fenerbahçe vs Sturm Graz "
         },
         {
             "channel": "TV 100 HD",
@@ -169,6 +195,14 @@
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12565 V 30000 - 7/8",
             "encry": "Viaccess",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
         },
