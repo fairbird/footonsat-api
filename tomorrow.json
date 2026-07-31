@@ -249,11 +249,27 @@
             "related_to": " Chelsea vs Tottenham Hotspur "
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Chelsea vs Tottenham Hotspur "
+        },
+        {
             "channel": "SpursPlay📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://play.tottenhamhotspur.com/",
+            "related_to": " Chelsea vs Tottenham Hotspur "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Chelsea vs Tottenham Hotspur "
         },
         {
@@ -456,6 +472,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " FC Tokyo vs Borussia Dortmund "
+        },
+        {
+            "channel": "Z Sports 1 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11263 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
             "related_to": " FC Tokyo vs Borussia Dortmund "
         },
         {
@@ -832,6 +856,22 @@
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Manchester City vs Inter Milan "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Inter Milan "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Manchester City vs Inter Milan "
         },
         {
@@ -1722,80 +1762,6 @@
         },
         {
             "compet": "Friendly Club Match",
-            "match": " Cardiff City vs Roma ",
-            "flags": {
-                "team1": "wales",
-                "team2": "italy"
-            },
-            "time": "14:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "beIN Sports 1 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10812 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "beIN Sports Australia 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "Cardiff City TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.cardiffcityfc.co.uk/video/live",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "JOJ Šport SVK HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12266 H 29900 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "compet": "Friendly Club Match",
             "match": " Doncaster Rovers vs Lincoln City ",
             "flags": {
                 "team1": "england",
@@ -1975,6 +1941,80 @@
             "encry": "",
             "link": "https://www.alloaathletic.co.uk/product-category/wasp-tv/",
             "related_to": " Alloa Athletic vs East Fife "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Cardiff City vs Roma ",
+            "flags": {
+                "team1": "wales",
+                "team2": "italy"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "beIN Sports Australia 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "Cardiff City TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.cardiffcityfc.co.uk/video/live",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "JOJ Šport SVK HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
         },
         {
             "compet": "Friendly Club Match",
@@ -2189,6 +2229,32 @@
             "related_to": " Walsall vs Notts County "
         },
         {
+            "compet": "Norwegian Eliteserien - Week 16",
+            "match": " Fredrikstad vs Sandefjord ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Fredrikstad vs Sandefjord "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Fredrikstad vs Sandefjord "
+        },
+        {
             "compet": "Danish 1. Division - Week 2",
             "match": " Kolding vs Hvidovre ",
             "flags": {
@@ -2297,32 +2363,6 @@
             "encry": "",
             "link": "https://www.qpr.co.uk/qprpluspass/",
             "related_to": " AFC Wimbledon vs Queens Park Rangers "
-        },
-        {
-            "compet": "Norwegian Eliteserien - Week 16",
-            "match": " Fredrikstad vs Sandefjord ",
-            "flags": {
-                "team1": "norway",
-                "team2": "norway"
-            },
-            "time": "14:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Fredrikstad vs Sandefjord "
-        },
-        {
-            "channel": "TV2 Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11385 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Fredrikstad vs Sandefjord "
         },
         {
             "compet": "Scottish League 2 - Week 1",
@@ -2991,6 +3031,22 @@
             "related_to": " Real Madrid vs Fiorentina "
         },
         {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Madrid vs Fiorentina "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Real Madrid vs Fiorentina "
+        },
+        {
             "channel": "TV Tipsport Czechia 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -3569,6 +3625,14 @@
             "related_to": " Aberdeen vs Hearts "
         },
         {
+            "channel": "Go3 Sport Open Baltic 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": " Aberdeen vs Hearts "
+        },
+        {
             "channel": "Hearts TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3913,6 +3977,112 @@
             "related_to": " Baltika vs Dynamo Moscow "
         },
         {
+            "compet": "Friendly Club Match - Estadi Montilivi, Girona",
+            "match": " Girona XI vs Arsenal ",
+            "flags": {
+                "team1": "catalonia",
+                "team2": "england"
+            },
+            "time": "18:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "Arsenal LIVE📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.arsenal.com/ppv-packages",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "Net4+ Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://arena4plus.network4.hu/",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "TV Tipsport Czechia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
+            "channel": "Z Sports 2 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Girona XI vs Arsenal "
+        },
+        {
             "compet": "Friendly Club Match - COMO Cup FINAL",
             "match": " Lens vs Villarreal ",
             "flags": {
@@ -4021,88 +4191,6 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Petrovac vs Bokelj "
-        },
-        {
-            "compet": "Friendly Club Match - Estadi Montilivi, Girona",
-            "match": " Girona XI vs Arsenal ",
-            "flags": {
-                "team1": "catalonia",
-                "team2": "england"
-            },
-            "time": "18:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "Arsenal LIVE📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.arsenal.com/ppv-packages",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "beIN Sports Australia 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "Net4+ Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "ON Sport Plus HD",
-            "sat": "Nilesat 201 7.0°w",
-            "freq": "11977 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "Sport Bladet Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": " Girona XI vs Arsenal "
-        },
-        {
-            "channel": "TV Tipsport Czechia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": " Girona XI vs Arsenal "
         },
         {
             "compet": "Friendly Club Match",
@@ -4701,6 +4789,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "10834 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FC Porto vs Torreense "
+        },
+        {
+            "channel": "Z Sports 2 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " FC Porto vs Torreense "
         },

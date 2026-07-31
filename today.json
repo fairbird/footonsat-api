@@ -945,6 +945,32 @@
             "related_to": " Babelsberg vs Carl Zeiss Jena "
         },
         {
+            "compet": "Swedish Superettan - Week 17",
+            "match": " Oddevold vs Norrby ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2026-07-31"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Oddevold vs Norrby "
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " Oddevold vs Norrby "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Sassuolo vs Folgore Caratese ",
             "flags": {
@@ -987,32 +1013,6 @@
             "encry": "",
             "link": "https://www.fotbal.cz/tv/",
             "related_to": " Táborsko vs Dukla Prague "
-        },
-        {
-            "compet": "Swedish Superettan - Week 17",
-            "match": " Oddevold vs Norrby ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2026-07-31"
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10872 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Oddevold vs Norrby "
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Oddevold vs Norrby "
         },
         {
             "compet": "Russian Premier League - Week 2",
@@ -1275,32 +1275,6 @@
             "related_to": " Toulouse vs Real Sociedad "
         },
         {
-            "compet": "Norwegian Eliteserien - Week 16",
-            "match": " Vålerenga vs HamKam ",
-            "flags": {
-                "team1": "norway",
-                "team2": "norway"
-            },
-            "time": "17:00",
-            "date": "2026-07-31"
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Vålerenga vs HamKam "
-        },
-        {
-            "channel": "TV2 Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11385 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Vålerenga vs HamKam "
-        },
-        {
             "compet": "Danish 1. Division - Week 2",
             "match": " HB Køge vs Vejle BK ",
             "flags": {
@@ -1341,6 +1315,32 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " HB Køge vs Vejle BK "
+        },
+        {
+            "compet": "Norwegian Eliteserien - Week 16",
+            "match": " Vålerenga vs HamKam ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "17:00",
+            "date": "2026-07-31"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Vålerenga vs HamKam "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vålerenga vs HamKam "
         },
         {
             "compet": "Czech LIGA - Week 2",
@@ -1609,6 +1609,32 @@
             "related_to": " Kriens vs Winterthur "
         },
         {
+            "compet": "Austrian 2. Liga - Week 1",
+            "match": " FAC Vienna vs St Pölten ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "18:30",
+            "date": "2026-07-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " FAC Vienna vs St Pölten "
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11273 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": " FAC Vienna vs St Pölten "
+        },
+        {
             "compet": "Belgian Super Cup - FINAL",
             "match": " Club Brugge vs Union St Gilloise ",
             "flags": {
@@ -1641,32 +1667,6 @@
             "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Club Brugge vs Union St Gilloise "
-        },
-        {
-            "compet": "Austrian 2. Liga - Week 1",
-            "match": " FAC Vienna vs St Pölten ",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "time": "18:30",
-            "date": "2026-07-31"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " FAC Vienna vs St Pölten "
-        },
-        {
-            "channel": "ORF Sport+ Austria HD 📺",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11273 H 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "https://on.orf.at/live?channel=orfs",
-            "related_to": " FAC Vienna vs St Pölten "
         },
         {
             "compet": "Polish Ekstraklasa - Week 2",
@@ -1887,6 +1887,14 @@
             "related_to": " Sporting Lisbon vs Nottingham Forest "
         },
         {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Sporting Lisbon vs Nottingham Forest "
+        },
+        {
             "channel": "TVi Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12130 H 27500 - 3/4",
@@ -1900,6 +1908,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.vgtv.no/live",
+            "related_to": " Sporting Lisbon vs Nottingham Forest "
+        },
+        {
+            "channel": "Z Sports 2 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
             "related_to": " Sporting Lisbon vs Nottingham Forest "
         },
         {
@@ -1973,6 +1989,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Birmingham City vs Barcelona "
         },
