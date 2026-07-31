@@ -565,18 +565,18 @@
             "related_to": " Slavia Sofia vs Lokomotiv Sofia "
         },
         {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Slavia Sofia vs Lokomotiv Sofia "
-        },
-        {
             "channel": "SportKlub 1 Slovenija HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Sofia vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Slavia Sofia vs Lokomotiv Sofia "
         },
@@ -945,32 +945,6 @@
             "related_to": " Babelsberg vs Carl Zeiss Jena "
         },
         {
-            "compet": "Swedish Superettan - Week 17",
-            "match": " Oddevold vs Norrby ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "17:00",
-            "date": "2026-07-31"
-        },
-        {
-            "channel": "TV4 Fotboll HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10872 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Oddevold vs Norrby "
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " Oddevold vs Norrby "
-        },
-        {
             "compet": "Friendly Club Match",
             "match": " Sassuolo vs Folgore Caratese ",
             "flags": {
@@ -1131,6 +1105,32 @@
             "related_to": " NEC Nijmegen vs Sevilla "
         },
         {
+            "compet": "Swedish Superettan - Week 17",
+            "match": " Oddevold vs Norrby ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "17:00",
+            "date": "2026-07-31"
+        },
+        {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Oddevold vs Norrby "
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " Oddevold vs Norrby "
+        },
+        {
             "compet": "Swedish Damallsvenskan - Week 12",
             "match": " Hammarby vs Växjö ",
             "flags": {
@@ -1275,6 +1275,32 @@
             "related_to": " Toulouse vs Real Sociedad "
         },
         {
+            "compet": "Norwegian Eliteserien - Week 16",
+            "match": " Vålerenga vs HamKam ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "17:00",
+            "date": "2026-07-31"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Vålerenga vs HamKam "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vålerenga vs HamKam "
+        },
+        {
             "compet": "Danish 1. Division - Week 2",
             "match": " HB Køge vs Vejle BK ",
             "flags": {
@@ -1315,32 +1341,6 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " HB Køge vs Vejle BK "
-        },
-        {
-            "compet": "Norwegian Eliteserien - Week 16",
-            "match": " Vålerenga vs HamKam ",
-            "flags": {
-                "team1": "norway",
-                "team2": "norway"
-            },
-            "time": "17:00",
-            "date": "2026-07-31"
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Vålerenga vs HamKam "
-        },
-        {
-            "channel": "TV2 Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11385 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Vålerenga vs HamKam "
         },
         {
             "compet": "Czech LIGA - Week 2",
@@ -1617,32 +1617,6 @@
             "related_to": " Kriens vs Winterthur "
         },
         {
-            "compet": "Austrian 2. Liga - Week 1",
-            "match": " FAC Vienna vs St Pölten ",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "time": "18:30",
-            "date": "2026-07-31"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " FAC Vienna vs St Pölten "
-        },
-        {
-            "channel": "ORF Sport+ Austria HD 📺",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11273 H 22000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "https://on.orf.at/live?channel=orfs",
-            "related_to": " FAC Vienna vs St Pölten "
-        },
-        {
             "compet": "Belgian Super Cup - FINAL",
             "match": " Club Brugge vs Union St Gilloise ",
             "flags": {
@@ -1675,6 +1649,32 @@
             "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Club Brugge vs Union St Gilloise "
+        },
+        {
+            "compet": "Austrian 2. Liga - Week 1",
+            "match": " FAC Vienna vs St Pölten ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "18:30",
+            "date": "2026-07-31"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " FAC Vienna vs St Pölten "
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11273 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": " FAC Vienna vs St Pölten "
         },
         {
             "compet": "Polish Ekstraklasa - Week 2",
@@ -1837,6 +1837,128 @@
             "related_to": " Bromley vs Queens Park Rangers "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Birmingham City vs Barcelona ",
+            "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "time": "18:45",
+            "date": "2026-07-31"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Blues+ TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bcfc.com/pages/en/latest-videos",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Sharjah Sports HD 📺",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "TV3 Catalunya HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "YouTube: Barcelona 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@FCBarcelona",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Birmingham City vs Barcelona "
+        },
+        {
             "compet": "Friendly Club Match - Estádio Algarve",
             "match": " Sporting Lisbon vs Nottingham Forest ",
             "flags": {
@@ -1925,120 +2047,6 @@
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Sporting Lisbon vs Nottingham Forest "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Birmingham City vs Barcelona ",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "time": "18:45",
-            "date": "2026-07-31"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": "unknown",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "Blues+ TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bcfc.com/pages/en/latest-videos",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "MAX Sport 4 Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "11475 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "Sharjah Sports HD 📺",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "https://sba.net.ae/channels/tv/35/stream",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "Sporty TV Africa",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12605 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "TV3 Catalunya HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "YouTube: Barcelona 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@FCBarcelona",
-            "related_to": " Birmingham City vs Barcelona "
-        },
-        {
-            "channel": "Ziggo Sport 2",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Birmingham City vs Barcelona "
         },
         {
             "compet": "Cymru Premier - Week 1",
@@ -2331,6 +2339,14 @@
             "related_to": " Dundee United vs Rangers "
         },
         {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Dundee United vs Rangers "
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2455,6 +2471,14 @@
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
             "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Dundee United vs Rangers "
+        },
+        {
+            "channel": "Sharjah Sports 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
             "link": "",
             "related_to": " Dundee United vs Rangers "
         },

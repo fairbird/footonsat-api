@@ -379,6 +379,14 @@
             "related_to": " FC Tokyo vs Borussia Dortmund "
         },
         {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " FC Tokyo vs Borussia Dortmund "
+        },
+        {
             "channel": "Sport TV1 Slovenija",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11231 V 42000 - 3/5",
@@ -455,6 +463,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " FC Tokyo vs Borussia Dortmund "
+        },
+        {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " FC Tokyo vs Borussia Dortmund "
         },
@@ -811,6 +827,14 @@
             "related_to": " Manchester City vs Inter Milan "
         },
         {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Manchester City vs Inter Milan "
+        },
+        {
             "channel": "Net4+ Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -933,6 +957,24 @@
             "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Shanghai Port vs Shandong TaiShan "
+        },
+        {
+            "compet": "Austrian Frauen Bundesliga - Week 1",
+            "match": " Austria Vienna vs St Pölten ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "12:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs St Pölten "
         },
         {
             "compet": "Friendly Club Match",
@@ -1097,6 +1139,24 @@
             "encry": "",
             "link": "https://video.avfc.co.uk/",
             "related_to": " Indonesia All-Stars vs Aston Villa "
+        },
+        {
+            "compet": "Austrian Frauen Bundesliga - Week 1",
+            "match": " Sturm Graz vs Rheindorf Altach ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "12:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Sturm Graz vs Rheindorf Altach "
         },
         {
             "compet": "Friendly Club Match",
@@ -1762,29 +1822,85 @@
         },
         {
             "compet": "Friendly Club Match",
-            "match": " Doncaster Rovers vs Lincoln City ",
+            "match": " Cardiff City vs Roma ",
             "flags": {
-                "team1": "england",
-                "team2": "england"
+                "team1": "wales",
+                "team2": "italy"
             },
             "time": "14:00",
             "date": "2026-08-01"
         },
         {
-            "channel": "IMPS+ Streaming📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.weareimps.com/imps/streaming/packages",
-            "related_to": " Doncaster Rovers vs Lincoln City "
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
         },
         {
-            "channel": "Rovers+📺",
+            "channel": "beIN Sports Australia 1 HD",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "Cardiff City TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
-            "link": "https://www.doncasterroversfc.co.uk/videos/subscriptions",
-            "related_to": " Doncaster Rovers vs Lincoln City "
+            "link": "https://www.cardiffcityfc.co.uk/video/live",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "JOJ Šport SVK HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12266 H 29900 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "Sharjah Sports HD 📺",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
+            "related_to": " Cardiff City vs Roma "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cardiff City vs Roma "
         },
         {
             "compet": "Scottish Premiership - Week 1",
@@ -1818,6 +1934,14 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
+            "related_to": " Falkirk vs St Mirren "
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": " Falkirk vs St Mirren "
         },
         {
@@ -1917,6 +2041,32 @@
             "related_to": " Falkirk vs St Mirren "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Doncaster Rovers vs Lincoln City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "IMPS+ Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.weareimps.com/imps/streaming/packages",
+            "related_to": " Doncaster Rovers vs Lincoln City "
+        },
+        {
+            "channel": "Rovers+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.doncasterroversfc.co.uk/videos/subscriptions",
+            "related_to": " Doncaster Rovers vs Lincoln City "
+        },
+        {
             "compet": "Scottish League 1 - Week 1",
             "match": " Alloa Athletic vs East Fife ",
             "flags": {
@@ -1941,80 +2091,6 @@
             "encry": "",
             "link": "https://www.alloaathletic.co.uk/product-category/wasp-tv/",
             "related_to": " Alloa Athletic vs East Fife "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Cardiff City vs Roma ",
-            "flags": {
-                "team1": "wales",
-                "team2": "italy"
-            },
-            "time": "14:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "beIN Sports 1 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10812 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "beIN Sports Australia 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "Cardiff City TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.cardiffcityfc.co.uk/video/live",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "JOJ Šport SVK HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12266 H 29900 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Cardiff City vs Roma "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cardiff City vs Roma "
         },
         {
             "compet": "Friendly Club Match",
@@ -2229,32 +2305,6 @@
             "related_to": " Walsall vs Notts County "
         },
         {
-            "compet": "Norwegian Eliteserien - Week 16",
-            "match": " Fredrikstad vs Sandefjord ",
-            "flags": {
-                "team1": "norway",
-                "team2": "norway"
-            },
-            "time": "14:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Fredrikstad vs Sandefjord "
-        },
-        {
-            "channel": "TV2 Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11385 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Fredrikstad vs Sandefjord "
-        },
-        {
             "compet": "Danish 1. Division - Week 2",
             "match": " Kolding vs Hvidovre ",
             "flags": {
@@ -2383,6 +2433,32 @@
             "related_to": " Clyde vs Stranraer "
         },
         {
+            "compet": "Norwegian Eliteserien - Week 16",
+            "match": " Fredrikstad vs Sandefjord ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Fredrikstad vs Sandefjord "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Fredrikstad vs Sandefjord "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Middlesbrough vs Espanyol XI ",
             "flags": {
@@ -2485,32 +2561,6 @@
             "related_to": " Rio Ave vs Tondela "
         },
         {
-            "compet": "Swedish Superettan - Week 17",
-            "match": " IFK Norrköping vs Helsingborg ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "15:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " IFK Norrköping vs Helsingborg "
-        },
-        {
-            "channel": "TV4 Sportkanalen HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10778 H 25000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " IFK Norrköping vs Helsingborg "
-        },
-        {
             "compet": "Austrian Bundesliga - Week 1",
             "match": " WSG Tirol vs Sturm Graz ",
             "flags": {
@@ -2537,6 +2587,14 @@
             "related_to": " WSG Tirol vs Sturm Graz "
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " WSG Tirol vs Sturm Graz "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2559,6 +2617,40 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " WSG Tirol vs Sturm Graz "
+        },
+        {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " WSG Tirol vs Sturm Graz "
+        },
+        {
+            "compet": "Swedish Superettan - Week 17",
+            "match": " IFK Norrköping vs Helsingborg ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "15:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " IFK Norrköping vs Helsingborg "
+        },
+        {
+            "channel": "TV4 Sportkanalen HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10778 H 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " IFK Norrköping vs Helsingborg "
         },
         {
             "compet": "Friendly Club Match",
@@ -3023,6 +3115,14 @@
             "related_to": " Real Madrid vs Fiorentina "
         },
         {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Madrid vs Fiorentina "
+        },
+        {
             "channel": "Sport Bladet Play📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3069,6 +3169,164 @@
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Real Madrid vs Fiorentina "
+        },
+        {
+            "compet": "Bulgarian First League - Week 3",
+            "match": " Levski Sofia vs Septemvri Sofia ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "16:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Levski Sofia vs Septemvri Sofia "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Levski Sofia vs Septemvri Sofia "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Levski Sofia vs Septemvri Sofia "
+        },
+        {
+            "compet": "Danish Superliga - Week 2",
+            "match": " Lyngby vs AGF Aarhus ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "16:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "Arena Sport 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "TV3 Sport Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lyngby vs AGF Aarhus "
+        },
+        {
+            "compet": "Slovenian Prva Liga - Week 3",
+            "match": " Nafta 1903 vs Mura ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "16:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nafta 1903 vs Mura "
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Nafta 1903 vs Mura "
         },
         {
             "compet": "Swiss Super League - Week 2",
@@ -3143,32 +3401,6 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Basel vs Lausanne Sport "
-        },
-        {
-            "compet": "Bulgarian First League - Week 3",
-            "match": " Levski Sofia vs Septemvri Sofia ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "16:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Levski Sofia vs Septemvri Sofia "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Levski Sofia vs Septemvri Sofia "
         },
         {
             "compet": "Czech Národní LIGA - Week 2",
@@ -3283,96 +3515,6 @@
             "related_to": " Carl Zeiss Jena vs Bayer Leverkusen "
         },
         {
-            "compet": "Danish Superliga - Week 2",
-            "match": " Lyngby vs AGF Aarhus ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "time": "16:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12460 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "Arena Sport 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "TV3 Sport Dansk HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11345 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "V Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11305 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Lyngby vs AGF Aarhus "
-        },
-        {
             "compet": "Friendly Club Match",
             "match": " St Etienne vs Venezia ",
             "flags": {
@@ -3433,24 +3575,6 @@
             "encry": "",
             "link": "",
             "related_to": " Zürich vs Servette "
-        },
-        {
-            "compet": "Slovenian Prva Liga - Week 3",
-            "match": " Nafta 1903 vs Mura ",
-            "flags": {
-                "team1": "slovenia",
-                "team2": "slovenia"
-            },
-            "time": "16:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Nafta 1903 vs Mura "
         },
         {
             "compet": "Friendly Club Match",
@@ -3590,6 +3714,14 @@
             "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Aberdeen vs Hearts "
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": " Aberdeen vs Hearts "
         },
         {
@@ -3825,30 +3957,12 @@
             "related_to": " Estrela Amadora vs Al Nassr "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": " Stoke City vs Valencia ",
-            "flags": {
-                "team1": "england",
-                "team2": "spain"
-            },
-            "time": "17:30",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "GOL España HD 📺",
+            "channel": "stc tv sports HD 1📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 - -",
-            "encry": "Seca",
-            "link": "https://www.goltelevision.com/en-directo",
-            "related_to": " Stoke City vs Valencia "
-        },
-        {
-            "channel": "À Punt TV",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
-            "related_to": " Stoke City vs Valencia "
+            "link": "https://www.stctv.com/sa-en",
+            "related_to": " Estrela Amadora vs Al Nassr "
         },
         {
             "compet": "Austrian Bundesliga - Week 1",
@@ -3877,6 +3991,14 @@
             "related_to": " Salzburg vs Hartberg "
         },
         {
+            "channel": "Arena Sport 2 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Salzburg vs Hartberg "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -3901,12 +4023,46 @@
             "related_to": " Salzburg vs Hartberg "
         },
         {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Salzburg vs Hartberg "
+        },
+        {
             "channel": "TV Start Triumph HD",
             "sat": "Eutelsat 36C 35.9°e",
             "freq": "11996 L 27500 - 3/4",
             "encry": "HD DRE-Crypt",
             "link": "",
             "related_to": " Salzburg vs Hartberg "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Stoke City vs Valencia ",
+            "flags": {
+                "team1": "england",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "GOL España HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 - -",
+            "encry": "Seca",
+            "link": "https://www.goltelevision.com/en-directo",
+            "related_to": " Stoke City vs Valencia "
+        },
+        {
+            "channel": "À Punt TV",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Stoke City vs Valencia "
         },
         {
             "compet": "Hungarian NB 1 - Week 2",
@@ -4273,6 +4429,32 @@
             "related_to": " Deportivo Maldonado vs Juventud "
         },
         {
+            "compet": "Bulgarian First League - Week 3",
+            "match": " Botev Plovdiv vs Cherno More Varna ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "18:15",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Botev Plovdiv vs Cherno More Varna "
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Botev Plovdiv vs Cherno More Varna "
+        },
+        {
             "compet": "Slovenian Prva Liga - Week 3",
             "match": " Celje vs Maribor ",
             "flags": {
@@ -4363,50 +4545,6 @@
             "encry": "",
             "link": "",
             "related_to": " Korona Kielce vs Górnik Zabrze "
-        },
-        {
-            "compet": "Bulgarian First League - Week 3",
-            "match": " Botev Plovdiv vs Cherno More Varna ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "18:15",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Botev Plovdiv vs Cherno More Varna "
-        },
-        {
-            "compet": "Serbian Super League - Week 3",
-            "match": " Cukaricki vs Radnicki 1923 ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:30",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Cukaricki vs Radnicki 1923 "
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cukaricki vs Radnicki 1923 "
         },
         {
             "compet": "Swiss Super League - Week 2",
@@ -4507,6 +4645,22 @@
             "related_to": " Thun vs Young Boys "
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Thun vs Young Boys "
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Thun vs Young Boys "
+        },
+        {
             "channel": "SRF Zwei Schweiz HD 📺",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "10971 H 29700 - 2/3",
@@ -4521,6 +4675,32 @@
             "encry": "",
             "link": "https://tipsporttv.livebox.cz/",
             "related_to": " Thun vs Young Boys "
+        },
+        {
+            "compet": "Serbian Super League - Week 3",
+            "match": " Cukaricki vs Radnicki 1923 ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cukaricki vs Radnicki 1923 "
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cukaricki vs Radnicki 1923 "
         },
         {
             "compet": "Romanian Superliga - Week 3",
@@ -4765,6 +4945,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " FC Porto vs Torreense "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " FC Porto vs Torreense "
         },
