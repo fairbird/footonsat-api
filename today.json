@@ -573,6 +573,14 @@
             "date": "2026-08-01"
         },
         {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Kryvbas KR vs Karpaty Lviv "
+        },
+        {
             "channel": "UPL TV Ukraine HD 📺",
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
@@ -1269,6 +1277,32 @@
             "related_to": " Indonesia All-Stars vs Aston Villa "
         },
         {
+            "compet": "Ukrainian Premier League - Week 1",
+            "match": " FC Kharkiv vs Veres Rivne ",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "ukraine"
+            },
+            "time": "12:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " FC Kharkiv vs Veres Rivne "
+        },
+        {
+            "channel": "UPL TV Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "https://upl.ua/en/upltv",
+            "related_to": " FC Kharkiv vs Veres Rivne "
+        },
+        {
             "compet": "Austrian Frauen Bundesliga - Week 1",
             "match": " Sturm Graz vs Rheindorf Altach ",
             "flags": {
@@ -1347,24 +1381,6 @@
             "encry": "",
             "link": "https://www.whufc.com/whtv",
             "related_to": " Magdeburg vs West Ham United "
-        },
-        {
-            "compet": "Ukrainian Premier League - Week 1",
-            "match": " FC Kharkiv vs Veres Rivne ",
-            "flags": {
-                "team1": "ukraine",
-                "team2": "ukraine"
-            },
-            "time": "12:30",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "UPL TV Ukraine HD 📺",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "https://upl.ua/en/upltv",
-            "related_to": " FC Kharkiv vs Veres Rivne "
         },
         {
             "compet": "Polish Ekstraklasa - Week 2",
@@ -2499,6 +2515,32 @@
             "related_to": " Walsall vs Notts County "
         },
         {
+            "compet": "Norwegian Eliteserien - Week 16",
+            "match": " Fredrikstad vs Sandefjord ",
+            "flags": {
+                "team1": "norway",
+                "team2": "norway"
+            },
+            "time": "14:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Fredrikstad vs Sandefjord "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Fredrikstad vs Sandefjord "
+        },
+        {
             "compet": "Danish 1. Division - Week 2",
             "match": " Kolding vs Hvidovre ",
             "flags": {
@@ -2609,32 +2651,6 @@
             "related_to": " AFC Wimbledon vs Queens Park Rangers "
         },
         {
-            "compet": "Norwegian Eliteserien - Week 16",
-            "match": " Fredrikstad vs Sandefjord ",
-            "flags": {
-                "team1": "norway",
-                "team2": "norway"
-            },
-            "time": "14:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Fredrikstad vs Sandefjord "
-        },
-        {
-            "channel": "TV2 Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11385 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Fredrikstad vs Sandefjord "
-        },
-        {
             "compet": "Scottish League 2 - Week 1",
             "match": " Clyde vs Stranraer ",
             "flags": {
@@ -2684,6 +2700,14 @@
             "channel": "Arena Sport 2 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Hamburg vs Everton "
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11895 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Hamburg vs Everton "
@@ -2742,6 +2766,22 @@
             "freq": "11231 V 42000 - 3/5",
             "encry": "MPEG-4 NDS",
             "link": "",
+            "related_to": " Hamburg vs Everton "
+        },
+        {
+            "channel": "Tabii Spor 6",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Hamburg vs Everton "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": " Hamburg vs Everton "
         },
         {
@@ -2816,6 +2856,14 @@
             "channel": "Sky Sport 1 Austria HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " WSG Tirol vs Sturm Graz "
+        },
+        {
+            "channel": "Sky Sport 2 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11992 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " WSG Tirol vs Sturm Graz "
@@ -3267,6 +3315,32 @@
             "encry": "VideoGuard",
             "link": "",
             "related_to": " Voluntari vs UTA Arad "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Kasimpasa vs Hull City ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "england"
+            },
+            "time": "16:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "EXXEN Digital Türkiye📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.exxen.com/en",
+            "related_to": " Kasimpasa vs Hull City "
+        },
+        {
+            "channel": "TV8.5 Türkiye HD 📺",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12346 H 09600 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.tv8bucuk.com/tv8-5-canli-yayin",
+            "related_to": " Kasimpasa vs Hull City "
         },
         {
             "compet": "Friendly Club Match",
@@ -4409,6 +4483,130 @@
             "related_to": " Baltika vs Dynamo Moscow "
         },
         {
+            "compet": "Friendly Club Match - COMO Cup FINAL",
+            "match": " Lens vs Villarreal ",
+            "flags": {
+                "team1": "france",
+                "team2": "spain"
+            },
+            "time": "18:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "RTVE Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtve.es/play/deportes/",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Lens vs Villarreal "
+        },
+        {
+            "compet": "Serbian Super League - Week 3",
+            "match": " Novi Pazar vs OFK Belgrade ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena Premium 1 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Novi Pazar vs OFK Belgrade "
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Novi Pazar vs OFK Belgrade "
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Novi Pazar vs OFK Belgrade "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Novi Pazar vs OFK Belgrade "
+        },
+        {
             "compet": "Friendly Club Match - Estadi Montilivi, Girona",
             "match": " Girona vs Arsenal ",
             "flags": {
@@ -4595,98 +4793,6 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " TSC Backa vs OFK Vršac "
-        },
-        {
-            "compet": "Serbian Super League - Week 3",
-            "match": " Novi Pazar vs OFK Belgrade ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Novi Pazar vs OFK Belgrade "
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12460 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Novi Pazar vs OFK Belgrade "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Novi Pazar vs OFK Belgrade "
-        },
-        {
-            "compet": "Friendly Club Match - COMO Cup FINAL",
-            "match": " Lens vs Villarreal ",
-            "flags": {
-                "team1": "france",
-                "team2": "spain"
-            },
-            "time": "18:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Lens vs Villarreal "
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Lens vs Villarreal "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Lens vs Villarreal "
-        },
-        {
-            "channel": "Como TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Lens vs Villarreal "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Lens vs Villarreal "
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Lens vs Villarreal "
         },
         {
             "compet": "Montenegrin First League - Week 1",
@@ -4905,6 +5011,40 @@
             "related_to": " Korona Kielce vs Górnik Zabrze "
         },
         {
+            "compet": "Serbian Super League - Week 3",
+            "match": " Cukaricki vs Radnicki 1923 ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:30",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cukaricki vs Radnicki 1923 "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Cukaricki vs Radnicki 1923 "
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Cukaricki vs Radnicki 1923 "
+        },
+        {
             "compet": "Swiss Super League - Week 2",
             "match": " Thun vs Young Boys ",
             "flags": {
@@ -5033,32 +5173,6 @@
             "encry": "",
             "link": "https://tipsporttv.livebox.cz/",
             "related_to": " Thun vs Young Boys "
-        },
-        {
-            "compet": "Serbian Super League - Week 3",
-            "match": " Cukaricki vs Radnicki 1923 ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:30",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cukaricki vs Radnicki 1923 "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Cukaricki vs Radnicki 1923 "
         },
         {
             "compet": "Romanian Superliga - Week 3",
@@ -5425,6 +5539,58 @@
             "date": "2026-08-01"
         },
         {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vasco da Gama vs Fluminense EC "
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vasco da Gama vs Fluminense EC "
+        },
+        {
+            "compet": "Argentinean Primera División - Clausura - 3",
+            "match": " Estudiantes LP vs Defensa y Justicia ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "21:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Estudiantes LP vs Defensa y Justicia "
+        },
+        {
+            "compet": "Argentinean Primera División - Clausura - 3",
+            "match": " Belgrano vs Argentinos Juniors ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "argentina"
+            },
+            "time": "21:00",
+            "date": "2026-08-01"
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Belgrano vs Argentinos Juniors "
+        },
+        {
             "compet": "Ecuadorian Liga Pro Serie A - Week 23",
             "match": " Universidad Católica vs Tecnico Universitario ",
             "flags": {
@@ -5630,6 +5796,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Racing Club vs Tigre "
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": " Racing Club vs Tigre "
         },
         {

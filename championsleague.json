@@ -37,6 +37,14 @@
             "related_to": " Olympiacos vs NEC Nijmegen "
         },
         {
+            "channel": "TV Tipsport Czechia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": " Olympiacos vs NEC Nijmegen "
+        },
+        {
             "channel": "Ziggo Sport 1 HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
@@ -63,6 +71,48 @@
             "related_to": " Union St Gilloise vs Bodø/Glimt "
         },
         {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Union St Gilloise vs Bodø/Glimt "
+        },
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
+            "match": " Sparta Prague vs Lyon ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Sparta Prague vs Lyon "
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Sparta Prague vs Lyon "
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sparta Prague vs Lyon "
+        },
+        {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
             "match": " Dinamo Zagreb vs Kauno Zalgiris ",
             "flags": {
@@ -79,6 +129,32 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Dinamo Zagreb vs Kauno Zalgiris "
+        },
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
+            "match": " AGF Aarhus vs Sabah ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "azerbaijan"
+            },
+            "time": "16:30",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "TV3+ Dansk HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sabah "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sabah "
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
@@ -135,9 +211,25 @@
             "date": "2026-08-12"
         },
         {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "Canal+ France HD",
             "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Canal+ Sport 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 3/4",
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "

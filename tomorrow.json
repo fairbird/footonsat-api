@@ -11,6 +11,22 @@
             "date": "2026-08-02"
         },
         {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Santos vs Remo "
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Santos vs Remo "
+        },
+        {
             "compet": "Ecuadorian Liga Pro Serie A - Week 23",
             "match": " Emelec vs Aucas ",
             "flags": {
@@ -599,6 +615,14 @@
             "date": "2026-08-02"
         },
         {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Chornomorets vs Polissya Zhytomyr "
+        },
+        {
             "channel": "UPL TV Ukraine HD 📺",
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
@@ -675,6 +699,32 @@
             "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Liaoning Tieren vs Shanghai Shenhua "
+        },
+        {
+            "compet": "Russian FNL - Week 4",
+            "match": " Arsenal Tula vs Torpedo Moscow ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "12:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "MATCH! Planeta",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12533 V 44950 - 4/5",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Arsenal Tula vs Torpedo Moscow "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Arsenal Tula vs Torpedo Moscow "
         },
         {
             "compet": "Friendly Club Match",
@@ -829,32 +879,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@SkySportDE/streams",
             "related_to": " Union Berlin vs Cagliari "
-        },
-        {
-            "compet": "Russian FNL - Week 4",
-            "match": " Arsenal Tula vs Torpedo Moscow ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "12:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "MATCH! Planeta",
-            "sat": "ABS 2A 75.0°e",
-            "freq": "12533 V 44950 - 4/5",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Arsenal Tula vs Torpedo Moscow "
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0°e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "",
-            "related_to": " Arsenal Tula vs Torpedo Moscow "
         },
         {
             "compet": "Danish Superliga - Week 2",
@@ -1205,6 +1229,32 @@
             "related_to": " VPS Vaasa vs Inter Turku "
         },
         {
+            "compet": "Ukrainian Premier League - Week 1",
+            "match": " Epitsentr vs Obolon Kyiv ",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "ukraine"
+            },
+            "time": "12:30",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Epitsentr vs Obolon Kyiv "
+        },
+        {
+            "channel": "UPL TV Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "https://upl.ua/en/upltv",
+            "related_to": " Epitsentr vs Obolon Kyiv "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Feyenoord vs Atalanta ",
             "flags": {
@@ -1323,24 +1373,6 @@
             "related_to": " Ruch Chorzów vs Miedz Legnica "
         },
         {
-            "compet": "Ukrainian Premier League - Week 1",
-            "match": " Epitsentr vs Obolon Kyiv ",
-            "flags": {
-                "team1": "ukraine",
-                "team2": "ukraine"
-            },
-            "time": "12:30",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "UPL TV Ukraine HD 📺",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "https://upl.ua/en/upltv",
-            "related_to": " Epitsentr vs Obolon Kyiv "
-        },
-        {
             "compet": "Polish Ekstraklasa - Week 2",
             "match": " Legia Warsaw vs Zaglebie Lubin ",
             "flags": {
@@ -1349,14 +1381,6 @@
             },
             "time": "12:45",
             "date": "2026-08-02"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Legia Warsaw vs Zaglebie Lubin "
         },
         {
             "channel": "Arena Sport 1 Hrvatska HD",
@@ -1421,32 +1445,6 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Legia Warsaw vs Zaglebie Lubin "
-        },
-        {
-            "compet": "Romanian Liga 2 - Week 1",
-            "match": " Steaua Bucharest vs Slatina ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "13:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Steaua Bucharest vs Slatina "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Steaua Bucharest vs Slatina "
         },
         {
             "compet": "Scottish Premiership - Week 1",
@@ -1635,6 +1633,32 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Orenburg vs Zenit St Petersburg "
+        },
+        {
+            "compet": "Romanian Liga 2 - Week 1",
+            "match": " Steaua Bucharest vs Slatina ",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "13:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Steaua Bucharest vs Slatina "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Steaua Bucharest vs Slatina "
         },
         {
             "compet": "Swedish Damallsvenskan - Week 12",
@@ -2084,6 +2108,48 @@
         },
         {
             "compet": "Austrian Bundesliga - Week 1",
+            "match": " Austria Lustenau vs Ried ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "15:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Austria Lustenau vs Ried "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Austria Lustenau vs Ried "
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Austria Lustenau vs Ried "
+        },
+        {
+            "channel": "Sky Sport 4 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12382 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Austria Lustenau vs Ried "
+        },
+        {
+            "compet": "Austrian Bundesliga - Week 1",
             "match": " Wolfsberger AC vs Austria Vienna ",
             "flags": {
                 "team1": "austria",
@@ -2120,6 +2186,14 @@
             "channel": "Sky Sport 1 Austria HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Austria Vienna "
+        },
+        {
+            "channel": "Sky Sport 3 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Wolfsberger AC vs Austria Vienna "
@@ -2165,40 +2239,6 @@
             "encry": "",
             "link": "",
             "related_to": " Dynamo Brest vs Belshina "
-        },
-        {
-            "compet": "Austrian Bundesliga - Week 1",
-            "match": " Austria Lustenau vs Ried ",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "time": "15:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Austria Lustenau vs Ried "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Austria Lustenau vs Ried "
-        },
-        {
-            "channel": "Sky Sport 1 Austria HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Austria Lustenau vs Ried "
         },
         {
             "compet": "Latvian Virsliga - Week 25",
@@ -2577,6 +2617,24 @@
             "related_to": " Arsenal Ceska Lipa vs Slavia Prague II "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Racing Genk vs Twente ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "holland"
+            },
+            "time": "15:30",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Racing Genk vs Twente "
+        },
+        {
             "compet": "Scottish Premiership - Week 1",
             "match": " Hibernian vs Motherwell ",
             "flags": {
@@ -2883,6 +2941,192 @@
             "related_to": " Siwelele vs TS Galaxy "
         },
         {
+            "compet": "Friendly Club Match - Subaru Park, Chester, PA",
+            "match": " Sunderland vs Wrexham ",
+            "flags": {
+                "team1": "england",
+                "team2": "wales"
+            },
+            "time": "16:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Arena Sport 4 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Net4+ Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://arena4plus.network4.hu/",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "ON Sport Plus HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11977 V 27500 - 5/6",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Premier Sports 1 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11686 V 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "SAFC Live📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://safc.com/news/team-news/live-video",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "Wrexham AFC📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wrexhamafc.co.uk/videos",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
+            "channel": "YouTube: Sgorio 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/Sgorio",
+            "related_to": " Sunderland vs Wrexham "
+        },
+        {
             "compet": "Dutch Super Cup (Johan Cruijff Shield) - FINAL",
             "match": " PSV Eindhoven vs AZ Alkmaar ",
             "flags": {
@@ -3171,184 +3415,6 @@
             "related_to": " Silkeborg vs FC Copenhagen "
         },
         {
-            "compet": "Friendly Club Match - Subaru Park, Chester, PA",
-            "match": " Sunderland vs Wrexham ",
-            "flags": {
-                "team1": "england",
-                "team2": "wales"
-            },
-            "time": "16:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Arena Premium 5 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12304 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "BBC iPlayer📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "BBC iPlayer 4K📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Net4+ Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "ON Sport Plus HD",
-            "sat": "Nilesat 201 7.0°w",
-            "freq": "11977 V 27500 - 5/6",
-            "encry": "FTA",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Premier Sports 1 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Premier Sports 1 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11686 V 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "S4C Clic📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.s4c.cymru/clic/Categories/5",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "S4C Sgorio Cymru📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://sgorio.cymru/live-games/?lang=en",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "SAFC Live📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://safc.com/news/team-news/live-video",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Sport Bladet Play📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.sportbladetplay.se/schedule",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Sport TV+ Portugal",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "Wrexham AFC📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wrexhamafc.co.uk/videos",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
-            "channel": "YouTube: Sgorio 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/Sgorio",
-            "related_to": " Sunderland vs Wrexham "
-        },
-        {
             "compet": "Hungarian NB 1 - Week 2",
             "match": " Györ vs Nyíregyháza ",
             "flags": {
@@ -3437,24 +3503,6 @@
             "related_to": " Suduva vs Riteriai "
         },
         {
-            "compet": "Serbian 1st League (Prva liga Srbija) - Week 1",
-            "match": " Napredak vs Graficar ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "17:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "Arena Sport 10 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Napredak vs Graficar "
-        },
-        {
             "compet": "Austrian Bundesliga - Week 1",
             "match": " Rapid Vienna vs Rheindorf Altach ",
             "flags": {
@@ -3497,12 +3545,38 @@
             "related_to": " Rapid Vienna vs Rheindorf Altach "
         },
         {
+            "channel": "Sky Sport 2 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11992 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Rapid Vienna vs Rheindorf Altach "
+        },
+        {
             "channel": "SportKlub 8 Hrvatska",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Rapid Vienna vs Rheindorf Altach "
+        },
+        {
+            "compet": "Serbian 1st League (Prva liga Srbija) - Week 1",
+            "match": " Napredak vs Graficar ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "17:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Napredak vs Graficar "
         },
         {
             "compet": "Slovak Super Liga - Week 2",
@@ -3643,6 +3717,90 @@
             "related_to": " GKS Pogon GM vs Puszcza Niepolomice "
         },
         {
+            "compet": "Serbian Super League - Week 3",
+            "match": " Partizan Belgrade vs IMT Novi Belgrade ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
+        },
+        {
+            "compet": "Serbian Super League - Week 3",
+            "match": " Zemun vs Radnicki Nis ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "18:00",
+            "date": "2026-08-02"
+        },
+        {
+            "channel": "Arena Premium 1 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Zemun vs Radnicki Nis "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Zemun vs Radnicki Nis "
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zemun vs Radnicki Nis "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Galatasaray vs Rennes ",
             "flags": {
@@ -3691,74 +3849,6 @@
             "encry": "FTA",
             "link": "",
             "related_to": " Galatasaray vs Rennes "
-        },
-        {
-            "compet": "Serbian Super League - Week 3",
-            "match": " Partizan Belgrade vs IMT Novi Belgrade ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
-        },
-        {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Partizan Belgrade vs IMT Novi Belgrade "
-        },
-        {
-            "compet": "Serbian Super League - Week 3",
-            "match": " Zemun vs Radnicki Nis ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "18:00",
-            "date": "2026-08-02"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Zemun vs Radnicki Nis "
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Zemun vs Radnicki Nis "
         },
         {
             "compet": "Czech LIGA - Week 2",
@@ -4365,6 +4455,14 @@
             "related_to": " Newell's Old Boys vs Boca Juniors "
         },
         {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Newell's Old Boys vs Boca Juniors "
+        },
+        {
             "channel": "Sport TV2 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -4503,6 +4601,14 @@
             "related_to": " River Plate vs Rosario Central "
         },
         {
+            "channel": "Arena Premium 1 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " River Plate vs Rosario Central "
+        },
+        {
             "channel": "Arena Premium 1 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -4575,6 +4681,14 @@
             "related_to": " River Plate vs Rosario Central "
         },
         {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " River Plate vs Rosario Central "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -4599,6 +4713,14 @@
             },
             "time": "22:30",
             "date": "2026-08-02"
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Internacional vs Corinthians "
         },
         {
             "compet": "National Womens Soccer League (NWSL) - Group Stage",
