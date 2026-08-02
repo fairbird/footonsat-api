@@ -11,9 +11,9 @@
             "date": "2026-08-04"
         },
         {
-            "channel": "- - -",
+            "channel": "TV4 Latvija",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Auda vs Dinamo City "
@@ -29,7 +29,7 @@
             "date": "2026-08-05"
         },
         {
-            "channel": "- - -",
+            "channel": "Cytavision Sports 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
@@ -83,11 +83,11 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "SRF Play📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Noah vs Sion "
         },
         {
@@ -119,9 +119,9 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "TV4 Latvija",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Jablonec vs RFS Riga "
@@ -137,11 +137,11 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "HJK TV📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://hjktv.fi/hjk",
             "related_to": " HJK Helsinki vs Motherwell "
         },
         {
@@ -173,9 +173,9 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "TV4 Latvija",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Riga FC vs Györ "
@@ -191,11 +191,11 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "Hajduk TV📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://tv.hajduk.hr/",
             "related_to": " Zalgiris vs Hajduk Split "
         },
         {
@@ -209,11 +209,19 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "Play RTS Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Sheriff Tiraspol vs St Gallen "
+        },
+        {
+            "channel": "SRF Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Sheriff Tiraspol vs St Gallen "
         },
         {
@@ -387,11 +395,27 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
+            "channel": "Play RTS Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Lugano vs NSI Runavik "
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": " Lugano vs NSI Runavik "
+        },
+        {
+            "channel": "SRF Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Lugano vs NSI Runavik "
         },
         {
@@ -423,10 +447,10 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "RTRS TV",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Borac Banja Luka vs ML Vitebsk "
         },
@@ -445,6 +469,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Rijeka vs Ilves Tampere "
+        },
+        {
+            "channel": "RTL Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Rijeka vs Ilves Tampere "
         },
@@ -507,6 +539,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Partizan Belgrade vs Tobol "
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Partizan Belgrade vs Tobol "
         },
@@ -707,6 +747,24 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " RFS Riga vs Jablonec ",
+            "flags": {
+                "team1": "latvia",
+                "team2": "czechia"
+            },
+            "time": "16:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " RFS Riga vs Jablonec "
         }
     ]
 }
