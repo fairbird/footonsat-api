@@ -1,24 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Dutch Womens Super Cup - FINAL",
-            "match": " PSV Eindhoven vs Twente ",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "12:00",
-            "date": "2026-08-01"
-        },
-        {
-            "channel": "ESPN 1 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11739 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " PSV Eindhoven vs Twente "
-        },
-        {
             "compet": "Dutch Super Cup (Johan Cruijff Shield) - FINAL",
             "match": " PSV Eindhoven vs AZ Alkmaar ",
             "flags": {
@@ -137,6 +119,14 @@
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
             "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " PSV Eindhoven vs AZ Alkmaar "
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
             "link": "",
             "related_to": " PSV Eindhoven vs AZ Alkmaar "
         },
@@ -417,6 +407,14 @@
             "related_to": " Sparta Rotterdam vs Feyenoord "
         },
         {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Sparta Rotterdam vs Feyenoord "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
@@ -502,6 +500,14 @@
         },
         {
             "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " PEC Zwolle vs Ajax "
+        },
+        {
+            "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
