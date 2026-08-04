@@ -131,6 +131,40 @@
             "related_to": " Politehnica Timisoara vs Chindia Târgoviste "
         },
         {
+            "compet": "Bulgarian Second League - Week 2",
+            "match": " Montana vs Nesebar ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "15:30",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Montana vs Nesebar "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Montana vs Nesebar "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Montana vs Nesebar "
+        },
+        {
             "compet": "Russian Cup (Kubok Rossii) - Group Stage",
             "match": " Rodina Moscow vs Rubin Kazan' ",
             "flags": {
@@ -165,24 +199,6 @@
             "encry": "MPEG-4 GoSTcrypt",
             "link": "",
             "related_to": " Dynamo Makhachkala vs Kryliya Sovetov "
-        },
-        {
-            "compet": "Bulgarian Second League - Week 2",
-            "match": " Montana vs Nesebar ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "15:30",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Montana vs Nesebar "
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
@@ -313,30 +329,30 @@
             "related_to": " Elversberg vs Strasbourg "
         },
         {
-            "compet": "Danish A-Liga Women - Week 2",
-            "match": " Fortuna Hjørring vs Midtjylland ",
+            "compet": "Friendly Club Match",
+            "match": " Huesca vs UD Logroñes ",
             "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
+                "team1": "spain",
+                "team2": "spain"
             },
             "time": "17:00",
             "date": "2026-08-04"
         },
         {
-            "channel": "TV2 Play Danmark📺",
+            "channel": "Aragon Deporte Stream 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Fortuna Hjørring vs Midtjylland "
+            "encry": "LiveOnSat.com",
+            "link": "https://www.cartv.es/aragondeporte/directo",
+            "related_to": " Huesca vs UD Logroñes "
         },
         {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
+            "channel": "Aragón TV HD",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - 0",
+            "encry": "FTA",
             "link": "",
-            "related_to": " Fortuna Hjørring vs Midtjylland "
+            "related_to": " Huesca vs UD Logroñes "
         },
         {
             "compet": "Friendly Club Match",
@@ -381,6 +397,32 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.mdr.de/sport/livestreams/index.html",
             "related_to": " Carl Zeiss Jena vs Eintracht 1949 "
+        },
+        {
+            "compet": "Danish A-Liga Women - Week 2",
+            "match": " Fortuna Hjørring vs Midtjylland ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Fortuna Hjørring vs Midtjylland "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Fortuna Hjørring vs Midtjylland "
         },
         {
             "compet": "German Regionalliga: Nordost - Week 3",
@@ -479,9 +521,9 @@
             "related_to": " Sparta Prague vs Lyon "
         },
         {
-            "channel": "Arena Sport 1x2 Srbija",
+            "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
+            "freq": "12422 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Sparta Prague vs Lyon "
@@ -523,6 +565,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12110 H 29900 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sparta Prague vs Lyon "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Sparta Prague vs Lyon "
         },
@@ -593,6 +643,14 @@
             "related_to": " Olympiacos vs NEC Nijmegen "
         },
         {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Olympiacos vs NEC Nijmegen "
+        },
+        {
             "channel": "TV Tipsport Czechia 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -627,14 +685,6 @@
             "related_to": " Union St Gilloise vs Bodø/Glimt "
         },
         {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Union St Gilloise vs Bodø/Glimt "
-        },
-        {
             "channel": "Arena Premium 5 BiH HD",
             "sat": "unknown",
             "freq": "0000 0",
@@ -647,6 +697,14 @@
             "sat": "Belintersat 1 51.5°e",
             "freq": "11290 H 45000 - 8/9",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Union St Gilloise vs Bodø/Glimt "
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Union St Gilloise vs Bodø/Glimt "
         },
@@ -845,9 +903,9 @@
             "related_to": " Ipswich Town vs Le Havre "
         },
         {
-            "channel": "Arena Premium 4 Srbija HD",
+            "channel": "Arena Sport 1 Srbija HD",
             "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
+            "freq": "12460 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Ipswich Town vs Le Havre "
@@ -869,9 +927,9 @@
             "related_to": " Ipswich Town vs Le Havre "
         },
         {
-            "channel": "Sport TV1 Portugal HD",
+            "channel": "Sport TV6 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
+            "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Ipswich Town vs Le Havre "
@@ -893,6 +951,14 @@
             },
             "time": "19:00",
             "date": "2026-08-04"
+        },
+        {
+            "channel": "LOI TV PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.loitv.ie/ie",
+            "related_to": " Shamrock Rovers vs Egnatia "
         },
         {
             "channel": "Play Sports📺",

@@ -121,9 +121,9 @@
             "related_to": " Sparta Prague vs Lyon "
         },
         {
-            "channel": "Arena Sport 1x2 Srbija",
+            "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
+            "freq": "12422 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Sparta Prague vs Lyon "
@@ -165,6 +165,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12110 H 29900 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sparta Prague vs Lyon "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Sparta Prague vs Lyon "
         },
@@ -235,6 +243,14 @@
             "related_to": " Olympiacos vs NEC Nijmegen "
         },
         {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Olympiacos vs NEC Nijmegen "
+        },
+        {
             "channel": "TV Tipsport Czechia 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -269,14 +285,6 @@
             "related_to": " Union St Gilloise vs Bodø/Glimt "
         },
         {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Union St Gilloise vs Bodø/Glimt "
-        },
-        {
             "channel": "Arena Premium 5 BiH HD",
             "sat": "unknown",
             "freq": "0000 0",
@@ -289,6 +297,14 @@
             "sat": "Belintersat 1 51.5°e",
             "freq": "11290 H 45000 - 8/9",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Union St Gilloise vs Bodø/Glimt "
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Union St Gilloise vs Bodø/Glimt "
         },
@@ -470,6 +486,24 @@
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (2nd Leg)",
+            "match": " NEC Nijmegen vs Olympiacos ",
+            "flags": {
+                "team1": "holland",
+                "team2": "greece"
+            },
+            "time": "17:30",
+            "date": "2026-08-11"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " NEC Nijmegen vs Olympiacos "
+        },
+        {
+            "compet": "UEFA Champions League - 3rd Qualifying Round (2nd Leg)",
             "match": " Sturm Graz vs Fenerbahçe ",
             "flags": {
                 "team1": "austria",
@@ -503,6 +537,14 @@
             },
             "time": "19:00",
             "date": "2026-08-12"
+        },
+        {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
         },
         {
             "channel": "Canal+ Extra 1 Polska HD",

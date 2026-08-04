@@ -233,6 +233,14 @@
             "related_to": " Chelsea vs Juventus "
         },
         {
+            "channel": "DAZN Switzerland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Juventus "
+        },
+        {
             "channel": "IRIB TV3 HD",
             "sat": "Intelsat 39 62.0°e",
             "freq": "11555 V 30000 - 3/4",
@@ -379,6 +387,14 @@
             "related_to": " AC Milan vs Inter Milan "
         },
         {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " AC Milan vs Inter Milan "
+        },
+        {
             "channel": "Inter TV HD 📺",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11900 H 29900 - 3/4",
@@ -447,6 +463,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " AC Milan vs Inter Milan "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " AC Milan vs Inter Milan "
         },
@@ -563,6 +587,24 @@
             "related_to": " Apollon Limassol vs Czarni Sosnowiec "
         },
         {
+            "compet": "Friendly Club Match",
+            "match": " Marseille vs Atlético Madrid ",
+            "flags": {
+                "team1": "france",
+                "team2": "spain"
+            },
+            "time": "15:30",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "Ligue 1+ 2📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Marseille vs Atlético Madrid "
+        },
+        {
             "compet": "Russian Cup (Kubok Rossii) - Group Stage",
             "match": " Spartak Moscow vs Orenburg ",
             "flags": {
@@ -605,6 +647,24 @@
             "encry": "Conax",
             "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
             "related_to": " Fakel Voronezh vs Dynamo Moscow "
+        },
+        {
+            "compet": "UEFA Womens Champions League - 2nd Preliminary Round",
+            "match": " ŽNK Mura vs Farul Constanta ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "romania"
+            },
+            "time": "16:00",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " ŽNK Mura vs Farul Constanta "
         },
         {
             "compet": "UEFA Womens Champions League - 2nd Preliminary Round",
@@ -834,149 +894,21 @@
         },
         {
             "compet": "Friendly Club Match",
-            "match": " Mallorca vs Paris St Germain ",
+            "match": " Sassuolo vs Celta Vigo ",
             "flags": {
-                "team1": "spain",
-                "team2": "france"
+                "team1": "italy",
+                "team2": "spain"
             },
             "time": "18:00",
             "date": "2026-08-05"
         },
         {
-            "channel": "beIN Sports France 1 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "DAZN Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "DAZN Great Britain📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "DAZN Ireland📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "IB3 Baleares 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://ib3.org/directe",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "Net4+ Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://arena4plus.network4.hu/",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "Okko Prime Sport HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "Sky Sport MIX Deutsch HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "Sky Sport News Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "TV Tipsport Czechia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tipsporttv.livebox.cz/",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Mallorca vs Paris St Germain "
-        },
-        {
-            "channel": "Z Sports 2 Angola",
-            "sat": "Eutelsat 36D 35.9°e",
-            "freq": "11388 V 30000 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Mallorca vs Paris St Germain "
+            "channel": "TVG Galicia 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "FTA",
+            "link": "https://www.agalega.gal/videos/76475-tvg",
+            "related_to": " Sassuolo vs Celta Vigo "
         },
         {
             "compet": "UEFA Champions League - 3rd Qualifying Round (1st Leg)",
@@ -1129,64 +1061,6 @@
             "related_to": " Ferencváros vs Górnik Zabrze "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
-            "match": " Panathinaikos vs CSKA 1948 Sofia ",
-            "flags": {
-                "team1": "greece",
-                "team2": "bulgaria"
-            },
-            "time": "18:30",
-            "date": "2026-08-05"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": "unknown",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "bTV Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12463 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "SKAI Hellas HD 📺",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12338 H 11568 - 2/3",
-            "encry": "HD BISS",
-            "link": "https://www.skai.gr/tv/live",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
             "compet": "Friendly Club Match - Aviva Stadium, Dublin",
             "match": " Arsenal vs Real Betis ",
             "flags": {
@@ -1201,14 +1075,6 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Arsenal vs Real Betis "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Arsenal vs Real Betis "
         },
@@ -1233,6 +1099,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arsenal vs Real Betis "
+        },
+        {
+            "channel": "DAZN Switzerland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Arsenal vs Real Betis "
         },
@@ -1317,6 +1191,64 @@
             "related_to": " Arsenal vs Real Betis "
         },
         {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
+            "match": " Panathinaikos vs CSKA 1948 Sofia ",
+            "flags": {
+                "team1": "greece",
+                "team2": "bulgaria"
+            },
+            "time": "18:30",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
+        },
+        {
+            "channel": "bTV Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12338 H 11568 - 2/3",
+            "encry": "HD BISS",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
+        },
+        {
             "compet": "UEFA Womens Champions League - 2nd Preliminary Round",
             "match": " Vllaznia Shkodër vs Spartak Myjava ",
             "flags": {
@@ -1387,6 +1319,152 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Juventus vs Torreense "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Mallorca vs Paris St Germain ",
+            "flags": {
+                "team1": "spain",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "DAZN Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "IB3 Baleares 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://ib3.org/directe",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Net4+ Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://arena4plus.network4.hu/",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Okko Prime Sport HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Sky Sport News Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "TV Tipsport Czechia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tipsporttv.livebox.cz/",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Z Sports 2 Angola",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11388 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Mallorca vs Paris St Germain "
         },
         {
             "compet": "Icelandic Úrvalsdeild - Week 17",
