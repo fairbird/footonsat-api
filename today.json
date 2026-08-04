@@ -89,6 +89,14 @@
             "related_to": " Akron vs Rostov "
         },
         {
+            "channel": "Belarus 5 Internet",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Akron vs Rostov "
+        },
+        {
             "channel": "MATCH! Premier HD 📺",
             "sat": "Horizons 2 84.8°e",
             "freq": "11720 H 28800 - 3/4",
@@ -329,6 +337,24 @@
             "related_to": " Elversberg vs Strasbourg "
         },
         {
+            "compet": "Danish Cup (DBU Pokalen) - 1st Round",
+            "match": " Holstebro vs AaB Aalborg ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "16:30",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Holstebro vs AaB Aalborg "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Huesca vs UD Logroñes ",
             "flags": {
@@ -483,6 +509,14 @@
             "sat": "Belintersat 1 51.5°e",
             "freq": "11350 H 45000 - 3/4",
             "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Lokomotiv Moscow vs CSKA Moscow "
+        },
+        {
+            "channel": "Belarus 5 Internet",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Lokomotiv Moscow vs CSKA Moscow "
         },
@@ -887,14 +921,6 @@
             "date": "2026-08-04"
         },
         {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Ipswich Town vs Le Havre "
-        },
-        {
             "channel": "Arena Premium 3 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
@@ -1030,24 +1056,6 @@
         },
         {
             "compet": "Leagues Cup (N/C American) - Group Stage",
-            "match": " Columbus Crew vs Atlas ",
-            "flags": {
-                "team1": "usa",
-                "team2": "mexico"
-            },
-            "time": "23:45",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "Apple TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.apple.com/",
-            "related_to": " Columbus Crew vs Atlas "
-        },
-        {
-            "compet": "Leagues Cup (N/C American) - Group Stage",
             "match": " Cincinnati vs Pachuca ",
             "flags": {
                 "team1": "usa",
@@ -1063,6 +1071,32 @@
             "encry": "",
             "link": "https://tv.apple.com/",
             "related_to": " Cincinnati vs Pachuca "
+        },
+        {
+            "channel": "Fox Sports 1 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Cincinnati vs Pachuca "
+        },
+        {
+            "compet": "Leagues Cup (N/C American) - Group Stage",
+            "match": " Columbus Crew vs Atlas ",
+            "flags": {
+                "team1": "usa",
+                "team2": "mexico"
+            },
+            "time": "23:45",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Apple TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.apple.com/",
+            "related_to": " Columbus Crew vs Atlas "
         }
     ]
 }
