@@ -37,11 +37,27 @@
             "related_to": " Jeju United vs Bayern Munich "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Jeju United vs Bayern Munich "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Jeju United vs Bayern Munich "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": " Jeju United vs Bayern Munich "
         },
         {
@@ -356,6 +372,58 @@
         },
         {
             "compet": "Friendly Club Match",
+            "match": " Almería vs Al Nassr ",
+            "flags": {
+                "team1": "spain",
+                "team2": "saudiarabia"
+            },
+            "time": "17:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Almería vs Al Nassr "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Almería vs Al Nassr "
+        },
+        {
+            "channel": "stc tv sports HD 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.stctv.com/sa-en",
+            "related_to": " Almería vs Al Nassr "
+        },
+        {
+            "compet": "Danish Cup (DBU Pokalen) - 1st Round",
+            "match": " Ringkøbingmp vs Aarhus Fremad ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-08-04"
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Ringkøbingmp vs Aarhus Fremad "
+        },
+        {
+            "compet": "Friendly Club Match",
             "match": " Huesca vs UD Logroñes ",
             "flags": {
                 "team1": "spain",
@@ -379,32 +447,6 @@
             "encry": "FTA",
             "link": "",
             "related_to": " Huesca vs UD Logroñes "
-        },
-        {
-            "compet": "Friendly Club Match",
-            "match": " Almería vs Al Nassr ",
-            "flags": {
-                "team1": "spain",
-                "team2": "saudiarabia"
-            },
-            "time": "17:00",
-            "date": "2026-08-04"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Almería vs Al Nassr "
-        },
-        {
-            "channel": "stc tv sports HD 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.stctv.com/sa-en",
-            "related_to": " Almería vs Al Nassr "
         },
         {
             "compet": "German Regionalliga: Nordost - Week 3",
@@ -595,6 +637,14 @@
             "related_to": " Sparta Prague vs Lyon "
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Sparta Prague vs Lyon "
+        },
+        {
             "channel": "Prima Sport CZ HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12110 H 29900 - 3/4",
@@ -673,6 +723,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Olympiacos vs NEC Nijmegen "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Olympiacos vs NEC Nijmegen "
         },
@@ -949,6 +1007,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Ipswich Town vs Le Havre "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Ipswich Town vs Le Havre "
         },

@@ -95,14 +95,6 @@
             "related_to": " Ferencváros vs Górnik Zabrze "
         },
         {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Ferencváros vs Górnik Zabrze "
-        },
-        {
             "channel": "ESPN+ USA",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -227,6 +219,14 @@
             "related_to": " Jagiellonia vs Rangers "
         },
         {
+            "channel": "Rangers TV",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Jagiellonia vs Rangers "
+        },
+        {
             "compet": "UEFA Europa League - 3rd Qualifying Round (1st Leg)",
             "match": " Hradec Králové vs Besiktas ",
             "flags": {
@@ -299,14 +299,6 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12265 V 27500 - 3/4",
             "encry": "HD Conax",
-            "link": "",
-            "related_to": " Lech Poznan vs KÍ Klaksvík "
-        },
-        {
-            "channel": "TVP Sport Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "10834 V 27500 - 3/4",
-            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Lech Poznan vs KÍ Klaksvík "
         },
@@ -500,6 +492,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": " Thun vs Víkingur Reykjavík "
+        },
+        {
+            "channel": "SÝN Sport Island 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": " Thun vs Víkingur Reykjavík "
         },
         {
@@ -765,6 +765,24 @@
             "encry": "",
             "link": "",
             "related_to": " Besiktas vs Hradec Králové "
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Rangers vs Jagiellonia ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "poland"
+            },
+            "time": "18:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "Rangers TV",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Rangers vs Jagiellonia "
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",

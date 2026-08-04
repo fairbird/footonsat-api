@@ -45,6 +45,14 @@
             "date": "2026-08-05"
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Brann vs Apollon Limassol "
+        },
+        {
             "channel": "Cytavision Sports 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -138,6 +146,40 @@
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
+            "match": " Paide Linnameeskond vs Rapid Vienna ",
+            "flags": {
+                "team1": "estonia",
+                "team2": "austria"
+            },
+            "time": "16:00",
+            "date": "2026-08-06"
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Paide Linnameeskond vs Rapid Vienna "
+        },
+        {
+            "channel": "Soccernet TV Estonia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@SoccernetEE/streams",
+            "related_to": " Paide Linnameeskond vs Rapid Vienna "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Paide Linnameeskond vs Rapid Vienna "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": " Noah vs Sion ",
             "flags": {
                 "team1": "armenia",
@@ -161,32 +203,6 @@
             "encry": "",
             "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Noah vs Sion "
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
-            "match": " Paide Linnameeskond vs Rapid Vienna ",
-            "flags": {
-                "team1": "estonia",
-                "team2": "austria"
-            },
-            "time": "16:00",
-            "date": "2026-08-06"
-        },
-        {
-            "channel": "Soccernet TV Estonia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@SoccernetEE/streams",
-            "related_to": " Paide Linnameeskond vs Rapid Vienna "
-        },
-        {
-            "channel": "Solidsport Broadcast📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
-            "related_to": " Paide Linnameeskond vs Rapid Vienna "
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
@@ -431,6 +447,14 @@
             "related_to": " IFK Gotenberg vs AA Gent "
         },
         {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " IFK Gotenberg vs AA Gent "
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": " Dynamo Kyiv vs Qarabagh ",
             "flags": {
@@ -522,6 +546,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
+            "related_to": " Twente vs Dunajská Streda "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
             "related_to": " Twente vs Dunajská Streda "
         },
         {
@@ -684,6 +716,14 @@
             "freq": "11817 V 30000 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "",
+            "related_to": " Borac Banja Luka vs ML Vitebsk "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": " Borac Banja Luka vs ML Vitebsk "
         },
         {
