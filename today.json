@@ -199,64 +199,6 @@
             "related_to": " Villarreal vs Levante "
         },
         {
-            "compet": "Friendly Hybrid Match - Asia Tour",
-            "match": " K-League All Stars vs Manchester City ",
-            "flags": {
-                "team1": "koreasouth",
-                "team2": "england"
-            },
-            "time": "11:00",
-            "date": "2026-08-05"
-        },
-        {
-            "channel": "Abu Dhabi Sports 1 HD 📺",
-            "sat": "Badr 8 26.0°e",
-            "freq": "11804 H 30000 - 3/4",
-            "encry": "FTA",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
-            "related_to": " K-League All Stars vs Manchester City "
-        },
-        {
-            "channel": "CBS Sports Network USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " K-League All Stars vs Manchester City "
-        },
-        {
-            "channel": "City+📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.mancity.com/citytv/city-plus/live",
-            "related_to": " K-League All Stars vs Manchester City "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " K-League All Stars vs Manchester City "
-        },
-        {
-            "channel": "SuperSport ESPN HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " K-League All Stars vs Manchester City "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " K-League All Stars vs Manchester City "
-        },
-        {
             "compet": "Friendly Club Match",
             "match": " AC Milan vs Inter Milan ",
             "flags": {
@@ -355,11 +297,27 @@
             "related_to": " AC Milan vs Inter Milan "
         },
         {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " AC Milan vs Inter Milan "
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
+            "related_to": " AC Milan vs Inter Milan "
+        },
+        {
+            "channel": "Net4+ Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://arena4plus.network4.hu/",
             "related_to": " AC Milan vs Inter Milan "
         },
         {
@@ -384,6 +342,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " AC Milan vs Inter Milan "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
             "related_to": " AC Milan vs Inter Milan "
         },
         {
@@ -441,6 +407,80 @@
             "encry": "HD Mediaguard",
             "link": "",
             "related_to": " AC Milan vs Inter Milan "
+        },
+        {
+            "compet": "Friendly Hybrid Match - Asia Tour",
+            "match": " K-League All Stars vs Manchester City ",
+            "flags": {
+                "team1": "koreasouth",
+                "team2": "england"
+            },
+            "time": "11:00",
+            "date": "2026-08-05"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " K-League All Stars vs Manchester City "
+        },
+        {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " K-League All Stars vs Manchester City "
+        },
+        {
+            "channel": "City+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.mancity.com/citytv/city-plus/live",
+            "related_to": " K-League All Stars vs Manchester City "
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " K-League All Stars vs Manchester City "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " K-League All Stars vs Manchester City "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " K-League All Stars vs Manchester City "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " K-League All Stars vs Manchester City "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " K-League All Stars vs Manchester City "
         },
         {
             "compet": "UEFA Womens Champions League - 2nd Preliminary Round",
@@ -511,6 +551,14 @@
             "related_to": " Chelsea vs Juventus "
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Juventus "
+        },
+        {
             "channel": "DAZN Deutsch",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -571,6 +619,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Juventus "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Chelsea vs Juventus "
+        },
+        {
+            "channel": "Sigma TV Cyprus HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "11837 H 16515 - 5/6",
+            "encry": "FTA",
             "link": "",
             "related_to": " Chelsea vs Juventus "
         },
@@ -1179,6 +1243,14 @@
             "related_to": " Fenerbahçe vs Sturm Graz "
         },
         {
+            "channel": "Sport TV Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Fenerbahçe vs Sturm Graz "
+        },
+        {
             "channel": "TV 100 HD",
             "sat": "Turksat 3A 42.0°e",
             "freq": "12729 V 30000 - 2/3",
@@ -1289,6 +1361,14 @@
             "related_to": " Ferencváros vs Górnik Zabrze "
         },
         {
+            "channel": "Super Polsat HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11158 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Ferencváros vs Górnik Zabrze "
+        },
+        {
             "compet": "Friendly Club Match - Aviva Stadium, Dublin",
             "match": " Arsenal vs Real Betis ",
             "flags": {
@@ -1319,6 +1399,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arsenal vs Real Betis "
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Arsenal vs Real Betis "
         },
@@ -1376,6 +1464,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " Arsenal vs Real Betis "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "FTA",
+            "link": "https://pokertvfa.live/",
             "related_to": " Arsenal vs Real Betis "
         },
         {
@@ -1658,6 +1754,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://onefootball.com/en/matches",
+            "related_to": " Mallorca vs Paris St Germain "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
             "related_to": " Mallorca vs Paris St Germain "
         },
         {
