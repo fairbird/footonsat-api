@@ -287,14 +287,6 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "Arena Sport 2 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11230 H 45000 - 8/9",
-            "encry": "HD Panaccess",
-            "link": "",
-            "related_to": " Salzburg vs Pafos FC "
-        },
-        {
             "channel": "Cytavision Sports 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -689,6 +681,14 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "SÝN Sport 1 Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "TNT Sports 1 HD",
             "sat": "NSS 12 57.0°e",
             "freq": "3775 L 09583 - 2/3",
@@ -729,6 +729,38 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
             "match": " Besiktas vs Hradec Králové ",
             "flags": {
@@ -756,6 +788,42 @@
         },
         {
             "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Górnik Zabrze vs Ferencváros ",
+            "flags": {
+                "team1": "poland",
+                "team2": "hungary"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Górnik Zabrze vs Ferencváros "
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
+            "match": " KÍ Klaksvík vs Lech Poznan ",
+            "flags": {
+                "team1": "faroeislands",
+                "team2": "poland"
+            },
+            "time": "17:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "TVP 2 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " KÍ Klaksvík vs Lech Poznan "
+        },
+        {
+            "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg)",
             "match": " Rangers vs Jagiellonia ",
             "flags": {
                 "team1": "scotland",
@@ -763,6 +831,14 @@
             },
             "time": "18:30",
             "date": "2026-08-13"
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Rangers vs Jagiellonia "
         },
         {
             "channel": "Rangers TV",
