@@ -453,6 +453,14 @@
             "date": "2026-08-06"
         },
         {
+            "channel": "AVS TV Belgium 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://avs.be/live",
+            "related_to": " IFK Gotenberg vs AA Gent "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -927,6 +935,14 @@
             "date": "2026-08-06"
         },
         {
+            "channel": "MRT 2 North Macedonia 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12441 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "http://play.mrt.com.mk/live/46",
+            "related_to": " Hibernian vs Shkëndija "
+        },
+        {
             "channel": "Solidsport Broadcast📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -935,7 +951,25 @@
             "related_to": " Hibernian vs Shkëndija "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]",
+            "match": " Apollon Limassol vs Brann ",
+            "flags": {
+                "team1": "cyprus",
+                "team2": "norway"
+            },
+            "time": "17:00",
+            "date": "2026-08-11"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Apollon Limassol vs Brann "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-1]",
             "match": " CSKA 1948 Sofia vs Panathinaikos ",
             "flags": {
                 "team1": "bulgaria",
@@ -969,6 +1003,24 @@
             "encry": "HD Viaccess",
             "link": "https://on.orf.at/live?channel=orf1",
             "related_to": " Rapid Vienna vs Paide Linnameeskond "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " FC Copenhagen vs Debrecen ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "hungary"
+            },
+            "time": "16:00",
+            "date": "2026-08-12"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " FC Copenhagen vs Debrecen "
         },
         {
             "compet": "UEFA Super Cup - FINAL",
@@ -1326,6 +1378,24 @@
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Tobol vs Partizan Belgrade ",
+            "flags": {
+                "team1": "kazstan",
+                "team2": "serbia"
+            },
+            "time": "15:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Tobol vs Partizan Belgrade "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
             "match": " Qarabagh vs Dynamo Kyiv ",
             "flags": {
                 "team1": "azerbaijan",
@@ -1362,6 +1432,42 @@
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Flora Tallinn vs Inter Escaldes ",
+            "flags": {
+                "team1": "estonia",
+                "team2": "andorra"
+            },
+            "time": "16:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Flora Tallinn vs Inter Escaldes "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Dunajská Streda vs Twente ",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "holland"
+            },
+            "time": "16:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dunajská Streda vs Twente "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
             "match": " RFS Riga vs Jablonec ",
             "flags": {
                 "team1": "latvia",
@@ -1380,6 +1486,204 @@
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Györ vs Riga FC ",
+            "flags": {
+                "team1": "hungary",
+                "team2": "latvia"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Györ vs Riga FC "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Tromsø vs CFR Cluj ",
+            "flags": {
+                "team1": "norway",
+                "team2": "romania"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Tromsø vs CFR Cluj "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Nordsjælland vs Valur Reykjavík ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "iceland"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Nordsjælland vs Valur Reykjavík "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " ML Vitebsk vs Borac Banja Luka ",
+            "flags": {
+                "team1": "belarus",
+                "team2": "bosnia"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " ML Vitebsk vs Borac Banja Luka "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Midtjylland vs Bohemians ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "ireland"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Midtjylland vs Bohemians "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Hammarby vs Raków Czestochowa ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "poland"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Hammarby vs Raków Czestochowa "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Dynamo Minsk vs Sporting Braga ",
+            "flags": {
+                "team1": "belarus",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dynamo Minsk vs Sporting Braga "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Vaduz vs Inter Turku ",
+            "flags": {
+                "team1": "liechtenstein",
+                "team2": "finland"
+            },
+            "time": "17:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Vaduz vs Inter Turku "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " NSI Runavik vs Lugano ",
+            "flags": {
+                "team1": "faroeislands",
+                "team2": "switzerland"
+            },
+            "time": "17:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " NSI Runavik vs Lugano "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " St Gallen vs Sheriff Tiraspol ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "moldova"
+            },
+            "time": "18:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " St Gallen vs Sheriff Tiraspol "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Drita vs Tre Fiori ",
+            "flags": {
+                "team1": "kosova",
+                "team2": "sanmarino"
+            },
+            "time": "18:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Drita vs Tre Fiori "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
             "match": " Shkëndija vs Hibernian ",
             "flags": {
                 "team1": "northmacedonia",
@@ -1395,6 +1699,42 @@
             "encry": "",
             "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
             "related_to": " Shkëndija vs Hibernian "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Sion vs Noah ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "armenia"
+            },
+            "time": "18:15",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Sion vs Noah "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " AA Gent vs IFK Gotenberg ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "sweden"
+            },
+            "time": "18:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " AA Gent vs IFK Gotenberg "
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
@@ -1429,6 +1769,60 @@
             "encry": "",
             "link": "https://www.premiersports.com/fr/live-now-on-demand",
             "related_to": " Shelbourne vs Ajax "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Motherwell vs HJK Helsinki ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "finland"
+            },
+            "time": "18:45",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Motherwell vs HJK Helsinki "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "match": " Hajduk Split vs Zalgiris ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "lithuania"
+            },
+            "time": "19:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Hajduk Split vs Zalgiris "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Dinamo City vs Auda ",
+            "flags": {
+                "team1": "albania",
+                "team2": "latvia"
+            },
+            "time": "19:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dinamo City vs Auda "
         }
     ]
 }
