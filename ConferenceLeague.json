@@ -2,106 +2,6 @@
     "footonsat": [
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
-            "match": " Brann vs Apollon Limassol ",
-            "flags": {
-                "team1": "norway",
-                "team2": "cyprus"
-            },
-            "time": "17:00",
-            "date": "2026-08-05"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Brann vs Apollon Limassol "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Brann vs Apollon Limassol "
-        },
-        {
-            "channel": "Cytavision Sports 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Brann vs Apollon Limassol "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Brann vs Apollon Limassol "
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
-            "match": " Panathinaikos vs CSKA 1948 Sofia ",
-            "flags": {
-                "team1": "greece",
-                "team2": "bulgaria"
-            },
-            "time": "18:30",
-            "date": "2026-08-05"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": "unknown",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "bTV Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12463 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "channel": "SKAI Hellas HD 📺",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12338 H 11568 - 2/3",
-            "encry": "HD BISS",
-            "link": "https://www.skai.gr/tv/live",
-            "related_to": " Panathinaikos vs CSKA 1948 Sofia "
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (1st Leg)",
             "match": " Inter Turku vs Vaduz ",
             "flags": {
                 "team1": "finland",
@@ -262,6 +162,14 @@
             "freq": "11823 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " CFR Cluj vs Tromsø "
+        },
+        {
+            "channel": "Direkte Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.direktesport.no/sport/a1da5593-7bc1-4c70-92da-19e5953a1f9b",
             "related_to": " CFR Cluj vs Tromsø "
         },
         {
@@ -1015,11 +923,11 @@
             "date": "2026-08-12"
         },
         {
-            "channel": "- - -",
+            "channel": "FCK TV ($/geo/R 📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://tv.fck.dk/",
             "related_to": " FC Copenhagen vs Debrecen "
         },
         {
@@ -1037,6 +945,22 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
         },
