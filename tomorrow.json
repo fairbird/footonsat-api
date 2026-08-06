@@ -227,6 +227,32 @@
             "related_to": " Shkëndija Haraçinë vs Sileks "
         },
         {
+            "compet": "Slovenian 2. SNL - Week 1",
+            "match": " Beltinci vs Rudar Velenje ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "15:30",
+            "date": "2026-08-07"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Beltinci vs Rudar Velenje "
+        },
+        {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Beltinci vs Rudar Velenje "
+        },
+        {
             "compet": "Hungarian NB 1 - Week 3",
             "match": " MTK Budapest vs Puskás Akadémia ",
             "flags": {
@@ -375,6 +401,24 @@
             "encry": "LiveOnSat.com",
             "link": "https://www.ruutu.fi/urheilu",
             "related_to": " SJK Seinäjoki vs Gnistan "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Girona XI vs Sabadell XI ",
+            "flags": {
+                "team1": "catalonia",
+                "team2": "catalonia"
+            },
+            "time": "16:30",
+            "date": "2026-08-07"
+        },
+        {
+            "channel": "Esport 3 Catalunya 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "FTA",
+            "link": "https://www.3cat.cat/3cat/directes/esport3/",
+            "related_to": " Girona XI vs Sabadell XI "
         },
         {
             "compet": "Austrian 2. Liga - Week 2",
@@ -1238,6 +1282,14 @@
             "channel": "Diema Sport HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Levski Sofia vs Lokomotiv Plovdiv "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Levski Sofia vs Lokomotiv Plovdiv "
