@@ -165,14 +165,6 @@
             "date": "2026-08-06"
         },
         {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " CFR Cluj vs Tromsø "
-        },
-        {
             "channel": "Digi Sport 2 Romania HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11823 H 30000 - 5/6",
@@ -816,9 +808,9 @@
         },
         {
             "channel": "Rtv San Marino DTT",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 0",
-            "encry": "",
+            "sat": "Eutelsat 5 West B 5.0°w",
+            "freq": "12606 V 35300 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Tre Fiori vs Drita "
         },
@@ -909,9 +901,17 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "- - -",
+            "channel": "Cytavision Sports 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Apollon Limassol vs Brann "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Apollon Limassol vs Brann "
@@ -935,7 +935,7 @@
             "related_to": " CSKA 1948 Sofia vs Panathinaikos "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [4-1]",
             "match": " Rapid Vienna vs Paide Linnameeskond ",
             "flags": {
                 "team1": "austria",
@@ -953,7 +953,7 @@
             "related_to": " Rapid Vienna vs Paide Linnameeskond "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [3-0]",
             "match": " FC Copenhagen vs Debrecen ",
             "flags": {
                 "team1": "denmark",
@@ -971,7 +971,15 @@
             "related_to": " FC Copenhagen vs Debrecen "
         },
         {
-            "compet": "UEFA Super Cup - FINAL",
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FC Copenhagen vs Debrecen "
+        },
+        {
+            "compet": "UEFA Super Cup - FINAL (Stadion Salzburg, Austria)",
             "match": " Paris St Germain vs Aston Villa ",
             "flags": {
                 "team1": "france",
@@ -1077,6 +1085,30 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Cytavision Sports 4K 1 UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "DAZN Canada",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1129,6 +1161,14 @@
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "MEGA Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12414 H 11568 - 2/3",
+            "encry": "MPEG-4 Biss",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
         },
@@ -1245,6 +1285,22 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "SuperSport MáXimo 2A HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12169 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "SuperSport Premier League HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11594 V 27500 - 5/6",
@@ -1357,7 +1413,7 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-2]",
             "match": " Tobol vs Partizan Belgrade ",
             "flags": {
                 "team1": "kazstan",
@@ -1375,7 +1431,7 @@
             "related_to": " Tobol vs Partizan Belgrade "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
             "match": " Qarabagh vs Dynamo Kyiv ",
             "flags": {
                 "team1": "azerbaijan",
@@ -1393,7 +1449,7 @@
             "related_to": " Qarabagh vs Dynamo Kyiv "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
             "match": " Ilves Tampere vs Rijeka ",
             "flags": {
                 "team1": "finland",
@@ -1411,7 +1467,7 @@
             "related_to": " Ilves Tampere vs Rijeka "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-2]",
             "match": " Flora Tallinn vs Inter Escaldes ",
             "flags": {
                 "team1": "estonia",
@@ -1429,7 +1485,7 @@
             "related_to": " Flora Tallinn vs Inter Escaldes "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-6]",
             "match": " Dunajská Streda vs Twente ",
             "flags": {
                 "team1": "slovakia",
@@ -1447,7 +1503,7 @@
             "related_to": " Dunajská Streda vs Twente "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-2]",
             "match": " RFS Riga vs Jablonec ",
             "flags": {
                 "team1": "latvia",
@@ -1465,7 +1521,7 @@
             "related_to": " RFS Riga vs Jablonec "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
             "match": " Györ vs Riga FC ",
             "flags": {
                 "team1": "hungary",
@@ -1483,7 +1539,7 @@
             "related_to": " Györ vs Riga FC "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [5-0]",
             "match": " Tromsø vs CFR Cluj ",
             "flags": {
                 "team1": "norway",
@@ -1501,7 +1557,7 @@
             "related_to": " Tromsø vs CFR Cluj "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-0]",
             "match": " Nordsjælland vs Valur Reykjavík ",
             "flags": {
                 "team1": "denmark",
@@ -1519,7 +1575,7 @@
             "related_to": " Nordsjælland vs Valur Reykjavík "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
             "match": " ML Vitebsk vs Borac Banja Luka ",
             "flags": {
                 "team1": "belarus",
@@ -1537,7 +1593,7 @@
             "related_to": " ML Vitebsk vs Borac Banja Luka "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-0]",
             "match": " Midtjylland vs Bohemians ",
             "flags": {
                 "team1": "denmark",
@@ -1555,7 +1611,7 @@
             "related_to": " Midtjylland vs Bohemians "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-0]",
             "match": " Hammarby vs Raków Czestochowa ",
             "flags": {
                 "team1": "sweden",
@@ -1573,7 +1629,7 @@
             "related_to": " Hammarby vs Raków Czestochowa "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
             "match": " Dynamo Minsk vs Sporting Braga ",
             "flags": {
                 "team1": "belarus",
@@ -1591,7 +1647,7 @@
             "related_to": " Dynamo Minsk vs Sporting Braga "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-2]",
             "match": " Vaduz vs Inter Turku ",
             "flags": {
                 "team1": "liechtenstein",
@@ -1609,7 +1665,7 @@
             "related_to": " Vaduz vs Inter Turku "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-2]",
             "match": " NSI Runavik vs Lugano ",
             "flags": {
                 "team1": "faroeislands",
@@ -1627,7 +1683,7 @@
             "related_to": " NSI Runavik vs Lugano "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [3-1]",
             "match": " St Gallen vs Sheriff Tiraspol ",
             "flags": {
                 "team1": "switzerland",
@@ -1645,7 +1701,7 @@
             "related_to": " St Gallen vs Sheriff Tiraspol "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-2]",
             "match": " Shkëndija vs Hibernian ",
             "flags": {
                 "team1": "northmacedonia",
@@ -1663,7 +1719,7 @@
             "related_to": " Shkëndija vs Hibernian "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [4-1]",
             "match": " Drita vs Tre Fiori ",
             "flags": {
                 "team1": "kosova",
@@ -1681,7 +1737,7 @@
             "related_to": " Drita vs Tre Fiori "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-2]",
             "match": " Sion vs Noah ",
             "flags": {
                 "team1": "switzerland",
@@ -1699,7 +1755,7 @@
             "related_to": " Sion vs Noah "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]",
             "match": " AA Gent vs IFK Gotenberg ",
             "flags": {
                 "team1": "belgium",
@@ -1717,7 +1773,7 @@
             "related_to": " AA Gent vs IFK Gotenberg "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-3]",
             "match": " Shelbourne vs Ajax ",
             "flags": {
                 "team1": "ireland",
@@ -1751,7 +1807,15 @@
             "related_to": " Shelbourne vs Ajax "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Shelbourne vs Ajax "
+        },
+        {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-1]",
             "match": " Motherwell vs HJK Helsinki ",
             "flags": {
                 "team1": "scotland",
@@ -1769,7 +1833,7 @@
             "related_to": " Motherwell vs HJK Helsinki "
         },
         {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg)",
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [5-2]",
             "match": " Hajduk Split vs Zalgiris ",
             "flags": {
                 "team1": "croatia",

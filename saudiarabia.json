@@ -45,6 +45,14 @@
             "date": "2026-08-14"
         },
         {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Hilal vs Al Faisaly "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -61,6 +69,14 @@
             },
             "time": "18:00",
             "date": "2026-08-15"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Nassr vs Al Fateh "
         },
         {
             "channel": "SuperSport ESPN HD",
@@ -81,6 +97,14 @@
             "date": "2026-08-20"
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Fayha vs Al Hilal "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
@@ -99,12 +123,74 @@
             "date": "2026-08-21"
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Riyadh vs Al Nassr "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Al Riyadh vs Al Nassr "
+        },
+        {
+            "compet": "Saudi Pro League - Week 2",
+            "match": " Al Qadisiyah vs Al Ittihad ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Qadisiyah vs Al Ittihad "
+        },
+        {
+            "compet": "Saudi Pro League - Week 3",
+            "match": " Al Ittihad vs Al Hazem ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-24"
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Ittihad vs Al Hazem "
+        },
+        {
+            "compet": "Saudi Pro League - Week 3",
+            "match": " Al Ettifaq vs Al Nassr ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Ettifaq vs Al Nassr "
         }
     ]
 }
