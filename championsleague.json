@@ -89,14 +89,6 @@
             "date": "2026-08-11"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Kauno Zalgiris vs Dinamo Zagreb "
-        },
-        {
             "channel": "TV3 Lietuva HD",
             "sat": "Astra 4A 5.0°e",
             "freq": "11938 V 27500 - 5/6",
@@ -163,14 +155,6 @@
             },
             "time": "18:15",
             "date": "2026-08-11"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Mjällby AIF "
         },
         {
             "channel": "STVR Šport Slovakia HD 📺",
@@ -257,6 +241,30 @@
             },
             "time": "19:00",
             "date": "2026-08-11"
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Lyon vs Sparta Prague "
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Lyon vs Sparta Prague "
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Lyon vs Sparta Prague "
         },
         {
             "channel": "MAX Sport 3 Bulgaria HD",
@@ -373,6 +381,14 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "Canal+ Sport 1 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11278 V 27500 - 3/4",
@@ -426,6 +442,22 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
@@ -568,6 +600,14 @@
             "channel": "Sky Sport 1 Austria HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
