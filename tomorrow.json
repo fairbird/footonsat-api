@@ -2725,6 +2725,24 @@
             "related_to": " Torpedo-BelAZ vs Dynamo Brest "
         },
         {
+            "compet": "UEFA Womens Champions League",
+            "match": " Torreense vs Apolonia ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "albania"
+            },
+            "time": "13:30",
+            "date": "2026-08-08"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Torreense vs Apolonia "
+        },
+        {
             "compet": "Friendly Club Match",
             "match": " Bayer Leverkusen vs Sevilla ",
             "flags": {
@@ -2837,24 +2855,6 @@
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Bayer Leverkusen vs Sevilla "
-        },
-        {
-            "compet": "UEFA Womens Champions League",
-            "match": " Torreense vs Apolonia ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "albania"
-            },
-            "time": "13:30",
-            "date": "2026-08-08"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Torreense vs Apolonia "
         },
         {
             "compet": "Friendly Club Match",
@@ -3281,6 +3281,50 @@
             "encry": "",
             "link": "",
             "related_to": " West Ham United vs Portsmouth "
+        },
+        {
+            "compet": "Scottish Premiership - Week 2",
+            "match": " Dundee vs Aberdeen ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-08-08"
+        },
+        {
+            "channel": "Dundee TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://deetv.dundeefc.co.uk/",
+            "related_to": " Dundee vs Aberdeen "
+        },
+        {
+            "channel": "Red TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://redtv.afc.co.uk/en",
+            "related_to": " Dundee vs Aberdeen "
+        },
+        {
+            "compet": "Scottish Championship - Week 2",
+            "match": " Queen's Park vs Raith Rovers ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "scotland"
+            },
+            "time": "14:00",
+            "date": "2026-08-08"
+        },
+        {
+            "channel": "QPTV Live📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.queensparkfc.co.uk/",
+            "related_to": " Queen's Park vs Raith Rovers "
         },
         {
             "compet": "Scottish League 1 - Week 2",
@@ -4887,80 +4931,6 @@
             "related_to": " Scarborough Athletic vs South Shields "
         },
         {
-            "compet": "English League Cup - 1st Round",
-            "match": " Norwich City vs Milton Keynes Dons ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-08-08"
-        },
-        {
-            "channel": "beIN Sports France 9 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Norwich City vs Milton Keynes Dons "
-        },
-        {
             "compet": "Danish 1. Division - Week 3",
             "match": " Hobro vs AB Copenhagen ",
             "flags": {
@@ -5083,6 +5053,80 @@
             "encry": "",
             "link": "",
             "related_to": " Sheffield Wednesday vs Bolton Wanderers "
+        },
+        {
+            "compet": "English League Cup - 1st Round",
+            "match": " Norwich City vs Milton Keynes Dons ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-08-08"
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Norwich City vs Milton Keynes Dons "
         },
         {
             "compet": "Scottish Championship - Week 2",
@@ -5391,32 +5435,6 @@
             "related_to": " AFC Wimbledon vs Newport County "
         },
         {
-            "compet": "Scottish Premiership - Week 2",
-            "match": " Dundee vs Aberdeen ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "14:00",
-            "date": "2026-08-08"
-        },
-        {
-            "channel": "Dundee TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://deetv.dundeefc.co.uk/",
-            "related_to": " Dundee vs Aberdeen "
-        },
-        {
-            "channel": "Red TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://redtv.afc.co.uk/en",
-            "related_to": " Dundee vs Aberdeen "
-        },
-        {
             "compet": "Slovak 2. Liga - Week 3",
             "match": " Tatran Presov vs Liptovský Mikuláš ",
             "flags": {
@@ -5603,24 +5621,6 @@
             "encry": "",
             "link": "https://www.loitv.ie/",
             "related_to": " DLR Waves vs Shamrock Rovers "
-        },
-        {
-            "compet": "Scottish Championship - Week 2",
-            "match": " Queen's Park vs Raith Rovers ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "scotland"
-            },
-            "time": "14:00",
-            "date": "2026-08-08"
-        },
-        {
-            "channel": "QPTV Live📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.queensparkfc.co.uk/",
-            "related_to": " Queen's Park vs Raith Rovers "
         },
         {
             "compet": "German 3. Liga - Week 1",
@@ -6179,6 +6179,40 @@
             "encry": "HD Verimatrix",
             "link": "https://upl.ua/en/upltv",
             "related_to": " Bukovyna vs Obolon Kyiv "
+        },
+        {
+            "compet": "Russian FNL - Week 5",
+            "match": " Torpedo Moscow vs Sochi ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "15:00",
+            "date": "2026-08-08"
+        },
+        {
+            "channel": "MATCH! Planeta",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12533 V 44950 - 4/5",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Torpedo Moscow vs Sochi "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Torpedo Moscow vs Sochi "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Torpedo Moscow vs Sochi "
         },
         {
             "compet": "Swedish Superettan - Week 18",
@@ -7283,6 +7317,14 @@
             "related_to": " Ferencváros vs Real Madrid "
         },
         {
+            "channel": "YouTube: Kanal Sportowy 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@Kanal_Sportowy",
+            "related_to": " Ferencváros vs Real Madrid "
+        },
+        {
             "compet": "North Macedonian First League - Week 2",
             "match": " Bregalnica Stip vs Arsimi ",
             "flags": {
@@ -7423,6 +7465,64 @@
             "related_to": " Wexford vs Athlone Town "
         },
         {
+            "compet": "Russian Premier League - Week 3",
+            "match": " CSKA Moscow vs Rostov ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "17:30",
+            "date": "2026-08-08"
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " CSKA Moscow vs Rostov "
+        },
+        {
+            "channel": "Futbol TV Tajikistan",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12252 H 10000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " CSKA Moscow vs Rostov "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " CSKA Moscow vs Rostov "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " CSKA Moscow vs Rostov "
+        },
+        {
+            "channel": "MATCH! TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": " CSKA Moscow vs Rostov "
+        },
+        {
+            "channel": "Q Sport International HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " CSKA Moscow vs Rostov "
+        },
+        {
             "compet": "Austrian Bundesliga - Week 2",
             "match": " Hartberg vs Sturm Graz ",
             "flags": {
@@ -7471,56 +7571,6 @@
             "encry": "MPEG-4 DreCrypt",
             "link": "",
             "related_to": " Hartberg vs Sturm Graz "
-        },
-        {
-            "compet": "Russian Premier League - Week 3",
-            "match": " CSKA Moscow vs Rostov ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "17:30",
-            "date": "2026-08-08"
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12460 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " CSKA Moscow vs Rostov "
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " CSKA Moscow vs Rostov "
-        },
-        {
-            "channel": "MATCH! Russia HD",
-            "sat": "Yamal 401 90.0°e",
-            "freq": "3786 R 15284 - 3/4",
-            "encry": "MPEG-4 GoSTcrypt",
-            "link": "",
-            "related_to": " CSKA Moscow vs Rostov "
-        },
-        {
-            "channel": "MATCH! TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://matchtv.ru/video/sports/football",
-            "related_to": " CSKA Moscow vs Rostov "
-        },
-        {
-            "channel": "Q Sport International HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " CSKA Moscow vs Rostov "
         },
         {
             "compet": "Friendly Club Match - Friuli Venezia Giulia Cup",
