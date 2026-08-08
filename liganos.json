@@ -175,6 +175,14 @@
             "related_to": " Estrela Amadora vs Sporting Lisbon "
         },
         {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3786 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Estrela Amadora vs Sporting Lisbon "
+        },
+        {
             "channel": "Megogo Futbol 1📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -830,13 +838,31 @@
         },
         {
             "compet": "Portuguese Liga 1 - Week 2",
-            "match": " Casa Pia vs Benfica ",
+            "match": " Famalicão vs Marítimo ",
             "flags": {
                 "team1": "portugal",
                 "team2": "portugal"
             },
             "time": "19:30",
             "date": "2026-08-16"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Famalicão vs Marítimo "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 2",
+            "match": " Casa Pia vs Benfica ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:15",
+            "date": "2026-08-17"
         },
         {
             "channel": "beIN Sports France 4 HD max",
@@ -885,24 +911,6 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Casa Pia vs Benfica "
-        },
-        {
-            "compet": "Portuguese Liga 1 - Week 2",
-            "match": " Famalicão vs Marítimo ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:30",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Famalicão vs Marítimo "
         }
     ]
 }
