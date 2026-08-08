@@ -53,6 +53,14 @@
             "related_to": " Al Hilal vs Al Faisaly "
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Hilal vs Al Faisaly "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -191,6 +199,32 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Al Ettifaq vs Al Nassr "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Al Ettifaq vs Al Nassr "
+        },
+        {
+            "compet": "Saudi Pro League - Week 4",
+            "match": " Al Nassr vs Al Taawoun ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "18:00",
+            "date": "2026-08-28"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Al Nassr vs Al Taawoun "
         }
     ]
 }
