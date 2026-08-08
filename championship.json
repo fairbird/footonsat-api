@@ -11,6 +11,14 @@
             "date": "2026-08-14"
         },
         {
+            "channel": "Arena Premium 1 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Blackburn Rovers "
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11595 H 30000 - 3/4",
@@ -55,6 +63,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Blackburn Rovers "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Wolves vs Blackburn Rovers "
         },
@@ -143,6 +159,22 @@
             "sat": "Intelsat 20 68.5°e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "",
+            "related_to": " Wolves vs Blackburn Rovers "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Wolves vs Blackburn Rovers "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Wolves vs Blackburn Rovers "
         },
@@ -355,6 +387,14 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12148 H 27500 - 2/3",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Middlesbrough vs Lincoln City "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Middlesbrough vs Lincoln City "
         },
@@ -843,6 +883,14 @@
             "related_to": " Sheffield United vs Birmingham City "
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sheffield United vs Birmingham City "
+        },
+        {
             "channel": "ViaPlay 2 Urheilu HD",
             "sat": "Thor 5 0.8°w",
             "freq": "11278 V 25000 - 3/4",
@@ -984,6 +1032,14 @@
             "channel": "Sky UK Ultra HD 1",
             "sat": "Astra 2F 28.2°e",
             "freq": "12246 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Watford vs Southampton "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Watford vs Southampton "
@@ -1167,6 +1223,14 @@
             "related_to": " Burnley vs West Ham United "
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Burnley vs West Ham United "
+        },
+        {
             "channel": "ViaPlay 1 Urheilu HD",
             "sat": "Thor 5 0.8°w",
             "freq": "11278 V 25000 - 3/4",
@@ -1321,6 +1385,14 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1375,6 +1447,58 @@
             "encry": "",
             "link": "",
             "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "compet": "English Championship - Week 2",
+            "match": " Birmingham City vs Bristol City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "11:30",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham City vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Bristol City "
+        },
+        {
+            "compet": "English Championship - Week 2",
+            "match": " Millwall vs Norwich City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "11:30",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Millwall vs Norwich City "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Millwall vs Norwich City "
         },
         {
             "compet": "English Championship - Week 2",
@@ -1441,58 +1565,6 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Lincoln City vs Portsmouth "
-        },
-        {
-            "compet": "English Championship - Week 2",
-            "match": " Birmingham City vs Bristol City ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "11:30",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham City vs Bristol City "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Birmingham City vs Bristol City "
-        },
-        {
-            "compet": "English Championship - Week 2",
-            "match": " Millwall vs Norwich City ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "11:30",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Millwall vs Norwich City "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Millwall vs Norwich City "
         },
         {
             "compet": "English Championship - Week 2",

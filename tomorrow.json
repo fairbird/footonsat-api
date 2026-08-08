@@ -35,6 +35,14 @@
             "related_to": " Botafogo vs Fluminense "
         },
         {
+            "channel": "Dubai Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-1.html",
+            "related_to": " Botafogo vs Fluminense "
+        },
+        {
             "channel": "Fanatiz EU📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1031,6 +1039,14 @@
             "related_to": " Energie Cottbus vs Hannover 96 "
         },
         {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Energie Cottbus vs Hannover 96 "
+        },
+        {
             "channel": "Veikkaus TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1305,6 +1321,14 @@
             "related_to": " St Pauli vs Greuther Fürth "
         },
         {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " St Pauli vs Greuther Fürth "
+        },
+        {
             "channel": "Veikkaus TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1535,6 +1559,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Nuremberg vs Dynamo Dresden "
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Nuremberg vs Dynamo Dresden "
         },
@@ -1775,6 +1807,14 @@
             "date": "2026-08-09"
         },
         {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Johor Darul Ta'zim vs Chelsea "
+        },
+        {
             "channel": "Arena Sport 1x2 Srbija",
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -1828,6 +1868,14 @@
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Johor Darul Ta'zim vs Chelsea "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": " Johor Darul Ta'zim vs Chelsea "
         },
         {
@@ -2389,6 +2437,14 @@
             "related_to": " Kilmarnock vs Celtic "
         },
         {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Kilmarnock vs Celtic "
+        },
+        {
             "channel": "SuperSport ESPN 2 HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -2827,6 +2883,14 @@
             "related_to": " Arsenal vs Borussia Dortmund "
         },
         {
+            "channel": "Sport Bladet Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.sportbladetplay.se/schedule",
+            "related_to": " Arsenal vs Borussia Dortmund "
+        },
+        {
             "channel": "SportKlub 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
@@ -3183,6 +3247,48 @@
             "related_to": " Paks vs Honvéd "
         },
         {
+            "compet": "Brazilian Série A - Week 22",
+            "match": " Cruzeiro vs Mirassol ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "14:00",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cruzeiro vs Mirassol "
+        },
+        {
+            "channel": "Dubai Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12130 V 30000 - 3/4",
+            "encry": "FTA",
+            "link": "https://www.dubaisports.ae/content/dubaisports/livestreaming/channel-2.html",
+            "related_to": " Cruzeiro vs Mirassol "
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Cruzeiro vs Mirassol "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Cruzeiro vs Mirassol "
+        },
+        {
             "compet": "Russian Premier League - Week 3",
             "match": " Zenit St Petersburg vs Rodina Moscow ",
             "flags": {
@@ -3307,40 +3413,6 @@
             "encry": "LiveOnSat.com",
             "link": "https://heartstv.heartsfc.co.uk/",
             "related_to": " Hearts vs Dundee United "
-        },
-        {
-            "compet": "Brazilian Série A - Week 22",
-            "match": " Cruzeiro vs Mirassol ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "14:00",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cruzeiro vs Mirassol "
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Cruzeiro vs Mirassol "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Cruzeiro vs Mirassol "
         },
         {
             "compet": "Belgian Pro League - Week 1",
@@ -3555,14 +3627,6 @@
             },
             "time": "14:30",
             "date": "2026-08-09"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Basel vs Thun "
         },
         {
             "channel": "Arena Premium 4 Srbija HD",
@@ -3869,104 +3933,6 @@
             "related_to": " Heerenveen vs Twente "
         },
         {
-            "compet": "Austrian Bundesliga - Week 2",
-            "match": " Wolfsberger AC vs Salzburg ",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "time": "15:00",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "Arena Sport 1 Slovakia HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11290 H 45000 - 8/9",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "Arena Sport 1x2 Srbija",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "Arena Sport 5 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "Como TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "Sky Sport 1 Austria HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "SportKlub 5 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0°e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
-            "channel": "Veikkaus TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
-            "related_to": " Wolfsberger AC vs Salzburg "
-        },
-        {
             "compet": "English League Cup - 1st Round",
             "match": " Mansfield Town vs Sheffield United ",
             "flags": {
@@ -4121,6 +4087,14 @@
             "related_to": " Mansfield Town vs Sheffield United "
         },
         {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Mansfield Town vs Sheffield United "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4167,6 +4141,154 @@
             "encry": "",
             "link": "",
             "related_to": " Mansfield Town vs Sheffield United "
+        },
+        {
+            "compet": "Austrian Bundesliga - Week 2",
+            "match": " Ried vs Rapid Vienna ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "15:00",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Ried vs Rapid Vienna "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Ried vs Rapid Vienna "
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ried vs Rapid Vienna "
+        },
+        {
+            "channel": "Sky Sport 3 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ried vs Rapid Vienna "
+        },
+        {
+            "compet": "Austrian Bundesliga - Week 2",
+            "match": " Wolfsberger AC vs Salzburg ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "15:00",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11290 H 45000 - 8/9",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "Arena Sport 1x2 Srbija",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "Arena Sport 5 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "Sky Sport 4 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12382 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Wolfsberger AC vs Salzburg "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Wolfsberger AC vs Salzburg "
         },
         {
             "compet": "Scottish Premiership - Week 2",
@@ -4415,76 +4537,6 @@
             "related_to": " Hradec Králové vs Baník Ostrava "
         },
         {
-            "compet": "Austrian Bundesliga - Week 2",
-            "match": " Ried vs Rapid Vienna ",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "time": "15:00",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Ried vs Rapid Vienna "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Ried vs Rapid Vienna "
-        },
-        {
-            "channel": "Sky Sport 1 Austria HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Ried vs Rapid Vienna "
-        },
-        {
-            "compet": "North Macedonian First League - Week 2",
-            "match": " Skopje vs Struga ",
-            "flags": {
-                "team1": "northmacedonia",
-                "team2": "northmacedonia"
-            },
-            "time": "15:00",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Skopje vs Struga "
-        },
-        {
-            "compet": "North Macedonian First League - Week 2",
-            "match": " Vardar Skopje vs Shkëndija ",
-            "flags": {
-                "team1": "northmacedonia",
-                "team2": "northmacedonia"
-            },
-            "time": "15:00",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vardar Skopje vs Shkëndija "
-        },
-        {
             "compet": "Friendly Club Match",
             "match": " Mansfield Town vs Sheffield United ",
             "flags": {
@@ -4525,6 +4577,42 @@
             "encry": "",
             "link": "https://arena4plus.network4.hu/",
             "related_to": " Mansfield Town vs Sheffield United "
+        },
+        {
+            "compet": "North Macedonian First League - Week 2",
+            "match": " Skopje vs Struga ",
+            "flags": {
+                "team1": "northmacedonia",
+                "team2": "northmacedonia"
+            },
+            "time": "15:00",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Skopje vs Struga "
+        },
+        {
+            "compet": "North Macedonian First League - Week 2",
+            "match": " Vardar Skopje vs Shkëndija ",
+            "flags": {
+                "team1": "northmacedonia",
+                "team2": "northmacedonia"
+            },
+            "time": "15:00",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vardar Skopje vs Shkëndija "
         },
         {
             "compet": "Norwegian Eliteserien - Week 17",
@@ -5655,11 +5743,35 @@
             "related_to": " FC Porto vs Alverca "
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " FC Porto vs Alverca "
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " FC Porto vs Alverca "
+        },
+        {
             "channel": "TVi V+ Portugal",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "10770 H 30000 - 5/6",
             "encry": "MPEG-4 Biss",
             "link": "",
+            "related_to": " FC Porto vs Alverca "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": " FC Porto vs Alverca "
         },
         {
@@ -5724,6 +5836,14 @@
             "channel": "Sky Sport 1 Austria HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Austria Vienna vs LASK Linz "
+        },
+        {
+            "channel": "Sky Sport 2 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11992 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Austria Vienna vs LASK Linz "
@@ -5831,6 +5951,32 @@
             "related_to": " Benfica II vs Leixões "
         },
         {
+            "compet": "Belgian Pro League - Week 1",
+            "match": " Antwerp vs Beveren ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "17:15",
+            "date": "2026-08-09"
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Antwerp vs Beveren "
+        },
+        {
+            "channel": "DAZN Pro League 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Antwerp vs Beveren "
+        },
+        {
             "compet": "Norwegian Eliteserien - Week 17",
             "match": " Kristiansund vs Molde ",
             "flags": {
@@ -5863,32 +6009,6 @@
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": " Kristiansund vs Molde "
-        },
-        {
-            "compet": "Belgian Pro League - Week 1",
-            "match": " Antwerp vs Beveren ",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "time": "17:15",
-            "date": "2026-08-09"
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Antwerp vs Beveren "
-        },
-        {
-            "channel": "DAZN Pro League 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Antwerp vs Beveren "
         },
         {
             "compet": "German 3. Liga - Week 1",
@@ -6891,11 +7011,35 @@
             "related_to": " Benfica vs Academico Viseu "
         },
         {
+            "channel": "TV4 Fotboll HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Benfica vs Academico Viseu "
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " Benfica vs Academico Viseu "
+        },
+        {
             "channel": "Veikkaus TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Benfica vs Academico Viseu "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
             "related_to": " Benfica vs Academico Viseu "
         },
         {
