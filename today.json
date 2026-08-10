@@ -223,24 +223,6 @@
             "related_to": " Povazská Bystrica vs Zlaté Moravce "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": " Panionios vs Olympiacos II ",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "time": "15:30",
-            "date": "2026-08-10"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Panionios vs Olympiacos II "
-        },
-        {
             "compet": "Romanian Superliga - Week 4",
             "match": " Botosani vs Corvinul Hunedoara ",
             "flags": {
@@ -249,6 +231,14 @@
             },
             "time": "15:30",
             "date": "2026-08-10"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Botosani vs Corvinul Hunedoara "
         },
         {
             "channel": "Arena Sport 1 Hrvatska HD",
@@ -273,6 +263,24 @@
             "encry": "VideoGuard",
             "link": "",
             "related_to": " Botosani vs Corvinul Hunedoara "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Panionios vs Olympiacos II ",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "15:30",
+            "date": "2026-08-10"
+        },
+        {
+            "channel": "Cosmote Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Panionios vs Olympiacos II "
         },
         {
             "compet": "Lithuanian A Lyga - Week 26",
@@ -371,6 +379,64 @@
             "related_to": " Alashkert vs BKMA "
         },
         {
+            "compet": "Russian Premier League - Week 3",
+            "match": " Fakel Voronezh vs Akhmat Grozny ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "16:30",
+            "date": "2026-08-10"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Fakel Voronezh vs Akhmat Grozny "
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Fakel Voronezh vs Akhmat Grozny "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Fakel Voronezh vs Akhmat Grozny "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11720 H 28800 - 3/4",
+            "encry": "Conax",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Fakel Voronezh vs Akhmat Grozny "
+        },
+        {
+            "channel": "MATCH! TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://matchtv.ru/video/sports/football",
+            "related_to": " Fakel Voronezh vs Akhmat Grozny "
+        },
+        {
+            "channel": "Q Sport International HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Fakel Voronezh vs Akhmat Grozny "
+        },
+        {
             "compet": "Latvian Virsliga - Week 26",
             "match": " RFS Riga vs Grobina ",
             "flags": {
@@ -413,56 +479,6 @@
             "related_to": " RFS Riga vs Grobina "
         },
         {
-            "compet": "Russian Premier League - Week 3",
-            "match": " Fakel Voronezh vs Akhmat Grozny ",
-            "flags": {
-                "team1": "russia",
-                "team2": "russia"
-            },
-            "time": "16:30",
-            "date": "2026-08-10"
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Fakel Voronezh vs Akhmat Grozny "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Fakel Voronezh vs Akhmat Grozny "
-        },
-        {
-            "channel": "MATCH! Premier HD 📺",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11720 H 28800 - 3/4",
-            "encry": "Conax",
-            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
-            "related_to": " Fakel Voronezh vs Akhmat Grozny "
-        },
-        {
-            "channel": "MATCH! TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://matchtv.ru/video/sports/football",
-            "related_to": " Fakel Voronezh vs Akhmat Grozny "
-        },
-        {
-            "channel": "Q Sport International HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Fakel Voronezh vs Akhmat Grozny "
-        },
-        {
             "compet": "Lithuanian A Lyga - Week 26",
             "match": " Riteriai vs Zalgiris ",
             "flags": {
@@ -503,6 +519,14 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12422 H 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Silkeborg vs OB Odense "
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Silkeborg vs OB Odense "
         },
@@ -823,6 +847,48 @@
             "related_to": " Botev Plovdiv vs Spartak Varna "
         },
         {
+            "compet": "Romanian Superliga - Week 4",
+            "match": " Sepsi OSK vs FCSB ",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "18:30",
+            "date": "2026-08-10"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sepsi OSK vs FCSB "
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sepsi OSK vs FCSB "
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sepsi OSK vs FCSB "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Sepsi OSK vs FCSB "
+        },
+        {
             "compet": "Türkiye 1. Lig - Week 1",
             "match": " Pendikspor vs Batman Petrolspor ",
             "flags": {
@@ -858,40 +924,6 @@
         },
         {
             "compet": "Romanian Superliga - Week 4",
-            "match": " Sepsi OSK vs FCSB ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "18:30",
-            "date": "2026-08-10"
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sepsi OSK vs FCSB "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sepsi OSK vs FCSB "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Sepsi OSK vs FCSB "
-        },
-        {
-            "compet": "Romanian Superliga - Week 4",
             "match": " CFR Cluj vs Universitatea Cluj ",
             "flags": {
                 "team1": "romania",
@@ -922,6 +954,14 @@
             "channel": "Arena M1 Premium MKD HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Plymouth Argyle vs Exeter City "
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Plymouth Argyle vs Exeter City "
