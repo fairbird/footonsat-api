@@ -11,6 +11,14 @@
             "date": "2026-08-14"
         },
         {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Real Sociedad II vs Castellón "
+        },
+        {
             "channel": "Arena Sport 6 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11554 V 30000 - 5/6",
@@ -129,6 +137,14 @@
             "related_to": " Real Oviedo vs Granada "
         },
         {
+            "channel": "Arena Sport 6 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Real Oviedo vs Granada "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -238,32 +254,6 @@
         },
         {
             "compet": "Spanish La Liga 2 - Week 1",
-            "match": " Burgos vs Córdoba ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Burgos vs Córdoba "
-        },
-        {
-            "channel": "LaLiga Hypermotion 2",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11686 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Burgos vs Córdoba "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 1",
             "match": " Girona vs Leganés ",
             "flags": {
                 "team1": "spain",
@@ -277,6 +267,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Girona vs Leganés "
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Girona vs Leganés "
         },
@@ -303,6 +301,56 @@
             "encry": "",
             "link": "",
             "related_to": " Girona vs Leganés "
+        },
+        {
+            "channel": "S Sport 2 Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11880 H 20000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Girona vs Leganés "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Girona vs Leganés "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 1",
+            "match": " Burgos vs Córdoba ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Burgos vs Córdoba "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Burgos vs Córdoba "
+        },
+        {
+            "channel": "LaLiga Hypermotion 2",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Burgos vs Córdoba "
         },
         {
             "compet": "Spanish La Liga 2 - Week 1",
