@@ -59,10 +59,26 @@
             "related_to": " Holstein Kiel vs St Pauli "
         },
         {
+            "channel": "Digi Sport 3 Romania",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Holstein Kiel vs St Pauli "
+        },
+        {
             "channel": "Eleven Sports 1 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Holstein Kiel vs St Pauli "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Holstein Kiel vs St Pauli "
         },
@@ -79,6 +95,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11823 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Holstein Kiel vs St Pauli "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Holstein Kiel vs St Pauli "
         },
@@ -126,6 +150,14 @@
             "channel": "SportKlub 7 Hrvatska",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Holstein Kiel vs St Pauli "
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Holstein Kiel vs St Pauli "
@@ -261,6 +293,14 @@
             "related_to": " Braunschweig vs Bochum "
         },
         {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Braunschweig vs Bochum "
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
@@ -305,6 +345,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Braunschweig vs Bochum "
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Braunschweig vs Bochum "
         },
@@ -382,330 +430,6 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 2",
-            "match": " Osnabrück vs Magdeburg ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "11:00",
-            "date": "2026-08-15"
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": "unknown",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "beIN Sports Australia 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "Sport TV3 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "channel": "YouTube: Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": " Osnabrück vs Magdeburg "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 2",
-            "match": " Greuther Fürth vs Nuremberg ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "11:00",
-            "date": "2026-08-15"
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "Eleven Sports 3 Polska HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 3 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "Sport TV1 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "ViaPlay 3 Urheilu HD",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11823 V 27500 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "channel": "YouTube: Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": " Greuther Fürth vs Nuremberg "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 2",
             "match": " Hertha Berlin vs Heidenheim ",
             "flags": {
                 "team1": "germany",
@@ -747,10 +471,26 @@
             "related_to": " Hertha Berlin vs Heidenheim "
         },
         {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Hertha Berlin vs Heidenheim "
+        },
+        {
             "channel": "Eleven Sports 2 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Hertha Berlin vs Heidenheim "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Hertha Berlin vs Heidenheim "
         },
@@ -767,6 +507,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11823 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Hertha Berlin vs Heidenheim "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Hertha Berlin vs Heidenheim "
         },
@@ -823,6 +571,14 @@
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hertha Berlin vs Heidenheim "
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Hertha Berlin vs Heidenheim "
         },
@@ -908,6 +664,370 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 2",
+            "match": " Greuther Fürth vs Nuremberg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "11:00",
+            "date": "2026-08-15"
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "Sky Sport Bundesliga 3 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "Sport TV1 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 3/5",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "WOW Deutsch📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wowtv.de/live-sport",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Greuther Fürth vs Nuremberg "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 2",
+            "match": " Osnabrück vs Magdeburg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "11:00",
+            "date": "2026-08-15"
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": "unknown",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "beIN Sports Australia 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Eleven Sports 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Nova Sport 5 Slovakia HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12456 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "Sport TV3 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "WOW Deutsch📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wowtv.de/live-sport",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Osnabrück vs Magdeburg "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 2",
             "match": " Kaiserslautern vs Karlsruhe ",
             "flags": {
                 "team1": "germany",
@@ -961,6 +1081,22 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Kaiserslautern vs Karlsruhe "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Kaiserslautern vs Karlsruhe "
+        },
+        {
+            "channel": "Nova Sport 5 Slovakia HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12456 V 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Kaiserslautern vs Karlsruhe "
         },
@@ -1057,6 +1193,14 @@
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Kaiserslautern vs Karlsruhe "
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Kaiserslautern vs Karlsruhe "
         },
@@ -1191,10 +1335,34 @@
             "related_to": " Hannover 96 vs Wolfsburg "
         },
         {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Hannover 96 vs Wolfsburg "
+        },
+        {
             "channel": "Eleven Sports 1 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Hannover 96 vs Wolfsburg "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Hannover 96 vs Wolfsburg "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Hannover 96 vs Wolfsburg "
         },
@@ -1235,6 +1403,14 @@
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hannover 96 vs Wolfsburg "
+        },
+        {
+            "channel": "TSN Malta 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Hannover 96 vs Wolfsburg "
         },
@@ -1320,128 +1496,6 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 2",
-            "match": " Arminia Bielefeld vs Energie Cottbus ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "11:30",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "channel": "YouTube: Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": " Arminia Bielefeld vs Energie Cottbus "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 2",
             "match": " Dynamo Dresden vs Darmstadt 98 ",
             "flags": {
                 "team1": "germany",
@@ -1483,6 +1537,14 @@
             "related_to": " Dynamo Dresden vs Darmstadt 98 "
         },
         {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Dynamo Dresden vs Darmstadt 98 "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1511,6 +1573,14 @@
             "sat": "Astra 1N 19.2°e",
             "freq": "12304 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Dynamo Dresden vs Darmstadt 98 "
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Dynamo Dresden vs Darmstadt 98 "
         },
@@ -1585,6 +1655,152 @@
             "encry": "",
             "link": "https://www.youtube.com/@bundesliga/streams",
             "related_to": " Dynamo Dresden vs Darmstadt 98 "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 2",
+            "match": " Arminia Bielefeld vs Energie Cottbus ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "11:30",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "Nova Sport 5 Slovakia HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12456 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "WOW Deutsch📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wowtv.de/live-sport",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Arminia Bielefeld vs Energie Cottbus "
         },
         {
             "compet": "German 2. Bundesliga - Week 3",
