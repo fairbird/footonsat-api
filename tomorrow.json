@@ -1601,14 +1601,6 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
-            "channel": "Movistar Plus+ HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Paris St Germain vs Aston Villa "
-        },
-        {
             "channel": "MTV Katsomon+📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2179,6 +2171,14 @@
             "related_to": " Palmeiras vs Cerro Porteño "
         },
         {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Palmeiras vs Cerro Porteño "
+        },
+        {
             "channel": "M+ Vamos 1 España HD",
             "sat": "Astra 1P 19.2°e",
             "freq": "11156 V 22000 - 5/6",
@@ -2254,64 +2254,6 @@
         },
         {
             "compet": "CONMEBOL Copa Sudamericana - Round of 16 (1st Leg)",
-            "match": " Bragantino vs Atlético Mineiro ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "22:00",
-            "date": "2026-08-12"
-        },
-        {
-            "channel": "beIN Connect Australia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://connect-au.beinsports.com/en",
-            "related_to": " Bragantino vs Atlético Mineiro "
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": " Bragantino vs Atlético Mineiro "
-        },
-        {
-            "channel": "beIN Connect NZ 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect-nz.beinsports.com/en",
-            "related_to": " Bragantino vs Atlético Mineiro "
-        },
-        {
-            "channel": "beIN Connect USA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://connect-us.beinsports.com/",
-            "related_to": " Bragantino vs Atlético Mineiro "
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bragantino vs Atlético Mineiro "
-        },
-        {
-            "channel": "Como TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.comofootball.com/liveEvent.html",
-            "related_to": " Bragantino vs Atlético Mineiro "
-        },
-        {
-            "compet": "CONMEBOL Copa Sudamericana - Round of 16 (1st Leg)",
             "match": " Tigre vs Nacional Montevideo ",
             "flags": {
                 "team1": "argentina",
@@ -2367,6 +2309,64 @@
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
             "related_to": " Tigre vs Nacional Montevideo "
+        },
+        {
+            "compet": "CONMEBOL Copa Sudamericana - Round of 16 (1st Leg)",
+            "match": " Bragantino vs Atlético Mineiro ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "22:00",
+            "date": "2026-08-12"
+        },
+        {
+            "channel": "beIN Connect Australia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": " Bragantino vs Atlético Mineiro "
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Bragantino vs Atlético Mineiro "
+        },
+        {
+            "channel": "beIN Connect NZ 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect-nz.beinsports.com/en",
+            "related_to": " Bragantino vs Atlético Mineiro "
+        },
+        {
+            "channel": "beIN Connect USA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://connect-us.beinsports.com/",
+            "related_to": " Bragantino vs Atlético Mineiro "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bragantino vs Atlético Mineiro "
+        },
+        {
+            "channel": "Como TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Bragantino vs Atlético Mineiro "
         },
         {
             "compet": "Leagues Cup (N/C American) - Group Stage",
