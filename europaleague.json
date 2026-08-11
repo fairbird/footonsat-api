@@ -101,6 +101,14 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "beIN Sports MENA English 1 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 V 27500 - 2/3",
@@ -717,6 +725,14 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "ViX TV",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "Voyo Player PPV",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -899,9 +915,9 @@
             "related_to": " Pafos FC vs Salzburg "
         },
         {
-            "channel": "Sport TV3 Portugal HD",
+            "channel": "Sport TV4 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
+            "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Pafos FC vs Salzburg "
@@ -1241,14 +1257,6 @@
             "related_to": " Hearts vs Benfica "
         },
         {
-            "channel": "Sport TV+ Portugal",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Hearts vs Benfica "
-        },
-        {
             "channel": "Sport TV5 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
@@ -1275,11 +1283,19 @@
             "related_to": " Egnatia vs Shamrock Rovers "
         },
         {
-            "channel": "SuperSport 2 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
+            "channel": "RTSH 1 Albania",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
             "link": "",
+            "related_to": " Egnatia vs Shamrock Rovers "
+        },
+        {
+            "channel": "RTSH Sport Albania 📺",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10930 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
             "related_to": " Egnatia vs Shamrock Rovers "
         }
     ]
