@@ -149,6 +149,14 @@
             "related_to": " Cruzeiro vs Flamengo "
         },
         {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11475 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Cruzeiro vs Flamengo "
+        },
+        {
             "channel": "Polsat Sport 2 HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "12265 V 27500 - 3/4",
@@ -725,6 +733,40 @@
             "related_to": " Universitatea Craiova vs KuPS Kuopio "
         },
         {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
+            "match": " Dynamo Minsk vs Sporting Braga ",
+            "flags": {
+                "team1": "belarus",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "Belarus 5 HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11350 H 45000 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Dynamo Minsk vs Sporting Braga "
+        },
+        {
+            "channel": "Belarus 5 Internet",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dynamo Minsk vs Sporting Braga "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Dynamo Minsk vs Sporting Braga "
+        },
+        {
             "compet": "UEFA Europa League - 3rd Qualifying Round (2nd Leg) [1-0]",
             "match": " Besiktas vs Hradec Králové ",
             "flags": {
@@ -857,24 +899,6 @@
             "encry": "",
             "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": " Górnik Zabrze vs Ferencváros "
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]",
-            "match": " Dynamo Minsk vs Sporting Braga ",
-            "flags": {
-                "team1": "belarus",
-                "team2": "portugal"
-            },
-            "time": "17:00",
-            "date": "2026-08-13"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Dynamo Minsk vs Sporting Braga "
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-0]",
@@ -1492,6 +1516,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Sion vs Noah "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": " Sion vs Noah "
         },
         {

@@ -251,6 +251,14 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "Digi 4K UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "Digi Sport 1 Romania HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11823 H 30000 - 5/6",
@@ -271,6 +279,14 @@
             "sat": "ABS 2A 75.0°e",
             "freq": "12252 H 10000 - 3/4",
             "encry": "HD BISS",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
         },
@@ -360,6 +376,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA",
+            "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
@@ -551,6 +575,14 @@
             "sat": "Hotbird 13E 13.0°e",
             "freq": "11996 V 29900 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA",
             "link": "",
             "related_to": " Paris St Germain vs Aston Villa "
         },
@@ -820,6 +852,42 @@
         },
         {
             "compet": "UEFA Champions League - Play-Off (1st  Leg)",
+            "match": " Dinamo Zagreb vs Viking ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "norway"
+            },
+            "time": "19:00",
+            "date": "2026-08-18"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Dinamo Zagreb vs Viking "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (1st  Leg)",
+            "match": " Levski Sofia vs AEK Athens ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "greece"
+            },
+            "time": "19:00",
+            "date": "2026-08-18"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Levski Sofia vs AEK Athens "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (1st  Leg)",
             "match": " Fenerbahçe vs Lyon ",
             "flags": {
                 "team1": "turkey",
@@ -827,6 +895,14 @@
             },
             "time": "19:00",
             "date": "2026-08-18"
+        },
+        {
+            "channel": "Fox Sports 2 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Fenerbahçe vs Lyon "
         },
         {
             "channel": "TRT 1 Türkiye HD 📺",
@@ -837,6 +913,150 @@
             "related_to": " Fenerbahçe vs Lyon "
         },
         {
+            "compet": "UEFA Champions League - Play-Off (1st  Leg)",
+            "match": " Slovan Bratislava vs Celje ",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "slovenia"
+            },
+            "time": "19:00",
+            "date": "2026-08-19"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Celje "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (1st  Leg)",
+            "match": " NEC Nijmegen vs Bodø/Glimt ",
+            "flags": {
+                "team1": "holland",
+                "team2": "norway"
+            },
+            "time": "19:00",
+            "date": "2026-08-19"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " NEC Nijmegen vs Bodø/Glimt "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (1st Leg)",
+            "match": " Celtic vs LASK Linz ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "austria"
+            },
+            "time": "19:00",
+            "date": "2026-08-19"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Celtic vs LASK Linz "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
+            "match": " Bodø/Glimt vs NEC Nijmegen ",
+            "flags": {
+                "team1": "norway",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bodø/Glimt vs NEC Nijmegen "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
+            "match": " LASK Linz vs Celtic ",
+            "flags": {
+                "team1": "austria",
+                "team2": "scotland"
+            },
+            "time": "19:00",
+            "date": "2026-08-25"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " LASK Linz vs Celtic "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
+            "match": " AEK Athens vs Levski Sofia ",
+            "flags": {
+                "team1": "greece",
+                "team2": "bulgaria"
+            },
+            "time": "19:00",
+            "date": "2026-08-26"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " AEK Athens vs Levski Sofia "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
+            "match": " Viking vs Dinamo Zagreb ",
+            "flags": {
+                "team1": "norway",
+                "team2": "croatia"
+            },
+            "time": "19:00",
+            "date": "2026-08-26"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Viking vs Dinamo Zagreb "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (2nd Leg)",
+            "match": " Celje vs Slovan Bratislava ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovakia"
+            },
+            "time": "19:00",
+            "date": "2026-08-26"
+        },
+        {
+            "channel": "- - -",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Celje vs Slovan Bratislava "
+        },
+        {
             "compet": "UEFA Champions League - Play-Off (2nd Leg)",
             "match": " Lyon vs Fenerbahçe ",
             "flags": {
@@ -844,7 +1064,7 @@
                 "team2": "turkey"
             },
             "time": "19:00",
-            "date": "2026-08-25"
+            "date": "2026-08-26"
         },
         {
             "channel": "TRT 1 Türkiye HD 📺",
