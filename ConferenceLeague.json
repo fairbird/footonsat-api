@@ -77,7 +77,7 @@
             "related_to": " FC Copenhagen vs Debrecen "
         },
         {
-            "compet": "UEFA Super Cup - FINAL (Stadion Salzburg, Austria)",
+            "compet": "UEFA Super Cup - FINAL (Stadion Salzburg, Austria) [2-1]",
             "match": " Paris St Germain vs Aston Villa ",
             "flags": {
                 "team1": "france",
@@ -1197,6 +1197,14 @@
             "related_to": " Tromsø vs CFR Cluj "
         },
         {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Tromsø vs CFR Cluj "
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-0]",
             "match": " Nordsjælland vs Valur Reykjavík ",
             "flags": {
@@ -1597,6 +1605,32 @@
             "related_to": " Györ vs Riga FC "
         },
         {
+            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-1]",
+            "match": " Motherwell vs HJK Helsinki ",
+            "flags": {
+                "team1": "scotland",
+                "team2": "finland"
+            },
+            "time": "18:30",
+            "date": "2026-08-13"
+        },
+        {
+            "channel": "HJK TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "FTA",
+            "link": "https://hjktv.fi/hjk",
+            "related_to": " Motherwell vs HJK Helsinki "
+        },
+        {
+            "channel": "Solidsport Broadcast📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
+            "related_to": " Motherwell vs HJK Helsinki "
+        },
+        {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]",
             "match": " AA Gent vs IFK Gotenberg ",
             "flags": {
@@ -1711,32 +1745,6 @@
             "encry": "HD Mediaguard",
             "link": "",
             "related_to": " Shelbourne vs Ajax "
-        },
-        {
-            "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-1]",
-            "match": " Motherwell vs HJK Helsinki ",
-            "flags": {
-                "team1": "scotland",
-                "team2": "finland"
-            },
-            "time": "18:45",
-            "date": "2026-08-13"
-        },
-        {
-            "channel": "HJK TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "FTA",
-            "link": "https://hjktv.fi/hjk",
-            "related_to": " Motherwell vs HJK Helsinki "
-        },
-        {
-            "channel": "Solidsport Broadcast📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://solidsport.com/fctobol/watch/fc-tobol-derry-city",
-            "related_to": " Motherwell vs HJK Helsinki "
         },
         {
             "compet": "UEFA Conference League - 3rd Qualifying Round (2nd Leg) [5-2]",
