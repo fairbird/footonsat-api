@@ -331,6 +331,22 @@
             "related_to": " Paris St Germain vs Aston Villa "
         },
         {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Paris St Germain vs Aston Villa "
+        },
+        {
             "channel": "Jurnal TV Moldova",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1415,6 +1431,24 @@
             "encry": "MPEG-4 Conax",
             "link": "https://tv.rtsh.al/kanalet/rtsh-sport",
             "related_to": " Egnatia vs Shamrock Rovers "
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (1st Leg)",
+            "match": " Trabzonspor vs ** T.B.D. ** ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "notspecific"
+            },
+            "time": "17:00",
+            "date": "2026-08-20"
+        },
+        {
+            "channel": "HT Spor Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11837 V 30000 - 2/3",
+            "encry": "FTA",
+            "link": "",
+            "related_to": " Trabzonspor vs ** T.B.D. ** "
         }
     ]
 }
