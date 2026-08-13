@@ -11,6 +11,14 @@
             "date": "2026-08-18"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Dinamo Zagreb vs Viking "
+        },
+        {
             "channel": "HBO Max📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -69,6 +77,14 @@
             "date": "2026-08-18"
         },
         {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Levski Sofia vs AEK Athens "
+        },
+        {
             "channel": "Tring Sport 2 HD",
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
@@ -87,10 +103,26 @@
             "date": "2026-08-18"
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Fenerbahçe vs Lyon "
+        },
+        {
             "channel": "Fox Sports 2 Brazil HD",
             "sat": "SES 6 40.5°w",
             "freq": "3980 L 21600 - 5/6",
             "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Fenerbahçe vs Lyon "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Fenerbahçe vs Lyon "
         },
@@ -100,6 +132,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
+            "related_to": " Fenerbahçe vs Lyon "
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Fenerbahçe vs Lyon "
         },
         {
@@ -129,11 +169,27 @@
             "date": "2026-08-19"
         },
         {
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Celtic vs LASK Linz "
+        },
+        {
             "channel": "HBO Max📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": " Celtic vs LASK Linz "
+        },
+        {
+            "channel": "Premier Sports 1 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": " Celtic vs LASK Linz "
         },
         {
@@ -150,6 +206,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.rte.ie/player/onnow",
+            "related_to": " Celtic vs LASK Linz "
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Celtic vs LASK Linz "
         },
         {
@@ -170,40 +234,6 @@
         },
         {
             "compet": "UEFA Champions League - Play-Off (1st  Leg)",
-            "match": " Slovan Bratislava vs Celje ",
-            "flags": {
-                "team1": "slovakia",
-                "team2": "slovenia"
-            },
-            "time": "19:00",
-            "date": "2026-08-19"
-        },
-        {
-            "channel": "HBO Max📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": " Slovan Bratislava vs Celje "
-        },
-        {
-            "channel": "TNT Sports 4 HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Celje "
-        },
-        {
-            "channel": "Tring Sport 3 HD",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Celje "
-        },
-        {
-            "compet": "UEFA Champions League - Play-Off (1st  Leg)",
             "match": " NEC Nijmegen vs Bodø/Glimt ",
             "flags": {
                 "team1": "holland",
@@ -211,6 +241,14 @@
             },
             "time": "19:00",
             "date": "2026-08-19"
+        },
+        {
+            "channel": "Arena Sport 3 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " NEC Nijmegen vs Bodø/Glimt "
         },
         {
             "channel": "HBO Max📺",
@@ -259,6 +297,48 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " NEC Nijmegen vs Bodø/Glimt "
+        },
+        {
+            "compet": "UEFA Champions League - Play-Off (1st  Leg)",
+            "match": " Slovan Bratislava vs Celje ",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "slovenia"
+            },
+            "time": "19:00",
+            "date": "2026-08-19"
+        },
+        {
+            "channel": "Arena Sport 4 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Celje "
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": " Slovan Bratislava vs Celje "
+        },
+        {
+            "channel": "TNT Sports 4 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Celje "
+        },
+        {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Celje "
         },
         {
             "compet": "UEFA Champions League - Play-Off (2nd Leg)",
