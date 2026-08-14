@@ -52,9 +52,25 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Arsenal vs Coventry City "
         },
@@ -87,6 +103,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Arsenal vs Coventry City "
         },
@@ -261,10 +285,34 @@
             "related_to": " Hull City vs Manchester United "
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Hull City vs Manchester United "
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Hull City vs Manchester United "
+        },
+        {
             "channel": "Canal+ France HD",
             "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Hull City vs Manchester United "
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Hull City vs Manchester United "
         },
@@ -345,6 +393,14 @@
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hull City vs Manchester United "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Hull City vs Manchester United "
         },
@@ -438,6 +494,176 @@
         },
         {
             "compet": "English Premier League - Week 1",
+            "match": " Everton vs Crystal Palace ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "14:00",
+            "date": "2026-08-22"
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "Canal+ Live 2 France HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "12728 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "Canal+ Sport 7 Czech HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://livetv.skylink.cz",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "DAZN Canada",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "SuperSport Variety 3 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "USA Network HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Everton vs Crystal Palace "
+        },
+        {
+            "compet": "English Premier League - Week 1",
             "match": " Nottingham Forest vs Leeds United ",
             "flags": {
                 "team1": "england",
@@ -499,6 +725,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Nottingham Forest vs Leeds United "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Nottingham Forest vs Leeds United "
         },
@@ -617,9 +851,9 @@
             "related_to": " Ipswich Town vs Sunderland "
         },
         {
-            "channel": "Canal+ Live 2 France HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "12728 V 29700 - 2/3",
+            "channel": "Canal+ Live 4 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11934 V 29700 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Ipswich Town vs Sunderland "
@@ -738,152 +972,6 @@
         },
         {
             "compet": "English Premier League - Week 1",
-            "match": " Everton vs Crystal Palace ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "14:00",
-            "date": "2026-08-22"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "Canal+ Sport 7 Czech HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://livetv.skylink.cz",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "DAZN Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "Monomax Streaming📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "NBC Universo USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "SuperSport Variety 3 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "USA Network HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Everton vs Crystal Palace "
-        },
-        {
-            "compet": "English Premier League - Week 1",
             "match": " Brentford vs Tottenham Hotspur ",
             "flags": {
                 "team1": "england",
@@ -918,9 +1006,33 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Brentford vs Tottenham Hotspur "
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brentford vs Tottenham Hotspur "
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Brentford vs Tottenham Hotspur "
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Brentford vs Tottenham Hotspur "
         },
@@ -1037,6 +1149,14 @@
             "related_to": " Brentford vs Tottenham Hotspur "
         },
         {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Brentford vs Tottenham Hotspur "
+        },
+        {
             "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1120,9 +1240,17 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Manchester City vs Bournemouth "
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Manchester City vs Bournemouth "
         },
@@ -1211,6 +1339,14 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Bournemouth "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Manchester City vs Bournemouth "
         },
@@ -1579,6 +1715,14 @@
             "related_to": " Newcastle United vs Liverpool "
         },
         {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Newcastle United vs Liverpool "
+        },
+        {
             "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1670,9 +1814,17 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Fulham vs Chelsea "
+        },
+        {
+            "channel": "Canal+ Foot UHD HDR",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12207 V 29700 - 2/3",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Fulham vs Chelsea "
         },
@@ -1705,6 +1857,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Fulham vs Chelsea "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Fulham vs Chelsea "
         },
@@ -1872,7 +2032,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
@@ -2038,6 +2198,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.monomax.me/premierleague",
+            "related_to": " Liverpool vs Nottingham Forest "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
             "related_to": " Liverpool vs Nottingham Forest "
         },
         {
@@ -2214,7 +2382,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
@@ -2249,6 +2417,14 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12188 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bournemouth vs Everton "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Bournemouth vs Everton "
         },
@@ -2312,7 +2488,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
@@ -2383,6 +2559,14 @@
             "related_to": " Tottenham Hotspur vs Newcastle United "
         },
         {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Tottenham Hotspur vs Newcastle United "
+        },
+        {
             "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2413,128 +2597,6 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Tottenham Hotspur vs Newcastle United "
-        },
-        {
-            "compet": "English Premier League - Week 2",
-            "match": " Chelsea vs Brighton H.A. ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "13:00",
-            "date": "2026-08-30"
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "Monomax Streaming📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12207 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "Sky UK Ultra HD 1",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12246 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Brighton H.A. "
         },
         {
             "compet": "English Premier League - Week 2",
@@ -2758,6 +2820,136 @@
         },
         {
             "compet": "English Premier League - Week 2",
+            "match": " Chelsea vs Brighton H.A. ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "13:00",
+            "date": "2026-08-30"
+        },
+        {
+            "channel": "beIN Connect MENA 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://connect.bein.com/",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Sky UK Ultra HD 1",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12246 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Chelsea vs Brighton H.A. "
+        },
+        {
+            "compet": "English Premier League - Week 2",
             "match": " Manchester United vs Ipswich Town ",
             "flags": {
                 "team1": "england",
@@ -2855,6 +3047,14 @@
             "related_to": " Manchester United vs Ipswich Town "
         },
         {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Manchester United vs Ipswich Town "
+        },
+        {
             "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2914,7 +3114,7 @@
         },
         {
             "channel": "Canal+ Foot HD",
-            "sat": "Astra 1M 19.2°e",
+            "sat": "Astra 1P 19.2°e",
             "freq": "12012 V 29700 - 2/3",
             "encry": "HD Viaccess",
             "link": "",

@@ -703,6 +703,14 @@
             "date": "2026-08-23"
         },
         {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FC Porto vs Arouca "
+        },
+        {
             "channel": "Sport TV1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
@@ -727,6 +735,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Gil Vicente vs Casa Pia "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 4",
+            "match": " Academico Viseu vs FC Porto ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-08-29"
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Academico Viseu vs FC Porto "
         }
     ]
 }
