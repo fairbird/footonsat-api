@@ -3451,32 +3451,6 @@
             "related_to": " Kryliya Sovetov vs Dynamo Makhachkala "
         },
         {
-            "compet": "Belgian Challenger Pro League - Week 1",
-            "match": " Beerschot vs AA Gent U-23 ",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "time": "14:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Beerschot vs AA Gent U-23 "
-        },
-        {
-            "channel": "DAZN Pro League 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Beerschot vs AA Gent U-23 "
-        },
-        {
             "compet": "Belgian Pro League - Week 2",
             "match": " RAAL La Louvière vs AA Gent ",
             "flags": {
@@ -3501,6 +3475,32 @@
             "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " RAAL La Louvière vs AA Gent "
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 1",
+            "match": " Beerschot vs AA Gent U-23 ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "14:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Beerschot vs AA Gent U-23 "
+        },
+        {
+            "channel": "DAZN Pro League 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Beerschot vs AA Gent U-23 "
         },
         {
             "compet": "Friendly Club Match - Tottenham Hotspur Stadium (2 of 2)",
@@ -4783,22 +4783,54 @@
             "related_to": " Racing Santander vs Villarreal "
         },
         {
-            "compet": "Russian FNL 2A - Fall Season Gold - 5",
-            "match": " Rodina Moscow 2 vs Dinamo Bryansk ",
+            "compet": "Austrian Bundesliga - Week 3",
+            "match": " Hartberg vs Austria Vienna ",
             "flags": {
-                "team1": "russia",
-                "team2": "russia"
+                "team1": "austria",
+                "team2": "austria"
             },
             "time": "15:00",
             "date": "2026-08-16"
         },
         {
-            "channel": "TV Sport Russia HD",
-            "sat": "Express AT1 56.0°e",
-            "freq": "11727 L 27500 - 3/4",
-            "encry": "HD Exset",
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Hartberg vs Austria Vienna "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Rodina Moscow 2 vs Dinamo Bryansk "
+            "related_to": " Hartberg vs Austria Vienna "
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hartberg vs Austria Vienna "
+        },
+        {
+            "channel": "Sky Sport 3 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hartberg vs Austria Vienna "
+        },
+        {
+            "channel": "TV Start Triumph HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11996 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Hartberg vs Austria Vienna "
         },
         {
             "compet": "Austrian Bundesliga - Week 3",
@@ -4859,6 +4891,14 @@
             "related_to": " WSG Tirol vs Salzburg "
         },
         {
+            "channel": "Sky Sport 4 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12382 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " WSG Tirol vs Salzburg "
+        },
+        {
             "channel": "SportKlub 6 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4873,6 +4913,24 @@
             "encry": "",
             "link": "",
             "related_to": " WSG Tirol vs Salzburg "
+        },
+        {
+            "compet": "Russian FNL 2A - Fall Season Gold - 5",
+            "match": " Rodina Moscow 2 vs Dinamo Bryansk ",
+            "flags": {
+                "team1": "russia",
+                "team2": "russia"
+            },
+            "time": "15:00",
+            "date": "2026-08-16"
+        },
+        {
+            "channel": "TV Sport Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "11727 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Rodina Moscow 2 vs Dinamo Bryansk "
         },
         {
             "compet": "Friendly Club Match",
@@ -5281,48 +5339,6 @@
             "encry": "NagraVision",
             "link": "",
             "related_to": " Eibar vs Tenerife "
-        },
-        {
-            "compet": "Austrian Bundesliga - Week 3",
-            "match": " Hartberg vs Austria Vienna ",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "time": "15:00",
-            "date": "2026-08-16"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Hartberg vs Austria Vienna "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hartberg vs Austria Vienna "
-        },
-        {
-            "channel": "Sky Sport 1 Austria HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Hartberg vs Austria Vienna "
-        },
-        {
-            "channel": "TV Start Triumph HD",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11996 L 27500 - 3/4",
-            "encry": "HD DRE-Crypt",
-            "link": "",
-            "related_to": " Hartberg vs Austria Vienna "
         },
         {
             "compet": "Czech LIGA - Week 4",
@@ -6802,6 +6818,14 @@
             "channel": "Sky Sport 1 Austria HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Rapid Vienna vs Grazer AK "
+        },
+        {
+            "channel": "Sky Sport 2 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11992 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Rapid Vienna vs Grazer AK "
