@@ -281,11 +281,19 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Hearts vs Rapid Vienna "
+        },
+        {
+            "channel": "ORF On📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://on.orf.at/livestream/",
             "related_to": " Hearts vs Rapid Vienna "
         },
         {
@@ -395,6 +403,58 @@
             "encry": "",
             "link": "",
             "related_to": " Dinamo City vs Pafos FC "
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg)",
+            "match": " Rapid Vienna vs Hearts ",
+            "flags": {
+                "team1": "austria",
+                "team2": "scotland"
+            },
+            "time": "16:45",
+            "date": "2026-08-26"
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Rapid Vienna vs Hearts "
+        },
+        {
+            "channel": "ORF On📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://on.orf.at/livestream/",
+            "related_to": " Rapid Vienna vs Hearts "
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg)",
+            "match": " Austria Vienna vs Sporting Braga ",
+            "flags": {
+                "team1": "austria",
+                "team2": "portugal"
+            },
+            "time": "18:30",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs Sporting Braga "
+        },
+        {
+            "channel": "ORF On📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://on.orf.at/livestream/",
+            "related_to": " Austria Vienna vs Sporting Braga "
         }
     ]
 }
