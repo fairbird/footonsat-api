@@ -137,6 +137,30 @@
             "date": "2026-08-20"
         },
         {
+            "channel": "ATV Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Trabzonspor vs Ferencváros "
+        },
+        {
+            "channel": "ATV Türkiye HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10886 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Trabzonspor vs Ferencváros "
+        },
+        {
+            "channel": "ATV Türkiye HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11554 H 29750 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Trabzonspor vs Ferencváros "
+        },
+        {
             "channel": "HT Spor Türkiye HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "11837 V 30000 - 2/3",
@@ -211,10 +235,10 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "Cosmote Sport 1 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " OFI Crete vs CSKA Sofia "
         },
@@ -271,6 +295,40 @@
             "encry": "",
             "link": "",
             "related_to": " Benfica vs AGF Aarhus "
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "match": " Ferencváros vs Trabzonspor ",
+            "flags": {
+                "team1": "hungary",
+                "team2": "turkey"
+            },
+            "time": "18:30",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "ATV Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12053 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "ATV Türkiye HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10886 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "ATV Türkiye HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11554 H 29750 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Ferencváros vs Trabzonspor "
         }
     ]
 }

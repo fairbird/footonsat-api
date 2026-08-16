@@ -1131,72 +1131,6 @@
             "related_to": " Hegelmann vs Riteriai "
         },
         {
-            "compet": "Danish Superliga - Week 4",
-            "match": " Brøndby vs SønderjyskE ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "time": "17:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "Veikkaus TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
             "compet": "Spanish La Liga 2 - Week 1",
             "match": " Sporting Gijón vs Sabadell ",
             "flags": {
@@ -1235,6 +1169,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "channel": "Digi Sport 3 Romania",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Sporting Gijón vs Sabadell "
         },
@@ -1325,6 +1267,72 @@
             "encry": "",
             "link": "",
             "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "compet": "Danish Superliga - Week 4",
+            "match": " Brøndby vs SønderjyskE ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-08-17"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Brøndby vs SønderjyskE "
         },
         {
             "compet": "Swedish Allsvenskan - Week 17",
@@ -2297,6 +2305,14 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "Digi Sport 3 Romania",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "Disney+ Danmark",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2963,10 +2979,42 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11650 V 10000 - 2/3",
+            "encry": "HD TrophyAccess",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "Setanta Sports 2 Baltic",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Setanta Sports Ukraine HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "",
             "related_to": " Cardiff City vs Wrexham "
         },
@@ -3297,6 +3345,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Casa Pia vs Benfica "
         },
