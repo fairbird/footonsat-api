@@ -56,7 +56,7 @@
             "channel": "NWSL+",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
-            "encry": "FTA",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Angel City vs Washington Spirit "
         },
@@ -69,10 +69,26 @@
             "related_to": " Angel City vs Washington Spirit "
         },
         {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11728 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Angel City vs Washington Spirit "
+        },
+        {
             "channel": "TNT Sports 3 HD",
             "sat": "Astra 2G 28.2°e",
             "freq": "11612 H 22000 - 5/6",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Angel City vs Washington Spirit "
+        },
+        {
+            "channel": "TNT Sports 3 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Angel City vs Washington Spirit "
         },
@@ -207,10 +223,34 @@
             "related_to": " Universitatea Cluj vs UTA Arad "
         },
         {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11862 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Universitatea Cluj vs UTA Arad "
+        },
+        {
             "channel": "Prima Sport RO 1 HD",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12524 V 30000 - 7/8",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Universitatea Cluj vs UTA Arad "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Universitatea Cluj vs UTA Arad "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Universitatea Cluj vs UTA Arad "
         },
@@ -228,7 +268,23 @@
             "channel": "CBC Sport HD",
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Qarabagh vs Shamakhi "
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Qarabagh vs Shamakhi "
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11555 H 30000 - 3/4",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Qarabagh vs Shamakhi "
         },
@@ -246,6 +302,54 @@
             "channel": "M4 Sport Hungary HD 📺",
             "sat": "Astra 3B 23.5°e",
             "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Zalaegerszeg vs Ferencváros "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11958 V 27500 - 2/3",
+            "encry": "FTA (?Blackout)",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Zalaegerszeg vs Ferencváros "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11843 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Zalaegerszeg vs Ferencváros "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Zalaegerszeg vs Ferencváros "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12563 V 28800 - 3/5",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Zalaegerszeg vs Ferencváros "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Zalaegerszeg vs Ferencváros "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11258 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "https://m4sport.hu/elo/mtv4live/",
             "related_to": " Zalaegerszeg vs Ferencváros "
@@ -269,6 +373,72 @@
             "related_to": " Džiugas Telšiai vs Suduva "
         },
         {
+            "compet": "Bulgarian First League - Week 5",
+            "match": " Spartak Varna vs Septemvri Sofia ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "16:00",
+            "date": "2026-08-17"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Spartak Varna vs Septemvri Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12271 H 30000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Spartak Varna vs Septemvri Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Spartak Varna vs Septemvri Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Spartak Varna vs Septemvri Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12418 H 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Spartak Varna vs Septemvri Sofia "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Spartak Varna vs Septemvri Sofia "
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Spartak Varna vs Septemvri Sofia "
+        },
+        {
             "compet": "Italian Cup (Coppa Italia) - 1st Round",
             "match": " Pisa vs Empoli ",
             "flags": {
@@ -287,6 +457,14 @@
             "related_to": " Pisa vs Empoli "
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11804 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
             "channel": "Arena Premium 1 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -295,18 +473,26 @@
             "related_to": " Pisa vs Empoli "
         },
         {
-            "channel": "Arena Premium 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Pisa vs Empoli "
-        },
-        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11678 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Pisa vs Empoli "
         },
@@ -351,10 +537,58 @@
             "related_to": " Pisa vs Empoli "
         },
         {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 H 30000 - 7/8",
+            "encry": "Bulcrypt",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12309 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12092 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
             "channel": "Mediaset 20 Italia HD 📺",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11432 V 29900 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/20mediaset_cLB",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "Mediaset 20 Italia HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12149 V 31400 - 2/3",
+            "encry": "FTA (MultiStream)",
             "link": "https://www.mediasetplay.mediaset.it/diretta/20mediaset_cLB",
             "related_to": " Pisa vs Empoli "
         },
@@ -415,24 +649,6 @@
             "related_to": " Pisa vs Empoli "
         },
         {
-            "compet": "Bulgarian First League - Week 5",
-            "match": " Spartak Varna vs Septemvri Sofia ",
-            "flags": {
-                "team1": "bulgaria",
-                "team2": "bulgaria"
-            },
-            "time": "16:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "Diema Sport HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Spartak Varna vs Septemvri Sofia "
-        },
-        {
             "compet": "Armenian Premier League - Week 3",
             "match": " Noah vs Alashkert ",
             "flags": {
@@ -464,7 +680,7 @@
             "channel": "Juventus APP",
             "sat": "Download APP 0.0°",
             "freq": "0000 -",
-            "encry": "FTA",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Juventus vs Juventus U-23 "
         },
@@ -495,9 +711,33 @@
             "related_to": " Sassuolo vs Cesena "
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11429 V 28330 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Sassuolo vs Cesena "
@@ -551,10 +791,74 @@
             "related_to": " Sassuolo vs Cesena "
         },
         {
+            "channel": "Italia 1 HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12149 V 31400 - 2/3",
+            "encry": "FTA (MultiStream)",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/italia1_cI1",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
             "channel": "MATCH! Futbol 1 HD",
             "sat": "Horizons 2 84.8°e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12643 H 30000 - 7/8",
+            "encry": "HD Verimatrix",
             "link": "",
             "related_to": " Sassuolo vs Cesena "
         },
@@ -633,10 +937,178 @@
             "related_to": " Spartak Kostroma vs Ufa "
         },
         {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "12100 V 45000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12034 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12303 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Premier HD 📺",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11919 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A/videos?view=2&sort=dd&live_view=502&shelf_id=3",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
             "channel": "MATCH! Russia HD",
             "sat": "Yamal 401 90.0°e",
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3688 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "4064 R 15282 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11860 V 45000 - 2/3",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12149 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12169 R 27500 - 5/6",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AM6 53.0°e",
+            "freq": "10937 V 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 601 49.0°e",
+            "freq": "3704 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AM7 40.0°e",
+            "freq": "3665 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 L 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11766 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Spartak Kostroma vs Ufa "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "12015 R 27500 - 3/4",
+            "encry": "HD Viaccess",
             "link": "",
             "related_to": " Spartak Kostroma vs Ufa "
         },
@@ -659,6 +1131,72 @@
             "related_to": " Hegelmann vs Riteriai "
         },
         {
+            "compet": "Danish Superliga - Week 4",
+            "match": " Brøndby vs SønderjyskE ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-08-17"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 1",
             "match": " Sporting Gijón vs Sabadell ",
             "flags": {
@@ -677,10 +1215,10 @@
             "related_to": " Sporting Gijón vs Sabadell "
         },
         {
-            "channel": "Arena Sport 4 Hrvatska HD",
+            "channel": "Arena Premium 3 Srbija HD",
             "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11554 H 30000 - 5/6",
-            "encry": "HD NagraVision",
+            "freq": "10721 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Sporting Gijón vs Sabadell "
         },
@@ -709,6 +1247,14 @@
             "related_to": " Sporting Gijón vs Sabadell "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10936 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
             "channel": "LaLiga TV Bar 2",
             "sat": "Astra 1L 19.2°e",
             "freq": "11038 V 22000 - 5/6",
@@ -725,54 +1271,60 @@
             "related_to": " Sporting Gijón vs Sabadell "
         },
         {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
             "channel": "Prima Sport RO PPV 2",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Sporting Gijón vs Sabadell "
-        },
-        {
-            "compet": "Danish Superliga - Week 4",
-            "match": " Brøndby vs SønderjyskE ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "time": "17:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "Veikkaus TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
-            "related_to": " Brøndby vs SønderjyskE "
         },
         {
             "compet": "Swedish Allsvenskan - Week 17",
@@ -856,7 +1408,7 @@
             "channel": "TVP Sport",
             "sat": "Download APP 0.0°",
             "freq": "0000 -",
-            "encry": "FTA",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " ARKA Gdynia vs Puszcza Niepolomice "
         },
@@ -887,6 +1439,14 @@
             "related_to": " Novi Pazar vs Vojvodina "
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Novi Pazar vs Vojvodina "
+        },
+        {
             "channel": "Arena Sport 10 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -898,6 +1458,14 @@
             "channel": "Arena Sport 6 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Novi Pazar vs Vojvodina "
+        },
+        {
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Novi Pazar vs Vojvodina "
@@ -1037,6 +1605,54 @@
             "related_to": " Arda vs Lokomotiv Sofia "
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12271 H 30000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Arda vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Arda vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Arda vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12418 H 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Arda vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arda vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arda vs Lokomotiv Sofia "
+        },
+        {
             "compet": "Türkiye 1. Lig - Week 2",
             "match": " Batman Petrolspor vs Boluspor ",
             "flags": {
@@ -1063,10 +1679,34 @@
             "related_to": " Batman Petrolspor vs Boluspor "
         },
         {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11637 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Batman Petrolspor vs Boluspor "
+        },
+        {
             "channel": "TRT Spor Türkiye HD 📺",
             "sat": "Turksat 3A 42.0°e",
             "freq": "11054 V 30000 - 3/4",
-            "encry": "FTA",
+            "encry": "Free To Air HD",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Batman Petrolspor vs Boluspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA (BISS)",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Batman Petrolspor vs Boluspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11794 R 30000 - 3/4",
+            "encry": "Free To Air HD",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Batman Petrolspor vs Boluspor "
         },
@@ -1097,10 +1737,34 @@
             "related_to": " FCSB vs Botosani "
         },
         {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11862 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " FCSB vs Botosani "
+        },
+        {
             "channel": "Prima Sport RO 1 HD",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12524 V 30000 - 7/8",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " FCSB vs Botosani "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " FCSB vs Botosani "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " FCSB vs Botosani "
         },
@@ -1131,6 +1795,22 @@
             "related_to": " Samsunspor vs Göztepe "
         },
         {
+            "channel": "beIN Sports Türkiye 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10928 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Samsunspor vs Göztepe "
+        },
+        {
+            "channel": "beIN Sports Türkiye 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10887 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Samsunspor vs Göztepe "
+        },
+        {
             "compet": "Italian Cup (Coppa Italia) - 1st Round",
             "match": " Cremonese vs Sampdoria ",
             "flags": {
@@ -1149,6 +1829,14 @@
             "related_to": " Cremonese vs Sampdoria "
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11804 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
             "channel": "Arena Premium 1 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1161,6 +1849,22 @@
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11429 V 28330 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Cremonese vs Sampdoria "
         },
@@ -1221,10 +1925,74 @@
             "related_to": " Cremonese vs Sampdoria "
         },
         {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11860 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "MATCH! Futbol 1 HD",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12643 H 30000 - 7/8",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
             "channel": "Mediaset 20 Italia HD 📺",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11432 V 29900 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/20mediaset_cLB",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "Mediaset 20 Italia HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12149 V 31400 - 2/3",
+            "encry": "FTA (MultiStream)",
             "link": "https://www.mediasetplay.mediaset.it/diretta/20mediaset_cLB",
             "related_to": " Cremonese vs Sampdoria "
         },
@@ -1361,6 +2129,14 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10721 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "ART Motion Sport 3 HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1377,9 +2153,25 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
@@ -1452,7 +2244,7 @@
             "channel": "DAZN España HD FTA",
             "sat": "Download APP 0.0°",
             "freq": "0000 - -",
-            "encry": "FTA",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
         },
@@ -1485,6 +2277,14 @@
             "sat": "Astra 1KR 19.2°e",
             "freq": "11127 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
         },
@@ -1553,6 +2353,14 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "MATCH! Futbol 2 HD",
             "sat": "Horizons 2 84.8°e",
             "freq": "11840 H 28800 - 2/3",
@@ -1561,10 +2369,162 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Futbol 2 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "MATCH! Russia HD",
             "sat": "Yamal 401 90.0°e",
             "freq": "3786 R 15284 - 3/4",
             "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "3688 R 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 401 90.0°e",
+            "freq": "4064 R 15282 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11860 V 45000 - 2/3",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12149 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12169 R 27500 - 5/6",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AM6 53.0°e",
+            "freq": "10937 V 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Yamal 601 49.0°e",
+            "freq": "3704 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AM7 40.0°e",
+            "freq": "3665 L 15284 - 3/4",
+            "encry": "MPEG-4 GoSTcrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 L 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11766 L 27500 - 3/4",
+            "encry": "HD DRE-Crypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MATCH! Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "12015 R 27500 - 3/4",
+            "encry": "HD Viaccess",
             "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
         },
@@ -1585,6 +2545,46 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12117 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12213 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12713 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "MAX Sport 4 Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12476 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "New World Sport 3 Togo",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "12604 H 30000 - 3/4",
@@ -1597,6 +2597,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "11934 V 27500 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11977 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
         },
@@ -1633,6 +2641,30 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "Prima Sport RO 2 HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12188 V 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "S Sport 1 Türkiye HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "12188 V 27500 - 5/6",
@@ -1657,10 +2689,50 @@
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "Spíler 2 TV Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11727 V 28000 - 7/8",
             "encry": "Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "Spíler 2 TV Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11258 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
         },
@@ -1677,6 +2749,14 @@
             "sat": "Intelsat 20 68.5°e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
         },
@@ -1731,6 +2811,14 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "Arena Sport 2 Slovenija HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1755,9 +2843,25 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11471 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Cardiff City vs Wrexham "
@@ -1803,6 +2907,22 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6°w",
             "freq": "12130 H 28000 - 7/8",
@@ -1811,10 +2931,26 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "Nova Sport 6 Czech HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12090 V 29900 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12527 H 28800 - 3/5",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Cardiff City vs Wrexham "
         },
@@ -1867,10 +3003,50 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Sky Sports Football HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "Sky Sports Main Event HD",
             "sat": "Astra 2E 28.2°e",
             "freq": "11934 V 27500 - 5/6",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Cardiff City vs Wrexham "
         },
@@ -1907,6 +3083,14 @@
             "related_to": " Cardiff City vs Wrexham "
         },
         {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11728 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
             "channel": "TSN Malta 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1918,6 +3102,14 @@
             "channel": "V Sport 1 Norge HD",
             "sat": "Thor 6 5.0°e",
             "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cardiff City vs Wrexham "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Cardiff City vs Wrexham "
@@ -2005,6 +3197,38 @@
             "related_to": " Casa Pia vs Benfica "
         },
         {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "12456 V 30000 - 3/4",
+            "encry": "HD CryptoWorks",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Arena Sport 1 Slovakia HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
             "channel": "beIN Connect Türkiye 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2021,9 +3245,25 @@
             "related_to": " Casa Pia vs Benfica "
         },
         {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
             "channel": "beIN Sports Türkiye 3 HD",
             "sat": "Turksat 3A 42.0°e",
             "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10887 V 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Casa Pia vs Benfica "
@@ -2069,6 +3309,14 @@
             "related_to": " Casa Pia vs Benfica "
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
             "channel": "MATCH! Futbol 3 HD",
             "sat": "Horizons 2 84.8°e",
             "freq": "11840 H 28800 - 2/3",
@@ -2077,10 +3325,90 @@
             "related_to": " Casa Pia vs Benfica "
         },
         {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
             "channel": "Sport 1 Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "12034 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11222 H 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Casa Pia vs Benfica "
         },
@@ -2175,6 +3503,14 @@
             "related_to": " Palermo vs Lecce "
         },
         {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
             "channel": "DAZN Belgium📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2199,10 +3535,58 @@
             "related_to": " Palermo vs Lecce "
         },
         {
+            "channel": "Italia 1 HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12149 V 31400 - 2/3",
+            "encry": "FTA (MultiStream)",
+            "link": "https://www.mediasetplay.mediaset.it/diretta/italia1_cI1",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
             "channel": "MAX Sport 3 Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 H 30000 - 7/8",
+            "encry": "Bulcrypt",
+            "link": "",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12309 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
+            "channel": "MAX Sport 3 Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12092 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
             "link": "",
             "related_to": " Palermo vs Lecce "
         },
@@ -2219,6 +3603,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "12265 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 5/6",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Palermo vs Lecce "
         },
@@ -2331,6 +3723,14 @@
             "related_to": " Almería vs Eldense "
         },
         {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Almería vs Eldense "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2343,6 +3743,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10758 V 22000 - 5/6",
             "encry": "Seca",
+            "link": "",
+            "related_to": " Almería vs Eldense "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10936 V 22000 - 2/3",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Almería vs Eldense "
         },
@@ -2400,7 +3808,7 @@
             "channel": "Sportitalia SoloCalcio HD 📺",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11179 H 27500 - 2/3",
-            "encry": "FTA",
+            "encry": "Free To Air HD",
             "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": " Lanús vs Independiente "
         },
@@ -2419,6 +3827,54 @@
             "sat": "Horizons 2 84.8°e",
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Internacional vs Remo "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Internacional vs Remo "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Internacional vs Remo "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Internacional vs Remo "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Internacional vs Remo "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Internacional vs Remo "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Internacional vs Remo "
         }
