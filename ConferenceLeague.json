@@ -65,11 +65,19 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "Play RTS Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Nordsjælland vs St Gallen "
+        },
+        {
+            "channel": "SRF Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Nordsjælland vs St Gallen "
         },
         {
@@ -101,11 +109,11 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "TV KI Faroes📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://tv.ki.fo/kiklaksvik/",
             "related_to": " KÍ Klaksvík vs Riga FC "
         },
         {
@@ -237,7 +245,7 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "SÝN Sport Island 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
@@ -273,11 +281,27 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "Play RTS Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Sion vs Ajax "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": " Sion vs Ajax "
+        },
+        {
+            "channel": "SRF Play📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
-            "link": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Sion vs Ajax "
         },
         {
@@ -573,6 +597,24 @@
             "encry": "",
             "link": "https://on.orf.at/livestream/",
             "related_to": " Rapid Vienna vs Hearts "
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg)",
+            "match": " Riga FC vs KÍ Klaksvík ",
+            "flags": {
+                "team1": "latvia",
+                "team2": "faroeislands"
+            },
+            "time": "17:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Riga FC vs KÍ Klaksvík "
         },
         {
             "compet": "UEFA Conference League - Play-Off (2nd Leg)",

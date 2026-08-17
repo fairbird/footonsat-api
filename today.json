@@ -145,6 +145,24 @@
             "related_to": " Anagennisi Karditsas vs Aris Thessaloniki "
         },
         {
+            "compet": "Latvian Cup - Quarter Final",
+            "match": " Auda vs Grobina ",
+            "flags": {
+                "team1": "latvia",
+                "team2": "latvia"
+            },
+            "time": "15:00",
+            "date": "2026-08-17"
+        },
+        {
+            "channel": "TV4 Latvija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Auda vs Grobina "
+        },
+        {
             "compet": "Ukrainian Premier League - Week 3",
             "match": " Polissya Zhytomyr vs Zorya Luhansk ",
             "flags": {
@@ -399,72 +417,6 @@
             "related_to": " Džiugas Telšiai vs Suduva "
         },
         {
-            "compet": "Friendly Club Match",
-            "match": " Juventus vs Juventus U-23 ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "16:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "DAZN 1 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11843 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Juventus vs Juventus U-23 "
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Juventus vs Juventus U-23 "
-        },
-        {
-            "channel": "Juventus APP",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 -",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Juventus vs Juventus U-23 "
-        },
-        {
-            "channel": "Sky Sport 251 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12418 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Juventus vs Juventus U-23 "
-        },
-        {
-            "channel": "Sky Sport 251 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12054 H 29900 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Juventus vs Juventus U-23 "
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Juventus vs Juventus U-23 "
-        },
-        {
-            "channel": "Sky Sport Uno Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11958 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Juventus vs Juventus U-23 "
-        },
-        {
             "compet": "Italian Cup (Coppa Italia) - 1st Round",
             "match": " Pisa vs Empoli ",
             "flags": {
@@ -486,6 +438,14 @@
             "channel": "Arena 4 Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11804 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Pisa vs Empoli "
@@ -683,12 +643,86 @@
             "related_to": " Pisa vs Empoli "
         },
         {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Pisa vs Empoli "
+        },
+        {
             "channel": "Ziggo Sport 2",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Pisa vs Empoli "
+        },
+        {
+            "compet": "Friendly Club Match",
+            "match": " Juventus vs Juventus U-23 ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "16:00",
+            "date": "2026-08-17"
+        },
+        {
+            "channel": "DAZN 1 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11843 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Juventus U-23 "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Juventus vs Juventus U-23 "
+        },
+        {
+            "channel": "Juventus APP",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 -",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Juventus vs Juventus U-23 "
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Juventus U-23 "
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Juventus U-23 "
+        },
+        {
+            "channel": "Sky Sport Calcio HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Juventus U-23 "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Juventus U-23 "
         },
         {
             "compet": "Bulgarian First League - Week 5",
@@ -785,6 +819,14 @@
             "date": "2026-08-17"
         },
         {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
             "channel": "Arena Premium 2 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
@@ -846,6 +888,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Sassuolo vs Cesena "
         },
         {
@@ -1046,6 +1096,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.vgtv.no/live",
+            "related_to": " Sassuolo vs Cesena "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
             "related_to": " Sassuolo vs Cesena "
         },
         {
@@ -1293,80 +1351,6 @@
             "related_to": " Hegelmann vs Riteriai "
         },
         {
-            "compet": "Danish Superliga - Week 4",
-            "match": " Brøndby vs SønderjyskE ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "time": "17:00",
-            "date": "2026-08-17"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": "0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 30000  -3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "SportKlub 3 Hrvatska",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11387 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
-            "channel": "Veikkaus TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
-            "related_to": " Brøndby vs SønderjyskE "
-        },
-        {
             "compet": "Spanish La Liga 2 - Week 1",
             "match": " Sporting Gijón vs Sabadell ",
             "flags": {
@@ -1375,6 +1359,14 @@
             },
             "time": "17:00",
             "date": "2026-08-17"
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Gijón vs Sabadell "
         },
         {
             "channel": "Arena Premium 3 Srbija HD",
@@ -1511,6 +1503,80 @@
             "encry": "",
             "link": "",
             "related_to": " Sporting Gijón vs Sabadell "
+        },
+        {
+            "compet": "Danish Superliga - Week 4",
+            "match": " Brøndby vs SønderjyskE ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-08-17"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "Arena Premium 5 BiH HD",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Brøndby vs SønderjyskE "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Brøndby vs SønderjyskE "
         },
         {
             "compet": "Swedish Allsvenskan - Week 17",
@@ -2081,6 +2147,14 @@
             "related_to": " Cremonese vs Sampdoria "
         },
         {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
             "channel": "Arena Premium 1 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2134,6 +2208,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Cremonese vs Sampdoria "
         },
         {
@@ -2297,6 +2379,14 @@
             "related_to": " Cremonese vs Sampdoria "
         },
         {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Cremonese vs Sampdoria "
+        },
+        {
             "compet": "English National League South - National League South - 3",
             "match": " Chelmsford City vs Ebbsfleet United ",
             "flags": {
@@ -2381,6 +2471,14 @@
             "date": "2026-08-17"
         },
         {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
             "channel": "Arena Premium 3 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
@@ -2410,6 +2508,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://artmotion.net/tv/",
+            "related_to": " Deportivo A Coruña vs Elche "
+        },
+        {
+            "channel": "Azam Sports 4 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Deportivo A Coruña vs Elche "
         },
         {
@@ -3809,6 +3915,14 @@
             "related_to": " Palermo vs Lecce "
         },
         {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Palermo vs Lecce "
+        },
+        {
             "channel": "Ziggo Sport 2",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
@@ -4095,6 +4209,38 @@
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11135 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3899 R 23330 - 8/9",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Casa Pia vs Benfica "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3934 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Casa Pia vs Benfica "
         },
