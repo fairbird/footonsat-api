@@ -11,14 +11,6 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Kairat Almaty vs Anderlecht "
-        },
-        {
             "channel": "QazSport HD",
             "sat": "KazSat 2 86.5°e",
             "freq": "11495 V 09000 - 8/9",
@@ -75,14 +67,6 @@
             },
             "time": "16:00",
             "date": "2026-08-20"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Mjällby AIF vs Salzburg "
         },
         {
             "channel": "Sport Bladet Play📺",
@@ -299,6 +283,46 @@
             "related_to": " OFI Crete vs CSKA Sofia "
         },
         {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " OFI Crete vs CSKA Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12271 H 30000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " OFI Crete vs CSKA Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " OFI Crete vs CSKA Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " OFI Crete vs CSKA Sofia "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12418 H 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " OFI Crete vs CSKA Sofia "
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (1st Leg)",
             "match": " Red Star Belgrade vs Viktoria Plzen ",
             "flags": {
@@ -309,10 +333,26 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Red Star Belgrade vs Viktoria Plzen "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Red Star Belgrade vs Viktoria Plzen "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Red Star Belgrade vs Viktoria Plzen "
         },
@@ -351,6 +391,56 @@
             "encry": "",
             "link": "",
             "related_to": " Benfica vs AGF Aarhus "
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "match": " CSKA Sofia vs OFI Crete ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "greece"
+            },
+            "time": "18:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " CSKA Sofia vs OFI Crete "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12271 H 30000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " CSKA Sofia vs OFI Crete "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " CSKA Sofia vs OFI Crete "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " CSKA Sofia vs OFI Crete "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12418 H 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " CSKA Sofia vs OFI Crete "
         },
         {
             "compet": "UEFA Europa League - Play-Off (2nd Leg)",
