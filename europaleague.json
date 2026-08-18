@@ -67,6 +67,14 @@
             "related_to": " Kairat Almaty vs Anderlecht "
         },
         {
+            "channel": "Mauve TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 H 0",
+            "encry": "",
+            "link": "https://mauvetv.rsca.be/home",
+            "related_to": " Kairat Almaty vs Anderlecht "
+        },
+        {
             "channel": "QazSport HD",
             "sat": "KazSat 2 86.5°e",
             "freq": "11495 V 09000 - 8/9",
@@ -250,6 +258,54 @@
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://www.1tv.am/en/schedule/metric",
+            "related_to": " Universitatea Craiova vs Ararat-Armenia "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12688 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Universitatea Craiova vs Ararat-Armenia "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12328 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Universitatea Craiova vs Ararat-Armenia "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12643 V 27500 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Universitatea Craiova vs Ararat-Armenia "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12517 V 19368 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Universitatea Craiova vs Ararat-Armenia "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Universitatea Craiova vs Ararat-Armenia "
+        },
+        {
+            "channel": "Voyo Sport 1 Romania",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Universitatea Craiova vs Ararat-Armenia "
         },
         {
@@ -561,10 +617,26 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "- - -",
+            "channel": "Disney+ Danmark",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Benfica vs AGF Aarhus "
+        },
+        {
+            "channel": "OPTO Portugal📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://opto.sic.pt/",
+            "related_to": " Benfica vs AGF Aarhus "
+        },
+        {
+            "channel": "SIC Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Benfica vs AGF Aarhus "
         },
@@ -670,6 +742,24 @@
         },
         {
             "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "match": " AGF Aarhus vs Benfica ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " AGF Aarhus vs Benfica "
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
             "match": " Ferencváros vs Trabzonspor ",
             "flags": {
                 "team1": "hungary",
@@ -717,6 +807,24 @@
             "encry": "Free To Air HD",
             "link": "",
             "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg)",
+            "match": " Anderlecht vs Kairat Almaty ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "kazstan"
+            },
+            "time": "18:30",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Mauve TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 H 0",
+            "encry": "",
+            "link": "https://mauvetv.rsca.be/home",
+            "related_to": " Anderlecht vs Kairat Almaty "
         }
     ]
 }
