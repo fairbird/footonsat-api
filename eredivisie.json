@@ -429,6 +429,14 @@
             "related_to": " PSV Eindhoven vs Groningen "
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " PSV Eindhoven vs Groningen "
+        },
+        {
             "channel": "SuperSport ESPN 2 HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -765,6 +773,14 @@
             "related_to": " AZ Alkmaar vs Go Ahead Eagles "
         },
         {
+            "channel": "Sportdigital FUSSBALL 2",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " AZ Alkmaar vs Go Ahead Eagles "
+        },
+        {
             "compet": "Dutch Eredivisie - Week 4",
             "match": " PEC Zwolle vs NEC Nijmegen ",
             "flags": {
@@ -833,6 +849,14 @@
             "related_to": " Utrecht vs PSV Eindhoven "
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Utrecht vs PSV Eindhoven "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -895,6 +919,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "12284 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Feyenoord vs ADO Den Haag "
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
             "link": "",
             "related_to": " Feyenoord vs ADO Den Haag "
         },
@@ -983,6 +1015,14 @@
             "related_to": " Telstar vs Ajax "
         },
         {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Telstar vs Ajax "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -1015,6 +1055,60 @@
             "encry": "",
             "link": "",
             "related_to": " Cambuur-Leeuwarden vs Twente "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 5",
+            "match": " NEC Nijmegen vs Feyenoord ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "14:30",
+            "date": "2026-09-05"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " NEC Nijmegen vs Feyenoord "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 5",
+            "match": " Ajax vs PSV Eindhoven ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "18:00",
+            "date": "2026-09-05"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Ajax vs PSV Eindhoven "
+        },
+        {
+            "compet": "Dutch Eredivisie - Week 5",
+            "match": " Groningen vs Twente ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "10:15",
+            "date": "2026-09-06"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Groningen vs Twente "
         }
     ]
 }
