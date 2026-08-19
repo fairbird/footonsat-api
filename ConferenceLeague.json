@@ -115,6 +115,14 @@
             "related_to": " Midtjylland vs Rijeka "
         },
         {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Midtjylland vs Rijeka "
+        },
+        {
             "compet": "UEFA Conference League - Play-Off (1st Leg)",
             "match": " KÍ Klaksvík vs Riga FC ",
             "flags": {
@@ -835,6 +843,24 @@
             "encry": "",
             "link": "https://on.orf.at/livestream/",
             "related_to": " Austria Vienna vs Sporting Braga "
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg)",
+            "match": " Rijeka vs Midtjylland ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "denmark"
+            },
+            "time": "18:45",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Rijeka vs Midtjylland "
         }
     ]
 }
