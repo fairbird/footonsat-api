@@ -1,6 +1,40 @@
 {
     "footonsat": [
         {
+            "compet": "English PL 2 - Regular Season",
+            "match": " Everton U-21 vs Liverpool U-21 ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "All Red Video📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://video.liverpoolfc.com/",
+            "related_to": " Everton U-21 vs Liverpool U-21 "
+        },
+        {
+            "channel": "Everton On TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.evertonfc.com/live",
+            "related_to": " Everton U-21 vs Liverpool U-21 "
+        },
+        {
+            "channel": "LFC TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Everton U-21 vs Liverpool U-21 "
+        },
+        {
             "compet": "English Premier League - Week 1",
             "match": " Arsenal vs Coventry City ",
             "flags": {
@@ -527,6 +561,14 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
             "link": "",
             "related_to": " Arsenal vs Coventry City "
         },
