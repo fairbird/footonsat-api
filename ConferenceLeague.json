@@ -11,6 +11,14 @@
             "date": "2026-08-20"
         },
         {
+            "channel": "Gibraltar FA TV",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lincoln Red Imps vs Larne "
+        },
+        {
             "channel": "NIFL TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -205,14 +213,6 @@
             },
             "time": "17:45",
             "date": "2026-08-20"
-        },
-        {
-            "channel": "Arena Sport 5 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " PAOK Thessaloniki vs Brann "
         },
         {
             "channel": "Arena Sport 6 Srbija HD",
@@ -681,10 +681,10 @@
             "related_to": " Hearts vs Rapid Vienna "
         },
         {
-            "channel": "Arena Sport 7 BiH HD",
-            "sat": "0.0°",
+            "channel": "Arena Sport 5 BiH HD",
+            "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
-            "encry": "",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Hearts vs Rapid Vienna "
         },
@@ -989,14 +989,6 @@
             "date": "2026-08-20"
         },
         {
-            "channel": "Cytavision Sports 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Dinamo City vs Pafos FC "
-        },
-        {
             "channel": "SuperSport 1 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -1141,6 +1133,48 @@
             "encry": "",
             "link": "",
             "related_to": " Riga FC vs KÍ Klaksvík "
+        },
+        {
+            "compet": "UEFA Conference League - Play-Off (2nd Leg)",
+            "match": " Hradec Králové vs Panathinaikos ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "greece"
+            },
+            "time": "17:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12338 H 11568 - 2/3",
+            "encry": "HD BISS",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Hradec Králové vs Panathinaikos "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Hradec Králové vs Panathinaikos "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12207 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Hradec Králové vs Panathinaikos "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "12414 H 11568 - 2/3",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Hradec Králové vs Panathinaikos "
         },
         {
             "compet": "UEFA Conference League - Play-Off (2nd Leg)",

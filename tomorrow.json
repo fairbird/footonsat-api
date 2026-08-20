@@ -365,6 +365,24 @@
             "related_to": " Johor Darul Ta'zim vs Kuching City "
         },
         {
+            "compet": "Serbian W/Super League (Superliga Žene) - Week 1",
+            "match": " Spartak Subotica vs Milutinac 2023 ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "14:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Spartak Subotica vs Milutinac 2023 "
+        },
+        {
             "compet": "Qatar Stars League - Week 1",
             "match": " Al Gharafa vs Al Shahania ",
             "flags": {
@@ -2745,10 +2763,10 @@
             "related_to": " FK Sarajevo vs BSK Banja Luka "
         },
         {
-            "channel": "Arena Sport 6 Srbija HD",
+            "channel": "Arena Sport 7 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11817 V 30000 - 3/4",
-            "encry": "HD Conax",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " FK Sarajevo vs BSK Banja Luka "
         },
@@ -2837,110 +2855,6 @@
             "encry": "",
             "link": "",
             "related_to": " Anderlecht U-23 vs Excelsior Virton "
-        },
-        {
-            "compet": "French Ligue 2 - Week 3",
-            "match": " Boulogne vs Red Star FC ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Boulogne vs Red Star FC "
-        },
-        {
-            "channel": "beIN Sports France 4 HD max",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "11471 V 29950 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Boulogne vs Red Star FC "
-        },
-        {
-            "compet": "French Ligue 2 - Week 3",
-            "match": " Clermont Foot vs Dijon ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Clermont Foot vs Dijon "
-        },
-        {
-            "channel": "beIN Sports France 5 HD max",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "11471 V 29950 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Clermont Foot vs Dijon "
-        },
-        {
-            "compet": "French Ligue 2 - Week 3",
-            "match": " Pau vs Nancy ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Pau vs Nancy "
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "11679 V 29950 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Pau vs Nancy "
-        },
-        {
-            "compet": "French Ligue 2 - Week 3",
-            "match": " Sochaux vs Guingamp ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "beIN Sports France 8 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sochaux vs Guingamp "
-        },
-        {
-            "channel": "beIN Sports France 8 HD max",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "11679 V 29950 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Sochaux vs Guingamp "
         },
         {
             "compet": "Dutch Eerste Divisie - Week 3",
@@ -3067,6 +2981,110 @@
             "encry": "",
             "link": "https://www.dazn.com/en-BE/",
             "related_to": " Sporting Lokeren vs Eupen "
+        },
+        {
+            "compet": "French Ligue 2 - Week 3",
+            "match": " Boulogne vs Red Star FC ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Boulogne vs Red Star FC "
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11471 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Boulogne vs Red Star FC "
+        },
+        {
+            "compet": "French Ligue 2 - Week 3",
+            "match": " Clermont Foot vs Dijon ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Clermont Foot vs Dijon "
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11471 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Clermont Foot vs Dijon "
+        },
+        {
+            "compet": "French Ligue 2 - Week 3",
+            "match": " Pau vs Nancy ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Pau vs Nancy "
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Pau vs Nancy "
+        },
+        {
+            "compet": "French Ligue 2 - Week 3",
+            "match": " Sochaux vs Guingamp ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "beIN Sports France 8 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sochaux vs Guingamp "
+        },
+        {
+            "channel": "beIN Sports France 8 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Sochaux vs Guingamp "
         },
         {
             "compet": "Bulgarian First League - Week 6",
@@ -3923,6 +3941,14 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "10850 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Marseille vs Strasbourg "
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Marseille vs Strasbourg "
         },
@@ -4925,6 +4951,30 @@
             "related_to": " Real Betis vs Real Sociedad "
         },
         {
+            "channel": "Cytavision Sports 4K 2 UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs Real Sociedad "
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs Real Sociedad "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs Real Sociedad "
+        },
+        {
             "channel": "DAZN 1 Bar Deutsch HD",
             "sat": "Astra 1N 19.2°e",
             "freq": "12070 H 27500 - 9/10",
@@ -5727,6 +5777,14 @@
             "related_to": " Arsenal vs Coventry City "
         },
         {
+            "channel": "Canal+ Premier League HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
             "channel": "Canal+ Sport 1 Czech HD 📺",
             "sat": "Astra 3B 23.5°e",
             "freq": "11973 V 29900 - 2/3",
@@ -5740,6 +5798,30 @@
             "freq": "12607 V 28800 - 3/5",
             "encry": "HD NagraVision",
             "link": "https://livetv.skylink.cz",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Cytavision Sports 4K 1 UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Cytavision Sports PPV 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Arsenal vs Coventry City "
         },
         {
