@@ -3171,24 +3171,6 @@
             "related_to": " FK Sarajevo vs BSK Banja Luka "
         },
         {
-            "compet": "Montenegrin First League - Week 4",
-            "match": " Mornar vs Buducnost ",
-            "flags": {
-                "team1": "montenegro",
-                "team2": "montenegro"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Mornar vs Buducnost "
-        },
-        {
             "compet": "French Ligue 2 - Week 3",
             "match": " Dunkerque vs Montpellier ",
             "flags": {
@@ -3229,6 +3211,24 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Dunkerque vs Montpellier "
+        },
+        {
+            "compet": "Montenegrin First League - Week 4",
+            "match": " Mornar vs Buducnost ",
+            "flags": {
+                "team1": "montenegro",
+                "team2": "montenegro"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mornar vs Buducnost "
         },
         {
             "compet": "Belgian Challenger Pro League - Week 2",
@@ -3365,24 +3365,6 @@
             "related_to": " Vitesse Arnhem vs Almere City "
         },
         {
-            "compet": "Belgian Challenger Pro League - Week 2",
-            "match": " Sporting Lokeren vs Eupen ",
-            "flags": {
-                "team1": "belgium",
-                "team2": "belgium"
-            },
-            "time": "18:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "DAZN Belgium📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Sporting Lokeren vs Eupen "
-        },
-        {
             "compet": "French Ligue 2 - Week 3",
             "match": " Boulogne vs Red Star FC ",
             "flags": {
@@ -3485,6 +3467,24 @@
             "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Sochaux vs Guingamp "
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 2",
+            "match": " Sporting Lokeren vs Eupen ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "18:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Sporting Lokeren vs Eupen "
         },
         {
             "compet": "Bulgarian First League - Week 6",
@@ -3722,6 +3722,22 @@
             "channel": "beIN Sports Türkiye 1 HD",
             "sat": "Eutelsat 7C 7.0°e",
             "freq": "10887 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Erzurumspor vs Galatasaray "
+        },
+        {
+            "channel": "DigiTurk 4K UHD",
+            "sat": "Turksat 5B 42.0°e",
+            "freq": "11305 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Erzurumspor vs Galatasaray "
+        },
+        {
+            "channel": "DigiTurk 4K UHD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11554 V 29750 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Erzurumspor vs Galatasaray "
@@ -4342,6 +4358,14 @@
             "freq": "11512 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Marseille vs Strasbourg "
+        },
+        {
+            "channel": "ART Motion Sport 3 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
             "related_to": " Marseille vs Strasbourg "
         },
         {
@@ -5671,6 +5695,14 @@
             "related_to": " Arsenal vs Coventry City "
         },
         {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
             "channel": "Hub Premier 1 HD📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -6031,6 +6063,70 @@
             "related_to": " Arsenal vs Coventry City "
         },
         {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "Intelsat 35e 34.5°w",
+            "freq": "4132 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "Intelsat 23 53.0°w",
+            "freq": "4144 R 15650 - 2/3",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Sport 24 At Sea HD",
+            "sat": "Telstar 14R 63.0°w",
+            "freq": "11564 H 03320 - 1/2",
+            "encry": "PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12226 H 31430 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "channel": "Sport 24 In Flight HD",
+            "sat": "Intelsat 35e 34.5°w",
+            "freq": "4132 R 30000 - 2/3",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Coventry City "
+        },
+        {
             "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6237,6 +6333,226 @@
             "encry": "",
             "link": "https://voyo.protv.ro/sport",
             "related_to": " Arsenal vs Coventry City "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 1",
+            "match": " Alcione Milano vs Renate ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Alcione Milano vs Renate "
+        },
+        {
+            "channel": "Sky Sport 256 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Alcione Milano vs Renate "
+        },
+        {
+            "channel": "Sky Sport 256 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Alcione Milano vs Renate "
+        },
+        {
+            "compet": "Italian Serie C Girone C - Girone C - 1",
+            "match": " Giugliano vs Scafatese ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Giugliano vs Scafatese "
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Giugliano vs Scafatese "
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Giugliano vs Scafatese "
+        },
+        {
+            "compet": "Italian Serie C Girone C - Girone C - 1",
+            "match": " Potenza vs Casarano ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Potenza vs Casarano "
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Potenza vs Casarano "
+        },
+        {
+            "channel": "Sky Sport 254 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Potenza vs Casarano "
+        },
+        {
+            "compet": "Italian Serie C Girone B - Girone B - 1",
+            "match": " Vado vs Atalanta U-23 ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Vado vs Atalanta U-23 "
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vado vs Atalanta U-23 "
+        },
+        {
+            "channel": "Sky Sport 253 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Vado vs Atalanta U-23 "
+        },
+        {
+            "compet": "Italian Serie C Girone A - Girone A - 1",
+            "match": " Union Brescia vs AC Carpi ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Union Brescia vs AC Carpi "
+        },
+        {
+            "channel": "Sky Sport 252 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Union Brescia vs AC Carpi "
+        },
+        {
+            "channel": "Sky Sport 252 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Union Brescia vs AC Carpi "
+        },
+        {
+            "channel": "Sky Sport MIX Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11862 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Union Brescia vs AC Carpi "
+        },
+        {
+            "compet": "Italian Serie C Girone C - Girone C - 1",
+            "match": " Bari vs Cavese ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "19:00",
+            "date": "2026-08-21"
+        },
+        {
+            "channel": "Sky Go Italy",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bari vs Cavese "
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bari vs Cavese "
+        },
+        {
+            "channel": "Sky Sport 251 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12054 H 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Bari vs Cavese "
+        },
+        {
+            "channel": "Sky Sport Uno Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bari vs Cavese "
         },
         {
             "compet": "Albanian Superliga - Week 1",
@@ -7155,32 +7471,6 @@
             "related_to": " Real Betis vs Real Sociedad "
         },
         {
-            "compet": "Italian Serie C Girone C - Girone C - 1",
-            "match": " Bari vs Cavese ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bari vs Cavese "
-        },
-        {
-            "channel": "Sky Sport Uno Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11958 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bari vs Cavese "
-        },
-        {
             "compet": "Spanish La Liga 2 - Week 2",
             "match": " Córdoba vs Girona ",
             "flags": {
@@ -7341,104 +7631,6 @@
             "encry": "",
             "link": "",
             "related_to": " Córdoba vs Girona "
-        },
-        {
-            "compet": "Italian Serie C Girone A - Girone A - 1",
-            "match": " Union Brescia vs AC Carpi ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Union Brescia vs AC Carpi "
-        },
-        {
-            "channel": "Sky Sport MIX Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11862 H 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Union Brescia vs AC Carpi "
-        },
-        {
-            "compet": "Italian Serie C Girone C - Girone C - 1",
-            "match": " Giugliano vs Scafatese ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Giugliano vs Scafatese "
-        },
-        {
-            "compet": "Italian Serie C Girone C - Girone C - 1",
-            "match": " Potenza vs Casarano ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Potenza vs Casarano "
-        },
-        {
-            "compet": "Italian Serie C Girone B - Girone B - 1",
-            "match": " Vado vs Atalanta U-23 ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Vado vs Atalanta U-23 "
-        },
-        {
-            "compet": "Italian Serie C Girone A - Girone A - 1",
-            "match": " Alcione Milano vs Renate ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "19:00",
-            "date": "2026-08-21"
-        },
-        {
-            "channel": "Sky Go Italy",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Alcione Milano vs Renate "
         },
         {
             "compet": "Irish Premier Division - Week 28",
