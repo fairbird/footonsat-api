@@ -1062,12 +1062,30 @@
         },
         {
             "compet": "Portuguese Liga 1 - Week 4",
+            "match": " Sporting Braga vs Vitória Guimarães ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:15",
+            "date": "2026-08-31"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sporting Braga vs Vitória Guimarães "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 4",
             "match": " Benfica vs Estoril ",
             "flags": {
                 "team1": "portugal",
                 "team2": "portugal"
             },
-            "time": "17:45",
+            "time": "19:15",
             "date": "2026-08-31"
         },
         {
@@ -1093,24 +1111,6 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Benfica vs Estoril "
-        },
-        {
-            "compet": "Portuguese Liga 1 - Week 4",
-            "match": " Sporting Braga vs Vitória Guimarães ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:45",
-            "date": "2026-08-31"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sporting Braga vs Vitória Guimarães "
         }
     ]
 }
