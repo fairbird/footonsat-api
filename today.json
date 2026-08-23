@@ -635,32 +635,6 @@
             "related_to": " SønderjyskE vs Nordsjælland "
         },
         {
-            "compet": "Portuguese Liga 3 - Week 3",
-            "match": " Paredes vs Leça ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "10:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "Canal 11📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.canal11.pt/",
-            "related_to": " Paredes vs Leça "
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Paredes vs Leça "
-        },
-        {
             "compet": "Russian Premier League - Week 5",
             "match": " Akron vs Kryliya Sovetov ",
             "flags": {
@@ -797,6 +771,32 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Akron vs Kryliya Sovetov "
+        },
+        {
+            "compet": "Portuguese Liga 3 - Week 3",
+            "match": " Paredes vs Leça ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "10:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "Canal 11📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.canal11.pt/",
+            "related_to": " Paredes vs Leça "
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paredes vs Leça "
         },
         {
             "compet": "Russian FNL 2A - Fall Season Silver Round 6",
@@ -1242,6 +1242,14 @@
             "channel": "Setanta Sports 2 Baltic",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Burnley "
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "°",
+            "freq": "",
             "encry": "",
             "link": "",
             "related_to": " West Bromwich Albion vs Burnley "
@@ -1827,64 +1835,6 @@
             "related_to": " AGF Aarhus vs OB Odense "
         },
         {
-            "compet": "Swiss Super League - Week 4",
-            "match": " Young Boys vs Vaduz ",
-            "flags": {
-                "team1": "switzerland",
-                "team2": "switzerland"
-            },
-            "time": "12:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Young Boys vs Vaduz "
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Young Boys vs Vaduz "
-        },
-        {
-            "channel": "Blue Sport 2 Live HDR",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Young Boys vs Vaduz "
-        },
-        {
-            "channel": "Blue Sport D 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Young Boys vs Vaduz "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Young Boys vs Vaduz "
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Young Boys vs Vaduz "
-        },
-        {
             "compet": "Danish Superliga - Week 5",
             "match": " Midtjylland vs Randers ",
             "flags": {
@@ -1999,6 +1949,64 @@
             "related_to": " Midtjylland vs Randers "
         },
         {
+            "compet": "Swiss Super League - Week 4",
+            "match": " Young Boys vs Vaduz ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "switzerland"
+            },
+            "time": "12:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Young Boys vs Vaduz "
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Young Boys vs Vaduz "
+        },
+        {
+            "channel": "Blue Sport 2 Live HDR",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Young Boys vs Vaduz "
+        },
+        {
+            "channel": "Blue Sport D 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Young Boys vs Vaduz "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Young Boys vs Vaduz "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Young Boys vs Vaduz "
+        },
+        {
             "compet": "Scottish SWPL 1 - Week 2",
             "match": " Partick Thistle vs Hibernian ",
             "flags": {
@@ -2015,24 +2023,6 @@
             "encry": "",
             "link": "https://www.youtube.com/c/PartickThistleWomensFC/featured",
             "related_to": " Partick Thistle vs Hibernian "
-        },
-        {
-            "compet": "Swiss Challenge League - Week 4",
-            "match": " Yverdon Sport vs Aarau ",
-            "flags": {
-                "team1": "switzerland",
-                "team2": "switzerland"
-            },
-            "time": "12:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "Blue Sport 1 Live HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Yverdon Sport vs Aarau "
         },
         {
             "compet": "Swedish Allsvenskan - Week 18",
@@ -2109,6 +2099,24 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": " IFK Gotenberg vs Elfsborg "
+        },
+        {
+            "compet": "Swiss Challenge League - Week 4",
+            "match": " Yverdon Sport vs Aarau ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "switzerland"
+            },
+            "time": "12:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "Blue Sport 1 Live HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Yverdon Sport vs Aarau "
         },
         {
             "compet": "German Frauen Bundesliga - Week 1",
@@ -2843,6 +2851,14 @@
             "related_to": " Angers vs Lille "
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Angers vs Lille "
+        },
+        {
             "channel": "DAZN Deutsch",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3389,6 +3405,30 @@
             "related_to": " Manchester City vs Bournemouth "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Manchester City vs Bournemouth "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Manchester City vs Bournemouth "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Manchester City vs Bournemouth "
+        },
+        {
             "channel": "Play Sports 1 Belgium",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3433,6 +3473,14 @@
             "sat": "Eutelsat 36D 35.9°e",
             "freq": "11650 V 10000 - 2/3",
             "encry": "HD TrophyAccess",
+            "link": "",
+            "related_to": " Manchester City vs Bournemouth "
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Manchester City vs Bournemouth "
         },
@@ -3521,6 +3569,14 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "12246 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Bournemouth "
+        },
+        {
+            "channel": "Sport TV Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Manchester City vs Bournemouth "
         },
@@ -3983,6 +4039,14 @@
             "related_to": " Brighton H.A. vs Aston Villa "
         },
         {
+            "channel": "Fast Sports 1 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": " Brighton H.A. vs Aston Villa "
+        },
+        {
             "channel": "Go3 Extra Sport Baltics📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4031,6 +4095,14 @@
             "related_to": " Brighton H.A. vs Aston Villa "
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Brighton H.A. vs Aston Villa "
+        },
+        {
             "channel": "Play Sports 2 Belgium",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4051,6 +4123,14 @@
             "sat": "Koreasat 5 113.0°e",
             "freq": "11553 V 43200 - 5/6",
             "encry": "HD Tongfang",
+            "link": "",
+            "related_to": " Brighton H.A. vs Aston Villa "
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "°",
+            "freq": "",
+            "encry": "",
             "link": "",
             "related_to": " Brighton H.A. vs Aston Villa "
         },
@@ -4847,24 +4927,6 @@
             "related_to": " Bandirmaspor vs Keçiörengücü "
         },
         {
-            "compet": "Armenian Premier League - Week 4",
-            "match": " BKMA vs Noah ",
-            "flags": {
-                "team1": "armenia",
-                "team2": "armenia"
-            },
-            "time": "14:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "YouTube: Armenian PL 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@Armenian_PL/streams",
-            "related_to": " BKMA vs Noah "
-        },
-        {
             "compet": "Danish Superliga - Week 5",
             "match": " Horsens vs Lyngby ",
             "flags": {
@@ -4889,6 +4951,24 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Horsens vs Lyngby "
+        },
+        {
+            "compet": "Armenian Premier League - Week 4",
+            "match": " BKMA vs Noah ",
+            "flags": {
+                "team1": "armenia",
+                "team2": "armenia"
+            },
+            "time": "14:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "YouTube: Armenian PL 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.youtube.com/@Armenian_PL/streams",
+            "related_to": " BKMA vs Noah "
         },
         {
             "compet": "Estonian Meistriliiga - Week 24",
@@ -5515,6 +5595,14 @@
             "related_to": " Cambuur-Leeuwarden vs Feyenoord "
         },
         {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "",
+            "related_to": " Cambuur-Leeuwarden vs Feyenoord "
+        },
+        {
             "channel": "Sport TV2 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -5843,6 +5931,14 @@
             "related_to": " Atlético Madrid vs Villarreal "
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
             "channel": "DAZN 1 Belgium",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -5984,6 +6080,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
+            "channel": "Fast Sports 2 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
             "related_to": " Atlético Madrid vs Villarreal "
         },
         {
@@ -6147,6 +6251,14 @@
             "related_to": " Atlético Madrid vs Villarreal "
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11934 V 27500 - 3/4",
@@ -6159,6 +6271,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11977 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Atlético Madrid vs Villarreal "
         },
@@ -6227,6 +6347,14 @@
             "related_to": " Atlético Madrid vs Villarreal "
         },
         {
+            "channel": "Sport TV 2 Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
             "channel": "SportKlub 2 Slovenija",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11387 H 32000 - 3/4",
@@ -6279,6 +6407,30 @@
             "sat": "Amos 3 4.0°w",
             "freq": "11258 H 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "4171 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Villarreal "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4172 R 30000 - 3/4",
+            "encry": "Conax",
             "link": "",
             "related_to": " Atlético Madrid vs Villarreal "
         },
@@ -6391,32 +6543,6 @@
             "related_to": " Loznica vs Bor 1919 "
         },
         {
-            "compet": "Swiss Super League - Week 4",
-            "match": " Thun vs Servette ",
-            "flags": {
-                "team1": "switzerland",
-                "team2": "switzerland"
-            },
-            "time": "15:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "Blue Sport 2 Live HDR",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Thun vs Servette "
-        },
-        {
-            "channel": "Blue Sport D 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Thun vs Servette "
-        },
-        {
             "compet": "Swedish Superettan - Week 20",
             "match": " Norrby vs Sandviken ",
             "flags": {
@@ -6441,6 +6567,32 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Norrby vs Sandviken "
+        },
+        {
+            "compet": "Swiss Super League - Week 4",
+            "match": " Thun vs Servette ",
+            "flags": {
+                "team1": "switzerland",
+                "team2": "switzerland"
+            },
+            "time": "15:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "Blue Sport 2 Live HDR",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Thun vs Servette "
+        },
+        {
+            "channel": "Blue Sport D 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Thun vs Servette "
         },
         {
             "compet": "Czech LIGA - Week 5",
@@ -6744,6 +6896,14 @@
             "channel": "Okko Futbol HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Le Havre vs Monaco "
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "°",
+            "freq": "",
             "encry": "",
             "link": "",
             "related_to": " Le Havre vs Monaco "
@@ -7215,6 +7375,30 @@
             "related_to": " Newcastle United vs Liverpool "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Newcastle United vs Liverpool "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Newcastle United vs Liverpool "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Newcastle United vs Liverpool "
+        },
+        {
             "channel": "Play Sports 1 Belgium",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -7283,6 +7467,14 @@
             "sat": "Eutelsat 36D 35.9°e",
             "freq": "11650 V 10000 - 2/3",
             "encry": "HD TrophyAccess",
+            "link": "",
+            "related_to": " Newcastle United vs Liverpool "
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Newcastle United vs Liverpool "
         },
@@ -9131,6 +9323,14 @@
             "related_to": " Frosinone vs Juventus "
         },
         {
+            "channel": "Fast Sports 1 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": " Frosinone vs Juventus "
+        },
+        {
             "channel": "Go3 Sport 2 Baltic HD 📺",
             "sat": "Astra 4A 5.0°e",
             "freq": "11958 H 27500 - 5/6",
@@ -9431,6 +9631,14 @@
             "sat": "Thor 7 0.6°w",
             "freq": "12149 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Frosinone vs Juventus "
+        },
+        {
+            "channel": "Sport TV Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Frosinone vs Juventus "
         },
@@ -11041,6 +11249,14 @@
             "related_to": " Getafe vs Racing Santander "
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12399 H 27500 - 3/4",
@@ -11305,6 +11521,14 @@
             "related_to": " Getafe vs Racing Santander "
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
             "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
@@ -11461,6 +11685,54 @@
             "sat": "Amos 3 4.0°w",
             "freq": "11258 H 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12073 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "4063 L 33900 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3761 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Getafe vs Racing Santander "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3725 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Getafe vs Racing Santander "
         },
@@ -12522,7 +12794,7 @@
         },
         {
             "compet": "French Ligue 1 - Week 1",
-            "match": " Paris St Germain vs Rennes ",
+            "match": " Rennes vs Paris St Germain ",
             "flags": {
                 "team1": "france",
                 "team2": "france"
@@ -12536,7 +12808,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -12544,7 +12816,7 @@
             "freq": "12402 V 30000 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -12552,7 +12824,7 @@
             "freq": "12480 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -12560,7 +12832,7 @@
             "freq": "11429 V 28330 - 3/5",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Arena Premium 5 BiH HD",
@@ -12568,7 +12840,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Arena Sport 2 Hrvatska HD",
@@ -12576,7 +12848,7 @@
             "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Arena Sport 2 Hrvatska HD",
@@ -12584,7 +12856,7 @@
             "freq": "11554 H 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ART Motion Sport 5 HD 📺",
@@ -12592,7 +12864,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://artmotion.net/tv/",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "beIN Connect Türkiye 📺",
@@ -12600,7 +12872,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "beIN Sports MENA 1 HD",
@@ -12608,7 +12880,7 @@
             "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "beIN Sports MENA 1 HD",
@@ -12616,7 +12888,7 @@
             "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "beIN Sports MENA English 1 HD",
@@ -12624,7 +12896,7 @@
             "freq": "10850 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "beIN Sports MENA French 1 HD",
@@ -12632,7 +12904,7 @@
             "freq": "11390 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "beIN Sports Türkiye 3 HD",
@@ -12640,7 +12912,7 @@
             "freq": "11676 V 24444 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "beIN Sports Türkiye 3 HD",
@@ -12648,7 +12920,7 @@
             "freq": "10887 V 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Cablenet Sports 2 HD",
@@ -12656,7 +12928,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Canal+ Sport 1 Afrique HD",
@@ -12664,7 +12936,7 @@
             "freq": "11171 V 45000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "DAZN 1 Belgium",
@@ -12672,7 +12944,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
+        },
+        {
+            "channel": "DAZN 2 Bar Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/0",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "DAZN Deutsch",
@@ -12680,7 +12960,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "DAZN España",
@@ -12688,7 +12968,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "DAZN Japan",
@@ -12696,7 +12976,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Diema Sport 2 HD",
@@ -12704,7 +12984,7 @@
             "freq": "12156 H 30000 - 5/6",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Diema Sport 2 HD",
@@ -12712,7 +12992,7 @@
             "freq": "12137 V 30000 - 5/6",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Diema Sport 2 HD",
@@ -12720,7 +13000,7 @@
             "freq": "12673 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Eleven Sports 4 Polska HD",
@@ -12728,7 +13008,15 @@
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
+        },
+        {
+            "channel": "Fast Sports 2 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Go3 Sport Open Baltic 📺",
@@ -12736,7 +13024,7 @@
             "freq": "11958 H 27500 - 5/6",
             "encry": "MPEG-4 NDS",
             "link": "https://go3.tv/en/live_tv",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Ligue 1+📺",
@@ -12744,7 +13032,7 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://plus.ligue1.com/home",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Megogo Futbol 2",
@@ -12752,7 +13040,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Nova Sport 3 Czech HD",
@@ -12760,7 +13048,7 @@
             "freq": "11934 V 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Nova Sport 3 Czech HD",
@@ -12768,7 +13056,7 @@
             "freq": "11977 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Okko Prime Sport HD",
@@ -12776,7 +13064,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Prime Video UK PPV📺",
@@ -12784,7 +13080,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Setanta Sports Qazaqstan HD",
@@ -12792,7 +13096,15 @@
             "freq": "12657 V 45000 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "Sport TV4 Portugal HD",
@@ -12800,7 +13112,7 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "SuperSport 3 Albania HD",
@@ -12808,7 +13120,7 @@
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "SuperSport MáXimo 1 HD",
@@ -12816,7 +13128,7 @@
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "SuperSport MáXimo 1 HD",
@@ -12824,7 +13136,7 @@
             "freq": "11808 H 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "SuperSport Variety 4 HD",
@@ -12832,7 +13144,7 @@
             "freq": "11170 H 30000 - 5/6",
             "encry": "Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "SuperSport Variety 4 HD",
@@ -12840,7 +13152,7 @@
             "freq": "11808 H 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "TV2 Play Norge📺",
@@ -12848,7 +13160,7 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "TV3 MAX Dansk HD",
@@ -12856,7 +13168,7 @@
             "freq": "11345 V 30000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "TV3 MAX Dansk HD",
@@ -12864,7 +13176,7 @@
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ViaPlay 2 Urheilu HD",
@@ -12872,7 +13184,7 @@
             "freq": "11278 V 25000 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -12880,7 +13192,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ViaPlay Nederland HD",
@@ -12888,7 +13200,7 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -12896,7 +13208,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ViaPlay Sport Sverige HD",
@@ -12904,7 +13216,7 @@
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ViaPlay Suomi HD",
@@ -12912,7 +13224,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -12920,7 +13232,15 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Paris St Germain vs Rennes "
+            "related_to": " Rennes vs Paris St Germain "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Rennes vs Paris St Germain "
         },
         {
             "compet": "Italian Serie A - Week 1",
@@ -13090,6 +13410,14 @@
             "freq": "3980 L 21600 - 3/4",
             "encry": "HD PowerVu",
             "link": "",
+            "related_to": " Torino vs AC Milan "
+        },
+        {
+            "channel": "Fast Sports 1 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
             "related_to": " Torino vs AC Milan "
         },
         {
@@ -13289,6 +13617,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Torino vs AC Milan "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Torino vs AC Milan "
         },
@@ -13538,6 +13874,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.tv4play.se/sport",
+            "related_to": " Torino vs AC Milan "
+        },
+        {
+            "channel": "TVNet Sport Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Torino vs AC Milan "
         },
         {
@@ -13919,40 +14263,6 @@
             "related_to": " Atalanta vs Sassuolo "
         },
         {
-            "compet": "Albanian Superliga - Week 1",
-            "match": " Egnatia vs KF Tirana ",
-            "flags": {
-                "team1": "albania",
-                "team2": "albania"
-            },
-            "time": "19:00",
-            "date": "2026-08-23"
-        },
-        {
-            "channel": "FIFA+",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Egnatia vs KF Tirana "
-        },
-        {
-            "channel": "FIFA+ on DAZN📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
-            "related_to": " Egnatia vs KF Tirana "
-        },
-        {
-            "channel": "RTSH Tani",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Egnatia vs KF Tirana "
-        },
-        {
             "compet": "Italian Serie BKT - Week 1",
             "match": " Palermo vs Juve Stabia ",
             "flags": {
@@ -14049,6 +14359,40 @@
             "encry": "HD Irdeto",
             "link": "https://football-tv.ru/live",
             "related_to": " Palermo vs Juve Stabia "
+        },
+        {
+            "compet": "Albanian Superliga - Week 1",
+            "match": " Egnatia vs KF Tirana ",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania"
+            },
+            "time": "19:00",
+            "date": "2026-08-23"
+        },
+        {
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Egnatia vs KF Tirana "
+        },
+        {
+            "channel": "FIFA+ on DAZN📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
+            "related_to": " Egnatia vs KF Tirana "
+        },
+        {
+            "channel": "RTSH Tani",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Egnatia vs KF Tirana "
         },
         {
             "compet": "Italian Serie C Girone B - Girone B - 1",
@@ -14965,6 +15309,14 @@
             "related_to": " Elche vs Barcelona "
         },
         {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
             "channel": "DAZN 1 Portugal HD",
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12399 H 27500 - 3/4",
@@ -15293,6 +15645,14 @@
             "related_to": " Elche vs Barcelona "
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
             "channel": "Nova Sport 4 Czech HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11934 V 27500 - 3/4",
@@ -15305,6 +15665,30 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11977 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Elche vs Barcelona "
         },
@@ -15441,6 +15825,54 @@
             "sat": "Amos 3 4.0°w",
             "freq": "11258 H 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12073 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "4063 L 33900 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3761 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Elche vs Barcelona "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3725 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Elche vs Barcelona "
         },
