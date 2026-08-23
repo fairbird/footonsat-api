@@ -1,24 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-4]",
-            "match": " Iberia 1999 vs Jagiellonia ",
-            "flags": {
-                "team1": "georgia",
-                "team2": "poland"
-            },
-            "time": "16:00",
-            "date": "2026-08-27"
-        },
-        {
-            "channel": "Silk Universal HD",
-            "sat": "Astra 5B 31.5°e",
-            "freq": "12207 V 27500 - 5/6",
-            "encry": "MPEG-4 Bulcrypt",
-            "link": "",
-            "related_to": " Iberia 1999 vs Jagiellonia "
-        },
-        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-1]",
             "match": " Ararat-Armenia vs Universitatea Craiova ",
             "flags": {
@@ -35,6 +17,32 @@
             "encry": "",
             "link": "",
             "related_to": " Ararat-Armenia vs Universitatea Craiova "
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ararat-Armenia vs Universitatea Craiova "
+        },
+        {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-4]",
+            "match": " Iberia 1999 vs Jagiellonia ",
+            "flags": {
+                "team1": "georgia",
+                "team2": "poland"
+            },
+            "time": "16:00",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "",
+            "related_to": " Iberia 1999 vs Jagiellonia "
         },
         {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [0-3]",
@@ -405,6 +413,48 @@
             "related_to": " AGF Aarhus vs Benfica "
         },
         {
+            "compet": "UEFA Europa League - Play-Off (2nd Leg) [3-0]",
+            "match": " Anderlecht vs Kairat Almaty ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "kazstan"
+            },
+            "time": "18:30",
+            "date": "2026-08-27"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Anderlecht vs Kairat Almaty "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Anderlecht vs Kairat Almaty "
+        },
+        {
+            "channel": "Mauve TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 H 0",
+            "encry": "",
+            "link": "https://mauvetv.rsca.be/home",
+            "related_to": " Anderlecht vs Kairat Almaty "
+        },
+        {
+            "channel": "VTM 2 Belgium HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Anderlecht vs Kairat Almaty "
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-0]",
             "match": " Ferencváros vs Trabzonspor ",
             "flags": {
@@ -439,46 +489,68 @@
             "related_to": " Ferencváros vs Trabzonspor "
         },
         {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11958 V 27500 - 2/3",
+            "encry": "FTA (?Blackout)",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11843 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12563 V 28800 - 3/5",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11258 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Ferencváros vs Trabzonspor "
+        },
+        {
             "channel": "ON Sport Plus HD",
             "sat": "Nilesat 201 7.0°w",
             "freq": "11977 V 27500 - 5/6",
             "encry": "Free To Air HD",
             "link": "",
             "related_to": " Ferencváros vs Trabzonspor "
-        },
-        {
-            "compet": "UEFA Europa League - Play-Off (2nd Leg) [3-0]",
-            "match": " Anderlecht vs Kairat Almaty ",
-            "flags": {
-                "team1": "belgium",
-                "team2": "kazstan"
-            },
-            "time": "18:30",
-            "date": "2026-08-27"
-        },
-        {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Anderlecht vs Kairat Almaty "
-        },
-        {
-            "channel": "Mauve TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 H 0",
-            "encry": "",
-            "link": "https://mauvetv.rsca.be/home",
-            "related_to": " Anderlecht vs Kairat Almaty "
-        },
-        {
-            "channel": "VTM 2 Belgium HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Anderlecht vs Kairat Almaty "
         }
     ]
 }
