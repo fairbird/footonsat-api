@@ -11,11 +11,11 @@
             "date": "2026-08-27"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
+            "channel": "Armenia First TV 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.1tv.am/en/schedule/metric",
             "related_to": " Ararat-Armenia vs Universitatea Craiova "
         },
         {
@@ -43,6 +43,22 @@
             },
             "time": "16:00",
             "date": "2026-08-27"
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Iberia 1999 vs Jagiellonia "
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Iberia 1999 vs Jagiellonia "
         },
         {
             "channel": "Silk Universal HD",
@@ -217,6 +233,22 @@
             "related_to": " Omonia Nicosia vs Sint-Truiden "
         },
         {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Omonia Nicosia vs Sint-Truiden "
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Omonia Nicosia vs Sint-Truiden "
+        },
+        {
             "compet": "UEFA Europa League - Play-Off (2nd Leg) [1-0]",
             "match": " Salzburg vs Mjällby AIF ",
             "flags": {
@@ -291,14 +323,6 @@
             },
             "time": "17:00",
             "date": "2026-08-27"
-        },
-        {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Lillestrøm vs Egnatia "
         },
         {
             "channel": "VG+ Sport Norge📺",
@@ -435,14 +459,6 @@
             "date": "2026-08-27"
         },
         {
-            "channel": "- - -",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Thun vs Lech Poznan "
-        },
-        {
             "channel": "Play RTS Sport📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -523,6 +539,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Anderlecht vs Kairat Almaty "
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Anderlecht vs Kairat Almaty "
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "Conax",
             "link": "",
             "related_to": " Anderlecht vs Kairat Almaty "
         },
