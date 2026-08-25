@@ -1,32 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "Portuguese Liga 1 - Week 3",
-            "match": " Gil Vicente vs Casa Pia ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:15",
-            "date": "2026-08-24"
-        },
-        {
-            "channel": "Cosmote Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Gil Vicente vs Casa Pia "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Gil Vicente vs Casa Pia "
-        },
-        {
             "compet": "Portuguese Liga 1 - Week 4",
             "match": " Rio Ave vs Sporting Lisbon ",
             "flags": {
@@ -35,6 +9,14 @@
             },
             "time": "19:15",
             "date": "2026-08-28"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Rio Ave vs Sporting Lisbon "
         },
         {
             "channel": "beIN Sports France 9 HD max",
@@ -251,6 +233,14 @@
             "date": "2026-08-29"
         },
         {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Academico Viseu vs FC Porto "
+        },
+        {
             "channel": "Eleven Sports 2 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
@@ -451,6 +441,14 @@
             },
             "time": "19:15",
             "date": "2026-08-31"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Benfica vs Estoril "
         },
         {
             "channel": "Benfica TV HD",
