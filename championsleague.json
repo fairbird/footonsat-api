@@ -375,7 +375,7 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
+            "link": "https://kauppa.telia.fi/kauppa/mtv-katsomo",
             "related_to": " Lyon vs Fenerbahçe "
         },
         {
@@ -985,6 +985,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Viking vs Dinamo Zagreb "
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Viking vs Dinamo Zagreb "
         },
@@ -1647,6 +1655,14 @@
             "related_to": " AEK Athens vs Levski Sofia "
         },
         {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " AEK Athens vs Levski Sofia "
+        },
+        {
             "channel": "DAZN Deutsch",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2181,6 +2197,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Celje vs Slovan Bratislava "
+        },
+        {
+            "channel": "DAZN 4 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11436 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Celje vs Slovan Bratislava "
+        },
+        {
+            "channel": "DAZN 4 Espana HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10979 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Celje vs Slovan Bratislava "
         },
