@@ -287,6 +287,14 @@
             "related_to": " Galatasaray vs Göztepe "
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Galatasaray vs Göztepe "
+        },
+        {
             "channel": "SportKlub 6 Hrvatska",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -813,6 +821,22 @@
             "related_to": " Samsunspor vs Fenerbahçe "
         },
         {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Samsunspor vs Fenerbahçe "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Samsunspor vs Fenerbahçe "
+        },
+        {
             "channel": "SuperSport 4 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -1244,6 +1268,24 @@
         },
         {
             "compet": "Türkiye Süper Lig - Week 4",
+            "match": " Erzurumspor vs Konyaspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "14:00",
+            "date": "2026-09-05"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Erzurumspor vs Konyaspor "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 4",
             "match": " Istanbul Basaksehir vs Galatasaray ",
             "flags": {
                 "team1": "turkey",
@@ -1280,48 +1322,12 @@
         },
         {
             "compet": "Türkiye Süper Lig - Week 4",
-            "match": " Göztepe vs Gaziantep ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "12:00",
-            "date": "2026-09-06"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Göztepe vs Gaziantep "
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 4",
-            "match": " Trabzonspor vs Gençlerbirligi ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "12:00",
-            "date": "2026-09-06"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Trabzonspor vs Gençlerbirligi "
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 4",
             "match": " Kasimpasa vs Amedspor ",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "12:00",
+            "time": "14:00",
             "date": "2026-09-06"
         },
         {
@@ -1334,48 +1340,12 @@
         },
         {
             "compet": "Türkiye Süper Lig - Week 4",
-            "match": " Caykur Rizespor vs Alanyaspor ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "12:00",
-            "date": "2026-09-06"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Caykur Rizespor vs Alanyaspor "
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 4",
-            "match": " Erzurumspor vs Konyaspor ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "12:00",
-            "date": "2026-09-06"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Erzurumspor vs Konyaspor "
-        },
-        {
-            "compet": "Türkiye Süper Lig - Week 4",
             "match": " Corum FK vs Eyüpspor ",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "12:00",
+            "time": "14:00",
             "date": "2026-09-06"
         },
         {
@@ -1388,12 +1358,30 @@
         },
         {
             "compet": "Türkiye Süper Lig - Week 4",
+            "match": " Trabzonspor vs Gençlerbirligi ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-09-06"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Trabzonspor vs Gençlerbirligi "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 4",
             "match": " Kocaelispor vs Samsunspor ",
             "flags": {
                 "team1": "turkey",
                 "team2": "turkey"
             },
-            "time": "12:00",
+            "time": "17:00",
             "date": "2026-09-06"
         },
         {
@@ -1403,6 +1391,42 @@
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": " Kocaelispor vs Samsunspor "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 4",
+            "match": " Göztepe vs Gaziantep ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-09-07"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Göztepe vs Gaziantep "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 4",
+            "match": " Caykur Rizespor vs Alanyaspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "17:00",
+            "date": "2026-09-07"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Caykur Rizespor vs Alanyaspor "
         },
         {
             "compet": "Türkiye Süper Lig - Week 5",
@@ -2213,6 +2237,168 @@
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
             "related_to": " Samsunspor vs Amedspor "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Istanbul Basaksehir vs Samsunspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Istanbul Basaksehir vs Samsunspor "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Konyaspor vs Galatasaray ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Konyaspor vs Galatasaray "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Fenerbahçe vs Göztepe ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Fenerbahçe vs Göztepe "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Gençlerbirligi vs Alanyaspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Gençlerbirligi vs Alanyaspor "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Trabzonspor vs Gaziantep ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Trabzonspor vs Gaziantep "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Kasimpasa vs Besiktas ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Kasimpasa vs Besiktas "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Erzurumspor vs Corum FK ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Erzurumspor vs Corum FK "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Amedspor vs Eyüpspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Amedspor vs Eyüpspor "
+        },
+        {
+            "compet": "Türkiye Süper Lig - Week 10",
+            "match": " Kocaelispor vs Caykur Rizespor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "12:00",
+            "date": "2026-11-01"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Kocaelispor vs Caykur Rizespor "
         }
     ]
 }
