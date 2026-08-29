@@ -27,22 +27,6 @@
             "related_to": " Derby County vs Swansea City "
         },
         {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12148 H 27500 - 2/3",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Derby County vs Swansea City "
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12226 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Derby County vs Swansea City "
-        },
-        {
             "channel": "V Sport Extra Sverige HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10903 V 25000 - 3/4",
@@ -409,6 +393,38 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Middlesbrough vs West Bromwich Albion "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Middlesbrough vs West Bromwich Albion "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11135 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Middlesbrough vs West Bromwich Albion "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3899 R 23330 - 8/9",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Middlesbrough vs West Bromwich Albion "
+        },
+        {
+            "channel": "Sporty TV Africa",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3934 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Middlesbrough vs West Bromwich Albion "
         },
@@ -2686,24 +2702,6 @@
         },
         {
             "compet": "English Championship - Week 6",
-            "match": " Middlesbrough vs Millwall ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-09-08"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Middlesbrough vs Millwall "
-        },
-        {
-            "compet": "English Championship - Week 6",
             "match": " Bristol City vs Lincoln City ",
             "flags": {
                 "team1": "england",
@@ -2835,46 +2833,6 @@
             "related_to": " Bolton Wanderers vs West Ham United "
         },
         {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Bolton Wanderers vs West Ham United "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Bolton Wanderers vs West Ham United "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bolton Wanderers vs West Ham United "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11856 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bolton Wanderers vs West Ham United "
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12207 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bolton Wanderers vs West Ham United "
-        },
-        {
             "channel": "Sky UK Ultra HD 1",
             "sat": "Astra 2F 28.2°e",
             "freq": "12246 V 27500 - 2/3",
@@ -2897,6 +2855,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Derby County vs West Bromwich Albion "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Derby County vs West Bromwich Albion "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Derby County vs West Bromwich Albion "
         },
@@ -2974,46 +2948,6 @@
             "channel": "Sky Sports Football HD",
             "sat": "Astra 2E 28.2°e",
             "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Charlton Athletic vs Queens Park Rangers "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Charlton Athletic vs Queens Park Rangers "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Charlton Athletic vs Queens Park Rangers "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Charlton Athletic vs Queens Park Rangers "
-        },
-        {
-            "channel": "Sky Sports Main Event HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11856 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Charlton Athletic vs Queens Park Rangers "
-        },
-        {
-            "channel": "Sky Sports Main Event UHD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12207 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Charlton Athletic vs Queens Park Rangers "
@@ -3235,6 +3169,24 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Sheffield United vs Wolves "
+        },
+        {
+            "compet": "English Championship - Week 6",
+            "match": " Middlesbrough vs Millwall ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-09-15"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Middlesbrough vs Millwall "
         },
         {
             "compet": "English Championship - Week 8",
