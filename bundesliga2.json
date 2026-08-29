@@ -2,634 +2,6 @@
     "footonsat": [
         {
             "compet": "German 2. Bundesliga - Week 3",
-            "match": " Braunschweig vs Hertha Berlin ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:30",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11804 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10721 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Arena Sport 4 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "DAZN 2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12137 V 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12673 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Eleven Sports 3 Polska HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0°e",
-            "freq": "12284 V 27500 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0°e",
-            "freq": "12399 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Eutelsat 7 West A 7.0°w",
-            "freq": "11559 V 27500 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12090 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12527 H 28800 - 3/5",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Nova Sports 3 Cyprus HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Nova Sports 3 Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Prima Sport RO 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12606 V 30000 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Prima Sport RO 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12647 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 4 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Sky Sport Calcio HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Sport TV1 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 3/5",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "TSN Malta 8 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay 2 Urheilu HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay Sport Sverige HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "Viaplay TV Suomi HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "channel": "YouTube: Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": " Braunschweig vs Hertha Berlin "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 3",
-            "match": " Bochum vs Osnabrück ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:30",
-            "date": "2026-08-28"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": "0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "beIN Sports 3 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Eleven Sports 4 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11278 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Nova Sport 4 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Nova Sport 4 Czech HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11977 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12560 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12482 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12117 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Prima Sport RO PPV 1",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 3 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "Sport TV2 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "SportKlub 7 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "TSN Malta 7 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "V Sport 1 Sverige HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11345 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "V Sport 2 Norge HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12111 V 30000 - 2/3",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "ViaPlay 1 Urheilu HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "channel": "YouTube: Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": " Bochum vs Osnabrück "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 3",
             "match": " Karlsruhe vs Wolfsburg ",
             "flags": {
                 "team1": "germany",
@@ -637,6 +9,30 @@
             },
             "time": "11:00",
             "date": "2026-08-29"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11804 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
         },
         {
             "channel": "Arena Premium 2 Srbija HD",
@@ -667,6 +63,14 @@
             "sat": "0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Karlsruhe vs Wolfsburg "
         },
@@ -719,6 +123,46 @@
             "related_to": " Karlsruhe vs Wolfsburg "
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12214 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
             "channel": "Digi Sport 2 Romania HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11823 H 30000 - 5/6",
@@ -763,6 +207,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11977 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Karlsruhe vs Wolfsburg "
         },
@@ -835,6 +287,30 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "V Sport+ Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Karlsruhe vs Wolfsburg "
+        },
+        {
+            "channel": "V Sport+ Norge HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12111 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Karlsruhe vs Wolfsburg "
         },
@@ -1163,6 +639,14 @@
             "related_to": " Heidenheim vs Dynamo Dresden "
         },
         {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "°",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " Heidenheim vs Dynamo Dresden "
+        },
+        {
             "channel": "Sky Go Germany",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1277,6 +761,14 @@
             "date": "2026-08-29"
         },
         {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
             "channel": "Arena Premium 3 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12422 H 30000 - 3/4",
@@ -1297,6 +789,14 @@
             "sat": "0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Nuremberg vs Arminia Bielefeld "
         },
@@ -1341,6 +841,22 @@
             "related_to": " Nuremberg vs Arminia Bielefeld "
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
             "channel": "Nitro Deutschland HD 📺",
             "sat": "Astra 1L 19.2°e",
             "freq": "12188 H 27500 - 3/4",
@@ -1377,6 +893,46 @@
             "sat": "Astra 1N 19.2°e",
             "freq": "12663 H 22000 - 5/6",
             "encry": "Free To Air",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12482 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12117 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
             "link": "",
             "related_to": " Nuremberg vs Arminia Bielefeld "
         },
@@ -1473,6 +1029,22 @@
             "sat": "Thor 6 0.8°w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nuremberg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12111 V 30000 - 2/3",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Nuremberg vs Arminia Bielefeld "
         },
@@ -1615,6 +1187,46 @@
             "related_to": " St Pauli vs Kaiserslautern "
         },
         {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12214 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
             "channel": "Digi Sport 4 Romania",
             "sat": "Intelsat 10-02 1.0°w",
             "freq": "12687 H 27500 - 3/4",
@@ -1639,6 +1251,22 @@
             "related_to": " St Pauli vs Kaiserslautern "
         },
         {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11934 V 27500 - 3/4",
@@ -1651,6 +1279,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11977 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " St Pauli vs Kaiserslautern "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " St Pauli vs Kaiserslautern "
         },
@@ -2279,6 +1915,22 @@
             },
             "time": "11:00",
             "date": "2026-09-05"
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Kaiserslautern vs Darmstadt 98 "
+        },
+        {
+            "channel": "beIN Sports France 5 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11471 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Kaiserslautern vs Darmstadt 98 "
         },
         {
             "channel": "ViaPlay Danmark HD",
