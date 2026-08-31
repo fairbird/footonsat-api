@@ -495,6 +495,22 @@
             "related_to": " Stoke City vs Norwich City "
         },
         {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
             "channel": "Setanta Sports Ukraine HD",
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
@@ -595,6 +611,22 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "SuperSport ESPN 2 HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11728 V 30000 - 2/3",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Stoke City vs Norwich City "
         },
@@ -877,6 +909,30 @@
             "sat": "Eutelsat 9B 9.0°e",
             "freq": "11843 V 27500 - 3/5",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Burnley vs Middlesbrough "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Burnley vs Middlesbrough "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Burnley vs Middlesbrough "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11650 V 10000 - 2/3",
+            "encry": "HD TrophyAccess",
             "link": "",
             "related_to": " Burnley vs Middlesbrough "
         },
@@ -2021,24 +2077,6 @@
             "related_to": " Bristol City vs Lincoln City "
         },
         {
-            "compet": "English Championship - Week 6",
-            "match": " Wolves vs Portsmouth ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-09-16"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Wolves vs Portsmouth "
-        },
-        {
             "compet": "English Championship - Week 8",
             "match": " Bristol City vs Watford ",
             "flags": {
@@ -3161,6 +3199,24 @@
             "encry": "",
             "link": "",
             "related_to": " Millwall vs Lincoln City "
+        },
+        {
+            "compet": "English Championship - Week 6",
+            "match": " Wolves vs Portsmouth ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-10-20"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Portsmouth "
         },
         {
             "compet": "English Championship - Week 12",
