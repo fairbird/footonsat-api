@@ -271,6 +271,32 @@
             "related_to": " Akron vs Lokomotiv Moscow "
         },
         {
+            "compet": "Qatar Cup - Semi Final",
+            "match": " Al Sadd vs Al Gharafa ",
+            "flags": {
+                "team1": "qatar",
+                "team2": "qatar"
+            },
+            "time": "14:00",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Sadd vs Al Gharafa "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Sadd vs Al Gharafa "
+        },
+        {
             "compet": "Türkiye 1. Lig - Week 5",
             "match": " Umraniyespor vs Muglaspor ",
             "flags": {
@@ -381,74 +407,6 @@
             "related_to": " Ghazl El Mahalla vs ENPPI "
         },
         {
-            "compet": "Qatar Cup - Semi Final",
-            "match": " Al Sadd vs Al Gharafa ",
-            "flags": {
-                "team1": "qatar",
-                "team2": "qatar"
-            },
-            "time": "14:00",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Sadd vs Al Gharafa "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Al Sadd vs Al Gharafa "
-        },
-        {
-            "compet": "Greek Cup - Greek Cup - 1",
-            "match": " Volos NFC vs Kalamata ",
-            "flags": {
-                "team1": "greece",
-                "team2": "greece"
-            },
-            "time": "15:00",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "SKAI Hellas HD 📺",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12338 H 11568 - 2/3",
-            "encry": "HD BISS",
-            "link": "https://www.skai.gr/tv/live",
-            "related_to": " Volos NFC vs Kalamata "
-        },
-        {
-            "channel": "SKAI Hellas HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "https://www.skai.gr/tv/live",
-            "related_to": " Volos NFC vs Kalamata "
-        },
-        {
-            "channel": "SKAI Hellas HD 📺",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12207 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "https://www.skai.gr/tv/live",
-            "related_to": " Volos NFC vs Kalamata "
-        },
-        {
-            "channel": "SKAI Hellas HD 📺",
-            "sat": "Eutelsat 3B 3.1°e",
-            "freq": "12414 H 11568 - 2/3",
-            "encry": "MPEG-4 Biss",
-            "link": "https://www.skai.gr/tv/live",
-            "related_to": " Volos NFC vs Kalamata "
-        },
-        {
             "compet": "Romanian Cup - Group Stage",
             "match": " Sepsi OSK vs CFR Cluj ",
             "flags": {
@@ -497,6 +455,48 @@
             "encry": "NagraVision",
             "link": "",
             "related_to": " Sepsi OSK vs CFR Cluj "
+        },
+        {
+            "compet": "Greek Cup - Greek Cup - 1",
+            "match": " Volos NFC vs Kalamata ",
+            "flags": {
+                "team1": "greece",
+                "team2": "greece"
+            },
+            "time": "15:00",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12338 H 11568 - 2/3",
+            "encry": "HD BISS",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Volos NFC vs Kalamata "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Volos NFC vs Kalamata "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12207 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Volos NFC vs Kalamata "
+        },
+        {
+            "channel": "SKAI Hellas HD 📺",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "12414 H 11568 - 2/3",
+            "encry": "MPEG-4 Biss",
+            "link": "https://www.skai.gr/tv/live",
+            "related_to": " Volos NFC vs Kalamata "
         },
         {
             "compet": "Russian Cup (Kubok Rossii) - Group Stage: Round 3",
@@ -783,6 +783,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10721 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Parma vs Cremonese "
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Parma vs Cremonese "
         },
@@ -1093,6 +1101,40 @@
             "related_to": " Estrela U-23 vs Sporting Lisbon U-23 "
         },
         {
+            "compet": "UEFA Womens Champions League - 3rd Round Qualifier",
+            "match": " Austria Vienna vs Brann ",
+            "flags": {
+                "team1": "austria",
+                "team2": "norway"
+            },
+            "time": "16:00",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs Brann "
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12466 V 41950 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs Brann "
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12565 V 30000 - 5/6",
+            "encry": "HD Panaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs Brann "
+        },
+        {
             "compet": "Portuguese Liga Next Gen - Week 4",
             "match": " Felgueiras U-23 vs Estoril U-23 ",
             "flags": {
@@ -1147,6 +1189,40 @@
             "related_to": " Gil Vicente U-23 vs Rio Ave U-23 "
         },
         {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 5",
+            "match": " Sloga Doboj vs Celik Zenica ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "16:30",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sloga Doboj vs Celik Zenica "
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sloga Doboj vs Celik Zenica "
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sloga Doboj vs Celik Zenica "
+        },
+        {
             "compet": "Qatar Cup - Semi Final",
             "match": " Al Shamal vs Al Rayyan ",
             "flags": {
@@ -1171,6 +1247,90 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Al Shamal vs Al Rayyan "
+        },
+        {
+            "compet": "Bulgarian Second League - Week 7",
+            "match": " Hebar 1918 vs Fratria ",
+            "flags": {
+                "team1": "bulgaria",
+                "team2": "bulgaria"
+            },
+            "time": "17:00",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hebar 1918 vs Fratria "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12271 H 30000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Hebar 1918 vs Fratria "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12565 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hebar 1918 vs Fratria "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hebar 1918 vs Fratria "
+        },
+        {
+            "channel": "Diema Sport HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12418 H 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Hebar 1918 vs Fratria "
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Hebar 1918 vs Fratria "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Hebar 1918 vs Fratria "
+        },
+        {
+            "compet": "Serbian 1st League (Prva liga Srbija) - Week 6",
+            "match": " Teleoptik vs Voždovac ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "17:00",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Teleoptik vs Voždovac "
         },
         {
             "compet": "Türkiye 1. Lig - Week 5",
@@ -1341,19 +1501,19 @@
             "related_to": " 1860 Munich vs Buchbach "
         },
         {
-            "channel": "DFB.TV Germany",
+            "channel": "DFB.TV Germany HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 - -",
             "encry": "Free To Air",
-            "link": "",
+            "link": "https://www.dfbplay.tv/",
             "related_to": " 1860 Munich vs Buchbach "
         },
         {
-            "channel": "DFB.TV Germany",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11954 H 27500 - 3/4",
-            "encry": "FTA (MPEG-4)",
-            "link": "",
+            "channel": "DFB.TV Germany HD 📺",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11112 H 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "https://www.dfbplay.tv/",
             "related_to": " 1860 Munich vs Buchbach "
         },
         {
@@ -1439,6 +1599,22 @@
             "sat": "Astra 1N 19.2°e",
             "freq": "12032 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolfsberger AC vs LASK Linz "
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wolfsberger AC vs LASK Linz "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Wolfsberger AC vs LASK Linz "
         },
@@ -2219,24 +2395,6 @@
             "related_to": " Universitatea Cluj vs Petrolul "
         },
         {
-            "compet": "Polish Cup (Puchar Polski) - 1st Round",
-            "match": " Motor Lublin vs Legia Warsaw ",
-            "flags": {
-                "team1": "poland",
-                "team2": "poland"
-            },
-            "time": "18:30",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "TVP Sport Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "10834 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Motor Lublin vs Legia Warsaw "
-        },
-        {
             "compet": "Swiss Super League - Week 6",
             "match": " Zürich vs Young Boys ",
             "flags": {
@@ -2245,6 +2403,14 @@
             },
             "time": "18:30",
             "date": "2026-09-01"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zürich vs Young Boys "
         },
         {
             "channel": "Blue Sport 1 Live UHD",
@@ -2269,6 +2435,48 @@
             "encry": "",
             "link": "",
             "related_to": " Zürich vs Young Boys "
+        },
+        {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Zürich vs Young Boys "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000  -3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Zürich vs Young Boys "
+        },
+        {
+            "channel": "SportKlub 3 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Zürich vs Young Boys "
+        },
+        {
+            "compet": "Polish Cup (Puchar Polski) - 1st Round",
+            "match": " Motor Lublin vs Legia Warsaw ",
+            "flags": {
+                "team1": "poland",
+                "team2": "poland"
+            },
+            "time": "18:30",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Motor Lublin vs Legia Warsaw "
         },
         {
             "compet": "German Cup (DFB-Pokal) - Round 1",
@@ -2779,6 +2987,14 @@
             "date": "2026-09-01"
         },
         {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
             "channel": "Sky Sports+",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2881,6 +3097,32 @@
             "encry": "",
             "link": "",
             "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "compet": "Bosnia-Herzegovina Premier Liga - Week 5",
+            "match": " Zrinjski vs BSK Banja Luka ",
+            "flags": {
+                "team1": "bosnia",
+                "team2": "bosnia"
+            },
+            "time": "18:45",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zrinjski vs BSK Banja Luka "
+        },
+        {
+            "channel": "Arena Sport 9 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zrinjski vs BSK Banja Luka "
         },
         {
             "compet": "English Championship - Week 4",
@@ -3663,6 +3905,14 @@
             "related_to": " Torino vs Monza "
         },
         {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Torino vs Monza "
+        },
+        {
             "channel": "ART Motion Sport 1 HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4051,6 +4301,14 @@
             "related_to": " Stoke City vs Norwich City "
         },
         {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11595 H 30000 - 3/4",
@@ -4175,6 +4433,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11823 H 30000 - 5/6",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Stoke City vs Norwich City "
         },
