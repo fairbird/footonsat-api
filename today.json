@@ -499,24 +499,6 @@
             "related_to": " Sepsi OSK vs CFR Cluj "
         },
         {
-            "compet": "Polish Cup (Puchar Polski) - 1st Round",
-            "match": " Odra Opole vs Wisla Kraków ",
-            "flags": {
-                "team1": "poland",
-                "team2": "poland"
-            },
-            "time": "15:30",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "TVP Sport Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "10834 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Odra Opole vs Wisla Kraków "
-        },
-        {
             "compet": "Russian Cup (Kubok Rossii) - Group Stage: Round 3",
             "match": " Fakel Voronezh vs FK Krasnodar ",
             "flags": {
@@ -711,6 +693,32 @@
             "related_to": " Fakel Voronezh vs FK Krasnodar "
         },
         {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Fakel Voronezh vs FK Krasnodar "
+        },
+        {
+            "compet": "Polish Cup (Puchar Polski) - 1st Round",
+            "match": " Odra Opole vs Wisla Kraków ",
+            "flags": {
+                "team1": "poland",
+                "team2": "poland"
+            },
+            "time": "15:30",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Odra Opole vs Wisla Kraków "
+        },
+        {
             "compet": "Norwegian Toppserien (W) - Week 14",
             "match": " LSK Kvinner vs Bodø/Glimt ",
             "flags": {
@@ -737,6 +745,46 @@
             },
             "time": "16:00",
             "date": "2026-09-01"
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Parma vs Cremonese "
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11804 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Parma vs Cremonese "
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Parma vs Cremonese "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Parma vs Cremonese "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10721 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Parma vs Cremonese "
         },
         {
             "channel": "Arena Sport 2 Hrvatska HD",
@@ -975,6 +1023,14 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Parma vs Cremonese "
+        },
+        {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Parma vs Cremonese "
         },
@@ -1321,6 +1377,56 @@
             "related_to": " Helsingborg vs Orebro "
         },
         {
+            "compet": "Austrian Bundesliga - Week 4",
+            "match": " Wolfsberger AC vs LASK Linz ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "17:30",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Wolfsberger AC vs LASK Linz "
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Wolfsberger AC vs LASK Linz "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Wolfsberger AC vs LASK Linz "
+        },
+        {
+            "channel": "Sky Go Germany",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolfsberger AC vs LASK Linz "
+        },
+        {
+            "channel": "Sky Sport 1 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolfsberger AC vs LASK Linz "
+        },
+        {
             "compet": "Swiss Challenge League - Week 6",
             "match": " Neuchâtel Xamax vs Yverdon Sport ",
             "flags": {
@@ -1391,40 +1497,6 @@
             "encry": "",
             "link": "",
             "related_to": " Stade Nyonnais vs Winterthur "
-        },
-        {
-            "compet": "Austrian Bundesliga - Week 4",
-            "match": " Wolfsberger AC vs LASK Linz ",
-            "flags": {
-                "team1": "austria",
-                "team2": "austria"
-            },
-            "time": "17:30",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Wolfsberger AC vs LASK Linz "
-        },
-        {
-            "channel": "Sky Go Germany",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolfsberger AC vs LASK Linz "
-        },
-        {
-            "channel": "Sky Sport 1 Austria HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12032 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Wolfsberger AC vs LASK Linz "
         },
         {
             "compet": "Icelandic Úrvalsdeild - Week 21",
@@ -1635,6 +1707,14 @@
             "sat": "Eutelsat 36C 35.9°e",
             "freq": "12015 R 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Rostov vs CSKA Moscow "
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Rostov vs CSKA Moscow "
         },
@@ -1921,6 +2001,54 @@
             "related_to": " Al Hilal vs Al Ahli "
         },
         {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Al Hilal vs Al Ahli "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Hilal vs Al Ahli "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Al Hilal vs Al Ahli "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Al Hilal vs Al Ahli "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11389 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Al Hilal vs Al Ahli "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10722 V 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Al Hilal vs Al Ahli "
+        },
+        {
             "channel": "ST World Football HD",
             "sat": "Eutelsat 10B 10.0°e",
             "freq": "3736 R 07307 - 5/6",
@@ -2095,6 +2223,62 @@
             },
             "time": "18:45",
             "date": "2026-09-01"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Astro Football HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Astro Grandstand HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10932 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Astro Sports UHD",
+            "sat": "Measat 3a 91.4°e",
+            "freq": "11775 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
         },
         {
             "channel": "beIN Sports France 1 HD",
@@ -2377,6 +2561,78 @@
             "related_to": " HEBC Hamburg vs Borussia Dortmund "
         },
         {
+            "channel": "Sky Sport Deutsch UHD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sky Sport News Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sky Sport Top Event HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "12034 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11727 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11785 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sport 1 Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11222 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -2391,6 +2647,202 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " HEBC Hamburg vs Borussia Dortmund "
+        },
+        {
+            "compet": "English Championship - Week 4",
+            "match": " West Ham United vs Wolves ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12111 V 30000 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Ham United vs Wolves "
+        },
+        {
+            "compet": "English Championship - Week 4",
+            "match": " Portsmouth vs Derby County ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "18:45",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portsmouth vs Derby County "
         },
         {
             "compet": "English Championship - Week 4",
@@ -2465,96 +2917,6 @@
             "encry": "",
             "link": "",
             "related_to": " Preston N.E. vs Bristol City "
-        },
-        {
-            "compet": "English Championship - Week 4",
-            "match": " West Ham United vs Wolves ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12148 H 27500 - 2/3",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "Sky Sports+ TV HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12226 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "ViaPlay Sport Sverige HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " West Ham United vs Wolves "
         },
         {
             "compet": "English League Two - Week 4",
@@ -2858,72 +3220,6 @@
         },
         {
             "compet": "English Championship - Week 4",
-            "match": " Portsmouth vs Derby County ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "18:45",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Portsmouth vs Derby County "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portsmouth vs Derby County "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Portsmouth vs Derby County "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portsmouth vs Derby County "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portsmouth vs Derby County "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portsmouth vs Derby County "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Portsmouth vs Derby County "
-        },
-        {
-            "compet": "English Championship - Week 4",
             "match": " Swansea City vs Watford ",
             "flags": {
                 "team1": "england",
@@ -3207,6 +3503,46 @@
             "date": "2026-09-01"
         },
         {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "12265 V 28000 - 7/8",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Torino vs Monza "
+        },
+        {
+            "channel": "Arena 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11804 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Torino vs Monza "
+        },
+        {
+            "channel": "Arena Premium 2 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Torino vs Monza "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Torino vs Monza "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10721 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Torino vs Monza "
+        },
+        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11678 H 30000 - 3/4",
@@ -3439,6 +3775,14 @@
             "related_to": " Torino vs Monza "
         },
         {
+            "channel": "Sport+ Qazaqstan",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Torino vs Monza "
+        },
+        {
             "channel": "Tring Sport 1 HD",
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
@@ -3506,80 +3850,6 @@
         },
         {
             "compet": "English Championship - Week 4",
-            "match": " Birmingham City vs Southampton ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-09-01"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "channel": "V Sport Extra Sverige HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10903 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Birmingham City vs Southampton "
-        },
-        {
-            "compet": "English Championship - Week 4",
             "match": " Stoke City vs Norwich City ",
             "flags": {
                 "team1": "england",
@@ -3587,6 +3857,46 @@
             },
             "time": "19:00",
             "date": "2026-09-01"
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11429 V 28330 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
         },
         {
             "channel": "Arena Sport 2 Hrvatska HD",
@@ -3661,6 +3971,30 @@
             "related_to": " Stoke City vs Norwich City "
         },
         {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
             "channel": "ESPN 4 Brazil HD",
             "sat": "SES 6 40.5°w",
             "freq": "3980 L 21600 - 5/6",
@@ -3673,6 +4007,22 @@
             "sat": "SES 6 40.5°w",
             "freq": "4095 R 30000 - 5/6",
             "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Stoke City vs Norwich City "
         },
@@ -3797,6 +4147,22 @@
             "related_to": " Stoke City vs Norwich City "
         },
         {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
             "channel": "V Sport Premium HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10903 V 25000 - 3/4",
@@ -3845,12 +4211,110 @@
             "related_to": " Stoke City vs Norwich City "
         },
         {
+            "channel": "ViaPlay TV Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "Viaplay TV Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Stoke City vs Norwich City "
+        },
+        {
             "channel": "ViaPlay Ísland HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Stoke City vs Norwich City "
+        },
+        {
+            "compet": "English Championship - Week 4",
+            "match": " Birmingham City vs Southampton ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "19:00",
+            "date": "2026-09-01"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham City vs Southampton "
         }
     ]
 }
