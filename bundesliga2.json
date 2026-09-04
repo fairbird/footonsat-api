@@ -11,6 +11,14 @@
             "date": "2026-09-04"
         },
         {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs St Pauli "
+        },
+        {
             "channel": "Arena Premium 2 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
@@ -87,6 +95,30 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11231 V 42000 - 3/5",
             "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs St Pauli "
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs St Pauli "
+        },
+        {
+            "channel": "V Sport 2 Norge HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12111 V 30000 - 2/3",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs St Pauli "
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Arminia Bielefeld vs St Pauli "
         },
@@ -293,6 +325,22 @@
             "related_to": " Hannover 96 vs Karlsruhe "
         },
         {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hannover 96 vs Karlsruhe "
+        },
+        {
+            "channel": "ViaPlay 2 Urheilu HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hannover 96 vs Karlsruhe "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -329,6 +377,22 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hannover 96 vs Karlsruhe "
+        },
+        {
+            "channel": "Viaplay TV Suomi HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hannover 96 vs Karlsruhe "
+        },
+        {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Hannover 96 vs Karlsruhe "
         },
@@ -1268,80 +1332,6 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 5",
-            "match": " Darmstadt 98 vs Arminia Bielefeld ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "16:30",
-            "date": "2026-09-11"
-        },
-        {
-            "channel": "Eleven Sports 4 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11278 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 5",
             "match": " Nuremberg vs Hannover 96 ",
             "flags": {
                 "team1": "germany",
@@ -1349,6 +1339,22 @@
             },
             "time": "16:30",
             "date": "2026-09-11"
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Nuremberg vs Hannover 96 "
+        },
+        {
+            "channel": "beIN Sports France 9 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Nuremberg vs Hannover 96 "
         },
         {
             "channel": "Eleven Sports 2 Polska HD",
@@ -1421,6 +1427,80 @@
             "encry": "",
             "link": "https://www.wowtv.de/live-sport",
             "related_to": " Nuremberg vs Hannover 96 "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 5",
+            "match": " Darmstadt 98 vs Arminia Bielefeld ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "16:30",
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
+        },
+        {
+            "channel": "WOW Deutsch📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wowtv.de/live-sport",
+            "related_to": " Darmstadt 98 vs Arminia Bielefeld "
         },
         {
             "compet": "German 2. Bundesliga - Week 5",
