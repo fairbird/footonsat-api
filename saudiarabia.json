@@ -11,6 +11,22 @@
             "date": "2026-09-05"
         },
         {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Al Faisaly vs Al Hazem "
+        },
+        {
+            "channel": "Thmanyah 3 HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12360 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Al Faisaly vs Al Hazem "
+        },
+        {
             "channel": "Thmanyah KSA",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
@@ -73,6 +89,22 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "4172 R 30000 - 3/4",
             "encry": "Conax",
+            "link": "",
+            "related_to": " Al Taawoun vs Al Fateh "
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Al Taawoun vs Al Fateh "
+        },
+        {
+            "channel": "Thmanyah 2 HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "12360 V 27500 - 3/4",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Al Taawoun vs Al Fateh "
         },
@@ -260,6 +292,14 @@
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Al Ittihad vs Al Nassr "
+        },
+        {
+            "channel": "Sportitalia SoloCalcio HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11179 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://sportitalialive.it/sisolocalcio/",
             "related_to": " Al Ittihad vs Al Nassr "
         },
         {
@@ -706,31 +746,13 @@
         },
         {
             "compet": "Saudi Pro League - Week 7",
-            "match": " Al Taawoun vs Al Hilal ",
-            "flags": {
-                "team1": "saudiarabia",
-                "team2": "saudiarabia"
-            },
-            "time": "18:00",
-            "date": "2026-09-10"
-        },
-        {
-            "channel": "Thmanyah KSA",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Al Taawoun vs Al Hilal "
-        },
-        {
-            "compet": "Saudi Pro League - Week 7",
             "match": " Al Qadisiyah vs Al Ettifaq ",
             "flags": {
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
-            "time": "18:00",
-            "date": "2026-09-10"
+            "time": "15:25",
+            "date": "2026-09-11"
         },
         {
             "channel": "SuperSport ESPN HD",
@@ -763,8 +785,8 @@
                 "team1": "saudiarabia",
                 "team2": "saudiarabia"
             },
-            "time": "18:00",
-            "date": "2026-09-10"
+            "time": "15:45",
+            "date": "2026-09-11"
         },
         {
             "channel": "Thmanyah KSA",
@@ -782,7 +804,39 @@
                 "team2": "saudiarabia"
             },
             "time": "18:00",
-            "date": "2026-09-10"
+            "date": "2026-09-11"
+        },
+        {
+            "channel": "Sport 24 Extra HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "4095 R 30000 - 3/4",
+            "encry": "PowerVu",
+            "link": "",
+            "related_to": " Al Ahli vs Al Hazem "
+        },
+        {
+            "channel": "Sport 24 Extra HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Al Ahli vs Al Hazem "
+        },
+        {
+            "channel": "Sport 24 Extra HD",
+            "sat": "Intelsat 35e 34.5°w",
+            "freq": "4132 R 30000 - 3/4",
+            "encry": "PowerVu [c]",
+            "link": "",
+            "related_to": " Al Ahli vs Al Hazem "
+        },
+        {
+            "channel": "Sport 24 Extra HD",
+            "sat": "Intelsat 23 53.0°w",
+            "freq": "4144 R 15650 - 2/3",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Al Ahli vs Al Hazem "
         },
         {
             "channel": "Thmanyah KSA",
@@ -791,6 +845,24 @@
             "encry": "",
             "link": "",
             "related_to": " Al Ahli vs Al Hazem "
+        },
+        {
+            "compet": "Saudi Pro League - Week 7",
+            "match": " Al Taawoun vs Al Hilal ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "saudiarabia"
+            },
+            "time": "15:50",
+            "date": "2026-09-12"
+        },
+        {
+            "channel": "Thmanyah KSA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Al Taawoun vs Al Hilal "
         },
         {
             "compet": "Saudi Pro League - Week 7",
