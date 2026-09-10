@@ -501,6 +501,42 @@
             "related_to": " Asteras Tripolis vs Aris Thessaloniki "
         },
         {
+            "compet": "Serbian 1st League (Prva liga Srbija) - Week 8",
+            "match": " Teleoptik vs Proleter 023 ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "15:00",
+            "date": "2026-09-10"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Teleoptik vs Proleter 023 "
+        },
+        {
+            "compet": "Danish Cup (DBU Pokalen)",
+            "match": " Sundby vs Midtjylland ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "16:00",
+            "date": "2026-09-10"
+        },
+        {
+            "channel": "ViaPlay Sport News Dansk",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11325 H 25000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Sundby vs Midtjylland "
+        },
+        {
             "compet": "UAE Pro League - Week 5",
             "match": " Al Ain vs Al Wasl ",
             "flags": {
@@ -869,6 +905,14 @@
             "sat": "Thor 7 0.6°w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Fenerbahçe vs Roma "
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Fenerbahçe vs Roma "
         },
@@ -1245,6 +1289,14 @@
             "sat": "Astra 2G 28.2°e",
             "freq": "11597 V 22000 - 5/6",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Fenerbahçe vs Roma "
+        },
+        {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Fenerbahçe vs Roma "
         },
@@ -1691,6 +1743,14 @@
             "related_to": " PSV Eindhoven vs Shakhtar Donetsk "
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " PSV Eindhoven vs Shakhtar Donetsk "
+        },
+        {
             "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
@@ -1979,6 +2039,14 @@
             "related_to": " PSV Eindhoven vs Shakhtar Donetsk "
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " PSV Eindhoven vs Shakhtar Donetsk "
+        },
+        {
             "channel": "TSN Malta 7 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2043,24 +2111,6 @@
             "related_to": " PSV Eindhoven vs Shakhtar Donetsk "
         },
         {
-            "compet": "Kosovo Superliga - Week 5",
-            "match": " Dukagjini vs Malisheva ",
-            "flags": {
-                "team1": "kosova",
-                "team2": "kosova"
-            },
-            "time": "17:00",
-            "date": "2026-09-10"
-        },
-        {
-            "channel": "ART Motion Sport 5 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Dukagjini vs Malisheva "
-        },
-        {
             "compet": "Serbian Super League - Week 3",
             "match": " Radnik Surdulica vs Red Star Belgrade ",
             "flags": {
@@ -2103,6 +2153,14 @@
             "related_to": " Radnik Surdulica vs Red Star Belgrade "
         },
         {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Radnik Surdulica vs Red Star Belgrade "
+        },
+        {
             "channel": "Arena Sport 3 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11895 V 30000 - 3/4",
@@ -2117,6 +2175,24 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Radnik Surdulica vs Red Star Belgrade "
+        },
+        {
+            "compet": "Kosovo Superliga - Week 5",
+            "match": " Dukagjini vs Malisheva ",
+            "flags": {
+                "team1": "kosova",
+                "team2": "kosova"
+            },
+            "time": "17:00",
+            "date": "2026-09-10"
+        },
+        {
+            "channel": "ART Motion Sport 5 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Dukagjini vs Malisheva "
         },
         {
             "compet": "Greek Super League 1 - Week 1",
@@ -2521,6 +2597,14 @@
             "sat": "Thor 5 0.8°w",
             "freq": "11247 V 24500 - 7/8",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester United vs Sabah "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Manchester United vs Sabah "
         },
@@ -2941,6 +3025,14 @@
             "related_to": " Manchester United vs Sabah "
         },
         {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester United vs Sabah "
+        },
+        {
             "channel": "TSN Malta 7 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3011,6 +3103,464 @@
             "encry": "",
             "link": "",
             "related_to": " Manchester United vs Sabah "
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 1",
+            "match": " Slavia Prague vs Lens ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-09-10"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "ART Motion Sport 4 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Blue Sport 2 Live HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Canal+ 360 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11411 H 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Canal+ Live 1 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Canal+ Sport 6 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11449 H 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Cytavision Sports 6 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Fast Sports 2 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Go3 Extra Sport Baltics📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://go3.tv/extra_sports",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "M+ Liga de Campeones 5",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10979 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Magenta Hellas Sport 7 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12149 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12073 H 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "MTV Katsomon+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "MTV MAX Suomi HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10841 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11977 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Pickx+ Sports 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Play Sports 5 Belgium",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "sat": "Koreasat 5 113.0°e",
+            "freq": "11553 V 43200 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12405 V 30000 - 7/8",
+            "encry": "Viaccess",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "RTL+ Hungary📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Sky Sport 255 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Sky Sport 5 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11720 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "SuperSport MáXimo 3A HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Tabii Spor 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Tring Sport 4 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
+        },
+        {
+            "channel": "Ziggo Sport 6",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Slavia Prague vs Lens "
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 1",
@@ -3743,6 +4293,14 @@
             "related_to": " Bayern Munich vs Bodø/Glimt "
         },
         {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bayern Munich vs Bodø/Glimt "
+        },
+        {
             "channel": "TSN Malta 6 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4113,6 +4671,14 @@
             "related_to": " Como 1907 vs RB Leipzig "
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Como 1907 vs RB Leipzig "
+        },
+        {
             "channel": "Nova Sport 6 Czech HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12090 V 29900 - 3/4",
@@ -4353,6 +4919,14 @@
             "related_to": " Como 1907 vs RB Leipzig "
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Como 1907 vs RB Leipzig "
+        },
+        {
             "channel": "TSN Malta 5 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4415,448 +4989,6 @@
             "encry": "",
             "link": "",
             "related_to": " Como 1907 vs RB Leipzig "
-        },
-        {
-            "compet": "UEFA Champions League - League Phase: Round 1",
-            "match": " Slavia Prague vs Lens ",
-            "flags": {
-                "team1": "czechia",
-                "team2": "france"
-            },
-            "time": "19:00",
-            "date": "2026-09-10"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": "0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Arena Sport 7 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "ART Motion Sport 4 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Blue Sport 2 Live HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Canal+ 360 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11411 H 27500 - 5/6",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Canal+ Foot HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "12012 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Canal+ Live 1 France HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Canal+ Sport 6 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11449 H 27500 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Cytavision Sports 6 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "DAZN 4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12399 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Fast Sports 2 Armenia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports2",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Go3 Extra Sport Baltics📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://go3.tv/extra_sports",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "HBO Max📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "M+ Liga de Campeones 5",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "10979 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Magenta Hellas Sport 7 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12149 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Megogo Futbol 5",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12285 V 30000 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12073 H 30000 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "MTV Katsomon+📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "MTV MAX Suomi HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10841 H 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11977 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Pickx+ Sports 5 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Play Sports 5 Belgium",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Premier Sports 4 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Premier Sports 4 Mongolia HD",
-            "sat": "Koreasat 5 113.0°e",
-            "freq": "11553 V 43200 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Prima Sport RO 4 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12405 V 30000 - 7/8",
-            "encry": "Viaccess",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Prima Sport RO 4 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12606 V 30000 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "RTL+ Hungary📺",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Sky Sport 255 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Sky Sport 255 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12418 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Sky Sport 5 Austria HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11720 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "SuperSport LaLiga HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "SuperSport LaLiga HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11554 V 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "SuperSport MáXimo 3A HD",
-            "sat": "Express AMU1 36.1°e",
-            "freq": "12169 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Tabii Spor 3",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "TNT Sports 5 HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "TNT Sports 5 HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11582 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "TSN Malta 8 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11345 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
-        },
-        {
-            "channel": "Ziggo Sport 6",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Slavia Prague vs Lens "
         },
         {
             "compet": "English League One - Week 6",
