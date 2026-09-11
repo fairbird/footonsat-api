@@ -280,12 +280,30 @@
         },
         {
             "compet": "Portuguese Liga 1 - Week 6",
-            "match": " Sporting Braga vs Estoril ",
+            "match": " Moreirense vs Marítimo ",
             "flags": {
                 "team1": "portugal",
                 "team2": "portugal"
             },
             "time": "19:15",
+            "date": "2026-09-14"
+        },
+        {
+            "channel": "TVi Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Moreirense vs Marítimo "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 6",
+            "match": " Sporting Braga vs Estoril ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "19:45",
             "date": "2026-09-14"
         },
         {
@@ -303,24 +321,6 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Sporting Braga vs Estoril "
-        },
-        {
-            "compet": "Portuguese Liga 1 - Week 6",
-            "match": " Moreirense vs Marítimo ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:15",
-            "date": "2026-09-14"
-        },
-        {
-            "channel": "TVi Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Moreirense vs Marítimo "
         }
     ]
 }
