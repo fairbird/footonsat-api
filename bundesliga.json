@@ -2,720 +2,6 @@
     "footonsat": [
         {
             "compet": "German 1. Bundesliga - Week 4",
-            "match": " Bayern Munich vs Union Berlin ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "18:30",
-            "date": "2026-09-18"
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12265 V 28000 - 7/8",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Arena 4 Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11804 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10721 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": "0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Azam Sports 2 HD",
-            "sat": "Eutelsat 7C 7.0°e",
-            "freq": "10981 V 45000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "AzTV HD",
-            "sat": "AzerSpace 1 46.0°e",
-            "freq": "11095 H 30000 - 5/6",
-            "encry": "FTA (MPEG-S2)",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "AzTV HD",
-            "sat": "AzerSpace 1 46.0°e",
-            "freq": "11175 H 27500 - 5/6",
-            "encry": "FTA (BISS)",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "BBC iPlayer📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "BBC iPlayer 4K📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "BBC Sport Website📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "beIN Sports 3 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "beIN Sports Australia 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "beIN Sports France 2 HD",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "12564 V 29950 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Canal+ Sport 1 Afrique HD",
-            "sat": "SES 4 22.0°w",
-            "freq": "11171 V 45000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "DAZN 2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12463 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12214 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12673 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Eleven Sports 1 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Fast Sports 1 Armenia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports1",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Go3 Sport 2 Baltic HD 📺",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11958 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "https://go3.tv/en/live_tv",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "IRIB Varzesh HD",
-            "sat": "Intelsat 39 62.0°e",
-            "freq": "11555 V 30000 - 2/3",
-            "encry": "FTA (BISS)",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "IRIB Varzesh HD",
-            "sat": "Badr 5 26.0°e",
-            "freq": "11881 H 27500 - 5/6",
-            "encry": "HD BISS",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0°e",
-            "freq": "12284 V 27500 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Badr 8 26.0°e",
-            "freq": "12399 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "MBC Action HD",
-            "sat": "Eutelsat 7 West A 7.0°w",
-            "freq": "11559 V 27500 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Nova Sport 3 Czech HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11977 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Nova Sports Prime Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Okko Futbol HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Persiana Sport HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10762 V 27500 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Persiana Sport HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10762 V 30000 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Persiana Sport HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10804 H 27500 - 2/3",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Play Sports 2 Belgium",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Premier Sports 5 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Premier Sports 5 Mongolia HD",
-            "sat": "Koreasat 5 113.0°e",
-            "freq": "11613 V 43200 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12290 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12188 V 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Setanta Sports 2 Baltic",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Setanta Sports 2 Eurasia HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Setanta Sports 2 Eurasia HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10845 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Setanta Sports 2 Eurasia HD",
-            "sat": "Eutelsat 36D 35.9°e",
-            "freq": "11650 V 10000 - 2/3",
-            "encry": "HD TrophyAccess",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Setanta Sports 2 Georgia HD",
-            "sat": "°",
-            "freq": "",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Setanta Sports+ Ukraine HD",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sky Showcase DE HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12382 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sky Sport Arena Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11996 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sky Sport Bundesliga 1 HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sky Sport Bundesliga HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sky Sport Bundesliga UHD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11798 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sky Sport News Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12304 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sky Sport Top Event HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "11914 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sport TV Azerbaijan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sport TV Belarus",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Sport TV2 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "SporTV Brazil HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ST World Football HD",
-            "sat": "Eutelsat 10B 10.0°e",
-            "freq": "3736 R 07307 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ST World Football HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "12418 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ST World Football HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "4171 R 30000 - 3/4",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Telemundo USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Tring Sport 3 HD",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "TSN Malta 5 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11345 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "V Sport 1 Norge HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11305 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "V Sport 1 Norge HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "V Sport Football HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ViaPlay 1 Urheilu HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "Viaplay TV Suomi HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "channel": "YouTube: Bundesliga 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@bundesliga/streams",
-            "related_to": " Bayern Munich vs Union Berlin "
-        },
-        {
-            "compet": "German 1. Bundesliga - Week 4",
             "match": " Mönchengladbach vs Mainz 05 ",
             "flags": {
                 "team1": "germany",
@@ -737,6 +23,30 @@
             "sat": "Eutelsat 5 West A 5.0°w",
             "freq": "11471 V 29950 - 3/4",
             "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Mönchengladbach vs Mainz 05 "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Mönchengladbach vs Mainz 05 "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mönchengladbach vs Mainz 05 "
+        },
+        {
+            "channel": "Nova Sports 5 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Mönchengladbach vs Mainz 05 "
         },
@@ -823,6 +133,14 @@
             "related_to": " Werder Bremen vs Augsburg "
         },
         {
+            "channel": "Nova Sports Extra 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Werder Bremen vs Augsburg "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -905,6 +223,14 @@
             "related_to": " Hamburg vs FC Cologne "
         },
         {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Hamburg vs FC Cologne "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -941,6 +267,14 @@
             "sat": "Thor 5 0.8°w",
             "freq": "11229 H 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs FC Cologne "
+        },
+        {
+            "channel": "Setanta Sports 3 Georgia HD",
+            "sat": "°",
+            "freq": "",
+            "encry": "",
             "link": "",
             "related_to": " Hamburg vs FC Cologne "
         },
@@ -1035,6 +369,14 @@
             "related_to": " Eintracht Frankfurt vs Freiburg "
         },
         {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Eintracht Frankfurt vs Freiburg "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1063,6 +405,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Eintracht Frankfurt vs Freiburg "
+        },
+        {
+            "channel": "Setanta Sports 1 Baltic",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "MPEG-4 NDS",
             "link": "",
             "related_to": " Eintracht Frankfurt vs Freiburg "
         },
@@ -1261,6 +611,22 @@
             "related_to": " Stuttgart vs Borussia Dortmund "
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
             "channel": "Idman TV HD",
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11175 H 30000 - 5/6",
@@ -1321,6 +687,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10758 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Stuttgart vs Borussia Dortmund "
         },
@@ -1397,6 +771,14 @@
             "related_to": " Stuttgart vs Borussia Dortmund "
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
             "channel": "Setanta Sports 2 Eurasia HD",
             "sat": "KazSat 3 58.5°e",
             "freq": "12657 V 45000 - 3/4",
@@ -1417,6 +799,14 @@
             "sat": "Eutelsat 36D 35.9°e",
             "freq": "11650 V 10000 - 2/3",
             "encry": "HD TrophyAccess",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "°",
+            "freq": "",
+            "encry": "",
             "link": "",
             "related_to": " Stuttgart vs Borussia Dortmund "
         },
@@ -1505,6 +895,38 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Stuttgart vs Borussia Dortmund "
+        },
+        {
+            "channel": "V Sport Ultra 4K UHD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11372 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Stuttgart vs Borussia Dortmund "
         },
@@ -1623,6 +1045,14 @@
             "related_to": " Bayer Leverkusen vs RB Leipzig "
         },
         {
+            "channel": "Go3 Sport 2 Baltic HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11958 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "https://go3.tv/en/live_tv",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
             "channel": "Idman TV HD",
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11175 H 30000 - 5/6",
@@ -1695,6 +1125,14 @@
             "related_to": " Bayer Leverkusen vs RB Leipzig "
         },
         {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
             "channel": "Okko Prime Sport HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1751,6 +1189,14 @@
             "related_to": " Bayer Leverkusen vs RB Leipzig "
         },
         {
+            "channel": "Setanta Sports 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
             "channel": "Setanta Sports Premium HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1795,6 +1241,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Bayer Leverkusen vs RB Leipzig "
         },
@@ -1937,6 +1391,14 @@
             "related_to": " Schalke 04 vs Elversberg "
         },
         {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
             "channel": "Okko Futbol HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2042,6 +1504,30 @@
         },
         {
             "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
+            "channel": "V Sport Football HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD Conax",
@@ -2187,6 +1673,14 @@
             "related_to": " Paderborn vs Hoffenheim "
         },
         {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
             "channel": "Okko Futbol HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2292,6 +1786,30 @@
         },
         {
             "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11305 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
+            "channel": "V Sport 1 Norge HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
+            "channel": "V Sport Football HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10809 V 25000 - 3/4",
             "encry": "HD Conax",
