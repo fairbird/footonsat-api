@@ -439,6 +439,14 @@
             "related_to": " Feyenoord vs Utrecht "
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Feyenoord vs Utrecht "
+        },
+        {
             "channel": "ESPN 2 Nederland HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "11856 V 29900 - 3/4",
@@ -563,6 +571,46 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Feyenoord vs Utrecht "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Feyenoord vs Utrecht "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12034 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Feyenoord vs Utrecht "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 30000 - 5/6",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Feyenoord vs Utrecht "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Feyenoord vs Utrecht "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11919 L 30000 - 5/6",
+            "encry": "HD Exset",
             "link": "",
             "related_to": " Feyenoord vs Utrecht "
         },
@@ -1005,6 +1053,14 @@
             "related_to": " Fiorentina vs Napoli "
         },
         {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Fiorentina vs Napoli "
+        },
+        {
             "channel": "Orange Fútbol 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1261,6 +1317,14 @@
             "related_to": " Fiorentina vs Napoli "
         },
         {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Fiorentina vs Napoli "
+        },
+        {
             "compet": "Italian Serie C Girone B - Girone B - 6",
             "match": " Atalanta U-23 vs Ravenna ",
             "flags": {
@@ -1367,6 +1431,14 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "12604 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolves vs West Bromwich Albion "
+        },
+        {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Wolves vs West Bromwich Albion "
         },
@@ -1621,6 +1693,14 @@
             "related_to": " Celtic vs Rangers "
         },
         {
+            "channel": "CBS Sports Golazo N/W📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": " Celtic vs Rangers "
+        },
+        {
             "channel": "Celtic Player📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1829,24 +1909,6 @@
             "related_to": " Celtic vs Rangers "
         },
         {
-            "compet": "Swedish Superettan - Week 25",
-            "match": " GIF Sundsvall vs Ljungskile ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "sweden"
-            },
-            "time": "11:00",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "TV4 Play Sverige📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.tv4play.se/sport",
-            "related_to": " GIF Sundsvall vs Ljungskile "
-        },
-        {
             "compet": "Romanian Superliga - Week 10",
             "match": " Voluntari vs Universitatea Cluj ",
             "flags": {
@@ -1903,6 +1965,24 @@
             "encry": "NagraVision",
             "link": "",
             "related_to": " Voluntari vs Universitatea Cluj "
+        },
+        {
+            "compet": "Swedish Superettan - Week 25",
+            "match": " GIF Sundsvall vs Ljungskile ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "sweden"
+            },
+            "time": "11:00",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "TV4 Play Sverige📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.tv4play.se/sport",
+            "related_to": " GIF Sundsvall vs Ljungskile "
         },
         {
             "compet": "English WSL 2 - Week 3",
@@ -2062,6 +2142,136 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 6",
+            "match": " Arminia Bielefeld vs Heidenheim ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "11:30",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "beIN Sports France 6 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "Setanta Sports 2 Georgia HD",
+            "sat": "°",
+            "freq": "",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "channel": "WOW Deutsch📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.wowtv.de/live-sport",
+            "related_to": " Arminia Bielefeld vs Heidenheim "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 6",
             "match": " Hannover 96 vs Bochum ",
             "flags": {
                 "team1": "germany",
@@ -2189,128 +2399,6 @@
             "encry": "",
             "link": "https://www.wowtv.de/live-sport",
             "related_to": " Hannover 96 vs Bochum "
-        },
-        {
-            "compet": "German 2. Bundesliga - Week 6",
-            "match": " Arminia Bielefeld vs Heidenheim ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "11:30",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "Arena Premium 4 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "beIN Sports France 6 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "beIN Sports France 6 HD max",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "11679 V 29950 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "OneFootball📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://onefootball.com/en/matches",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "Setanta Sports 2 Georgia HD",
-            "sat": "°",
-            "freq": "",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
-        },
-        {
-            "channel": "WOW Deutsch📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.wowtv.de/live-sport",
-            "related_to": " Arminia Bielefeld vs Heidenheim "
         },
         {
             "compet": "German 3. Liga - Week 7",
@@ -2703,6 +2791,14 @@
             "related_to": " Getafe vs Málaga "
         },
         {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Getafe vs Málaga "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2755,6 +2851,30 @@
             "sat": "Amos 3 4.0°w",
             "freq": "11258 H 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Getafe vs Málaga "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Getafe vs Málaga "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "4171 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Getafe vs Málaga "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4172 R 30000 - 3/4",
+            "encry": "Conax",
             "link": "",
             "related_to": " Getafe vs Málaga "
         },
@@ -3195,6 +3315,14 @@
             "related_to": " Twente vs PSV Eindhoven "
         },
         {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Twente vs PSV Eindhoven "
+        },
+        {
             "channel": "S Sport+ Streaming",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3239,6 +3367,46 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10804 H 29950 - 2/3",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Twente vs PSV Eindhoven "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Twente vs PSV Eindhoven "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12034 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Twente vs PSV Eindhoven "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 30000 - 5/6",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Twente vs PSV Eindhoven "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Twente vs PSV Eindhoven "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11919 L 30000 - 5/6",
+            "encry": "HD Exset",
             "link": "",
             "related_to": " Twente vs PSV Eindhoven "
         },
@@ -3971,6 +4139,14 @@
             "related_to": " Frosinone vs Como 1907 "
         },
         {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Frosinone vs Como 1907 "
+        },
+        {
             "compet": "French Ligue 1 - Week 5",
             "match": " Auxerre vs Brest ",
             "flags": {
@@ -4189,88 +4365,214 @@
             "related_to": " Auxerre vs Brest "
         },
         {
-            "compet": "Czech LIGA - Week 9",
-            "match": " Sigma Olomouc vs Sparta Prague ",
+            "compet": "English Premier League - Week 5",
+            "match": " Manchester City vs Sunderland ",
             "flags": {
-                "team1": "czechia",
-                "team2": "czechia"
+                "team1": "england",
+                "team2": "england"
             },
             "time": "13:00",
             "date": "2026-09-20"
         },
         {
-            "channel": "Polsat Sport Extra 1 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 3/4",
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Sigma Olomouc vs Sparta Prague "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "compet": "Italian Serie A - Week 5",
-            "match": " Parma vs Genoa ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "13:00",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "Arena Sport 3 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "Arena Sport 7 Hrvatska HD",
+            "channel": "Arena Premium 3 Srbija HD",
             "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
+            "freq": "10721 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "ART Motion Sport 2 HD 📺",
+            "channel": "Arena Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Arena Sport 2 Slovenija HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "DAZN 2 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 3/4",
+            "channel": "Astro Premier League 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "DAZN Belgium📺",
+            "channel": "beIN Connect MENA 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.dazn.com/en-BE/",
-            "related_to": " Parma vs Genoa "
+            "link": "https://connect.bein.com/",
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "DAZN Deutsch",
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "beIN Sports Türkiye 3 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10887 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Canal+ Extra 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Canal+ Sport 5 Afrique",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 8/9",
+            "encry": "MPEG-4 Seca",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Canal+ Sport 5 Afrique",
+            "sat": "SES 4 22.0°w",
+            "freq": "12610 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Canal+ Sport 6 Czech HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://livetv.skylink.cz",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Cytavision Sports 4 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "DAZN 2 Bar Espana",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "DAZN 2 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "DAZN Canada",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
             "channel": "DAZN España",
@@ -4278,151 +4580,391 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "DAZN France",
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12214 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Fast Sports 2 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Nova Sports Prime Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Play Sports 1 Belgium",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "DAZN Great Britain📺",
+            "channel": "Premier League+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12477 H 45000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "sat": "Koreasat 5 113.0°e",
+            "freq": "11553 V 43200 - 5/6",
+            "encry": "HD Tongfang",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Setanta Sports 1 Eurasia HD",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11650 V 10000 - 2/3",
+            "encry": "HD TrophyAccess",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Setanta Sports 1 Georgia HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.dazn.com/en-GB/signin",
-            "related_to": " Parma vs Genoa "
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "DAZN Ireland📺",
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Sky Go UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Sky Sport 6 Deutsch HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11171 H 22000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Sky Sports Premier League HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12266 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Sport TV 2 Azerbaijan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.dazn.com/en-IE/home",
-            "related_to": " Parma vs Genoa "
+            "link": "https://www.stan.com.au/sport",
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "DAZN Italia",
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "SuperSport Football Plus HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "SuperSport Football Plus HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11808 V 30000 - 2/3",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11808 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "V Sport Premier League 1 HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11309 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11823 V 27500 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "ViaPlay 3 Urheilu HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11278 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "Eleven Sports 3 Polska HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "ESPN 4 Brazil HD",
-            "sat": "SES 6 40.5°w",
-            "freq": "3980 L 21600 - 5/6",
-            "encry": "HD PowerVu",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "ESPN 4 Brazil HD",
-            "sat": "SES 6 40.5°w",
-            "freq": "4095 R 30000 - 5/6",
-            "encry": "HD PowerVu",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "Magenta Hellas Sport 2 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "11843 V 27500 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "Megogo Futbol 4",
+            "channel": "ViaPlay Nederland HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Parma vs Genoa "
+            "related_to": " Manchester City vs Sunderland "
         },
         {
-            "channel": "MTV Urheilu 3 Suomi HD",
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Manchester City vs Sunderland "
+        },
+        {
+            "channel": "VOYO Pro TV Romania📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "Paramount+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "Q Sport Football HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "SuperSport OTT 3",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "Tring Sport 2 HD",
-            "sat": "Hellas Sat 4 39.0°e",
-            "freq": "10890 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "TSN Malta 6 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Parma vs Genoa "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Parma vs Genoa "
+            "link": "https://voyo.protv.ro/premier-league",
+            "related_to": " Manchester City vs Sunderland "
         },
         {
             "compet": "English Premier League - Week 5",
@@ -4515,6 +5057,14 @@
             "related_to": " Leeds United vs Crystal Palace "
         },
         {
+            "channel": "Canal+ Live 3 France HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "12090 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leeds United vs Crystal Palace "
+        },
+        {
             "channel": "Canal+ Sport 5 Czech HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4568,6 +5118,14 @@
             "freq": "11823 H 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
+            "related_to": " Leeds United vs Crystal Palace "
+        },
+        {
+            "channel": "Play Diema XTRA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://gong.bg/streaming",
             "related_to": " Leeds United vs Crystal Palace "
         },
         {
@@ -4869,6 +5427,14 @@
             "related_to": " Bournemouth vs Liverpool "
         },
         {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
             "channel": "Canal+ Sport 1 Czech HD 📺",
             "sat": "Astra 3C 23.5°e",
             "freq": "11973 V 29900 - 3/4",
@@ -4929,6 +5495,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10788 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Bournemouth vs Liverpool "
         },
@@ -5017,6 +5591,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11804 V 29700 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Bournemouth vs Liverpool "
         },
@@ -5365,6 +5947,14 @@
             "related_to": " Bournemouth vs Liverpool "
         },
         {
+            "channel": "USA Network HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
             "channel": "V Sport Premier League HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10809 V 25000 - 3/4",
@@ -5429,6 +6019,14 @@
             "related_to": " Bournemouth vs Liverpool "
         },
         {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Bournemouth vs Liverpool "
+        },
+        {
             "channel": "VOYO Pro TV Romania📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -5437,8 +6035,242 @@
             "related_to": " Bournemouth vs Liverpool "
         },
         {
-            "compet": "English Premier League - Week 5",
-            "match": " Manchester City vs Sunderland ",
+            "compet": "Italian Serie A - Week 5",
+            "match": " Parma vs Genoa ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "13:00",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "Arena Sport 3 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "ART Motion Sport 2 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN 2 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN France",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN Great Britain📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-GB/signin",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Magenta Hellas Sport 2 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11843 V 27500 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Megogo Futbol 4",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "MTV Urheilu 3 Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Paramount+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Prima Sport RO PPV 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Q Sport Football HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "SuperSport OTT 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "TSN Malta 6 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "channel": "VG+ Sport Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Parma vs Genoa "
+        },
+        {
+            "compet": "English Womens Super League - Week 3",
+            "match": " Crystal Palace vs Tottenham Hotspur ",
             "flags": {
                 "team1": "england",
                 "team2": "england"
@@ -5447,420 +6279,28 @@
             "date": "2026-09-20"
         },
         {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12422 H 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Arena Premium 3 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10721 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Arena Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Arena Sport 2 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Astro Premier League 2 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10772 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
+            "channel": "CBS Sports Golazo N/W📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": " Manchester City vs Sunderland "
+            "encry": "Free To Air",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": " Crystal Palace vs Tottenham Hotspur "
         },
         {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "beIN Sports Türkiye 3 HD",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "beIN Sports Türkiye 3 HD",
-            "sat": "Eutelsat 7C 7.0°e",
-            "freq": "10887 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Canal+ Extra 1 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11278 V 27500 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Canal+ Sport 5 Afrique",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11512 H 30000 - 8/9",
-            "encry": "MPEG-4 Seca",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Canal+ Sport 5 Afrique",
-            "sat": "SES 4 22.0°w",
-            "freq": "12610 V 30000 - 3/4",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Canal+ Sport 6 Czech HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://livetv.skylink.cz",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Cytavision Sports 4 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "DAZN 2 Bar Espana",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "DAZN 2 Espana HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "10729 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "DAZN 2 Espana HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11156 V 22000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "DAZN Canada",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "DAZN Portugal",
+            "channel": "Sky Sport 9 NZ HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Manchester City vs Sunderland "
+            "related_to": " Crystal Palace vs Tottenham Hotspur "
         },
         {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12463 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12214 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12673 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Fast Sports 2 Armenia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports2",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6°w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Meraj TV",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "11221 V 27500 - 2/3",
-            "encry": "FTA (MPEG-4)",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Monomax Streaming📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Nova Sports Prime Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Play Sports 1 Belgium",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Premier League+",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Premier Sports 1 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12477 H 45000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Premier Sports 1 Mongolia HD",
-            "sat": "Koreasat 5 113.0°e",
-            "freq": "11553 V 43200 - 5/6",
-            "encry": "HD Tongfang",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "10845 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Setanta Sports 1 Eurasia HD",
-            "sat": "Eutelsat 36D 35.9°e",
-            "freq": "11650 V 10000 - 2/3",
-            "encry": "HD TrophyAccess",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Setanta Sports 1 Georgia HD",
+            "channel": "Sky Sports+",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Setanta Sports+ Ukraine HD",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Sky Go UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Sky Sport 6 Deutsch HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11171 H 22000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Sky Sports Premier League HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12266 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "Sport TV 2 Azerbaijan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
+            "related_to": " Crystal Palace vs Tottenham Hotspur "
         },
         {
             "channel": "Stan Sport Australia📺",
@@ -5868,151 +6308,59 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.stan.com.au/sport",
-            "related_to": " Manchester City vs Sunderland "
+            "related_to": " Crystal Palace vs Tottenham Hotspur "
         },
         {
-            "channel": "SuperSport 3 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11808 V 30000 - 2/3",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "sat": "Intelsat 36 68.5°e",
-            "freq": "11808 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "TSN Malta 8 HD",
+            "channel": "VG+ Sport Norge📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
+            "link": "https://www.vgtv.no/live",
+            "related_to": " Crystal Palace vs Tottenham Hotspur "
         },
         {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11345 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "TV3 MAX Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "V Sport Football HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10809 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "V Sport Premier League 1 HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11309 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "ViaPlay 3 Urheilu HD",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "11823 V 27500 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "ViaPlay 3 Urheilu HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11278 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
+            "channel": "YouTube: Sky Sports WSL 📺",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
+            "freq": "0000 -",
             "encry": "",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
+            "link": "https://www.youtube.com/@SkySportsWSL/streams",
+            "related_to": " Crystal Palace vs Tottenham Hotspur "
         },
         {
-            "channel": "ViaPlay Norge HD",
+            "compet": "Italian Serie BKT - Week 5",
+            "match": " Hellas Verona vs LR Vicenza ",
+            "flags": {
+                "team1": "italy",
+                "team2": "italy"
+            },
+            "time": "13:00",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "DAZN Italia",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Manchester City vs Sunderland "
+            "related_to": " Hellas Verona vs LR Vicenza "
         },
         {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
+            "compet": "Czech LIGA - Week 9",
+            "match": " Sigma Olomouc vs Sparta Prague ",
+            "flags": {
+                "team1": "czechia",
+                "team2": "czechia"
+            },
+            "time": "13:00",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "Polsat Sport Extra 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Manchester City vs Sunderland "
-        },
-        {
-            "channel": "VOYO Pro TV Romania📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://voyo.protv.ro/premier-league",
-            "related_to": " Manchester City vs Sunderland "
+            "related_to": " Sigma Olomouc vs Sparta Prague "
         },
         {
             "compet": "English Womens Super League - Week 3",
@@ -6063,56 +6411,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@SkySportsWSL/streams",
             "related_to": " West Ham United vs Everton "
-        },
-        {
-            "compet": "English Womens Super League - Week 3",
-            "match": " Crystal Palace vs Tottenham Hotspur ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "13:00",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "Sky Sport 9 NZ HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Crystal Palace vs Tottenham Hotspur "
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Crystal Palace vs Tottenham Hotspur "
-        },
-        {
-            "channel": "Stan Sport Australia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.stan.com.au/sport",
-            "related_to": " Crystal Palace vs Tottenham Hotspur "
-        },
-        {
-            "channel": "VG+ Sport Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.vgtv.no/live",
-            "related_to": " Crystal Palace vs Tottenham Hotspur "
-        },
-        {
-            "channel": "YouTube: Sky Sports WSL 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@SkySportsWSL/streams",
-            "related_to": " Crystal Palace vs Tottenham Hotspur "
         },
         {
             "compet": "English Womens Super League - Week 3",
@@ -6405,24 +6703,6 @@
             "related_to": " Arezzo vs SüdTirol "
         },
         {
-            "compet": "Italian Serie BKT - Week 5",
-            "match": " Hellas Verona vs LR Vicenza ",
-            "flags": {
-                "team1": "italy",
-                "team2": "italy"
-            },
-            "time": "13:00",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "DAZN Italia",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Hellas Verona vs LR Vicenza "
-        },
-        {
             "compet": "English WSL 2 - Week 3",
             "match": " Newcastle United vs Sheffield United ",
             "flags": {
@@ -6563,6 +6843,14 @@
             "sat": "Astra 1N 19.2°e",
             "freq": "12070 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Bayer Leverkusen vs RB Leipzig "
         },
@@ -6823,6 +7111,30 @@
             "related_to": " Bayer Leverkusen vs RB Leipzig "
         },
         {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4171 R 30000 - 3/4",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
             "channel": "Tring Sport 3 HD",
             "sat": "Hellas Sat 4 39.0°e",
             "freq": "10890 H 30000 - 5/6",
@@ -6917,6 +7229,104 @@
             "encry": "",
             "link": "",
             "related_to": " Bayer Leverkusen vs RB Leipzig "
+        },
+        {
+            "compet": "Brazilian Série A - Week 28",
+            "match": " Grêmio vs Palmeiras ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "14:00",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "Arena Sport 7 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11817 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "Premier Sports 2 Ireland HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "Premier Sports 2 UK HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11671 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Grêmio vs Palmeiras "
+        },
+        {
+            "channel": "Premier Sports GB Player HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.premiersports.com/fr/live-now-on-demand",
+            "related_to": " Grêmio vs Palmeiras "
         },
         {
             "compet": "Türkiye Süper Lig - Week 6",
@@ -7441,104 +7851,6 @@
             "related_to": " Fenerbahçe vs Eyüpspor "
         },
         {
-            "compet": "Brazilian Série A - Week 28",
-            "match": " Grêmio vs Palmeiras ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "14:00",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "Arena Sport 7 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11817 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Horizons 2 84.8°e",
-            "freq": "11840 H 28800 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "ABS 2A 75.0°e",
-            "freq": "11920 V 45000 - 2/3",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Express AT1 56.0°e",
-            "freq": "12476 R 27500 - 5/6",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Express AMU1 36.1°e",
-            "freq": "12380 L 27500 - 3/4",
-            "encry": "HD Exset",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11823 R 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11804 L 27500 - 3/4",
-            "encry": "MPEG-4 Exset",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "MATCH! Futbol 3 HD",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11785 R 27500 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "Premier Sports 2 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11671 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
-            "channel": "Premier Sports GB Player HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Grêmio vs Palmeiras "
-        },
-        {
             "compet": "Greek Super League 1 - Week 5",
             "match": " Levadiakos vs Olympiacos ",
             "flags": {
@@ -7616,6 +7928,48 @@
         },
         {
             "compet": "Türkiye 1. Lig - Week 8",
+            "match": " Pendikspor vs Bodrumspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "14:00",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Pendikspor vs Bodrumspor "
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Pendikspor vs Bodrumspor "
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11513 H 29900 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Pendikspor vs Bodrumspor "
+        },
+        {
+            "channel": "Tabii Spor 6",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Pendikspor vs Bodrumspor "
+        },
+        {
+            "compet": "Türkiye 1. Lig - Week 8",
             "match": " Manisa FK vs Istanbulspor ",
             "flags": {
                 "team1": "turkey",
@@ -7671,48 +8025,6 @@
             "encry": "Free To Air HD",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Manisa FK vs Istanbulspor "
-        },
-        {
-            "compet": "Türkiye 1. Lig - Week 8",
-            "match": " Pendikspor vs Bodrumspor ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "14:00",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Pendikspor vs Bodrumspor "
-        },
-        {
-            "channel": "beIN Sports Türkiye Max 1 HD",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Pendikspor vs Bodrumspor "
-        },
-        {
-            "channel": "beIN Sports Türkiye Max 1 HD",
-            "sat": "Eutelsat 7C 7.0°e",
-            "freq": "11513 H 29900 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Pendikspor vs Bodrumspor "
-        },
-        {
-            "channel": "Tabii Spor 6",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Pendikspor vs Bodrumspor "
         },
         {
             "compet": "Türkiye Süper Lig - Week 6",
@@ -7955,6 +8267,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Atlético Madrid vs Real Madrid "
         },
@@ -8343,6 +8663,30 @@
             "related_to": " Atlético Madrid vs Real Madrid "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2°e",
             "freq": "12188 H 27500 - 2/3",
@@ -8487,6 +8831,54 @@
             "related_to": " Atlético Madrid vs Real Madrid "
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12073 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "4063 L 33900 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3761 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3725 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -8555,6 +8947,30 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Atlético Madrid vs Real Madrid "
+        },
+        {
+            "channel": "Zor TV Uzbekistan",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10887 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Atlético Madrid vs Real Madrid "
         },
@@ -9591,6 +10007,14 @@
             "related_to": " Schalke 04 vs Elversberg "
         },
         {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
             "channel": "Nova Sport 3 Czech HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11934 V 27500 - 3/4",
@@ -9715,6 +10139,30 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Schalke 04 vs Elversberg "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4171 R 30000 - 3/4",
+            "encry": "Conax",
             "link": "",
             "related_to": " Schalke 04 vs Elversberg "
         },
@@ -10001,6 +10449,22 @@
             "related_to": " Fulham vs Manchester United "
         },
         {
+            "channel": "Canal+ France HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Fulham vs Manchester United "
+        },
+        {
+            "channel": "Canal+ France UHD HDR",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Fulham vs Manchester United "
+        },
+        {
             "channel": "Canal+ Live 1 France HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
@@ -10077,6 +10541,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10788 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " Fulham vs Manchester United "
+        },
+        {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Fulham vs Manchester United "
         },
@@ -10169,6 +10641,22 @@
             "related_to": " Fulham vs Manchester United "
         },
         {
+            "channel": "NBC Sports 4K",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Fulham vs Manchester United "
+        },
+        {
+            "channel": "NBC USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Fulham vs Manchester United "
+        },
+        {
             "channel": "Nova Sports Premier League HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11804 V 29700 - 3/4",
@@ -10182,6 +10670,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
+            "related_to": " Fulham vs Manchester United "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
             "related_to": " Fulham vs Manchester United "
         },
         {
@@ -10665,6 +11161,14 @@
             "related_to": " Fulham vs Manchester United "
         },
         {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Fulham vs Manchester United "
+        },
+        {
             "channel": "VOYO Pro TV Romania📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -10842,6 +11346,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
+            "related_to": " Juventus vs Atalanta "
+        },
+        {
+            "channel": "CBS Sports Golazo N/W📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
             "related_to": " Juventus vs Atalanta "
         },
         {
@@ -11245,6 +11757,14 @@
             "related_to": " Juventus vs Atalanta "
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Juventus vs Atalanta "
+        },
+        {
             "channel": "Polsat Sport Premium 2 HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11117 V 27500 - 3/4",
@@ -11541,6 +12061,14 @@
             "related_to": " Juventus vs Atalanta "
         },
         {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Juventus vs Atalanta "
+        },
+        {
             "compet": "Czech LIGA - Week 9",
             "match": " Slavia Prague vs Viktoria Plzen ",
             "flags": {
@@ -11812,6 +12340,14 @@
             "channel": "Canal+ Sport 6 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11449 H 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "DAZN 3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Deportivo A Coruña vs Real Betis "
@@ -12089,6 +12625,30 @@
             "related_to": " Deportivo A Coruña vs Real Betis "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
             "channel": "Premier Sports 1 Ireland HD",
             "sat": "Astra 2F 28.2°e",
             "freq": "12188 H 27500 - 2/3",
@@ -12161,6 +12721,54 @@
             "related_to": " Deportivo A Coruña vs Real Betis "
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12073 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "4063 L 33900 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3761 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3725 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -12213,6 +12821,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Deportivo A Coruña vs Real Betis "
+        },
+        {
+            "channel": "Ziggo Sport 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Deportivo A Coruña vs Real Betis "
         },
@@ -12286,6 +12902,14 @@
             "channel": "Canal+ Sport 7 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "0000 -",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Villarreal vs Levante "
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Villarreal vs Levante "
@@ -12507,6 +13131,14 @@
             "related_to": " Villarreal vs Levante "
         },
         {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Villarreal vs Levante "
+        },
+        {
             "channel": "S Sport 1 Türkiye HD",
             "sat": "Turksat 4A 42.0°e",
             "freq": "12188 V 27500 - 5/6",
@@ -12587,6 +13219,30 @@
             "related_to": " Villarreal vs Levante "
         },
         {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Villarreal vs Levante "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "4171 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Villarreal vs Levante "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4172 R 30000 - 3/4",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Villarreal vs Levante "
+        },
+        {
             "channel": "SuperSport 2 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -12623,6 +13279,14 @@
             "sat": "Eutelsat 7C 7.0°e",
             "freq": "11043 V 45000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Villarreal vs Levante "
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Villarreal vs Levante "
         },
@@ -12664,6 +13328,14 @@
             "channel": "Megogo Futbol 7",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Almería vs Celta Vigo II "
+        },
+        {
+            "channel": "Prima Sport RO PPV 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Almería vs Celta Vigo II "
@@ -13513,24 +14185,6 @@
             "related_to": " Omonia Aradippou vs Olympiakos Nicosia "
         },
         {
-            "compet": "Portuguese Liga 1 - Week 7",
-            "match": " Estoril vs Casa Pia ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "17:00",
-            "date": "2026-09-20"
-        },
-        {
-            "channel": "Sport TV3 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Estoril vs Casa Pia "
-        },
-        {
             "compet": "Türkiye Süper Lig - Week 6",
             "match": " Göztepe vs Caykur Rizespor ",
             "flags": {
@@ -13563,6 +14217,24 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Göztepe vs Caykur Rizespor "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 7",
+            "match": " Estoril vs Casa Pia ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "17:00",
+            "date": "2026-09-20"
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Estoril vs Casa Pia "
         },
         {
             "compet": "Norwegian Eliteserien - Week 22",
@@ -13685,6 +14357,14 @@
             "related_to": " Paderborn vs Hoffenheim "
         },
         {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
             "channel": "DAZN Deutsch",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -13737,6 +14417,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
+            "channel": "NBC Universo USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Paderborn vs Hoffenheim "
         },
@@ -13857,6 +14545,30 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3736 R 07307 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paderborn vs Hoffenheim "
+        },
+        {
+            "channel": "ST World Football HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4171 R 30000 - 3/4",
+            "encry": "Conax",
             "link": "",
             "related_to": " Paderborn vs Hoffenheim "
         },
@@ -14393,6 +15105,14 @@
             "related_to": " AC Milan vs Lecce "
         },
         {
+            "channel": "CBS Sports Golazo N/W📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": " AC Milan vs Lecce "
+        },
+        {
             "channel": "Cytavision Sports 4 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -14689,6 +15409,14 @@
             "related_to": " AC Milan vs Lecce "
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " AC Milan vs Lecce "
+        },
+        {
             "channel": "Prima Sport RO 2 HD",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12565 V 30000 - 7/8",
@@ -14953,6 +15681,14 @@
             "related_to": " AC Milan vs Lecce "
         },
         {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " AC Milan vs Lecce "
+        },
+        {
             "compet": "French Ligue 1 - Week 5",
             "match": " Marseille vs Paris St Germain ",
             "flags": {
@@ -15163,6 +15899,22 @@
             "related_to": " Marseille vs Paris St Germain "
         },
         {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Marseille vs Paris St Germain "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10926 H 27500 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Marseille vs Paris St Germain "
+        },
+        {
             "channel": "GEM Sport 1 HD",
             "sat": "Al Yah 1 52.5°e",
             "freq": "12034 V 27500 - 3/4",
@@ -15231,6 +15983,30 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Marseille vs Paris St Germain "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Marseille vs Paris St Germain "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Marseille vs Paris St Germain "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Marseille vs Paris St Germain "
         },
@@ -15419,6 +16195,14 @@
             "related_to": " Marseille vs Paris St Germain "
         },
         {
+            "channel": "ViaPlay TV+ Nederland",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Marseille vs Paris St Germain "
+        },
+        {
             "channel": "VOYO Pro TV Romania📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -15529,6 +16313,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Valencia vs Real Sociedad "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Valencia vs Real Sociedad "
         },
@@ -15981,6 +16773,30 @@
             "related_to": " Valencia vs Real Sociedad "
         },
         {
+            "channel": "ST Sports Life",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12418 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Valencia vs Real Sociedad "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "4171 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Valencia vs Real Sociedad "
+        },
+        {
+            "channel": "ST Sports Life",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "4172 R 30000 - 3/4",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Valencia vs Real Sociedad "
+        },
+        {
             "channel": "SuperSport 3 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -16033,6 +16849,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Valencia vs Real Sociedad "
+        },
+        {
+            "channel": "Ziggo Sport 2",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Valencia vs Real Sociedad "
         },
@@ -16099,6 +16923,14 @@
             "sat": "Intelsat 10-02 1.0°w",
             "freq": "12527 H 28800 - 3/5",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Leganés vs Granada "
+        },
+        {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Leganés vs Granada "
         },
@@ -16225,6 +17057,22 @@
             },
             "time": "19:30",
             "date": "2026-09-20"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " FC Porto vs Benfica "
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " FC Porto vs Benfica "
         },
         {
             "channel": "beIN Sports Türkiye 4 HD",
@@ -16496,6 +17344,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.vgtv.no/live",
+            "related_to": " FC Porto vs Benfica "
+        },
+        {
+            "channel": "Ziggo Sport 4",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11727 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
             "related_to": " FC Porto vs Benfica "
         },
         {
