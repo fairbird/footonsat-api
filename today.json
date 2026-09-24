@@ -143,6 +143,96 @@
             "related_to": " Namibia vs Congo BR "
         },
         {
+            "compet": "Friendly International",
+            "match": " Uzbekistan vs Iran ",
+            "flags": {
+                "team1": "uzbekistan",
+                "team2": "iran"
+            },
+            "time": "14:00",
+            "date": "2026-09-24"
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11610 H 20200 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "Futbol TV Uzbekistan",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10926 H 27500 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11900 V 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11881 H 27500 - 5/6",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12303 H 32000 - 3/4",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12265 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Uzbekistan vs Iran "
+        },
+        {
             "compet": "Arabian Gulf Cup - Round 1",
             "match": " U.A.E. vs Yemen ",
             "flags": {
@@ -151,6 +241,22 @@
             },
             "time": "15:00",
             "date": "2026-09-24"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " U.A.E. vs Yemen "
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11411 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " U.A.E. vs Yemen "
         },
         {
             "channel": "Al Kass 1 HD 📺",
@@ -177,35 +283,11 @@
             "related_to": " U.A.E. vs Yemen "
         },
         {
-            "channel": "Al Kass 2 HD 📺",
+            "channel": "Bahrain Sports 1 HD",
             "sat": "Badr 4 26.0°e",
-            "freq": "12245 V 27500 - 5/6",
+            "freq": "12226 H 27500 - 3/4",
             "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": " U.A.E. vs Yemen "
-        },
-        {
-            "channel": "Al Kass 2 HD 📺",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10770 V 27500 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": " U.A.E. vs Yemen "
-        },
-        {
-            "channel": "Al Kass 2 HD 📺",
-            "sat": "Nilesat 201 7.0°w",
-            "freq": "11919 H 27500 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": " U.A.E. vs Yemen "
-        },
-        {
-            "channel": "Al Kass 2 HD 📺",
-            "sat": "Galaxy 19 97.0°w",
-            "freq": "12184 H 22500 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "link": "",
             "related_to": " U.A.E. vs Yemen "
         },
         {
@@ -217,7 +299,7 @@
             "related_to": " U.A.E. vs Yemen "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Al Yah 1 52.5°e",
             "freq": "11747 H 27500 - 5/6",
             "encry": "Free To Air HD",
@@ -225,23 +307,15 @@
             "related_to": " U.A.E. vs Yemen "
         },
         {
-            "channel": "KSA Sports 1 HD",
-            "sat": "Arabsat 5A 30.5°e",
-            "freq": "10924 H 17000 - 3/4",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " U.A.E. vs Yemen "
-        },
-        {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Badr 4 26.0°e",
-            "freq": "12149 H 27500 - 5/6",
+            "freq": "12149 V 27500 - 5/6",
             "encry": "Free To Air HD",
             "link": "",
             "related_to": " U.A.E. vs Yemen "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Badr 7 26.0°e",
             "freq": "11230 H 27500 - 3/4",
             "encry": "Free To Air",
@@ -249,7 +323,15 @@
             "related_to": " U.A.E. vs Yemen "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
+            "sat": "Arabsat 5C 20.0°e",
+            "freq": "3884 R 27500 - 5/6",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " U.A.E. vs Yemen "
+        },
+        {
+            "channel": "KSA Sports 2 HD",
             "sat": "Nilesat 201 7.0°w",
             "freq": "12284 V 27500 - 5/6",
             "encry": "Free To Air HD",
@@ -257,7 +339,7 @@
             "related_to": " U.A.E. vs Yemen "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Nilesat 201 7.0°w",
             "freq": "12149 H 27500 - 3/4",
             "encry": "Free To Air",
@@ -343,6 +425,106 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " U.A.E. vs Yemen "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group F, Round 1",
+            "match": " Mauritania vs Central African Republic ",
+            "flags": {
+                "team1": "mauritania",
+                "team2": "car"
+            },
+            "time": "16:00",
+            "date": "2026-09-24"
+        },
+        {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mauritania vs Central African Republic "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mauritania vs Central African Republic "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mauritania vs Central African Republic "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group H, Round 1",
+            "match": " Libya vs Botswana ",
+            "flags": {
+                "team1": "libya",
+                "team2": "botswana"
+            },
+            "time": "16:00",
+            "date": "2026-09-24"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Libya vs Botswana "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Libya vs Botswana "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Libya vs Botswana "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Libya vs Botswana "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Libya vs Botswana "
+        },
+        {
+            "channel": "Botswana TV",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "12657 V 04883 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Libya vs Botswana "
+        },
+        {
+            "channel": "Botswana TV",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "12640 V 05000 - 5/6",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Libya vs Botswana "
         },
         {
             "compet": "UEFA Nations League - League D Group 1 Round 1",
@@ -467,6 +649,14 @@
             "related_to": " Andorra vs Malta "
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Andorra vs Malta "
+        },
+        {
             "channel": "Megogo Futbol 3",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -547,14 +737,6 @@
             "related_to": " Andorra vs Malta "
         },
         {
-            "channel": "Okko Sport HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Andorra vs Malta "
-        },
-        {
             "channel": "Premier Sports 2 Mongolia HD",
             "sat": "Telstar 18 138.0°e",
             "freq": "12598 H 45000 - 5/6",
@@ -597,7 +779,7 @@
         {
             "channel": "Sky Sport Calcio HD",
             "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 3/4",
+            "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Andorra vs Malta "
@@ -763,106 +945,6 @@
             "related_to": " Andorra vs Malta "
         },
         {
-            "compet": "CAF African Cup of Nations - Group F, Round 1",
-            "match": " Mauritania vs Central African Republic ",
-            "flags": {
-                "team1": "mauritania",
-                "team2": "car"
-            },
-            "time": "16:00",
-            "date": "2026-09-24"
-        },
-        {
-            "channel": "beIN Sports 2 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mauritania vs Central African Republic "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mauritania vs Central African Republic "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mauritania vs Central African Republic "
-        },
-        {
-            "compet": "CAF African Cup of Nations - Group H, Round 1",
-            "match": " Libya vs Botswana ",
-            "flags": {
-                "team1": "libya",
-                "team2": "botswana"
-            },
-            "time": "16:00",
-            "date": "2026-09-24"
-        },
-        {
-            "channel": "beIN Sports 3 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Libya vs Botswana "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Libya vs Botswana "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Libya vs Botswana "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Libya vs Botswana "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "12604 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Libya vs Botswana "
-        },
-        {
-            "channel": "Botswana TV",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "12657 V 04883 - 3/4",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Libya vs Botswana "
-        },
-        {
-            "channel": "Botswana TV",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "12640 V 05000 - 5/6",
-            "encry": "FTA (MPEG-4)",
-            "link": "",
-            "related_to": " Libya vs Botswana "
-        },
-        {
             "compet": "CAF African Cup of Nations - Group E, Round 1",
             "match": " Congo DR vs Equatorial Guinea ",
             "flags": {
@@ -987,6 +1069,22 @@
             "date": "2026-09-24"
         },
         {
+            "channel": "Abu Dhabi Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": " Qatar vs Bahrain "
+        },
+        {
+            "channel": "Abu Dhabi Sports 2 HD 📺",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11411 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": " Qatar vs Bahrain "
+        },
+        {
             "channel": "Al Kass 1 HD 📺",
             "sat": "Badr 4 26.0°e",
             "freq": "12245 H 27500 - 5/6",
@@ -1040,6 +1138,14 @@
             "freq": "12184 H 22500 - 2/3",
             "encry": "Free To Air HD",
             "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "related_to": " Qatar vs Bahrain "
+        },
+        {
+            "channel": "Bahrain Sports 1 HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12226 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
             "related_to": " Qatar vs Bahrain "
         },
         {
@@ -1203,568 +1309,6 @@
             "encry": "",
             "link": "",
             "related_to": " Belgium U-21 vs Belarus U-21 "
-        },
-        {
-            "compet": "UEFA Nations League - League A Group 4 Round 1",
-            "match": " Portugal vs Wales ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "wales"
-            },
-            "time": "18:45",
-            "date": "2026-09-24"
-        },
-        {
-            "channel": "A Haber HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11883 V 07500 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "A Haber HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12207 H 27500 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Arena Sport 4 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "ART Motion Sport 2 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC iPlayer📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC iPlayer 4K📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC One Wales HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "10788 V 22000 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC One Wales HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11023 H 23000 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC Sport",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC Sport Website📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC Two HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "10847 V 23000 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC Two HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "10818 V 22000 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "BBC Two HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "10773 H 22000 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "beIN Connect Australia 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://connect-au.beinsports.com/en",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "beIN Sports Australia 1 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Cytavision Sports 6 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Cytavision Sports PPV 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12070 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12156 H 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12137 V 30000 - 5/6",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Diema Sport 2 HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12673 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Fast Sports 1 Armenia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports1",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Fast Sports TV Armenia 📺",
-            "sat": "Eutelsat 70B 70.5°e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://fasttv.am/tv-channels/fastsports",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "L´Équipe Live Foot📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://lequipe.fr/",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Megogo Futbol 2",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Meraj TV",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "11221 V 27500 - 2/3",
-            "encry": "FTA (MPEG-4)",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "New World Sport 2 Mauritius",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "12562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Nova Sports Premier League HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11804 V 29700 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Polsat Sport 2 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Polsat Sport 2 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12265 V 27500 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Premier Sports 1 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12477 H 45000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Premier Sports 1 Mongolia HD",
-            "sat": "Koreasat 5 113.0°e",
-            "freq": "11553 V 43200 - 5/6",
-            "encry": "HD Tongfang",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12290 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "RTP 1 Portugal HD 📺",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "https://www.rtp.pt/play/direto/rtp1",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "RTP 1 Portugal HD 📺",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12130 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "https://www.rtp.pt/play/direto/rtp1",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "S4C Clic📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.s4c.cymru/clic/Categories/5",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "S4C Digital HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11426 V 29500 - 8/9",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "S4C Sgorio Cymru📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://sgorio.cymru/live-games/?lang=en",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Sony Sports TEN 2 India HD",
-            "sat": "G-Sat 10 83.0°e",
-            "freq": "11090 V 32720 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Sony Sports TEN 2 India HD",
-            "sat": "Insat 4A 83.0°e",
-            "freq": "11130 H 32720 - 2/3",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Sony Sports TEN 5 India HD",
-            "sat": "G-Sat 10 83.0°e",
-            "freq": "11840 V 32720 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Sony Sports TEN 5 India HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "3930 H 25000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SportKlub 5 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SporTV Brazil HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Spíler 1 TV Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11766 V 28000 - 7/8",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Spíler 1 TV Hungary HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12130 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Spíler 1 TV Hungary HD",
-            "sat": "Amos 3 4.0°w",
-            "freq": "11389 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Spíler 1 TV Hungary HD",
-            "sat": "Amos 3 4.0°w",
-            "freq": "10722 V 30000 - 2/3",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SuperSport Football Plus HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11514 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SuperSport MáXimo 1 HD",
-            "sat": "Intelsat 36 68.5°e",
-            "freq": "11808 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "SuperSport MáXimo 360",
-            "sat": "Express AMU1 36.1°e",
-            "freq": "12130 H 27500 - 2/3",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Portugal vs Wales "
-        },
-        {
-            "channel": "Ziggo Sport 1 HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Portugal vs Wales "
         },
         {
             "compet": "UEFA Nations League - League A Group 2 Round 1",
@@ -1993,6 +1537,30 @@
             "related_to": " Netherlands vs Germany "
         },
         {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 2/3",
+            "encry": "FTA (BISS)",
+            "link": "",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
+            "channel": "IRIB Varzesh HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11881 H 27500 - 5/6",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
             "channel": "L´Équipe Live Foot📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2053,6 +1621,30 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Netherlands vs Germany "
         },
@@ -2449,6 +2041,22 @@
             "related_to": " Netherlands vs Germany "
         },
         {
+            "channel": "TVE La 1 HD España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "Free To Air HD",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
+            "channel": "TVE La 1 HD España 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "http://www.rtve.es/directo/la-1/",
+            "related_to": " Netherlands vs Germany "
+        },
+        {
             "channel": "V Sport Premium HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10903 V 25000 - 3/4",
@@ -2505,86 +2113,126 @@
             "related_to": " Netherlands vs Germany "
         },
         {
-            "compet": "UEFA Nations League - League A Group 2 Round 1",
-            "match": " Serbia vs Greece ",
+            "compet": "UEFA Nations League - League A Group 4 Round 1",
+            "match": " Portugal vs Wales ",
             "flags": {
-                "team1": "serbia",
-                "team2": "greece"
+                "team1": "portugal",
+                "team2": "wales"
             },
             "time": "18:45",
             "date": "2026-09-24"
         },
         {
-            "channel": "Alpha TV Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
+            "channel": "A Haber HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11883 V 07500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Alpha TV Hellas HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12738 H 15055 - 3/4",
-            "encry": "HD BISS",
+            "channel": "A Haber HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12207 H 27500 - 3/4",
+            "encry": "Free To Air HD",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Alpha TV Hellas HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12207 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Alpha TV Hellas HD",
-            "sat": "Eutelsat 3B 3.1°e",
-            "freq": "12601 H 18845 - 3/5",
-            "encry": "HD BISS",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Arena M2 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Arena Premium 1 BiH HD",
+            "channel": "Arena Premium 3 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11429 V 28330 - 3/5",
-            "encry": "HD VideoGuard",
+            "channel": "ART Motion Sport 2 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC One Wales HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "Free To Air",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC One Wales HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11023 H 23000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC Sport",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC Sport Website📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC Two HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC Two HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10818 V 22000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "BBC Two HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10773 H 22000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Portugal vs Wales "
         },
         {
             "channel": "beIN Connect Australia 📺",
@@ -2592,47 +2240,55 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://connect-au.beinsports.com/en",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "beIN Sports Australia 3 HD",
+            "channel": "beIN Sports Australia 1 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "beIN Sports MENA 6 HD",
+            "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
+            "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "beIN Sports MENA 6 HD",
+            "channel": "beIN Sports MENA 3 HD",
             "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
+            "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Cytavision Sports 3 HD",
+            "channel": "Cytavision Sports 6 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Cytavision Sports PPV 1 HD",
+            "channel": "Cytavision Sports PPV 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Wales "
         },
         {
             "channel": "DAZN Deutsch",
@@ -2640,31 +2296,111 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Digi Sport 4 Romania",
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12156 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12137 V 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Diema Sport 2 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
             "sat": "Intelsat 10-02 1.0°w",
             "freq": "12687 H 27500 - 3/4",
             "encry": "NagraVision",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "ESPN 4 Brazil HD",
-            "sat": "SES 6 40.5°w",
-            "freq": "3980 L 21600 - 5/6",
-            "encry": "HD PowerVu",
-            "link": "",
-            "related_to": " Serbia vs Greece "
+            "channel": "Fast Sports 1 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports1",
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "ESPN 4 Brazil HD",
-            "sat": "SES 6 40.5°w",
-            "freq": "4095 R 30000 - 5/6",
-            "encry": "HD PowerVu",
+            "channel": "Fast Sports TV Armenia 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12265 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11900 V 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11881 H 27500 - 5/6",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12303 H 32000 - 3/4",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Portugal vs Wales "
         },
         {
             "channel": "L´Équipe Live Foot📺",
@@ -2672,199 +2408,287 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://lequipe.fr/",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 7 0.6°w",
+            "channel": "Megogo Futbol 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Nova Sports Premier League HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12477 H 45000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "sat": "Koreasat 5 113.0°e",
+            "freq": "11553 V 43200 - 5/6",
+            "encry": "HD Tongfang",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "RTP 1 Portugal HD 📺",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "RTP 1 Portugal HD 📺",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "S4C Clic📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.s4c.cymru/clic/Categories/5",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "S4C Digital HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11426 V 29500 - 8/9",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "S4C Sgorio Cymru📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://sgorio.cymru/live-games/?lang=en",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11130 H 32720 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Sony Sports TEN 5 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11840 V 32720 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Sony Sports TEN 5 India HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "3930 H 25000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11766 V 28000 - 7/8",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Thor 5 0.8°w",
             "freq": "12130 H 28000 - 7/8",
             "encry": "NagraVision",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "Match 4 Hungary HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Megogo Futbol 4",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12285 V 30000 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Megogo Sport Ukraine HD 📺",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12073 H 30000 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12560 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12482 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12117 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Prima Sport RO 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12606 V 30000 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Prima Sport RO 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12647 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Prime Video UK PPV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.primevideo.com/",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "RTS 2 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11914 H 30000 - 3/4",
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11389 H 30000 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "RTS 2 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11544 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
+            "channel": "Spíler 1 TV Hungary HD",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10722 V 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "RTS 2 Srbija HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12437 H 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "S Sport+ Streaming",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "Sport TV4 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "SportKlub 6 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Serbia vs Greece "
-        },
-        {
-            "channel": "SuperSport 4 Albania HD",
+            "channel": "SuperSport 3 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "SuperSport LaLiga HD",
+            "channel": "SuperSport Football Plus HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "SuperSport Football Plus HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11594 V 27500 - 5/6",
             "encry": "Irdeto",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "SuperSport LaLiga HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11554 V 30000 - 2/3",
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11808 H 30000 - 2/3",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
-            "channel": "SuperSport MáXimo 3A HD",
+            "channel": "SuperSport MáXimo 360",
             "sat": "Express AMU1 36.1°e",
-            "freq": "12169 V 27500 - 3/4",
-            "encry": "HD Irdeto",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
             "channel": "TV2 Play Norge📺",
@@ -2872,7 +2696,15 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Portugal vs Wales "
         },
         {
             "channel": "ViaPlay Norge HD",
@@ -2880,7 +2712,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -2888,7 +2720,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
         },
         {
             "channel": "ViaPlay Ísland HD",
@@ -2896,7 +2728,15 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Serbia vs Greece "
+            "related_to": " Portugal vs Wales "
+        },
+        {
+            "channel": "Ziggo Sport 1 HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Portugal vs Wales "
         },
         {
             "compet": "UEFA Nations League - League A Group 4 Round 1",
@@ -3053,6 +2893,14 @@
             "related_to": " Norway vs Denmark "
         },
         {
+            "channel": "Fox Sports 1 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Norway vs Denmark "
+        },
+        {
             "channel": "L´Équipe Live Foot📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -3089,6 +2937,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Norway vs Denmark "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Norway vs Denmark "
         },
@@ -3601,6 +3457,400 @@
             "related_to": " Liechtenstein vs Lithuania "
         },
         {
+            "compet": "UEFA Nations League - League A Group 2 Round 1",
+            "match": " Serbia vs Greece ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "greece"
+            },
+            "time": "18:45",
+            "date": "2026-09-24"
+        },
+        {
+            "channel": "Alpha TV Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Alpha TV Hellas HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12738 H 15055 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Alpha TV Hellas HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12207 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Alpha TV Hellas HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "12601 H 18845 - 3/5",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Arena M2 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11429 V 28330 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "beIN Connect Australia 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://connect-au.beinsports.com/en",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Cytavision Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Cytavision Sports PPV 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "L´Équipe Live Foot📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://lequipe.fr/",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12130 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Match 4 Hungary HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Megogo Futbol 4",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12073 H 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12482 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12117 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Prima Sport RO 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12647 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Prime Video UK PPV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.primevideo.com/",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11914 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11544 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "RTS 2 Srbija HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12437 H 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "S Sport+ Streaming",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "Sport TV4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "SuperSport LaLiga HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "SuperSport MáXimo 3A HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12169 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Serbia vs Greece "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group G, Round 1",
             "match": " Cameroon vs Comoros ",
             "flags": {
@@ -3905,6 +4155,14 @@
             "sat": "SES 4 22.0°w",
             "freq": "3749 L 45830 - 2/3",
             "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Ivory Coast vs Ghana "
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Ivory Coast vs Ghana "
         },
