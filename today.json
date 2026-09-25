@@ -59,6 +59,24 @@
             "related_to": " Atlético Nacional vs Millonarios "
         },
         {
+            "compet": "Friendly International",
+            "match": " Australia vs Brazil ",
+            "flags": {
+                "team1": "australia",
+                "team2": "brazil"
+            },
+            "time": "10:00",
+            "date": "2026-09-25"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Australia vs Brazil "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group J, Round 1",
             "match": " Mozambique vs Senegal ",
             "flags": {
@@ -94,22 +112,6 @@
         },
         {
             "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mozambique vs Senegal "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mozambique vs Senegal "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
@@ -245,10 +247,26 @@
             "related_to": " Mozambique vs Senegal "
         },
         {
-            "channel": "TVM 2 Mozambique",
+            "channel": "Sport TV7 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mozambique vs Senegal "
+        },
+        {
+            "channel": "TVM 1 Mozambique",
             "sat": "Intelsat 906 64.0°e",
             "freq": "3654 R 05632 - 3/4",
             "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Mozambique vs Senegal "
+        },
+        {
+            "channel": "TVM 1 Mozambique",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "Irdeto",
             "link": "",
             "related_to": " Mozambique vs Senegal "
         },
@@ -261,6 +279,14 @@
             },
             "time": "13:00",
             "date": "2026-09-25"
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Tanzania vs Guinea-Bissau "
         },
         {
             "channel": "TGB Guinea-Bissau",
@@ -400,6 +426,56 @@
         },
         {
             "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Finland U-21 vs Spain U-21 ",
+            "flags": {
+                "team1": "finland",
+                "team2": "spain"
+            },
+            "time": "15:30",
+            "date": "2026-09-25"
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "*DTT 0.0°-",
+            "freq": "0000 - -",
+            "encry": "Free To Air HD",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Finland U-21 vs Spain U-21 "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10729 V 23500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Finland U-21 vs Spain U-21 "
+        },
+        {
+            "channel": "Teledeporte España 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "http://www.rtve.es/directo/teledeporte/",
+            "related_to": " Finland U-21 vs Spain U-21 "
+        },
+        {
+            "channel": "YLE AREENA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://areena.yle.fi/tv",
+            "related_to": " Finland U-21 vs Spain U-21 "
+        },
+        {
+            "channel": "YLE TV2 Suomi HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10872 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Finland U-21 vs Spain U-21 "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
             "match": " Bulgaria U-21 vs Portugal U-21 ",
             "flags": {
                 "team1": "bulgaria",
@@ -407,6 +483,14 @@
             },
             "time": "15:30",
             "date": "2026-09-25"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bulgaria U-21 vs Portugal U-21 "
         },
         {
             "channel": "Diema Sport HD",
@@ -449,32 +533,6 @@
             "related_to": " Bulgaria U-21 vs Portugal U-21 "
         },
         {
-            "compet": "UEFA U-21 Championship 2027 Qualifiers",
-            "match": " Finland U-21 vs Spain U-21 ",
-            "flags": {
-                "team1": "finland",
-                "team2": "spain"
-            },
-            "time": "15:30",
-            "date": "2026-09-25"
-        },
-        {
-            "channel": "YLE AREENA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://areena.yle.fi/tv",
-            "related_to": " Finland U-21 vs Spain U-21 "
-        },
-        {
-            "channel": "YLE TV2 Suomi HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10872 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Finland U-21 vs Spain U-21 "
-        },
-        {
             "compet": "CAF African Cup of Nations - Group L, Round 1",
             "match": " Nigeria vs Madagascar ",
             "flags": {
@@ -497,6 +555,22 @@
             "sat": "Astra 2F 28.2°e",
             "freq": "11635 H 30000 - 5/6",
             "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Nigeria vs Madagascar "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nigeria vs Madagascar "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Nigeria vs Madagascar "
         },
@@ -863,6 +937,14 @@
             "related_to": " Georgia vs Northern Ireland "
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Georgia vs Northern Ireland "
+        },
+        {
             "channel": "L´Équipe Live Foot📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1051,6 +1133,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Georgia vs Northern Ireland "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Georgia vs Northern Ireland "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Georgia vs Northern Ireland "
         },
@@ -1425,6 +1523,22 @@
             "related_to": " Armenia vs Latvia "
         },
         {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Armenia vs Latvia "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Armenia vs Latvia "
+        },
+        {
             "channel": "SporTV Brazil HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1549,6 +1663,56 @@
             "related_to": " Sudan vs Ethiopia "
         },
         {
+            "compet": "CAF African Cup of Nations - Group I, Round 1",
+            "match": " Togo vs Burundi ",
+            "flags": {
+                "team1": "togo",
+                "team2": "burundi"
+            },
+            "time": "16:00",
+            "date": "2026-09-25"
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Togo vs Burundi "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/5",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Togo vs Burundi "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Togo vs Burundi "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "4039 R 3333 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Togo vs Burundi "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "SES 4 22.0°w",
+            "freq": "11551 V 45000 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " Togo vs Burundi "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group C, Round 1",
             "match": " Gambia vs Somalia ",
             "flags": {
@@ -1557,6 +1721,14 @@
             },
             "time": "16:00",
             "date": "2026-09-25"
+        },
+        {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Gambia vs Somalia "
         },
         {
             "channel": "GRTS Gambia",
@@ -1583,6 +1755,112 @@
             "encry": "",
             "link": "",
             "related_to": " Cyprus U-21 vs Romania U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12688 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Cyprus U-21 vs Romania U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12328 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Cyprus U-21 vs Romania U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12643 V 27500 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Cyprus U-21 vs Romania U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12517 V 19368 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Cyprus U-21 vs Romania U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Cyprus U-21 vs Romania U-21 "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group K, Round 1",
+            "match": " Rwanda vs Liberia ",
+            "flags": {
+                "team1": "rwanda",
+                "team2": "liberia"
+            },
+            "time": "16:00",
+            "date": "2026-09-25"
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12207 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Rwanda vs Liberia "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3869 R 03333 - 2/3",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Rwanda vs Liberia "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11106 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Rwanda vs Liberia "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Rwanda vs Liberia "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11804 H 27500 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Rwanda vs Liberia "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11111 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Rwanda vs Liberia "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "10986 V 30000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Rwanda vs Liberia "
         },
         {
             "compet": "Friendly International",
@@ -1781,6 +2059,64 @@
             "encry": "",
             "link": "https://www.srf.ch/play/tv/sport-livestreams",
             "related_to": " Switzerland U-21 vs Luxembourg U-21 "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " England U-21 vs Kazakhstan U-21 ",
+            "flags": {
+                "team1": "england",
+                "team2": "kazstan"
+            },
+            "time": "18:30",
+            "date": "2026-09-25"
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " England U-21 vs Kazakhstan U-21 "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " England U-21 vs Kazakhstan U-21 "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10846 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England U-21 vs Kazakhstan U-21 "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10804 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " England U-21 vs Kazakhstan U-21 "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " England U-21 vs Kazakhstan U-21 "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10846 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England U-21 vs Kazakhstan U-21 "
         },
         {
             "compet": "Spanish La Liga 2 - Week 7",
@@ -2203,14 +2539,6 @@
             "related_to": " Türkiye vs France "
         },
         {
-            "channel": "Okko Sport HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Türkiye vs France "
-        },
-        {
             "channel": "Polsat Sport 2 HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "12265 V 27500 - 3/4",
@@ -2335,6 +2663,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Türkiye vs France "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Türkiye vs France "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Türkiye vs France "
         },
@@ -2512,22 +2856,6 @@
             "freq": "10716 H 25000 - 3/4",
             "encry": "HD Conax",
             "link": "",
-            "related_to": " Türkiye vs France "
-        },
-        {
-            "channel": "TV8 Türkiye HD 📺",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12356 H 07100 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "https://www.tv8.com.tr/canli-yayin",
-            "related_to": " Türkiye vs France "
-        },
-        {
-            "channel": "TV8 Türkiye HD 📺",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12346 H 09600 - 3/4",
-            "encry": "Free To Air",
-            "link": "https://www.tv8.com.tr/canli-yayin",
             "related_to": " Türkiye vs France "
         },
         {
@@ -2786,6 +3114,14 @@
             "freq": "11050 H 20030 - 1/2",
             "encry": "MPEG-4 Biss",
             "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Italy vs Belgium "
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": " Italy vs Belgium "
         },
         {
@@ -3081,6 +3417,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Italy vs Belgium "
+        },
+        {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Italy vs Belgium "
+        },
+        {
+            "channel": "SportKlub 5 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Italy vs Belgium "
         },
@@ -3495,6 +3847,14 @@
             "related_to": " Hungary vs Ukraine "
         },
         {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Hungary vs Ukraine "
+        },
+        {
             "channel": "SporTV 2 Brazil HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3801,6 +4161,22 @@
             "related_to": " Poland vs Bosnia-Herzegovina "
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Poland vs Bosnia-Herzegovina "
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Poland vs Bosnia-Herzegovina "
+        },
+        {
             "channel": "SuperSport 5 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10804 H 29950 - 2/3",
@@ -4059,6 +4435,14 @@
             "related_to": " Sweden vs Romania "
         },
         {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Sweden vs Romania "
+        },
+        {
             "channel": "L´Équipe Live Foot📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4175,6 +4559,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12360 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sweden vs Romania "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sweden vs Romania "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Sweden vs Romania "
         },
@@ -4389,6 +4789,22 @@
             "related_to": " Montenegro vs Cyprus "
         },
         {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Montenegro vs Cyprus "
+        },
+        {
+            "channel": "SportKlub 9 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Montenegro vs Cyprus "
+        },
+        {
             "channel": "SuperSport OTT 5",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4410,14 +4826,6 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
-            "related_to": " Montenegro vs Cyprus "
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
             "related_to": " Montenegro vs Cyprus "
         },
         {
@@ -4707,6 +5115,22 @@
             "related_to": " Morocco vs Gabon "
         },
         {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Morocco vs Gabon "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Morocco vs Gabon "
+        },
+        {
             "channel": "beIN Sports France 1 HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
@@ -4861,6 +5285,62 @@
             "related_to": " Algeria vs Zambia "
         },
         {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Algeria vs Zambia "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 33e 60.0°e",
+            "freq": "3772 R 5000 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Algeria vs Zambia "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12418 V 31420 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Algeria vs Zambia "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12301 V 27500 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Algeria vs Zambia "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "SES 5 5.0°e",
+            "freq": "11804 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Algeria vs Zambia "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Rascom QAF 1R 2.8°e",
+            "freq": "11349 V 18300 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Algeria vs Zambia "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3850 R 16330 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Algeria vs Zambia "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group K, Round 1",
             "match": " Mali vs Cape Verde ",
             "flags": {
@@ -4903,10 +5383,98 @@
             "related_to": " Mali vs Cape Verde "
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "12530 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
             "channel": "DAZN Deutsch",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Intelsat 37e 18.0°w",
+            "freq": "4129 L 05750 - 1/2",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "SES 4 22.0°w",
+            "freq": "12570 V 30000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Intelsat 25 31.5°w",
+            "freq": "12339 V 08574 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Galaxy 19 97.0°w",
+            "freq": "12060 H 22000 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Mali vs Cape Verde "
+        },
+        {
+            "channel": "Sport TV3 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Mali vs Cape Verde "
         },
@@ -4919,6 +5487,14 @@
             },
             "time": "19:00",
             "date": "2026-09-25"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Egypt vs Angola "
         },
         {
             "channel": "beIN Sports France 5 HD max",
@@ -4957,6 +5533,62 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Egypt vs Angola "
+        },
+        {
+            "channel": "Sport TV6 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Egypt vs Angola "
+        },
+        {
+            "channel": "Time Sports HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11449 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Egypt vs Angola "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11052 V 05962 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Egypt vs Angola "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11429 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Egypt vs Angola "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11474 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Egypt vs Angola "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Intelsat 28 32.9°e",
+            "freq": "10975 H 30000 - 9/10",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Egypt vs Angola "
+        },
+        {
+            "channel": "TPA 2 Angola",
+            "sat": "Intelsat 37e 18.0°w",
+            "freq": "4008 R 06730 - 3/4",
+            "encry": "Free To Air [c]",
             "link": "",
             "related_to": " Egypt vs Angola "
         },
