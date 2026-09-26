@@ -1355,6 +1355,14 @@
             "related_to": " Slovenia vs Scotland "
         },
         {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovenia vs Scotland "
+        },
+        {
             "channel": "Diema Sport 2 HD",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12156 H 30000 - 5/6",
@@ -1836,6 +1844,104 @@
         },
         {
             "compet": "CAF African Cup of Nations - Group D, Round 1",
+            "match": " South Africa vs Guinea ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "guinea"
+            },
+            "time": "13:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 5 5.0°e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "SES 4 22.0°w",
+            "freq": "12650 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "RTG Guinea",
+            "sat": "Intelsat 907 27.0°w",
+            "freq": "3843 R 04550 - 1/2",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "SABC 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 V 28750 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "SABC 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11010 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "SABC 1 HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11848 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "channel": "Sportitalia HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": " South Africa vs Guinea "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group D, Round 1",
             "match": " Kenya vs Eritrea ",
             "flags": {
                 "team1": "kenya",
@@ -1909,86 +2015,12 @@
             "related_to": " Kenya vs Eritrea "
         },
         {
-            "compet": "CAF African Cup of Nations - Group D, Round 1",
-            "match": " South Africa vs Guinea ",
-            "flags": {
-                "team1": "southafrica",
-                "team2": "guinea"
-            },
-            "time": "13:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "12604 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "Canal+ Sport 1 Afrique HD",
-            "sat": "SES 4 22.0°w",
-            "freq": "11171 V 45000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "RTG Guinea",
-            "sat": "SES 5 5.0°e",
-            "freq": "11766 H 27500 - 3/4",
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
             "encry": "MPEG-4 Conax",
             "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "RTG Guinea",
-            "sat": "SES 4 22.0°w",
-            "freq": "12650 V 30000 - 3/4",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "RTG Guinea",
-            "sat": "Intelsat 907 27.0°w",
-            "freq": "3843 R 04550 - 1/2",
-            "encry": "Free To Air [c]",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "SABC 1 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11514 V 28750 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "SABC 1 HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11010 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
-        },
-        {
-            "channel": "SABC 1 HD",
-            "sat": "Intelsat 36 68.5°e",
-            "freq": "11848 V 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " South Africa vs Guinea "
+            "related_to": " Kenya vs Eritrea "
         },
         {
             "compet": "Italian Womens Serie A - Week 1",
@@ -2417,6 +2449,40 @@
             "encry": "",
             "link": "https://www.cymrufootball.tv/en",
             "related_to": " Barry Town United vs Connah's Quay "
+        },
+        {
+            "compet": "German Regionalliga: Nordost - Week 11",
+            "match": " Eintracht 1949 vs Chemnitz ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "14:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "FreiePresse📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.freiepresse.de/sport",
+            "related_to": " Eintracht 1949 vs Chemnitz "
+        },
+        {
+            "channel": "LVZ Live Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.lvz.de/themen/sachsen-livesport/",
+            "related_to": " Eintracht 1949 vs Chemnitz "
+        },
+        {
+            "channel": "MZ Deutsch Live📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "https://www.mz.de/live",
+            "related_to": " Eintracht 1949 vs Chemnitz "
         },
         {
             "compet": "English National League South - National League South - 10",
@@ -3283,24 +3349,6 @@
             "related_to": " Ballymena United vs Portadown "
         },
         {
-            "compet": "German Regionalliga: Nordost - Week 11",
-            "match": " Eintracht 1949 vs Chemnitz ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "14:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "FreiePresse📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.freiepresse.de/sport",
-            "related_to": " Eintracht 1949 vs Chemnitz "
-        },
-        {
             "compet": "English League One - Week 8",
             "match": " Stockport County vs Peterborough United ",
             "flags": {
@@ -3569,6 +3617,146 @@
             "related_to": " Ajax vs ADO Den Haag "
         },
         {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Croatia U-21 vs Hungary U-21 ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "hungary"
+            },
+            "time": "15:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11778 V 29900 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11958 V 27500 - 2/3",
+            "encry": "FTA (?Blackout)",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11843 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12563 V 28800 - 3/5",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Amos 3 4.0°w",
+            "freq": "10806 V 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "M4 Sport Hungary HD 📺",
+            "sat": "Amos 3 4.0°w",
+            "freq": "11258 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "https://m4sport.hu/elo/mtv4live/",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "channel": "MAX Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Croatia U-21 vs Hungary U-21 "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Georgia U-21 vs Greece U-21 ",
+            "flags": {
+                "team1": "georgia",
+                "team2": "greece"
+            },
+            "time": "15:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "1TV Sporti Georgia HD",
+            "sat": "Eutelsat 36D 35.9°e",
+            "freq": "11221 H 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Georgia U-21 vs Greece U-21 "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " Georgia U-21 vs Greece U-21 "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12242 H 13381 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Georgia U-21 vs Greece U-21 "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Georgia U-21 vs Greece U-21 "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11938 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Georgia U-21 vs Greece U-21 "
+        },
+        {
             "compet": "Arabian Gulf Cup - Round 2",
             "match": " Kuwait vs Iraq ",
             "flags": {
@@ -3619,38 +3807,6 @@
             "related_to": " Kuwait vs Iraq "
         },
         {
-            "channel": "Al Kass 2 HD 📺",
-            "sat": "Badr 4 26.0°e",
-            "freq": "12245 V 27500 - 5/6",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": " Kuwait vs Iraq "
-        },
-        {
-            "channel": "Al Kass 2 HD 📺",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10770 V 27500 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": " Kuwait vs Iraq "
-        },
-        {
-            "channel": "Al Kass 2 HD 📺",
-            "sat": "Nilesat 201 7.0°w",
-            "freq": "11919 H 27500 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": " Kuwait vs Iraq "
-        },
-        {
-            "channel": "Al Kass 2 HD 📺",
-            "sat": "Galaxy 19 97.0°w",
-            "freq": "12184 H 22500 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
-            "related_to": " Kuwait vs Iraq "
-        },
-        {
             "channel": "Bahrain Sports 1 HD",
             "sat": "Badr 4 26.0°e",
             "freq": "12226 H 27500 - 3/4",
@@ -3667,7 +3823,7 @@
             "related_to": " Kuwait vs Iraq "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Al Yah 1 52.5°e",
             "freq": "11747 H 27500 - 5/6",
             "encry": "Free To Air HD",
@@ -3675,23 +3831,15 @@
             "related_to": " Kuwait vs Iraq "
         },
         {
-            "channel": "KSA Sports 1 HD",
-            "sat": "Arabsat 5A 30.5°e",
-            "freq": "10924 H 17000 - 3/4",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Kuwait vs Iraq "
-        },
-        {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Badr 4 26.0°e",
-            "freq": "12149 H 27500 - 5/6",
+            "freq": "12149 V 27500 - 5/6",
             "encry": "Free To Air HD",
             "link": "",
             "related_to": " Kuwait vs Iraq "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Badr 7 26.0°e",
             "freq": "11230 H 27500 - 3/4",
             "encry": "Free To Air",
@@ -3699,7 +3847,15 @@
             "related_to": " Kuwait vs Iraq "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
+            "sat": "Arabsat 5C 20.0°e",
+            "freq": "3884 R 27500 - 5/6",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Kuwait vs Iraq "
+        },
+        {
+            "channel": "KSA Sports 2 HD",
             "sat": "Nilesat 201 7.0°w",
             "freq": "12284 V 27500 - 5/6",
             "encry": "Free To Air HD",
@@ -3707,7 +3863,7 @@
             "related_to": " Kuwait vs Iraq "
         },
         {
-            "channel": "KSA Sports 1 HD",
+            "channel": "KSA Sports 2 HD",
             "sat": "Nilesat 201 7.0°w",
             "freq": "12149 H 27500 - 3/4",
             "encry": "Free To Air",
@@ -3801,40 +3957,6 @@
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " Kuwait vs Iraq "
-        },
-        {
-            "compet": "UEFA U-21 Championship 2027 Qualifiers",
-            "match": " Croatia U-21 vs Hungary U-21 ",
-            "flags": {
-                "team1": "croatia",
-                "team2": "hungary"
-            },
-            "time": "15:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Croatia U-21 vs Hungary U-21 "
-        },
-        {
-            "channel": "MAX Sport 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11512 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Croatia U-21 vs Hungary U-21 "
-        },
-        {
-            "channel": "MAX Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Croatia U-21 vs Hungary U-21 "
         },
         {
             "compet": "Norwegian Toppserien (W) - Week 17",
@@ -4671,6 +4793,14 @@
             "related_to": " Iceland vs Estonia "
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Iceland vs Estonia "
+        },
+        {
             "channel": "Nova Sports Start Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11804 V 29700 - 3/4",
@@ -5137,6 +5267,80 @@
             "related_to": " San Marino vs Finland "
         },
         {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Latvia U-21 vs Germany U-21 ",
+            "flags": {
+                "team1": "latvia",
+                "team2": "germany"
+            },
+            "time": "16:00",
+            "date": "2026-09-26"
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "DAZN France",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "SAT.1 Deutschland HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12545 H 22000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "SAT.1 Deutschland HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11464 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "SAT.1 Deutschland HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12245 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "SAT.1 Deutschland HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12458 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "SAT.1 Deutschland HD",
+            "sat": "Amos 7 4.0°w",
+            "freq": "10722 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "YouTube: German Football📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@GermanFootball/streams",
+            "related_to": " Latvia U-21 vs Germany U-21 "
+        },
+        {
             "compet": "UEFA Nations League - League C Group 3 Round 1",
             "match": " Faroe Islands vs Kazakhstan ",
             "flags": {
@@ -5581,24 +5785,6 @@
             "encry": "",
             "link": "https://www.vgtv.no/live",
             "related_to": " London City vs Brighton H.A. "
-        },
-        {
-            "compet": "UEFA U-21 Championship 2027 Qualifiers",
-            "match": " Latvia U-21 vs Germany U-21 ",
-            "flags": {
-                "team1": "latvia",
-                "team2": "germany"
-            },
-            "time": "16:00",
-            "date": "2026-09-26"
-        },
-        {
-            "channel": "YouTube: German Football📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@GermanFootball/streams",
-            "related_to": " Latvia U-21 vs Germany U-21 "
         },
         {
             "compet": "Türkiye 2. Lig - Red Group: Round 4",
@@ -6067,19 +6253,19 @@
             "date": "2026-09-26"
         },
         {
-            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "channel": "Abu Dhabi Sports 2 HD 📺",
             "sat": "Badr 8 26.0°e",
             "freq": "11804 H 30000 - 3/4",
             "encry": "Free To Air HD",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
             "related_to": " Oman vs Saudi Arabia "
         },
         {
-            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "channel": "Abu Dhabi Sports 2 HD 📺",
             "sat": "Eutelsat 7 West A 7.0°w",
             "freq": "11411 H 30000 - 3/4",
             "encry": "Free To Air HD",
-            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
             "related_to": " Oman vs Saudi Arabia "
         },
         {
@@ -6104,6 +6290,38 @@
             "freq": "11919 H 27500 - 3/4",
             "encry": "Free To Air HD",
             "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": " Oman vs Saudi Arabia "
+        },
+        {
+            "channel": "Al Kass 2 HD 📺",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12245 V 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "related_to": " Oman vs Saudi Arabia "
+        },
+        {
+            "channel": "Al Kass 2 HD 📺",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "related_to": " Oman vs Saudi Arabia "
+        },
+        {
+            "channel": "Al Kass 2 HD 📺",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
+            "related_to": " Oman vs Saudi Arabia "
+        },
+        {
+            "channel": "Al Kass 2 HD 📺",
+            "sat": "Galaxy 19 97.0°w",
+            "freq": "12184 H 22500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=two",
             "related_to": " Oman vs Saudi Arabia "
         },
         {
@@ -6206,30 +6424,6 @@
             "channel": "MBC Action HD",
             "sat": "Eutelsat 7 West A 7.0°w",
             "freq": "11559 V 27500 - 5/6",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Oman vs Saudi Arabia "
-        },
-        {
-            "channel": "MBC MENA HD",
-            "sat": "Badr 8 26.0°e",
-            "freq": "12399 V 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Oman vs Saudi Arabia "
-        },
-        {
-            "channel": "MBC MENA HD",
-            "sat": "Eutelsat 21B 21.5°e",
-            "freq": "11583 V 02850 - 7/8",
-            "encry": "BISS [c]",
-            "link": "",
-            "related_to": " Oman vs Saudi Arabia "
-        },
-        {
-            "channel": "MBC MENA HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11471 V 27500 - 5/6",
             "encry": "Free To Air",
             "link": "",
             "related_to": " Oman vs Saudi Arabia "
@@ -6741,6 +6935,14 @@
             "related_to": " England vs Spain "
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " England vs Spain "
+        },
+        {
             "channel": "Monomax Streaming📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -6769,6 +6971,14 @@
             "sat": "Thor 7 0.6°w",
             "freq": "12476 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " England vs Spain "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " England vs Spain "
         },
@@ -6865,6 +7075,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11958 V 27500 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " England vs Spain "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
             "link": "",
             "related_to": " England vs Spain "
         },
@@ -7487,6 +7705,14 @@
             "related_to": " Czechia vs Croatia "
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Czechia vs Croatia "
+        },
+        {
             "channel": "Nova Sports 3 Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11823 H 27500 - 3/4",
@@ -7607,18 +7833,18 @@
             "related_to": " Czechia vs Croatia "
         },
         {
-            "channel": "Sky Sport 251 Italia HD",
+            "channel": "Sky Sport 254 Italia HD",
             "sat": "Hotbird 13F 13.0°e",
-            "freq": "12418 V 29900 - 3/4",
-            "encry": "HD VideoGuard",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
             "link": "",
             "related_to": " Czechia vs Croatia "
         },
         {
-            "channel": "Sky Sport 251 Italia HD",
+            "channel": "Sky Sport 254 Italia HD",
             "sat": "Hotbird 13F 13.0°e",
-            "freq": "12054 H 29900 - 5/6",
-            "encry": "VideoGuard",
+            "freq": "12341 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Czechia vs Croatia "
         },
