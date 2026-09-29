@@ -1,6 +1,24 @@
 {
     "footonsat": [
         {
+            "compet": "Friendly International",
+            "match": " Australia vs Brazil ",
+            "flags": {
+                "team1": "australia",
+                "team2": "brazil"
+            },
+            "time": "10:00",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "SporTV Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Australia vs Brazil "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group G, Round 2",
             "match": " Comoros vs Namibia ",
             "flags": {
@@ -9,6 +27,70 @@
             },
             "time": "11:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
+        },
+        {
+            "channel": "NBC 1 Namibia",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11634 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
+        },
+        {
+            "channel": "NBC 1 Namibia",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12565 V 30000 - 5/6",
+            "encry": "Panaccess",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
+        },
+        {
+            "channel": "NBC 1 Namibia",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "3977 L 17777 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
+        },
+        {
+            "channel": "ORTC Comoros",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
+        },
+        {
+            "channel": "ORTC Comoros",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "12643 V 02061 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
+        },
+        {
+            "channel": "ORTC Comoros",
+            "sat": "Eutelsat 7B 7.0°e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Comoros vs Namibia "
         },
         {
             "compet": "Portuguese Liga Next Gen - Week 1",
@@ -29,6 +111,208 @@
             "related_to": " Santa Clara U-23 vs Felgueiras U-23 "
         },
         {
+            "compet": "CAF African Cup of Nations - Group J, Round 2",
+            "match": " Ethiopia vs Senegal ",
+            "flags": {
+                "team1": "ethiopia",
+                "team2": "senegal"
+            },
+            "time": "13:00",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "beIN Sports France 3 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "Hagerie TV Ethiopia",
+            "sat": "NSS 12 57.0°e",
+            "freq": "11105 H 45000 - 5/6",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "AsiaSat 5 100.5°e",
+            "freq": "4080 H 30000 - 5/6",
+            "encry": "Free To Air [c]",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "Amos 17 17.0°e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "Free To Air [c]",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "SES 5 5.0°e",
+            "freq": "12303 H 27500 - 3/4",
+            "encry": "Conax",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "SES 4 22.0°w",
+            "freq": "11551 V 45000 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "SES 4 22.0°w",
+            "freq": "10986 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "SES 4 22.0°w",
+            "freq": "10986 V 30000 - 5/6",
+            "encry": "NagraVision",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 1 Senegal HD 📺",
+            "sat": "Galaxy 19 97.0°w",
+            "freq": "12177 V 23000 - 3/4",
+            "encry": "Free To Air",
+            "link": "https://live.rts.sn/livetv/rts1",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 2 Senegal HD 📺",
+            "sat": "Amos 17 17.0°e",
+            "freq": "11968 V 34030 - 5/6",
+            "encry": "Free To Air",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 2 Senegal HD 📺",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/4",
+            "encry": "HD Conax",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "RTS 2 Senegal HD 📺",
+            "sat": "SES 4 22.0°w",
+            "freq": "11551 V 45000 - 3/4",
+            "encry": "HD Mediaguard",
+            "link": "https://live.rts.sn/livetv/rts2",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Ethiopia vs Senegal "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group A, Round 2",
             "match": " Lesotho vs Morocco ",
             "flags": {
@@ -37,6 +321,30 @@
             },
             "time": "13:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "Arryadia TNT HD",
+            "sat": "Eshail 1 25.5°e",
+            "freq": "11180 V 27500 - 3/4",
+            "encry": "FTA (MultiStream)",
+            "link": "",
+            "related_to": " Lesotho vs Morocco "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Lesotho vs Morocco "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Lesotho vs Morocco "
         },
         {
             "channel": "beIN Sports Australia 2 HD",
@@ -99,6 +407,30 @@
             "sat": "Eshail 2 25.5°e",
             "freq": "11390 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Lesotho vs Morocco "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Lesotho vs Morocco "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Lesotho vs Morocco "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Lesotho vs Morocco "
         },
@@ -185,78 +517,12 @@
             "related_to": " Burundi vs Algeria "
         },
         {
-            "compet": "CAF African Cup of Nations - Group J, Round 2",
-            "match": " Ethiopia vs Senegal ",
-            "flags": {
-                "team1": "ethiopia",
-                "team2": "senegal"
-            },
-            "time": "13:00",
-            "date": "2026-09-29"
-        },
-        {
-            "channel": "beIN Sports France 3 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11856 V 29700 - 2/3",
-            "encry": "HD NagraVision",
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
-            "related_to": " Ethiopia vs Senegal "
-        },
-        {
-            "channel": "beIN Sports France 3 HD",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "12564 V 29950 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Ethiopia vs Senegal "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Ethiopia vs Senegal "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Ethiopia vs Senegal "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Ethiopia vs Senegal "
-        },
-        {
-            "channel": "beIN Sports MENA 6 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Ethiopia vs Senegal "
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Ethiopia vs Senegal "
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Ethiopia vs Senegal "
+            "related_to": " Burundi vs Algeria "
         },
         {
             "compet": "CAF African Cup of Nations - Group B, Round 2",
@@ -267,6 +533,14 @@
             },
             "time": "13:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " South Sudan vs Egypt "
         },
         {
             "channel": "beIN Sports Australia 3 HD",
@@ -309,6 +583,30 @@
             "related_to": " South Sudan vs Egypt "
         },
         {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " South Sudan vs Egypt "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " South Sudan vs Egypt "
+        },
+        {
+            "channel": "Time Sports HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11449 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " South Sudan vs Egypt "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group J, Round 2",
             "match": " Mozambique vs Sudan ",
             "flags": {
@@ -347,6 +645,14 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Mozambique vs Sudan "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Mozambique vs Sudan "
         },
@@ -399,6 +705,64 @@
             "related_to": " Mozambique vs Sudan "
         },
         {
+            "channel": "TVM 1 Mozambique",
+            "sat": "Intelsat 906 64.0°e",
+            "freq": "3654 R 05632 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Mozambique vs Sudan "
+        },
+        {
+            "channel": "TVM 1 Mozambique",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11958 V 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Mozambique vs Sudan "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group L, Round 2",
+            "match": " Madagascar vs Tanzania ",
+            "flags": {
+                "team1": "madagascar",
+                "team2": "tanzania"
+            },
+            "time": "13:00",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Madagascar vs Tanzania "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Madagascar vs Tanzania "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Madagascar vs Tanzania "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "12530 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Madagascar vs Tanzania "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group L, Round 2",
             "match": " Guinea-Bissau vs Nigeria ",
             "flags": {
@@ -407,6 +771,30 @@
             },
             "time": "16:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "Afrosport TV",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "4002 H 2500",
+            "encry": "Free To Air HD [c]",
+            "link": "",
+            "related_to": " Guinea-Bissau vs Nigeria "
+        },
+        {
+            "channel": "Afrosport TV",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "11635 H 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Guinea-Bissau vs Nigeria "
+        },
+        {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Guinea-Bissau vs Nigeria "
         },
         {
             "channel": "beIN Sports Australia 1 HD",
@@ -477,6 +865,14 @@
             "sat": "Intelsat 20 68.5°e",
             "freq": "11554 V 30000 - 2/3",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Guinea-Bissau vs Nigeria "
+        },
+        {
+            "channel": "TGB Guinea-Bissau",
+            "sat": "SES 4 22.0°w",
+            "freq": "11611 V 45000 - 3/4",
+            "encry": "HEVC SD Nagravision",
             "link": "",
             "related_to": " Guinea-Bissau vs Nigeria "
         },
@@ -925,6 +1321,14 @@
             "related_to": " Finland vs Belarus "
         },
         {
+            "channel": "Polsat Sport 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Finland vs Belarus "
+        },
+        {
             "channel": "Premier Sports 2 Mongolia HD",
             "sat": "Telstar 18 138.0°e",
             "freq": "12598 H 45000 - 5/6",
@@ -1175,122 +1579,6 @@
             "related_to": " Norway U-21 vs Bosnia U-21 "
         },
         {
-            "compet": "CAF African Cup of Nations - Group I, Round 2",
-            "match": " Zambia vs Togo ",
-            "flags": {
-                "team1": "zambia",
-                "team2": "togo"
-            },
-            "time": "16:00",
-            "date": "2026-09-29"
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Zambia vs Togo "
-        },
-        {
-            "channel": "beIN Sports MENA 9 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "12604 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Zambia vs Togo "
-        },
-        {
-            "channel": "New World Sport 2 Mauritius",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "12562 H 30000 - 2/3",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Zambia vs Togo "
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Zambia vs Togo "
-        },
-        {
-            "channel": "SuperSport PSL HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11170 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Zambia vs Togo "
-        },
-        {
-            "compet": "CAF African Cup of Nations - Group C, Round 2",
-            "match": " Ghana vs Gambia ",
-            "flags": {
-                "team1": "ghana",
-                "team2": "gambia"
-            },
-            "time": "16:00",
-            "date": "2026-09-29"
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Ghana vs Gambia "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Ghana vs Gambia "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Ghana vs Gambia "
-        },
-        {
-            "channel": "SuperSport Grandstand HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11554 V 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Ghana vs Gambia "
-        },
-        {
-            "channel": "SuperSport Grandstand HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11130 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Ghana vs Gambia "
-        },
-        {
-            "channel": "SuperSport Kickoff HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11514 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Ghana vs Gambia "
-        },
-        {
-            "channel": "SuperSport Kickoff HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Ghana vs Gambia "
-        },
-        {
             "compet": "CAF African Cup of Nations - Group K, Round 2",
             "match": " Cape Verde vs Rwanda ",
             "flags": {
@@ -1299,6 +1587,14 @@
             },
             "time": "16:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
         },
         {
             "channel": "beIN Sports Australia 2 HD",
@@ -1321,6 +1617,70 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11054 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12207 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3869 R 03333 - 2/3",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11106 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11938 V 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11804 H 27500 - 3/4",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11111 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Cape Verde vs Rwanda "
+        },
+        {
+            "channel": "Rwanda TV HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "10986 V 30000 - 5/6",
+            "encry": "Seca",
             "link": "",
             "related_to": " Cape Verde vs Rwanda "
         },
@@ -1357,6 +1717,88 @@
             "related_to": " Cape Verde vs Rwanda "
         },
         {
+            "compet": "Friendly International",
+            "match": " Russia vs Iran ",
+            "flags": {
+                "team1": "russia",
+                "team2": "iran"
+            },
+            "time": "16:00",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12265 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11900 V 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11881 H 27500 - 5/6",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12303 H 32000 - 3/4",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "Okko Futbol HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Russia vs Iran "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group H, Round 2",
             "match": " Uganda vs Libya ",
             "flags": {
@@ -1383,6 +1825,46 @@
             "related_to": " Uganda vs Libya "
         },
         {
+            "channel": "Fufa TV Uganda",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12188 V 27500 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "Fufa TV Uganda",
+            "sat": "SES 5 5.0°e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "Fufa TV Uganda",
+            "sat": "SES 5 5.0°e",
+            "freq": "3928 L 2060 - 2/3",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "Fufa TV Uganda",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3937 R 13725 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "New World Sport 6 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
             "channel": "SuperSport Football Plus HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -1397,6 +1879,468 @@
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Intelsat 33e 60.0°e",
+            "freq": "3778 R 5720 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 31420 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "12440 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "3986 R 18260 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11044 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "SES 5 5.0°e",
+            "freq": "11804 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "channel": "UBC TV Uganda",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3914 R 13725 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Uganda vs Libya "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group I, Round 2",
+            "match": " Zambia vs Togo ",
+            "flags": {
+                "team1": "zambia",
+                "team2": "togo"
+            },
+            "time": "16:00",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "beIN Sports MENA 9 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12525 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/5",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "4039 R 3333 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "TVT Togo",
+            "sat": "SES 4 22.0°w",
+            "freq": "11551 V 45000 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Intelsat 33e 60.0°e",
+            "freq": "3772 R 5000 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12418 V 31420 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12301 V 27500 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "SES 5 5.0°e",
+            "freq": "11804 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Rascom QAF 1R 2.8°e",
+            "freq": "11349 V 18300 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "channel": "ZNBC TV 1",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3850 R 16330 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Zambia vs Togo "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group C, Round 2",
+            "match": " Ghana vs Gambia ",
+            "flags": {
+                "team1": "ghana",
+                "team2": "gambia"
+            },
+            "time": "16:00",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GRTS Gambia",
+            "sat": "Intelsat 905 24.5°w",
+            "freq": "4070 R 03800 - 1/2",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GTV Ghana",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12418 H 31420 - 3/4",
+            "encry": "FTA (MultiStream)",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GTV Ghana",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12725 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GTV Ghana",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12645 V 32700 - 5/6",
+            "encry": "FTA (MultiStream)",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GTV Ghana",
+            "sat": "SES 5 5.0°e",
+            "freq": "12265 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GTV Sports + HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12645 V 32700 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GTV Sports + HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11135 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "GTV Sports + HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11977 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11554 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "SuperSport Grandstand HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Ghana vs Gambia "
+        },
+        {
+            "compet": "CAF African Cup of Nations - Group F, Round 2",
+            "match": " Benin vs Mauritania ",
+            "flags": {
+                "team1": "benin",
+                "team2": "mauritania"
+            },
+            "time": "17:00",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10886 H 30000 - 8/9",
+            "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "Canal+ Sport 4 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "10986 V 30000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "New World Sport 7 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "FTA (MPEG-S2)",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11881 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "4154 L 02985 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3889 L 02982 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
+        },
+        {
+            "channel": "ORTB Benin",
+            "sat": "SES 4 22.0°w",
+            "freq": "10986 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Benin vs Mauritania "
         },
         {
             "compet": "Arabian Gulf Cup - Round 3",
@@ -1477,6 +2421,30 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11054 V 27500 - 2/3",
             "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Oman vs Kuwait "
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Oman vs Kuwait "
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12399 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Oman vs Kuwait "
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11559 V 27500 - 5/6",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Oman vs Kuwait "
         },
@@ -1841,6 +2809,14 @@
             "related_to": " Spain vs Croatia "
         },
         {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Spain vs Croatia "
+        },
+        {
             "channel": "L´Équipe Live Foot📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1925,6 +2901,38 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Spain vs Croatia "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Spain vs Croatia "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Spain vs Croatia "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Spain vs Croatia "
+        },
+        {
+            "channel": "Polsat Sport 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Spain vs Croatia "
         },
@@ -2237,6 +3245,14 @@
             "sat": "Hispasat 30W-6 30.0°w",
             "freq": "12630 V 30000 - 3/4",
             "encry": "BISS",
+            "link": "",
+            "related_to": " Spain vs Croatia "
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Spain vs Croatia "
         },
@@ -2574,6 +3590,30 @@
             "channel": "Nova Sports Premier League HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Czechia vs England "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Czechia vs England "
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Czechia vs England "
+        },
+        {
+            "channel": "Polsat Sport 2 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12265 V 27500 - 5/6",
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Czechia vs England "
@@ -3295,6 +4335,22 @@
             "related_to": " Scotland vs Switzerland "
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Scotland vs Switzerland "
+        },
+        {
+            "channel": "Polsat Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12284 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Scotland vs Switzerland "
+        },
+        {
             "channel": "Premier Sports 3 Mongolia HD",
             "sat": "Telstar 18 138.0°e",
             "freq": "12598 H 45000 - 5/6",
@@ -3471,6 +4527,208 @@
             "related_to": " Scotland vs Switzerland "
         },
         {
+            "compet": "UEFA Nations League - League B Group 1 Round 2",
+            "match": " Slovenia vs North Macedonia ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "northmacedonia"
+            },
+            "time": "18:45",
+            "date": "2026-09-29"
+        },
+        {
+            "channel": "Arena M1 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Arena Premium 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Digi Sport 4 Romania",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Megogo Futbol 7",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Monomax Streaming📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.monomax.me/premierleague",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "MTV Katsomon+📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.mtv.fi/urheilu",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Nova Sports Extra 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Polsat Sport Premium 1 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11117 V 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "Prima Sport RO 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SporTV 2 Brazil HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11674 H 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SuperSport Football HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovenia vs North Macedonia "
+        },
+        {
             "compet": "UEFA Nations League - League C Group 4 Round 2",
             "match": " Luxembourg vs Iceland ",
             "flags": {
@@ -3641,6 +4899,14 @@
             "related_to": " Luxembourg vs Iceland "
         },
         {
+            "channel": "SÝN Sport 1 Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Luxembourg vs Iceland "
+        },
+        {
             "channel": "TV2 Play Danmark📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3679,200 +4945,6 @@
             "encry": "",
             "link": "",
             "related_to": " Luxembourg vs Iceland "
-        },
-        {
-            "compet": "UEFA Nations League - League B Group 1 Round 2",
-            "match": " Slovenia vs North Macedonia ",
-            "flags": {
-                "team1": "slovenia",
-                "team2": "northmacedonia"
-            },
-            "time": "18:45",
-            "date": "2026-09-29"
-        },
-        {
-            "channel": "Arena M1 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "Arena Premium 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "Digi Sport 4 Romania",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "Fox Sports 2 USA HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "Megogo Futbol 7",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "Monomax Streaming📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.monomax.me/premierleague",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "MTV Katsomon+📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.mtv.fi/urheilu",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "Nova Sports Extra 2 Hellas HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11823 H 27500 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "Prima Sport RO 5 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SportKlub 1 Slovenija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SportKlub 5 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SporTV 2 Brazil HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SuperSport 4 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11674 H 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SuperSport Football HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11514 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SuperSport Kickoff HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11514 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "SuperSport Kickoff HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Slovenia vs North Macedonia "
         },
         {
             "compet": "UEFA Nations League - League C Group 1 Round 2",
@@ -4501,6 +5573,22 @@
             "date": "2026-09-29"
         },
         {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
             "channel": "beIN Sports France 2 HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
@@ -4513,6 +5601,22 @@
             "sat": "Eutelsat 5 West A 5.0°w",
             "freq": "12564 V 29950 - 2/3",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Somalia vs Ivory Coast "
         },
@@ -4533,6 +5637,62 @@
             "related_to": " Somalia vs Ivory Coast "
         },
         {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "Canal+ Sport 2 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "12530 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "RTi La 3 Côte d’Ivoire",
+            "sat": "SES 5 5.0°e",
+            "freq": "12341 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "RTi La 3 Côte d’Ivoire",
+            "sat": "SES 4 22.0°w",
+            "freq": "12570 V 30000 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
+            "channel": "RTi La 3 Côte d’Ivoire",
+            "sat": "SES 4 22.0°w",
+            "freq": "3749 L 45830 - 2/3",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Somalia vs Ivory Coast "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group G, Round 2",
             "match": " Congo BR vs Cameroon ",
             "flags": {
@@ -4541,6 +5701,14 @@
             },
             "time": "19:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
         },
         {
             "channel": "beIN Sports France 3 HD",
@@ -4575,6 +5743,86 @@
             "related_to": " Congo BR vs Cameroon "
         },
         {
+            "channel": "Canal+ Sport 1 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12610 H 12500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10804 H 30000 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3832 L 7582 - 2/3",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "CRTV Sports Cameroon",
+            "sat": "SES 4 22.0°w",
+            "freq": "11551 H 45000 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12149 V 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "3727 R 29950 - 7/8",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "3633 R 02018 - 7/8",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
+            "channel": "Tele Congo",
+            "sat": "Galaxy 19 97.0°w",
+            "freq": "12053 V 22000 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Congo BR vs Cameroon "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group K, Round 2",
             "match": " Liberia vs Mali ",
             "flags": {
@@ -4583,6 +5831,14 @@
             },
             "time": "19:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Liberia vs Mali "
         },
         {
             "channel": "beIN Sports France 5 HD max",
@@ -4601,6 +5857,62 @@
             "related_to": " Liberia vs Mali "
         },
         {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Liberia vs Mali "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Liberia vs Mali "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12380 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Liberia vs Mali "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Intelsat 37e 18.0°w",
+            "freq": "4129 L 05750 - 1/2",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Liberia vs Mali "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "SES 4 22.0°w",
+            "freq": "12570 V 30000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Liberia vs Mali "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Intelsat 25 31.5°w",
+            "freq": "12339 V 08574 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Liberia vs Mali "
+        },
+        {
+            "channel": "ORTM 1 Mali",
+            "sat": "Galaxy 19 97.0°w",
+            "freq": "12060 H 22000 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Liberia vs Mali "
+        },
+        {
             "compet": "CAF African Cup of Nations - Group A, Round 2",
             "match": " Gabon vs Niger ",
             "flags": {
@@ -4609,6 +5921,94 @@
             },
             "time": "19:00",
             "date": "2026-09-29"
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "11171 V 45000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Canal+ Sport 3 Afrique HD",
+            "sat": "SES 4 22.0°w",
+            "freq": "12530 V 30000 - 3/4",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Gabon 1ère 📺",
+            "sat": "SES 5 5.0°e",
+            "freq": "11766 H 27500 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Gabon 1ère 📺",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "11481 H 45000 - 3/4",
+            "encry": "Free To Air",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Gabon 1ère 📺",
+            "sat": "SES 4 22.0°w",
+            "freq": "11551 V 45000 - 3/4",
+            "encry": "Seca",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Gabon 1ère 📺",
+            "sat": "SES 4 22.0°w",
+            "freq": "4044 L 3360 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "https://www.groupegabontelevisions.net/live",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Télé Sahel Niger",
+            "sat": "Badr 8 26.0°e",
+            "freq": "4099 L 20000 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Télé Sahel Niger",
+            "sat": "Badr 8 26.0°e",
+            "freq": "4085 L 3330 - 3/4",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Télé Sahel Niger",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Gabon vs Niger "
+        },
+        {
+            "channel": "Télé Sahel Niger",
+            "sat": "SES 4 22.0°w",
+            "freq": "10986 V 45000 - 3/4",
+            "encry": "HEVC SD Nagravision",
+            "link": "",
+            "related_to": " Gabon vs Niger "
         },
         {
             "compet": "Portuguese Liga Next Gen - Week 3",
