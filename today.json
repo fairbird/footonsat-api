@@ -69,6 +69,14 @@
             "date": "2026-09-30"
         },
         {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -93,6 +101,14 @@
             "related_to": " Eritrea vs South Africa "
         },
         {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
             "channel": "SABC 2 HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "11514 V 28750 - 5/6",
@@ -112,6 +128,70 @@
             "channel": "SABC 2 HD",
             "sat": "Intelsat 36 68.5°e",
             "freq": "11848 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "Sportitalia HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12341 V 31400 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "https://sportitalialive.it/sihd/",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "SuperSport MáXimo 1 HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11808 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "SuperSport MáXimo 360",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Eritrea vs South Africa "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "",
             "related_to": " Eritrea vs South Africa "
@@ -201,6 +281,38 @@
             "related_to": " Malta U-21 vs Germany U-21 "
         },
         {
+            "channel": "ProSieben MAXX Deutsch HD 📺",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "12545 H 22000 - 5/6",
+            "encry": "Free To Air",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=5",
+            "related_to": " Malta U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "ProSieben MAXX Deutsch HD 📺",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11464 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=5",
+            "related_to": " Malta U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "ProSieben MAXX Deutsch HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11785 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=5",
+            "related_to": " Malta U-21 vs Germany U-21 "
+        },
+        {
+            "channel": "ProSieben MAXX Deutsch HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12565 V 30000 - 5/6",
+            "encry": "MPEG-4 Panaccess",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=5",
+            "related_to": " Malta U-21 vs Germany U-21 "
+        },
+        {
             "channel": "TVM Sport+ HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -215,6 +327,98 @@
             "encry": "",
             "link": "https://www.youtube.com/@GermanFootball/streams",
             "related_to": " Malta U-21 vs Germany U-21 "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Romania U-21 vs Finland U-21 ",
+            "flags": {
+                "team1": "romania",
+                "team2": "finland"
+            },
+            "time": "16:00",
+            "date": "2026-09-30"
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12688 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Romania U-21 vs Finland U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12328 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Romania U-21 vs Finland U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12643 V 27500 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Romania U-21 vs Finland U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12517 V 19368 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Romania U-21 vs Finland U-21 "
+        },
+        {
+            "channel": "Pro Arena Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Romania U-21 vs Finland U-21 "
+        },
+        {
+            "channel": "YLE AREENA📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://areena.yle.fi/tv",
+            "related_to": " Romania U-21 vs Finland U-21 "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Poland U-21 vs Sweden U-21 ",
+            "flags": {
+                "team1": "poland",
+                "team2": "sweden"
+            },
+            "time": "16:00",
+            "date": "2026-09-30"
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Poland U-21 vs Sweden U-21 "
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Poland U-21 vs Sweden U-21 "
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Poland U-21 vs Sweden U-21 "
         },
         {
             "compet": "UEFA Womens Europa Cup - Qualifier (2nd Leg)",
@@ -277,6 +481,22 @@
             "date": "2026-09-30"
         },
         {
+            "channel": "Abu Dhabi Sports 2 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "Abu Dhabi Sports 2 HD 📺",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11411 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%202",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
             "channel": "Al Kass 2 HD 📺",
             "sat": "Badr 4 26.0°e",
             "freq": "12245 V 27500 - 5/6",
@@ -325,6 +545,86 @@
             "related_to": " Bahrain vs Yemen "
         },
         {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "11747 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12149 V 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Badr 7 26.0°e",
+            "freq": "11230 H 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Arabsat 5C 20.0°e",
+            "freq": "3884 R 27500 - 5/6",
+            "encry": "Free To Air [c]",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "KSA Sports 2 HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "12149 H 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "Kuwait Sport 2 HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "Kuwait Sport 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
+            "channel": "Sharjah Sports 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Bahrain vs Yemen "
+        },
+        {
             "channel": "Sportdigital FUSSBALL 2",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
@@ -341,6 +641,22 @@
             },
             "time": "17:30",
             "date": "2026-09-30"
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Badr 8 26.0°e",
+            "freq": "11804 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Abu Dhabi Sports 1 HD 📺",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11411 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://adtv.ae/en/live/Abu%20Dhabi%20Sports%20Channel%201",
+            "related_to": " U.A.E. vs Qatar "
         },
         {
             "channel": "Al Kass 1 HD 📺",
@@ -380,6 +696,150 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "KSA Sports 1 HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "11747 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "KSA Sports 1 HD",
+            "sat": "Arabsat 5A 30.5°e",
+            "freq": "10924 H 17000 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "KSA Sports 1 HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12149 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "KSA Sports 1 HD",
+            "sat": "Badr 7 26.0°e",
+            "freq": "11230 H 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "KSA Sports 1 HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "KSA Sports 1 HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "12149 H 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12523 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Kuwait Sport HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12284 V 27500 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12399 V 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "MBC Action HD",
+            "sat": "Eutelsat 7 West A 7.0°w",
+            "freq": "11559 V 27500 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Oman TV Sport HD",
+            "sat": "Badr 8 26.0°e",
+            "freq": "12456 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Oman TV Sport HD",
+            "sat": "Eutelsat 21B 21.5°e",
+            "freq": "11627 V 14400 - 3/5",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Oman TV Sport HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "12130 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " U.A.E. vs Qatar "
+        },
+        {
+            "channel": "Sharjah Sports HD 📺",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 V 27500 - 5/6",
+            "encry": "Free To Air",
+            "link": "https://sba.net.ae/channels/tv/35/stream",
             "related_to": " U.A.E. vs Qatar "
         },
         {
@@ -467,6 +927,24 @@
             "encry": "",
             "link": "https://www.dazn.com/en-IE/home",
             "related_to": " Eastleigh vs Southend United "
+        },
+        {
+            "compet": "UEFA U-21 Championship 2027 Qualifiers",
+            "match": " Portugal U-21 vs Gibraltar U-21 ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "gibraltar"
+            },
+            "time": "19:00",
+            "date": "2026-09-30"
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal U-21 vs Gibraltar U-21 "
         },
         {
             "compet": "Major League Soccer (MLS) - Week",
