@@ -411,30 +411,28 @@
             "date": "2026-10-15"
         },
         {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kuching City vs Kitchee "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kuching City vs Kitchee "
+        },
+        {
             "channel": "YouTube: The AFC Hub 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": " Kuching City vs Kitchee "
-        },
-        {
-            "compet": "AFC Champions League 2 - Group Stage - 2",
-            "match": " Svay Rieng vs Shanghai Shenhua ",
-            "flags": {
-                "team1": "cambodia",
-                "team2": "china"
-            },
-            "time": "12:15",
-            "date": "2026-10-15"
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": " Svay Rieng vs Shanghai Shenhua "
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 2",
@@ -445,6 +443,22 @@
             },
             "time": "12:15",
             "date": "2026-10-15"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Tampines Rovers vs Machida Zelvia "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Tampines Rovers vs Machida Zelvia "
         },
         {
             "channel": "YouTube: The AFC Hub 📺",
@@ -465,6 +479,22 @@
             "date": "2026-10-15"
         },
         {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Pathum United vs Adelaide United "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Pathum United vs Adelaide United "
+        },
+        {
             "channel": "ESPN 1 Nederland HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "11739 V 29900 - 3/4",
@@ -479,6 +509,24 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": " Pathum United vs Adelaide United "
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 2",
+            "match": " Svay Rieng vs Shanghai Shenhua ",
+            "flags": {
+                "team1": "cambodia",
+                "team2": "china"
+            },
+            "time": "12:15",
+            "date": "2026-10-15"
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": " Svay Rieng vs Shanghai Shenhua "
         }
     ]
 }
