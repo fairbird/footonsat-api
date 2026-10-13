@@ -11,6 +11,14 @@
             "date": "2026-10-13"
         },
         {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bragantino vs Cruzeiro "
+        },
+        {
             "channel": "Arena Premium 2 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -733,32 +741,6 @@
             "related_to": " Portimonense U-23 vs Academico Viseu U-23 "
         },
         {
-            "compet": "UEFA Youth League (U-19) - Round 2",
-            "match": " Lens U-19 vs Sporting Lisbon U-19 ",
-            "flags": {
-                "team1": "france",
-                "team2": "portugal"
-            },
-            "time": "11:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "Sony Sports TEN 2 India HD",
-            "sat": "G-Sat 10 83.0°e",
-            "freq": "11090 V 32720 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Lens U-19 vs Sporting Lisbon U-19 "
-        },
-        {
-            "channel": "Sony Sports TEN 2 India HD",
-            "sat": "Insat 4A 83.0°e",
-            "freq": "11130 H 32720 - 2/3",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Lens U-19 vs Sporting Lisbon U-19 "
-        },
-        {
             "compet": "Türkiye 1. Lig - Week 10",
             "match": " Bandirmaspor vs Sivasspor ",
             "flags": {
@@ -871,6 +853,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10758 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " RB Leipzig U-19 vs PSV Eindhoven U-19 "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " RB Leipzig U-19 vs PSV Eindhoven U-19 "
         },
@@ -1000,6 +990,176 @@
         },
         {
             "compet": "AFC Champions League Elite - League Phase, Week 2",
+            "match": " Buriram United vs Beijing Guoan ",
+            "flags": {
+                "team1": "thailand",
+                "team2": "china"
+            },
+            "time": "12:15",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "Astro Arena Bola 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10892 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "DAZN Japan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12520 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12214 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "12673 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Diema Sport 3 HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Spor Smart 2 Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "Sport 1 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12034 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 30000 - 5/6",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11919 L 30000 - 5/6",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": " Buriram United vs Beijing Guoan "
+        },
+        {
+            "compet": "AFC Champions League Elite - League Phase, Week 2",
             "match": " Công An Hà Nôi vs Kashima Antlers ",
             "flags": {
                 "team1": "vietnam",
@@ -1121,168 +1281,6 @@
             "related_to": " Công An Hà Nôi vs Kashima Antlers "
         },
         {
-            "compet": "AFC Champions League Elite - League Phase, Week 2",
-            "match": " Buriram United vs Beijing Guoan ",
-            "flags": {
-                "team1": "thailand",
-                "team2": "china"
-            },
-            "time": "12:15",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "Astro Arena Bola 2 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10892 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "beIN Sports MENA 2 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12520 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12463 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12214 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "12673 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "Diema Sport 3 HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "Spor Smart 2 Türkiye HD",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "12245 H 27500 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "Sport 1 Baltic",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "SportKlub 1 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11471 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "SportKlub 3 Slovenija",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11231 V 42000 - 5/6",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "ABS 2A 75.0°e",
-            "freq": "11605 V 43200 - 7/8",
-            "encry": "FTA (MPEG-4)",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Express AT1 56.0°e",
-            "freq": "12034 L 27500 - 3/4",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Express AMU1 36.1°e",
-            "freq": "12380 L 30000 - 5/6",
-            "encry": "MPEG-4 DreCrypt",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11785 R 27500 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "TV Start Russia HD",
-            "sat": "Eutelsat 36C 35.9°e",
-            "freq": "11919 L 30000 - 5/6",
-            "encry": "HD Exset",
-            "link": "",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": " Buriram United vs Beijing Guoan "
-        },
-        {
             "compet": "Italian Serie C Girone C - Girone C - 7",
             "match": " Giugliano vs Inter Milan U-23 ",
             "flags": {
@@ -1309,6 +1307,14 @@
             },
             "time": "13:45",
             "date": "2026-10-13"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " East Bengal vs Al Shorta "
         },
         {
             "channel": "beIN Sports MENA 1 HD",
@@ -1399,64 +1405,6 @@
             "related_to": " East Bengal vs Al Shorta "
         },
         {
-            "compet": "Türkiye 1. Lig - Week 10",
-            "match": " Sariyer vs Bodrumspor ",
-            "flags": {
-                "team1": "turkey",
-                "team2": "turkey"
-            },
-            "time": "14:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Sariyer vs Bodrumspor "
-        },
-        {
-            "channel": "beIN Sports Türkiye 2 HD",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11676 V 24444 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Sariyer vs Bodrumspor "
-        },
-        {
-            "channel": "beIN Sports Türkiye 2 HD",
-            "sat": "Eutelsat 7C 7.0°e",
-            "freq": "11637 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Sariyer vs Bodrumspor "
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11054 V 30000 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": " Sariyer vs Bodrumspor "
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "sat": "Turksat 3A 42.0°e",
-            "freq": "11096 H 30000 - 5/6",
-            "encry": "FTA (BISS)",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": " Sariyer vs Bodrumspor "
-        },
-        {
-            "channel": "TRT Spor Türkiye HD 📺",
-            "sat": "Turksat 4A 42.0°e",
-            "freq": "11794 R 30000 - 3/4",
-            "encry": "Free To Air HD",
-            "link": "https://www.trtizle.com/canli/tv/trt-spor",
-            "related_to": " Sariyer vs Bodrumspor "
-        },
-        {
             "compet": "UEFA Youth League (U-19) - Round 2",
             "match": " Villarreal U-19 vs Napoli U-19 ",
             "flags": {
@@ -1495,6 +1443,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Villarreal U-19 vs Napoli U-19 "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Villarreal U-19 vs Napoli U-19 "
         },
@@ -1661,6 +1617,14 @@
             "related_to": " Atlético Madrid U-19 vs Manchester Utd U-19 "
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Atlético Madrid U-19 vs Manchester Utd U-19 "
+        },
+        {
             "channel": "Sport 2 Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "11766 V 28000 - 7/8",
@@ -1739,6 +1703,64 @@
             "encry": "Irdeto [c]",
             "link": "",
             "related_to": " Atlético Madrid U-19 vs Manchester Utd U-19 "
+        },
+        {
+            "compet": "Türkiye 1. Lig - Week 10",
+            "match": " Sariyer vs Bodrumspor ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "turkey"
+            },
+            "time": "14:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Sariyer vs Bodrumspor "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sariyer vs Bodrumspor "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11637 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sariyer vs Bodrumspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Sariyer vs Bodrumspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA (BISS)",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Sariyer vs Bodrumspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11794 R 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Sariyer vs Bodrumspor "
         },
         {
             "compet": "Portuguese Liga Next Gen - Week 8",
@@ -1847,6 +1869,64 @@
             "related_to": " Juventus U-23 vs Lumezzane "
         },
         {
+            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [3-1]",
+            "match": " Ukraine vs Slovakia ",
+            "flags": {
+                "team1": "ukraine",
+                "team2": "slovakia"
+            },
+            "time": "15:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "Megogo Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " Ukraine vs Slovakia "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Ukraine vs Slovakia "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12073 H 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Ukraine vs Slovakia "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " Ukraine vs Slovakia "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "HD Conax",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " Ukraine vs Slovakia "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11747 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " Ukraine vs Slovakia "
+        },
+        {
             "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [1-3]",
             "match": " Serbia vs Finland ",
             "flags": {
@@ -1879,48 +1959,6 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Serbia vs Finland "
-        },
-        {
-            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [3-1]",
-            "match": " Ukraine vs Slovakia ",
-            "flags": {
-                "team1": "ukraine",
-                "team2": "slovakia"
-            },
-            "time": "15:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "Megogo Futbol 1📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
-            "related_to": " Ukraine vs Slovakia "
-        },
-        {
-            "channel": "STVR Šport Slovakia HD 📺",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12012 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "https://www.stvr.sk/televizia/sport",
-            "related_to": " Ukraine vs Slovakia "
-        },
-        {
-            "channel": "STVR Šport Slovakia HD 📺",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11094 V 27500 - 4/5",
-            "encry": "HD Conax",
-            "link": "https://www.stvr.sk/televizia/sport",
-            "related_to": " Ukraine vs Slovakia "
-        },
-        {
-            "channel": "STVR Šport Slovakia HD 📺",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11747 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "https://www.stvr.sk/televizia/sport",
-            "related_to": " Ukraine vs Slovakia "
         },
         {
             "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [3-3]",
@@ -2273,6 +2311,14 @@
             "related_to": " Germany vs Japan "
         },
         {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Germany vs Japan "
+        },
+        {
             "channel": "YouTube: German Football📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2289,6 +2335,14 @@
             },
             "time": "16:00",
             "date": "2026-10-13"
+        },
+        {
+            "channel": "Al Kass 5 HD 📺",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": " Al Sadd vs Al Hilal "
         },
         {
             "channel": "Astro Grandstand HD",
@@ -2419,10 +2473,42 @@
             "related_to": " Al Sadd vs Al Hilal "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
             "channel": "Q Sport Football HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Al Sadd vs Al Hilal "
         },
@@ -2483,6 +2569,38 @@
             "related_to": " Al Sadd vs Al Hilal "
         },
         {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11135 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3918 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Al Sadd vs Al Hilal "
+        },
+        {
             "channel": "TV Start Russia HD",
             "sat": "ABS 2A 75.0°e",
             "freq": "11605 V 43200 - 7/8",
@@ -2531,6 +2649,40 @@
             "related_to": " Al Sadd vs Al Hilal "
         },
         {
+            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [0-1]",
+            "match": " Poland vs Belgium ",
+            "flags": {
+                "team1": "poland",
+                "team2": "belgium"
+            },
+            "time": "16:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Poland vs Belgium "
+        },
+        {
+            "channel": "RTBF Tipik Belgique",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11411 H 27500 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Poland vs Belgium "
+        },
+        {
+            "channel": "TVP Sport Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10834 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Poland vs Belgium "
+        },
+        {
             "compet": "AFC Champions League 2 - Group Stage - 2",
             "match": " Al Seeb vs Al Hussein ",
             "flags": {
@@ -2539,6 +2691,14 @@
             },
             "time": "16:00",
             "date": "2026-10-13"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Al Seeb vs Al Hussein "
         },
         {
             "channel": "beIN Sports MENA 5 HD",
@@ -2689,30 +2849,38 @@
             "related_to": " Torreense U-23 vs Leixões U-23 "
         },
         {
-            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [0-1]",
-            "match": " Poland vs Belgium ",
+            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [2-1]",
+            "match": " Austria vs Kosovo ",
             "flags": {
-                "team1": "poland",
-                "team2": "belgium"
+                "team1": "austria",
+                "team2": "kosova"
             },
             "time": "16:00",
             "date": "2026-10-13"
         },
         {
-            "channel": "RTBF Tipik Belgique",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11411 H 27500 - 5/6",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Poland vs Belgium "
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria vs Kosovo "
         },
         {
-            "channel": "TVP Sport Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "10834 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Poland vs Belgium "
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12466 V 41950 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria vs Kosovo "
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12565 V 30000 - 5/6",
+            "encry": "HD Panaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria vs Kosovo "
         },
         {
             "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [2-0]",
@@ -2747,40 +2915,6 @@
             "encry": "",
             "link": "https://play.tv2.no/sport",
             "related_to": " Norway vs Romania "
-        },
-        {
-            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [2-1]",
-            "match": " Austria vs Kosovo ",
-            "flags": {
-                "team1": "austria",
-                "team2": "kosova"
-            },
-            "time": "16:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "ORF 1 Austria HD 📺",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11303 H 22000 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://on.orf.at/live?channel=orf1",
-            "related_to": " Austria vs Kosovo "
-        },
-        {
-            "channel": "ORF 1 Austria HD 📺",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12466 V 41950 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "https://on.orf.at/live?channel=orf1",
-            "related_to": " Austria vs Kosovo "
-        },
-        {
-            "channel": "ORF 1 Austria HD 📺",
-            "sat": "Astra 4A 5.0°e",
-            "freq": "12565 V 30000 - 5/6",
-            "encry": "HD Panaccess",
-            "link": "https://on.orf.at/live?channel=orf1",
-            "related_to": " Austria vs Kosovo "
         },
         {
             "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [2-0]",
@@ -3115,6 +3249,14 @@
             "related_to": " Sabah vs Slavia Prague "
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Sabah vs Slavia Prague "
+        },
+        {
             "channel": "Pickx+ Sports 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3223,6 +3365,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Sabah vs Slavia Prague "
+        },
+        {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Sabah vs Slavia Prague "
         },
@@ -3387,6 +3537,14 @@
             "related_to": " Sabah vs Slavia Prague "
         },
         {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Sabah vs Slavia Prague "
+        },
+        {
             "channel": "TSN Malta 8 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3424,6 +3582,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
+            "related_to": " Sabah vs Slavia Prague "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
             "related_to": " Sabah vs Slavia Prague "
         },
         {
@@ -3805,6 +3971,14 @@
             "related_to": " Lens vs Sporting Lisbon "
         },
         {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Lens vs Sporting Lisbon "
+        },
+        {
             "channel": "Pickx+ Sports 2 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3901,6 +4075,22 @@
             "related_to": " Lens vs Sporting Lisbon "
         },
         {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Lens vs Sporting Lisbon "
+        },
+        {
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11130 H 32720 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Lens vs Sporting Lisbon "
+        },
+        {
             "channel": "Sport 1 Hungary HD",
             "sat": "Thor 6 0.8°w",
             "freq": "12034 V 30000 - 3/4",
@@ -3989,6 +4179,14 @@
             "related_to": " Lens vs Sporting Lisbon "
         },
         {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Lens vs Sporting Lisbon "
+        },
+        {
             "channel": "TSN Malta 7 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4069,6 +4267,14 @@
             "related_to": " Lens vs Sporting Lisbon "
         },
         {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Lens vs Sporting Lisbon "
+        },
+        {
             "channel": "We Sport Moldova",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4091,6 +4297,116 @@
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Lens vs Sporting Lisbon "
+        },
+        {
+            "compet": "German 3. Liga - Week 9",
+            "match": " Saarbrücken vs Duisburg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Saarbrücken vs Duisburg "
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Saarbrücken vs Duisburg "
+        },
+        {
+            "channel": "Magenta Deutsch Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " Saarbrücken vs Duisburg "
+        },
+        {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Saarbrücken vs Duisburg "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Saarbrücken vs Duisburg "
+        },
+        {
+            "compet": "German Regionalliga: Bayern - Week 14",
+            "match": " 1860 Munich vs Bayreuth ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "BR24 Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.br.de/nachrichten/sport",
+            "related_to": " 1860 Munich vs Bayreuth "
+        },
+        {
+            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [5-0]",
+            "match": " Sweden vs Lithuania ",
+            "flags": {
+                "team1": "sweden",
+                "team2": "lithuania"
+            },
+            "time": "17:00",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "ESPN 2 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Sweden vs Lithuania "
+        },
+        {
+            "channel": "SVT 2 Sverige HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sweden vs Lithuania "
+        },
+        {
+            "channel": "SVT 24 Sverige HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11216 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sweden vs Lithuania "
+        },
+        {
+            "channel": "SVT Play HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.svtplay.se/",
+            "related_to": " Sweden vs Lithuania "
         },
         {
             "compet": "Türkiye 1. Lig - Week 10",
@@ -4157,82 +4473,6 @@
             "encry": "Free To Air",
             "link": "",
             "related_to": " Pendikspor vs Vanspor "
-        },
-        {
-            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [5-0]",
-            "match": " Sweden vs Lithuania ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "lithuania"
-            },
-            "time": "17:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "ESPN 2 Brazil HD",
-            "sat": "SES 6 40.5°w",
-            "freq": "3980 L 21600 - 3/4",
-            "encry": "HD PowerVu",
-            "link": "",
-            "related_to": " Sweden vs Lithuania "
-        },
-        {
-            "channel": "SVT 2 Sverige HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11216 V 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Sweden vs Lithuania "
-        },
-        {
-            "channel": "SVT 24 Sverige HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11216 V 25000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Sweden vs Lithuania "
-        },
-        {
-            "channel": "SVT Play HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.svtplay.se/",
-            "related_to": " Sweden vs Lithuania "
-        },
-        {
-            "compet": "German 3. Liga - Week 9",
-            "match": " Saarbrücken vs Duisburg ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "17:00",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "Magenta Deutsch Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": " Saarbrücken vs Duisburg "
-        },
-        {
-            "channel": "SportKlub 4 Hrvatska",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Saarbrücken vs Duisburg "
-        },
-        {
-            "channel": "SportKlub 4 Slovenija",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Saarbrücken vs Duisburg "
         },
         {
             "compet": "German 3. Liga - Week 9",
@@ -4823,6 +5063,14 @@
             "date": "2026-10-13"
         },
         {
+            "channel": "Al Kass 5 HD 📺",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=five",
+            "related_to": " Al Ittihad vs Shabab Al Ahli "
+        },
+        {
             "channel": "Astro Football HD",
             "sat": "Measat 3b 91.5°e",
             "freq": "10932 V 30000 - 5/6",
@@ -4943,6 +5191,38 @@
             "related_to": " Al Ittihad vs Shabab Al Ahli "
         },
         {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Al Ittihad vs Shabab Al Ahli "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Al Ittihad vs Shabab Al Ahli "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11135 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Al Ittihad vs Shabab Al Ahli "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3918 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Al Ittihad vs Shabab Al Ahli "
+        },
+        {
             "channel": "TV Start Russia HD",
             "sat": "ABS 2A 75.0°e",
             "freq": "11605 V 43200 - 7/8",
@@ -4989,48 +5269,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": " Al Ittihad vs Shabab Al Ahli "
-        },
-        {
-            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [4-0]",
-            "match": " Portugal vs Northern Ireland ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "nireland"
-            },
-            "time": "18:15",
-            "date": "2026-10-13"
-        },
-        {
-            "channel": "BBC iPlayer📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Portugal vs Northern Ireland "
-        },
-        {
-            "channel": "BBC iPlayer 4K📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.co.uk/iplayer",
-            "related_to": " Portugal vs Northern Ireland "
-        },
-        {
-            "channel": "BBC Sport Website📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.bbc.com/sport/live-guide",
-            "related_to": " Portugal vs Northern Ireland "
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Portugal vs Northern Ireland "
         },
         {
             "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [2-0]",
@@ -5105,6 +5343,48 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Scotland vs Czechia "
+        },
+        {
+            "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [4-0]",
+            "match": " Portugal vs Northern Ireland ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "nireland"
+            },
+            "time": "18:15",
+            "date": "2026-10-13"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Portugal vs Northern Ireland "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Portugal vs Northern Ireland "
+        },
+        {
+            "channel": "BBC Sport Website📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": " Portugal vs Northern Ireland "
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal vs Northern Ireland "
         },
         {
             "compet": "FIFA Womens World Cup 2027 Qualifiers - Round 1 Play-Off (2nd Leg) [1-0]",
@@ -5236,6 +5516,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " England vs Greece "
+        },
+        {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
             "related_to": " England vs Greece "
         },
         {
@@ -6115,6 +6403,30 @@
             "related_to": " RB Leipzig vs PSV Eindhoven "
         },
         {
+            "channel": "Megogo Futbol 8",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " RB Leipzig vs PSV Eindhoven "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " RB Leipzig vs PSV Eindhoven "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12073 H 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " RB Leipzig vs PSV Eindhoven "
+        },
+        {
             "channel": "New World Sport 7 Togo",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "12604 H 30000 - 3/4",
@@ -6131,34 +6443,10 @@
             "related_to": " RB Leipzig vs PSV Eindhoven "
         },
         {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12565 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " RB Leipzig vs PSV Eindhoven "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12290 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " RB Leipzig vs PSV Eindhoven "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " RB Leipzig vs PSV Eindhoven "
-        },
-        {
-            "channel": "Prima Sport RO 2 HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "12188 V 28000 - 7/8",
-            "encry": "NagraVision",
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " RB Leipzig vs PSV Eindhoven "
         },
@@ -6477,11 +6765,59 @@
             "related_to": " Galatasaray vs Barcelona "
         },
         {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
             "channel": "HBO Max📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12265 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11900 V 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11881 H 27500 - 5/6",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12303 H 32000 - 3/4",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
             "related_to": " Galatasaray vs Barcelona "
         },
         {
@@ -6581,6 +6917,14 @@
             "related_to": " Galatasaray vs Barcelona "
         },
         {
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
             "channel": "Movistar Plus+ HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11097 V 22000 - 5/6",
@@ -6634,6 +6978,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
             "related_to": " Galatasaray vs Barcelona "
         },
         {
@@ -6781,6 +7133,14 @@
             "related_to": " Galatasaray vs Barcelona "
         },
         {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
             "channel": "Sony Sports TEN 5 India HD",
             "sat": "G-Sat 10 83.0°e",
             "freq": "11840 V 32720 - 3/4",
@@ -6865,6 +7225,14 @@
             "sat": "Astra 2G 28.2°e",
             "freq": "11597 V 22000 - 5/6",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "Tring Sport 2 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Galatasaray vs Barcelona "
         },
@@ -6954,6 +7322,14 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
+            "related_to": " Galatasaray vs Barcelona "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
             "related_to": " Galatasaray vs Barcelona "
         },
         {
@@ -7127,6 +7503,14 @@
             "related_to": " Viking vs Bayern Munich "
         },
         {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Viking vs Bayern Munich "
+        },
+        {
             "channel": "MTV MAX Suomi HD",
             "sat": "Thor 6 0.8°w",
             "freq": "10841 H 25000 - 3/4",
@@ -7287,6 +7671,14 @@
             "related_to": " Viking vs Bayern Munich "
         },
         {
+            "channel": "Tring Sport 4 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Viking vs Bayern Munich "
+        },
+        {
             "channel": "TSN Malta 7 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -7340,6 +7732,14 @@
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Viking vs Bayern Munich "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
             "related_to": " Viking vs Bayern Munich "
         },
         {
@@ -7689,6 +8089,30 @@
             "related_to": " Atlético Madrid vs Manchester United "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Atlético Madrid vs Manchester United "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Atlético Madrid vs Manchester United "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Atlético Madrid vs Manchester United "
+        },
+        {
             "channel": "Pickx+ Sports 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -7773,6 +8197,14 @@
             "sat": "KazSat 3 58.5°e",
             "freq": "10720 H 30000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Atlético Madrid vs Manchester United "
+        },
+        {
+            "channel": "Silk Sport 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Atlético Madrid vs Manchester United "
         },
@@ -7929,6 +8361,14 @@
             "related_to": " Atlético Madrid vs Manchester United "
         },
         {
+            "channel": "Tring Sport 1 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Atlético Madrid vs Manchester United "
+        },
+        {
             "channel": "TSN Malta 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -7990,6 +8430,14 @@
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Atlético Madrid vs Manchester United "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
             "related_to": " Atlético Madrid vs Manchester United "
         },
         {
@@ -8227,6 +8675,14 @@
             "related_to": " Arsenal vs Lille "
         },
         {
+            "channel": "Megogo Futbol 4",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lille "
+        },
+        {
             "channel": "MTV Urheilu 3 Suomi HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -8279,6 +8735,14 @@
             "sat": "Intelsat 10-02 1.0°w",
             "freq": "12527 H 28800 - 3/5",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arsenal vs Lille "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Arsenal vs Lille "
         },
@@ -8507,6 +8971,14 @@
             "related_to": " Arsenal vs Lille "
         },
         {
+            "channel": "Tring Sport 5 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Arsenal vs Lille "
+        },
+        {
             "channel": "TSN Malta 2 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -8576,6 +9048,14 @@
             "freq": "11856 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
+            "related_to": " Arsenal vs Lille "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
             "related_to": " Arsenal vs Lille "
         },
         {
@@ -8757,6 +9237,14 @@
             "related_to": " Inter Milan vs Club Brugge "
         },
         {
+            "channel": "Megogo Futbol 7",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Inter Milan vs Club Brugge "
+        },
+        {
             "channel": "New World Sport 6 Togo",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "12604 H 30000 - 3/4",
@@ -8913,6 +9401,14 @@
             "sat": "Astra 2G 28.2°e",
             "freq": "11582 H 23000 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Inter Milan vs Club Brugge "
+        },
+        {
+            "channel": "Tring Sport 3 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Inter Milan vs Club Brugge "
         },
@@ -9103,6 +9599,14 @@
             "related_to": " Villarreal vs Napoli "
         },
         {
+            "channel": "Megogo Futbol 6",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Villarreal vs Napoli "
+        },
+        {
             "channel": "New World Sport 4 Togo",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "12604 H 30000 - 3/4",
@@ -9211,6 +9715,14 @@
             "sat": "Astra 2G 28.2°e",
             "freq": "11597 V 22000 - 5/6",
             "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Villarreal vs Napoli "
+        },
+        {
+            "channel": "Tring Sport 6 HD",
+            "sat": "Hellas Sat 4 39.0°e",
+            "freq": "10890 H 30000 - 5/6",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Villarreal vs Napoli "
         },

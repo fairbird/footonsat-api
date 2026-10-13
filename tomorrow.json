@@ -35,6 +35,14 @@
             "related_to": " Boca Juniors vs Vasco da Gama "
         },
         {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Boca Juniors vs Vasco da Gama "
+        },
+        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11678 H 30000 - 3/4",
@@ -225,6 +233,38 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11135 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3918 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Melbourne Victory vs FC Seoul "
         },
@@ -809,6 +849,40 @@
             "related_to": " Persib Bandung vs Viettel "
         },
         {
+            "compet": "Slovak Cup - 4th Round",
+            "match": " Velke Ludince vs MFK Zvolen ",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "slovakia"
+            },
+            "time": "12:30",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " Velke Ludince vs MFK Zvolen "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "HD Conax",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " Velke Ludince vs MFK Zvolen "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11747 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " Velke Ludince vs MFK Zvolen "
+        },
+        {
             "compet": "Norwegian 1. Divisjon - Week 26",
             "match": " Strømmen vs Åsane ",
             "flags": {
@@ -1236,32 +1310,6 @@
         },
         {
             "compet": "UEFA Youth League (U-19) - Round 2",
-            "match": " Real Betis U-19 vs FC Porto U-19 ",
-            "flags": {
-                "team1": "spain",
-                "team2": "portugal"
-            },
-            "time": "14:00",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis U-19 vs FC Porto U-19 "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Real Betis U-19 vs FC Porto U-19 "
-        },
-        {
-            "compet": "UEFA Youth League (U-19) - Round 2",
             "match": " Manchester City U-19 vs Paris St Germain U-19 ",
             "flags": {
                 "team1": "england",
@@ -1324,6 +1372,22 @@
             "freq": "10758 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12073 H 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
         },
         {
@@ -1399,6 +1463,14 @@
             "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
+        },
+        {
             "channel": "SÝN Sport 1 Ísland HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1447,12 +1519,46 @@
             "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
         },
         {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
+        },
+        {
             "channel": "Ziggo Sport 2",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
             "encry": "MPEG-4 Nagra",
             "link": "",
             "related_to": " Manchester City U-19 vs Paris St Germain U-19 "
+        },
+        {
+            "compet": "UEFA Youth League (U-19) - Round 2",
+            "match": " Real Betis U-19 vs FC Porto U-19 ",
+            "flags": {
+                "team1": "spain",
+                "team2": "portugal"
+            },
+            "time": "14:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Betis U-19 vs FC Porto U-19 "
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Real Betis U-19 vs FC Porto U-19 "
         },
         {
             "compet": "Russian Cup (Kubok Rossii) - Group Stage: Round 4",
@@ -1933,6 +2039,96 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": " Al Taawoun vs Al Rayyan "
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 2",
+            "match": " Kuwait SC vs Al Khalidiya ",
+            "flags": {
+                "team1": "kuwait",
+                "team2": "bahrain"
+            },
+            "time": "16:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12482 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12117 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": " Kuwait SC vs Al Khalidiya "
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 2",
@@ -2453,6 +2649,14 @@
             "related_to": " LASK Linz vs Liverpool "
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " LASK Linz vs Liverpool "
+        },
+        {
             "channel": "Tabii Spor Türkiye📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2522,6 +2726,14 @@
             "freq": "11856 V 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
+            "related_to": " LASK Linz vs Liverpool "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
             "related_to": " LASK Linz vs Liverpool "
         },
         {
@@ -2967,6 +3179,14 @@
             "related_to": " Feyenoord vs Como 1907 "
         },
         {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Feyenoord vs Como 1907 "
+        },
+        {
             "channel": "Ziggo Sport 1 HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
@@ -3108,6 +3328,40 @@
         },
         {
             "compet": "German 3. Liga - Week 9",
+            "match": " Viktoria Cologne vs Sonnenhof Großaspach ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11230 H 45000 - 8/9",
+            "encry": "HD Panaccess",
+            "link": "",
+            "related_to": " Viktoria Cologne vs Sonnenhof Großaspach "
+        },
+        {
+            "channel": "Kanal 1 Xtra Slovakia HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Viktoria Cologne vs Sonnenhof Großaspach "
+        },
+        {
+            "channel": "Magenta Deutsch Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " Viktoria Cologne vs Sonnenhof Großaspach "
+        },
+        {
+            "compet": "German 3. Liga - Week 9",
             "match": " Preußen Münster vs Fortuna Düsseldorf ",
             "flags": {
                 "team1": "germany",
@@ -3167,24 +3421,6 @@
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
             "related_to": " SC Verl vs Jahn Regensburg "
-        },
-        {
-            "compet": "German 3. Liga - Week 9",
-            "match": " Viktoria Cologne vs Sonnenhof Großaspach ",
-            "flags": {
-                "team1": "germany",
-                "team2": "germany"
-            },
-            "time": "17:00",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "Magenta Deutsch Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
-            "related_to": " Viktoria Cologne vs Sonnenhof Großaspach "
         },
         {
             "compet": "German 3. Liga - Week 9",
@@ -3543,11 +3779,27 @@
             "date": "2026-10-14"
         },
         {
+            "channel": "JOJ Šport 2 SVK HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11055 V 27500 - 4/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " União Santarém vs Gil Vicente "
+        },
+        {
             "channel": "Laola1 Live Stream📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.laola1.at/de/tvthek/livestreams/",
+            "related_to": " União Santarém vs Gil Vicente "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
             "related_to": " União Santarém vs Gil Vicente "
         },
         {
@@ -3565,96 +3817,6 @@
             "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " União Santarém vs Gil Vicente "
-        },
-        {
-            "compet": "AFC Champions League 2 - Group Stage - 2",
-            "match": " Kuwait SC vs Al Khalidiya ",
-            "flags": {
-                "team1": "kuwait",
-                "team2": "bahrain"
-            },
-            "time": "18:15",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12560 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12482 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12117 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": " Kuwait SC vs Al Khalidiya "
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 2",
@@ -3930,101 +4092,141 @@
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": " Bodø/Glimt vs Borussia Dortmund ",
+            "match": " Roma vs Real Madrid ",
             "flags": {
-                "team1": "norway",
-                "team2": "germany"
+                "team1": "italy",
+                "team2": "spain"
             },
             "time": "19:00",
             "date": "2026-10-14"
         },
         {
-            "channel": "Arena Sport 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11895 V 30000 - 3/4",
+            "channel": "Arena M3 Premium MKD HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Arena Sport 3 Srbija HD",
+            "channel": "Arena Premium 2 BiH HD",
             "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
+            "freq": "0000 0",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Arena Sport 6 Hrvatska HD",
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
             "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11554 V 30000 - 5/6",
-            "encry": "HD NagraVision",
+            "freq": "11429 V 28330 - 3/5",
+            "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Arena Sport 6 Hrvatska HD",
+            "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11595 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "ART Motion Sport 3 HD 📺",
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "ART Motion Sport 1 HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://artmotion.net/tv/",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "beIN Sports MENA 6 HD",
+            "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
+            "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "beIN Sports MENA 6 HD",
+            "channel": "beIN Sports MENA 3 HD",
             "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
+            "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Blue Sport 2 Live HD",
+            "channel": "beIN Sports MENA French 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Blue Sport 1 Live UHD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Blue Sport 4 Live HDR",
+            "channel": "Blue Sport 2 Live HDR",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Canal+ Extra 5 Polska HD",
+            "channel": "Blue Sport D 2 HD",
             "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
+            "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "DAZN 1 Bar Deutsch HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12070 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
+            "channel": "Canal+ 360 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11411 H 27500 - 5/6",
+            "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Canal+ Sport 6 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11449 H 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
         },
         {
             "channel": "DAZN Deutsch",
@@ -4032,7 +4234,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
             "channel": "DAZN Portugal",
@@ -4040,15 +4242,31 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Fast Sports 2 Armenia📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://fasttv.am/tv-channels/fastsports2",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Digi Sport 2 Romania HD",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12687 H 27500 - 3/4",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Fast Sports TV Armenia 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Roma vs Real Madrid "
         },
         {
             "channel": "HBO Max📺",
@@ -4056,95 +4274,247 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.hbomax.com",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "M+ Liga de Campeones 7",
+            "channel": "M+ Liga de Campeones HD",
             "sat": "Astra 1KR 19.2°e",
-            "freq": "11686 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
-        },
-        {
-            "channel": "Magenta Hellas Sport 5 HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11938 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
-        },
-        {
-            "channel": "Magenta Hellas Sport 5 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12169 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12090 V 29900 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
-        },
-        {
-            "channel": "Nova Sport 6 Czech HD",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12527 H 28800 - 3/5",
+            "freq": "11259 V 22000 - 2/3",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Pickx+ Sports 6 HD",
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Magenta Hellas Sport 3 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Magenta Hellas Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12399 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Magenta Hellas Sport Start",
+            "sat": "0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Megogo Futbol 4",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Premier Sports 4 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
+            "channel": "Meraj TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11221 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Premier Sports 4 Mongolia HD",
-            "sat": "Koreasat 5 113.0°e",
-            "freq": "11553 V 43200 - 5/6",
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Nova Sport 4 Czech HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11977 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Prima Sport RO 4 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12405 V 30000 - 7/8",
-            "encry": "Viaccess",
+            "channel": "Pickx+ Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Prima Sport RO 4 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12606 V 30000 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "channel": "PLAY RTS Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Q Sport Football HD",
+            "channel": "PLAY SRF📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12477 H 45000 - 2/3",
+            "encry": "HD Verimatrix",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Premier Sports 1 Mongolia HD",
+            "sat": "Koreasat 5 113.0°e",
+            "freq": "11553 V 43200 - 5/6",
+            "encry": "HD Tongfang",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11495 V 09000 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 2 86.5°e",
+            "freq": "11660 V 14663 - 8/9",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10846 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10804 H 30000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "QazSport HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10846 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12482 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12309 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12463 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Ring Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12418 H 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": " Roma vs Real Madrid "
         },
         {
             "channel": "RTL+ Hungary📺",
@@ -4152,79 +4522,135 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Sky Sport 255 Italia HD",
+            "channel": "RTS 2 Suisse HD 📺",
             "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Sky Sport 255 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12418 V 29900 - 5/6",
+            "channel": "Sky Sport 3 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Sky Sport 4 Austria HD",
-            "sat": "Astra 1N 19.2°e",
-            "freq": "12382 H 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
-        },
-        {
-            "channel": "Sony Sports TEN 5 India HD",
+            "channel": "Sony Sports TEN 2 India HD",
             "sat": "G-Sat 10 83.0°e",
-            "freq": "11840 V 32720 - 3/4",
+            "freq": "11090 V 32720 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Sony Sports TEN 5 India HD",
+            "channel": "Sony Sports TEN 2 India HD",
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11130 H 32720 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Sony Sports TEN 3 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11090 V 32720 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Sony Sports TEN 3 India HD",
+            "sat": "Insat 4A 83.0°e",
+            "freq": "11170 H 32720 - 2/3",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Sony Sports TEN 4 India HD",
             "sat": "Intelsat 20 68.5°e",
-            "freq": "3930 H 25000 - 2/3",
-            "encry": "HD VideoGuard",
+            "freq": "3868 H 14450 - 3/4",
+            "encry": "MPEG-4 NDS",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Tabii Spor 3",
+            "channel": "Sport TV Azerbaijan",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "TNT Sports 5 HD",
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "SRF Zwei Schweiz HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Panaccess",
+            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Tabii Spor 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "TNT Sports 10",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11597 V 23000 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "TNT Sports 4 HD",
             "sat": "Astra 2G 28.2°e",
             "freq": "11597 V 22000 - 5/6",
             "encry": "VideoGuard",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "TNT Sports 5 HD",
+            "channel": "TNT Sports 4 HD",
             "sat": "Astra 2G 28.2°e",
             "freq": "11582 H 23000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "TSN Malta 5 HD",
+            "channel": "TSN Malta 2 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "TVP 1 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11449 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -4232,7 +4658,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -4240,7 +4666,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
             "channel": "ViaPlay Ísland HD",
@@ -4248,15 +4674,329 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Roma vs Real Madrid "
         },
         {
-            "channel": "Ziggo Sport 6",
+            "channel": "Virgin Media PLAY",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Virgin Media TV",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Virgin Media Two HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "We Sport Moldova",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "channel": "Ziggo Sport 3",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Roma vs Real Madrid "
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": " Slovan Bratislava vs Stuttgart ",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "germany"
+            },
+            "time": "19:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Arena Sport 4 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Arena Sport 9 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "ART Motion Sport 5 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "beIN Sports MENA 7 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Blue Sport 5 Live HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Canal+ Extra 7 Polska HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "M+ Liga de Campeones 8",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Magenta Hellas Sport 8 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Magenta Hellas Sport 8 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12399 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Megogo Futbol 8",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12129 V 29900 - 3/4",
-            "encry": "MPEG-4 Viaccess",
+            "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11973 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12456 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11747 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Nova Sport 5 Czech HD",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12527 H 28800 - 3/5",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Pickx+ Sports 7 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "RTL+ Hungary📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Sky Sport 257 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11900 H 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Sky Sport 257 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Sky Sport 6 Austria HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "Tabii Spor 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "TNT Sports 7",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "TSN Malta 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Slovan Bratislava vs Stuttgart "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Slovan Bratislava vs Stuttgart "
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
@@ -5021,6 +5761,14 @@
             "related_to": " Manchester City vs Paris St Germain "
         },
         {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Manchester City vs Paris St Germain "
+        },
+        {
             "channel": "VTM 2 Belgium HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "11856 V 29900 - 3/4",
@@ -5046,671 +5794,101 @@
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": " Roma vs Real Madrid ",
+            "match": " Bodø/Glimt vs Borussia Dortmund ",
             "flags": {
-                "team1": "italy",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "Arena M3 Premium MKD HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12246 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11429 V 28330 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11554 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "ART Motion Sport 1 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Blue Sport 1 Live UHD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Blue Sport 2 Live HDR",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Blue Sport D 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Canal+ 360 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11411 H 27500 - 5/6",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Canal+ Sport 6 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11449 H 27500 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Digi Sport 2 Romania HD",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12687 H 27500 - 3/4",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Fast Sports TV Armenia 📺",
-            "sat": "Eutelsat 70B 70.5°e",
-            "freq": "11050 H 20030 - 1/2",
-            "encry": "MPEG-4 Biss",
-            "link": "https://fasttv.am/tv-channels/fastsports",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "HBO Max📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Magenta Hellas Sport 3 HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12169 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Magenta Hellas Sport 3 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12399 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Magenta Hellas Sport Start",
-            "sat": "0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Nova Sport 4 Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11934 V 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Nova Sport 4 Czech HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11977 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Pickx+ Sports 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "PLAY RTS Sport📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.rts.ch/play/tv/categories/sport",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "PLAY SRF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.srf.ch/play/tv/sport-livestreams",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Premier Sports 1 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12477 H 45000 - 2/3",
-            "encry": "HD Verimatrix",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Premier Sports 1 Mongolia HD",
-            "sat": "Koreasat 5 113.0°e",
-            "freq": "11553 V 43200 - 5/6",
-            "encry": "HD Tongfang",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12290 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 2 86.5°e",
-            "freq": "11495 V 09000 - 8/9",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 2 86.5°e",
-            "freq": "11660 V 14663 - 8/9",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10846 H 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10804 H 30000 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12657 V 45000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "QazSport HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10846 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "11555 V 30000 - 3/4",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12482 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12309 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12463 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Ring Bulgaria HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12418 H 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "RSI La 2 Svizzera HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "RTL+ Hungary📺",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "RTS 2 Suisse HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Sky Sport 3 Austria HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11758 H 27500 - 9/10",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Sony Sports TEN 2 India HD",
-            "sat": "G-Sat 10 83.0°e",
-            "freq": "11090 V 32720 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Sony Sports TEN 2 India HD",
-            "sat": "Insat 4A 83.0°e",
-            "freq": "11130 H 32720 - 2/3",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Sony Sports TEN 3 India HD",
-            "sat": "G-Sat 10 83.0°e",
-            "freq": "11090 V 32720 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Sony Sports TEN 3 India HD",
-            "sat": "Insat 4A 83.0°e",
-            "freq": "11170 H 32720 - 2/3",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Sony Sports TEN 4 India HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "3868 H 14450 - 3/4",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Sport TV Azerbaijan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "SRF Zwei Schweiz HD 📺",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "10971 H 29700 - 2/3",
-            "encry": "HD Panaccess",
-            "link": "https://www.srf.ch/play/tv/live?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Tabii Spor 1",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "TNT Sports 10",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11597 V 23000 - 2/3",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "TNT Sports 4 HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "TNT Sports 4 HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11582 H 23000 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "TSN Malta 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "TVP 1 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11449 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Virgin Media PLAY",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Virgin Media TV",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Virgin Media Two HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11856 V 27500 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "We Sport Moldova",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "channel": "Ziggo Sport 3",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Roma vs Real Madrid "
-        },
-        {
-            "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": " Slovan Bratislava vs Stuttgart ",
-            "flags": {
-                "team1": "slovakia",
+                "team1": "norway",
                 "team2": "germany"
             },
             "time": "19:00",
             "date": "2026-10-14"
         },
         {
-            "channel": "Arena Sport 1 BiH HD",
+            "channel": "Arena Sport 3 BiH HD",
             "sat": "Astra 3B 23.5°e",
-            "freq": "11720 H 30000 - 3/4",
+            "freq": "11895 V 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Arena Sport 4 Srbija HD",
+            "channel": "Arena Sport 3 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11798 H 30000 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Arena Sport 9 Hrvatska HD",
+            "channel": "Arena Sport 6 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
+            "freq": "11554 V 30000 - 5/6",
             "encry": "HD NagraVision",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "ART Motion Sport 5 HD 📺",
+            "channel": "Arena Sport 6 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "ART Motion Sport 3 HD 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://artmotion.net/tv/",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "beIN Sports MENA 7 HD",
+            "channel": "beIN Sports MENA 6 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
+            "freq": "10810 V 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "beIN Sports MENA 7 HD",
+            "channel": "beIN Sports MENA 6 HD",
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11054 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Blue Sport 5 Live HD",
+            "channel": "Blue Sport 2 Live HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Canal+ Extra 7 Polska HD",
+            "channel": "Blue Sport 4 Live HDR",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Canal+ Extra 5 Polska HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "DAZN 1 Bar Deutsch HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12070 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "channel": "DAZN Deutsch",
@@ -5718,7 +5896,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "channel": "DAZN Portugal",
@@ -5726,7 +5904,15 @@
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Fast Sports 2 Armenia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://fasttv.am/tv-channels/fastsports2",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "channel": "HBO Max📺",
@@ -5734,87 +5920,119 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.hbomax.com",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "M+ Liga de Campeones 8",
+            "channel": "M+ Liga de Campeones 7",
             "sat": "Astra 1KR 19.2°e",
             "freq": "11686 V 22000 - 5/6",
             "encry": "Seca",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Magenta Hellas Sport 8 HD",
+            "channel": "Magenta Hellas Sport 5 HD",
             "sat": "Hotbird 13F 13.0°e",
-            "freq": "12130 H 30000 - 5/6",
+            "freq": "11938 H 30000 - 5/6",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Magenta Hellas Sport 8 HD",
+            "channel": "Magenta Hellas Sport 5 HD",
             "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12399 H 27500 - 2/3",
+            "freq": "12169 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Nova Sport 5 Czech HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12129 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
-        },
-        {
-            "channel": "Nova Sport 5 Czech HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11973 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
-        },
-        {
-            "channel": "Nova Sport 5 Czech HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "12456 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
-        },
-        {
-            "channel": "Nova Sport 5 Czech HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "11747 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
-        },
-        {
-            "channel": "Nova Sport 5 Czech HD",
-            "sat": "Intelsat 10-02 1.0°w",
-            "freq": "12527 H 28800 - 3/5",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
-        },
-        {
-            "channel": "Pickx+ Sports 7 HD",
+            "channel": "Megogo Futbol 6",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Prima Sport RO PPV 2",
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12073 H 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12090 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Nova Sport 6 Czech HD",
+            "sat": "Intelsat 10-02 1.0°w",
+            "freq": "12527 H 28800 - 3/5",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Pickx+ Sports 6 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Premier Sports 4 Mongolia HD",
+            "sat": "Koreasat 5 113.0°e",
+            "freq": "11553 V 43200 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12405 V 30000 - 7/8",
+            "encry": "Viaccess",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Prima Sport RO 4 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12606 V 30000 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Q Sport Football HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "channel": "RTL+ Hungary📺",
@@ -5822,55 +6040,79 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Sky Sport 257 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11900 H 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
-        },
-        {
-            "channel": "Sky Sport 257 Italia HD",
+            "channel": "Sky Sport 255 Italia HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12073 V 29900 - 5/6",
             "encry": "VideoGuard",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Sky Sport 6 Austria HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11798 H 27500 - 9/10",
+            "channel": "Sky Sport 255 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 5/6",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "Tabii Spor 5",
+            "channel": "Sky Sport 4 Austria HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12382 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sony Sports TEN 5 India HD",
+            "sat": "G-Sat 10 83.0°e",
+            "freq": "11840 V 32720 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Sony Sports TEN 5 India HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "3930 H 25000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Tabii Spor 3",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "TNT Sports 7",
+            "channel": "TNT Sports 5 HD",
             "sat": "Astra 2G 28.2°e",
             "freq": "11597 V 22000 - 5/6",
             "encry": "VideoGuard",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
-            "channel": "TSN Malta 8 HD",
+            "channel": "TNT Sports 5 HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11582 H 23000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "TSN Malta 5 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "channel": "ViaPlay Danmark HD",
@@ -5878,7 +6120,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "channel": "ViaPlay Sverige HD",
@@ -5886,7 +6128,7 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "channel": "ViaPlay Ísland HD",
@@ -5894,7 +6136,23 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Slovan Bratislava vs Stuttgart "
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "VOYO Player Slovakia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://voyo.markiza.sk/",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
+        },
+        {
+            "channel": "Ziggo Sport 6",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12129 V 29900 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Bodø/Glimt vs Borussia Dortmund "
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
@@ -6043,6 +6301,38 @@
             "related_to": " Shakhtar Donetsk vs AEK Athens "
         },
         {
+            "channel": "MEGA Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12414 H 11568 - 2/3",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " Shakhtar Donetsk vs AEK Athens "
+        },
+        {
+            "channel": "MEGA Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12352 H 11568 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Shakhtar Donetsk vs AEK Athens "
+        },
+        {
+            "channel": "MEGA Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Shakhtar Donetsk vs AEK Athens "
+        },
+        {
+            "channel": "MEGA Hellas HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12398 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Shakhtar Donetsk vs AEK Athens "
+        },
+        {
             "channel": "Megogo Futbol 1📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6145,6 +6435,272 @@
             "encry": "",
             "link": "",
             "related_to": " Shakhtar Donetsk vs AEK Athens "
+        },
+        {
+            "compet": "UEFA Champions League - League Phase: Round 2",
+            "match": " Real Betis vs FC Porto ",
+            "flags": {
+                "team1": "spain",
+                "team2": "portugal"
+            },
+            "time": "19:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "Arena Premium 4 BiH HD",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Arena Sport 2 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11798 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "ART Motion Sport 4 HD 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://artmotion.net/tv/",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "beIN Sports MENA 5 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Blue Sport 3 Live HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Canal+ Extra 3 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "10729 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "M+ Liga de Campeones 2 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Magenta Hellas Sport 6 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11938 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Magenta Hellas Sport 6 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Megogo Futbol 7",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Pickx+ Sports 5 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "sat": "Telstar 18 138.0°e",
+            "freq": "12598 H 45000 - 5/6",
+            "encry": "MPEG-4 Verimatrix",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Premier Sports 5 Mongolia HD",
+            "sat": "Koreasat 5 113.0°e",
+            "freq": "11613 V 43200 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "RTL+ Hungary📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Sky Sport 256 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12418 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Sky Sport 256 Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12073 V 29900 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Sky Sport 7 Austria HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11171 H 22000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Sport TV5 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12360 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "SÝN Sport 4 Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Tabii Spor 4",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "TNT Sports 6",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11597 V 22000 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "TSN Malta 7 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
+        },
+        {
+            "channel": "Virgin Media PLAY",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Real Betis vs FC Porto "
         },
         {
             "compet": "UEFA Champions League - League Phase: Round 2",
@@ -6309,6 +6865,14 @@
             "related_to": " Aston Villa vs Fenerbahçe "
         },
         {
+            "channel": "Megogo Futbol 5",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Aston Villa vs Fenerbahçe "
+        },
+        {
             "channel": "Pickx+ Sports 4 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6429,6 +6993,14 @@
             "related_to": " Aston Villa vs Fenerbahçe "
         },
         {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Aston Villa vs Fenerbahçe "
+        },
+        {
             "channel": "SÝN Sport 3 Ísland HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6531,256 +7103,6 @@
             "encry": "",
             "link": "",
             "related_to": " Aston Villa vs Fenerbahçe "
-        },
-        {
-            "compet": "UEFA Champions League - League Phase: Round 2",
-            "match": " Real Betis vs FC Porto ",
-            "flags": {
-                "team1": "spain",
-                "team2": "portugal"
-            },
-            "time": "19:00",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "Arena Premium 4 BiH HD",
-            "sat": "0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Arena Sport 2 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11798 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Arena Sport 7 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "ART Motion Sport 4 HD 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://artmotion.net/tv/",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Blue Sport 3 Live HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Canal+ Extra 3 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11278 V 27500 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "DAZN Deutsch",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "HBO Max📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "M+ Liga de Campeones 2 HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "10729 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "M+ Liga de Campeones 2 HD",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10758 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Magenta Hellas Sport 6 HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "11938 H 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Magenta Hellas Sport 6 HD",
-            "sat": "Eutelsat 9B 9.0°e",
-            "freq": "12054 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Pickx+ Sports 5 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Premier Sports 5 Mongolia HD",
-            "sat": "Telstar 18 138.0°e",
-            "freq": "12598 H 45000 - 5/6",
-            "encry": "MPEG-4 Verimatrix",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Premier Sports 5 Mongolia HD",
-            "sat": "Koreasat 5 113.0°e",
-            "freq": "11613 V 43200 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Prima Sport RO PPV 1",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "RTL+ Hungary📺",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.rtlmost.hu/rtl_most/sport-rtl-f_1222",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Sky Sport 256 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12418 V 29900 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Sky Sport 256 Italia HD",
-            "sat": "Hotbird 13F 13.0°e",
-            "freq": "12073 V 29900 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Sky Sport 7 Austria HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11171 H 22000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Sport TV5 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12360 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "SÝN Sport 4 Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Tabii Spor 4",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "TNT Sports 6",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11597 V 22000 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "TSN Malta 7 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
-        },
-        {
-            "channel": "Virgin Media PLAY",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Betis vs FC Porto "
         },
         {
             "compet": "English Championship - Week 10",
@@ -7067,6 +7389,30 @@
             "related_to": " Atlético Mineiro vs Montevideo Torque "
         },
         {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Atlético Mineiro vs Montevideo Torque "
+        },
+        {
+            "channel": "Arena Premium 1 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Atlético Mineiro vs Montevideo Torque "
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Atlético Mineiro vs Montevideo Torque "
+        },
+        {
             "channel": "Arena Sport 1 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11678 H 30000 - 3/4",
@@ -7131,6 +7477,14 @@
             },
             "time": "22:00",
             "date": "2026-10-14"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sarmiento vs River Plate "
         },
         {
             "channel": "Premier Sports 1 Ireland HD",

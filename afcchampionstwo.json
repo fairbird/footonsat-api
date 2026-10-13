@@ -11,6 +11,14 @@
             "date": "2026-10-13"
         },
         {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " East Bengal vs Al Shorta "
+        },
+        {
             "channel": "beIN Sports MENA 1 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
@@ -107,6 +115,14 @@
             },
             "time": "16:00",
             "date": "2026-10-13"
+        },
+        {
+            "channel": "Al Kass 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Al Seeb vs Al Hussein "
         },
         {
             "channel": "beIN Sports MENA 5 HD",
@@ -315,6 +331,38 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11471 H 30000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12265 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12605 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Astra 2G 28.2°e",
+            "freq": "11135 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Melbourne Victory vs FC Seoul "
+        },
+        {
+            "channel": "Sporty TV Africa HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "3918 R 19630 - 3/4",
+            "encry": "MPEG-4 Conax",
             "link": "",
             "related_to": " Melbourne Victory vs FC Seoul "
         },
@@ -590,6 +638,96 @@
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 2",
+            "match": " Kuwait SC vs Al Khalidiya ",
+            "flags": {
+                "team1": "kuwait",
+                "team2": "bahrain"
+            },
+            "time": "16:00",
+            "date": "2026-10-14"
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "beIN Sports MENA 8 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12600 V 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "AzerSpace 2 45.0°e",
+            "freq": "12560 V 30000 - 5/6",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12482 V 30000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12117 H 30000 - 5/6",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Nova Sport Bulgaria HD",
+            "sat": "BulgariaSat 1 1.9°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Sport 2 Baltic",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "Sport 2 Ukraine",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "channel": "YouTube: The AFC Hub 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.youtube.com/@TheAFCHub/streams",
+            "related_to": " Kuwait SC vs Al Khalidiya "
+        },
+        {
+            "compet": "AFC Champions League 2 - Group Stage - 2",
             "match": " Al Taawoun vs Al Rayyan ",
             "flags": {
                 "team1": "saudiarabia",
@@ -727,96 +865,6 @@
             "encry": "",
             "link": "https://www.youtube.com/@TheAFCHub/streams",
             "related_to": " Muharraq vs Gol Gohar "
-        },
-        {
-            "compet": "AFC Champions League 2 - Group Stage - 2",
-            "match": " Kuwait SC vs Al Khalidiya ",
-            "flags": {
-                "team1": "kuwait",
-                "team2": "bahrain"
-            },
-            "time": "18:15",
-            "date": "2026-10-14"
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "beIN Sports MENA 8 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12600 V 30000 - 5/6",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "AzerSpace 2 45.0°e",
-            "freq": "12560 V 30000 - 5/6",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12482 V 30000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12117 H 30000 - 5/6",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Nova Sport Bulgaria HD",
-            "sat": "BulgariaSat 1 1.9°e",
-            "freq": "12207 V 30000 - 2/3",
-            "encry": "HD Bulcrypt",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Sport 2 Baltic",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "Sport 2 Ukraine",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Kuwait SC vs Al Khalidiya "
-        },
-        {
-            "channel": "YouTube: The AFC Hub 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.youtube.com/@TheAFCHub/streams",
-            "related_to": " Kuwait SC vs Al Khalidiya "
         },
         {
             "compet": "AFC Champions League 2 - Group Stage - 2",
@@ -959,6 +1007,14 @@
             "related_to": " Gangwon vs Phnom Penh Crown "
         },
         {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Gangwon vs Phnom Penh Crown "
+        },
+        {
             "channel": "TV Start Triumph HD",
             "sat": "Eutelsat 36C 35.9°e",
             "freq": "11996 L 27500 - 3/4",
@@ -1057,6 +1113,14 @@
             "related_to": " Tai Po vs Home United "
         },
         {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Tai Po vs Home United "
+        },
+        {
             "channel": "Veikkaus TV📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1095,6 +1159,14 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11054 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kuching City vs Kitchee "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Kuching City vs Kitchee "
         },
@@ -1201,6 +1273,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Tampines Rovers vs Machida Zelvia "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Tampines Rovers vs Machida Zelvia "
         },
@@ -1332,6 +1412,14 @@
             "channel": "Sport 1 Baltic",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Svay Rieng vs Shanghai Shenhua "
+        },
+        {
+            "channel": "SportKlub 6 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Svay Rieng vs Shanghai Shenhua "
