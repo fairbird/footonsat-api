@@ -2,32 +2,6 @@
     "footonsat": [
         {
             "compet": "Dutch Eredivisie - Week 9",
-            "match": " Heerenveen vs Excelsior ",
-            "flags": {
-                "team1": "holland",
-                "team2": "holland"
-            },
-            "time": "18:00",
-            "date": "2026-10-16"
-        },
-        {
-            "channel": "ESPN 2 Nederland HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "11856 V 29900 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Heerenveen vs Excelsior "
-        },
-        {
-            "channel": "ESPN Extra Nederland",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Heerenveen vs Excelsior "
-        },
-        {
-            "compet": "Dutch Eredivisie - Week 9",
             "match": " ADO Den Haag vs PSV Eindhoven ",
             "flags": {
                 "team1": "holland",
@@ -41,6 +15,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "11817 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " ADO Den Haag vs PSV Eindhoven "
+        },
+        {
+            "channel": "Cablenet Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " ADO Den Haag vs PSV Eindhoven "
         },
@@ -133,6 +115,14 @@
             "related_to": " ADO Den Haag vs PSV Eindhoven "
         },
         {
+            "channel": "SportKlub 2 Hrvatska",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " ADO Den Haag vs PSV Eindhoven "
+        },
+        {
             "channel": "SuperSport 6 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10804 H 29950 - 2/3",
@@ -162,6 +152,14 @@
             "channel": "Arena Sport 7 BiH HD",
             "sat": "0.0°",
             "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
+            "channel": "Cablenet Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Telstar vs Feyenoord "
@@ -287,6 +285,14 @@
             "related_to": " Telstar vs Feyenoord "
         },
         {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
             "channel": "Sportdigital FUSSBALL HD",
             "sat": "Astra 1L 19.2°e",
             "freq": "11186 V 22000 - 2/3",
@@ -295,10 +301,58 @@
             "related_to": " Telstar vs Feyenoord "
         },
         {
+            "channel": "SportKlub 7 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
             "channel": "SuperSport 4 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11605 V 43200 - 7/8",
+            "encry": "FTA (MPEG-4)",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AT1 56.0°e",
+            "freq": "12034 L 27500 - 3/4",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 30000 - 5/6",
+            "encry": "MPEG-4 DreCrypt",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Telstar vs Feyenoord "
+        },
+        {
+            "channel": "TV Start Russia HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11919 L 30000 - 5/6",
+            "encry": "HD Exset",
             "link": "",
             "related_to": " Telstar vs Feyenoord "
         },
@@ -413,8 +467,24 @@
             "related_to": " Cambuur-Leeuwarden vs AZ Alkmaar "
         },
         {
+            "channel": "Sport TV2 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Cambuur-Leeuwarden vs AZ Alkmaar "
+        },
+        {
             "channel": "Sportdigital FUSSBALL 2",
             "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Cambuur-Leeuwarden vs AZ Alkmaar "
+        },
+        {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
@@ -435,6 +505,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "12402 V 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Groningen vs Ajax "
+        },
+        {
+            "channel": "Cablenet Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Groningen vs Ajax "
         },
@@ -529,6 +607,14 @@
         {
             "channel": "Sportdigital FUSSBALL 2",
             "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Groningen vs Ajax "
+        },
+        {
+            "channel": "SportKlub 11 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
             "link": "",
