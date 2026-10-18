@@ -19,6 +19,22 @@
             "related_to": " Wolves vs Portsmouth "
         },
         {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Wolves vs Portsmouth "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolves vs Portsmouth "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -105,6 +121,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bolton Wanderers vs Middlesbrough "
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Bolton Wanderers vs Middlesbrough "
         },
@@ -312,24 +336,6 @@
         },
         {
             "compet": "English Championship - Week 12",
-            "match": " Portsmouth vs Millwall ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "11:30",
-            "date": "2026-10-24"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Portsmouth vs Millwall "
-        },
-        {
-            "compet": "English Championship - Week 12",
             "match": " Sheffield United vs Derby County ",
             "flags": {
                 "team1": "england",
@@ -345,6 +351,40 @@
             "encry": "",
             "link": "",
             "related_to": " Sheffield United vs Derby County "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12148 H 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Sheffield United vs Derby County "
+        },
+        {
+            "channel": "Sky Sports+ TV HD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12226 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Sheffield United vs Derby County "
+        },
+        {
+            "compet": "English Championship - Week 12",
+            "match": " Portsmouth vs Millwall ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "11:30",
+            "date": "2026-10-24"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Portsmouth vs Millwall "
         },
         {
             "compet": "English Championship - Week 12",
@@ -411,6 +451,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sheffield United vs Wrexham "
+        },
+        {
+            "channel": "Sky Sport Premier League DE HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Sheffield United vs Wrexham "
         },
