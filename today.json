@@ -3385,24 +3385,6 @@
             "related_to": " BFC Dynamo vs Chemnitz "
         },
         {
-            "compet": "Serbian 1st League (Prva liga Srbija) - Week 14",
-            "match": " Voždovac vs Loznica ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "12:00",
-            "date": "2026-10-18"
-        },
-        {
-            "channel": "Arena Sport 10 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Voždovac vs Loznica "
-        },
-        {
             "compet": "Swiss Cup (Schweizer Pokal) - 2nd Round",
             "match": " Pully Football vs Lugano ",
             "flags": {
@@ -3451,6 +3433,24 @@
             "encry": "HD Viaccess",
             "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
             "related_to": " Pully Football vs Lugano "
+        },
+        {
+            "compet": "Serbian 1st League (Prva liga Srbija) - Week 14",
+            "match": " Voždovac vs Loznica ",
+            "flags": {
+                "team1": "serbia",
+                "team2": "serbia"
+            },
+            "time": "12:00",
+            "date": "2026-10-18"
+        },
+        {
+            "channel": "Arena Sport 10 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Voždovac vs Loznica "
         },
         {
             "compet": "Danish Superliga - Week 11",
@@ -4493,6 +4493,46 @@
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "FTA (BISS)",
+            "link": "",
+            "related_to": " Leeds United vs Manchester United "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Intelsat 39 62.0°e",
+            "freq": "11555 V 30000 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Leeds United vs Manchester United "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12265 H 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Leeds United vs Manchester United "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11900 V 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Leeds United vs Manchester United "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "11881 H 27500 - 5/6",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Leeds United vs Manchester United "
+        },
+        {
+            "channel": "IRIB TV3 HD",
+            "sat": "Badr 5 26.0°e",
+            "freq": "12303 H 32000 - 3/4",
+            "encry": "FTA (MPEG-4)",
             "link": "",
             "related_to": " Leeds United vs Manchester United "
         },
@@ -5875,6 +5915,14 @@
             "sat": "Measat 3b 91.5°e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Fiorentina vs Como 1907 "
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Fiorentina vs Como 1907 "
         },
@@ -10191,6 +10239,14 @@
             "related_to": " Mönchengladbach vs Hoffenheim "
         },
         {
+            "channel": "DAZN 2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mönchengladbach vs Hoffenheim "
+        },
+        {
             "channel": "DAZN Deutsch",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -10749,6 +10805,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10788 V 22000 - 5/6",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " Nottingham Forest vs Arsenal "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Nottingham Forest vs Arsenal "
         },
@@ -13227,6 +13291,14 @@
             "related_to": " Málaga vs Real Sociedad "
         },
         {
+            "channel": "LaLiga TV UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Málaga vs Real Sociedad "
+        },
+        {
             "channel": "M+ LaLiga HD",
             "sat": "Astra 1M 19.2°e",
             "freq": "10876 V 22000 - 5/6",
@@ -14587,6 +14659,14 @@
             "sat": "Measat 3b 91.5°e",
             "freq": "10932 V 30000 - 5/6",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Lazio "
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Juventus vs Lazio "
         },
