@@ -1,3 +1,106 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "CAF African Champions League - 2nd Preliminary Round",
+            "match": " Kaizer Chiefs vs Red Arrows ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "zambia"
+            },
+            "time": "16:00",
+            "date": "2026-10-23"
+        },
+        {
+            "channel": "SuperSport Africa HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11130 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Kaizer Chiefs vs Red Arrows "
+        },
+        {
+            "channel": "SuperSport Africa HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11848 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Kaizer Chiefs vs Red Arrows "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Kaizer Chiefs vs Red Arrows "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Kaizer Chiefs vs Red Arrows "
+        },
+        {
+            "compet": "CAF African Champions League - 2nd Preliminary Round",
+            "match": " Orlando Pirates vs African Stars ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "namibia"
+            },
+            "time": "18:00",
+            "date": "2026-10-23"
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Orlando Pirates vs African Stars "
+        },
+        {
+            "channel": "SuperSport PSL HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11170 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Orlando Pirates vs African Stars "
+        },
+        {
+            "compet": "CAF African Champions League - 2nd Preliminary Round",
+            "match": " Mamelodi Sundowns vs Wiliete ",
+            "flags": {
+                "team1": "southafrica",
+                "team2": "angola"
+            },
+            "time": "18:00",
+            "date": "2026-10-23"
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Mamelodi Sundowns vs Wiliete "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Mamelodi Sundowns vs Wiliete "
+        },
+        {
+            "channel": "SuperSport MáXimo 360",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12130 H 27500 - 2/3",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Mamelodi Sundowns vs Wiliete "
+        }
+    ]
 }
