@@ -163,7 +163,25 @@
             "related_to": " Chicago Bears vs New England Patriots "
         },
         {
-            "compet": "NFL Regular Season - Round 7",
+            "compet": "NCAAF - College Football",
+            "match": " South Carolina vs Tennessee ",
+            "flags": {
+                "team1": "ncaa",
+                "team2": "ncaa"
+            },
+            "time": "19:30",
+            "date": "2026-10-24"
+        },
+        {
+            "channel": "ESPN USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " South Carolina vs Tennessee "
+        },
+        {
+            "compet": "NFL Regular Season - Round 7 (Paris)",
             "match": " New Orleans Saints vs Pittsburgh Steelers ",
             "flags": {
                 "team1": "asonfl",
@@ -208,6 +226,14 @@
             "channel": "beIN Sports France 1 HD",
             "sat": "Eutelsat 5 West A 5.0°w",
             "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " New Orleans Saints vs Pittsburgh Steelers "
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11739 V 29900 - 3/4",
             "encry": "HD Viaccess",
             "link": "",
             "related_to": " New Orleans Saints vs Pittsburgh Steelers "
@@ -491,6 +517,14 @@
             "related_to": " Baltimore Ravens vs Cincinnati Bengals "
         },
         {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Baltimore Ravens vs Cincinnati Bengals "
+        },
+        {
             "channel": "NFL Game Pass",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -708,6 +742,14 @@
             "freq": "10964 H 22000 - 5/6",
             "encry": "Free To Air HD",
             "link": "https://www.my5.tv/channels/channel-5",
+            "related_to": " Detroit Lions vs Green Bay Packers "
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Detroit Lions vs Green Bay Packers "
         },
         {
