@@ -2,24 +2,6 @@
     "footonsat": [
         {
             "compet": "Portuguese Liga 1 - Week 9",
-            "match": " Vitória Guimarães vs Marítimo ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "19:45",
-            "date": "2026-10-23"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Vitória Guimarães vs Marítimo "
-        },
-        {
-            "compet": "Portuguese Liga 1 - Week 9",
             "match": " Estrela Amadora vs Casa Pia ",
             "flags": {
                 "team1": "portugal",
@@ -587,6 +569,32 @@
             "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Casa Pia vs Sporting Lisbon "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 10",
+            "match": " FC Porto vs Estoril ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-10-31"
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " FC Porto vs Estoril "
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " FC Porto vs Estoril "
         }
     ]
 }
