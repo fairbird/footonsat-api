@@ -447,54 +447,6 @@
             "related_to": " Manchester City vs Southampton "
         },
         {
-            "channel": "ST Sports Premium HD",
-            "sat": "Belintersat 1 51.5°e",
-            "freq": "11098 H 16665 - 1/2",
-            "encry": "Conax",
-            "link": "",
-            "related_to": " Manchester City vs Southampton "
-        },
-        {
-            "channel": "ST Sports Premium HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11356 H 45000 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Manchester City vs Southampton "
-        },
-        {
-            "channel": "ST Sports Premium HD",
-            "sat": "Thor 6 5.0°e",
-            "freq": "12073 H 27500 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Manchester City vs Southampton "
-        },
-        {
-            "channel": "ST Sports Premium HD",
-            "sat": "Eutelsat 3B 3.1°e",
-            "freq": "4063 L 33900 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Manchester City vs Southampton "
-        },
-        {
-            "channel": "ST Sports Premium HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "3761 R 30000 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Manchester City vs Southampton "
-        },
-        {
-            "channel": "ST Sports Premium HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "3725 R 30000 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Manchester City vs Southampton "
-        },
-        {
             "compet": "Hungarian Cup (Magyar Cup) - Round of 32",
             "match": " Bicske vs Ferencváros ",
             "flags": {
@@ -1705,6 +1657,30 @@
             "sat": "Badr 5 26.0°e",
             "freq": "11881 H 27500 - 5/6",
             "encry": "HD BISS",
+            "link": "",
+            "related_to": " Gol Gohar vs Arkadag "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Gol Gohar vs Arkadag "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Gol Gohar vs Arkadag "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Gol Gohar vs Arkadag "
         },
@@ -3811,6 +3787,30 @@
             "related_to": " AC Milan vs Bologna "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " AC Milan vs Bologna "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " AC Milan vs Bologna "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " AC Milan vs Bologna "
+        },
+        {
             "channel": "Prima Sport RO 3 HD",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12606 V 30000 - 3/4",
@@ -4740,6 +4740,14 @@
             "freq": "0000",
             "encry": "",
             "link": "",
+            "related_to": " Venezia vs Inter Milan "
+        },
+        {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
             "related_to": " Venezia vs Inter Milan "
         },
         {
@@ -6783,6 +6791,54 @@
             "related_to": " Manchester City vs Brighton H.A. "
         },
         {
+            "channel": "ST Sports Premium HD",
+            "sat": "Belintersat 1 51.5°e",
+            "freq": "11098 H 16665 - 1/2",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Manchester City vs Brighton H.A. "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11356 H 45000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Manchester City vs Brighton H.A. "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "12073 H 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester City vs Brighton H.A. "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 3B 3.1°e",
+            "freq": "4063 L 33900 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Manchester City vs Brighton H.A. "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3761 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Manchester City vs Brighton H.A. "
+        },
+        {
+            "channel": "ST Sports Premium HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "3725 R 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Manchester City vs Brighton H.A. "
+        },
+        {
             "channel": "SuperSport 1 Albania HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "10845 H 30000 - 3/5",
@@ -7987,6 +8043,14 @@
             "related_to": " Bayern Munich vs Magdeburg "
         },
         {
+            "channel": "Persiana Sports 2 HD 📺",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://pokertvfa.live/",
+            "related_to": " Bayern Munich vs Magdeburg "
+        },
+        {
             "channel": "RTL+ Deutschland📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -8949,6 +9013,14 @@
             "related_to": " Genoa vs Juventus "
         },
         {
+            "channel": "Astro Stadium HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10852 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Genoa vs Juventus "
+        },
+        {
             "channel": "Azam Sports 3 HD",
             "sat": "Eutelsat 7C 7.0°e",
             "freq": "10981 V 45000 - 5/6",
@@ -9353,6 +9425,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Genoa vs Juventus "
+        },
+        {
+            "channel": "Persiana Sports 3 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Genoa vs Juventus "
         },
@@ -10139,6 +10219,30 @@
             "related_to": " Liverpool vs Chelsea "
         },
         {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Liverpool vs Chelsea "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10762 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Liverpool vs Chelsea "
+        },
+        {
+            "channel": "Persiana Sport HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10804 H 27500 - 2/3",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Liverpool vs Chelsea "
+        },
+        {
             "channel": "Setanta Sports 1 Baltic",
             "sat": "Astra 4A 5.0°e",
             "freq": "11958 H 27500 - 5/6",
@@ -10823,6 +10927,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Benfica "
+        },
+        {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Arsenal vs Benfica "
         },
