@@ -353,6 +353,14 @@
             "date": "2026-10-29"
         },
         {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Adelaide United vs Home United "
+        },
+        {
             "channel": "beIN Connect USA 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -563,6 +571,14 @@
             },
             "time": "10:00",
             "date": "2026-10-29"
+        },
+        {
+            "channel": "Azam Sports 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Gangwon vs Kuching City "
         },
         {
             "channel": "beIN Connect USA 📺",
@@ -825,6 +841,14 @@
             "related_to": " Tai Po vs Pathum United "
         },
         {
+            "channel": "ZBC Channel 2",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11043 V 45000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Tai Po vs Pathum United "
+        },
+        {
             "compet": "AFC Champions League 2 - Group Stage - 3",
             "match": " Shanghai Shenhua vs Machida Zelvia ",
             "flags": {
@@ -833,6 +857,14 @@
             },
             "time": "12:15",
             "date": "2026-10-29"
+        },
+        {
+            "channel": "Azam Sports 5 HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "4180 V 16325 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Shanghai Shenhua vs Machida Zelvia "
         },
         {
             "channel": "beIN Connect USA 📺",
@@ -947,6 +979,32 @@
             "related_to": " Shanghai Shenhua vs Machida Zelvia "
         },
         {
+            "compet": "Albanian Superliga - Week 9",
+            "match": " KF Tirana vs Dinamo City ",
+            "flags": {
+                "team1": "albania",
+                "team2": "albania"
+            },
+            "time": "12:30",
+            "date": "2026-10-29"
+        },
+        {
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " KF Tirana vs Dinamo City "
+        },
+        {
+            "channel": "FIFA+ on DAZN📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
+            "related_to": " KF Tirana vs Dinamo City "
+        },
+        {
             "compet": "Albanian First Division - Week 8",
             "match": " Iliria Fushë Krujë vs Flamurtari ",
             "flags": {
@@ -1005,56 +1063,6 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Aarhus Fremad vs FC Copenhagen "
-        },
-        {
-            "compet": "Romanian Cup - Group Stage: Round 2",
-            "match": " Concordia Chiajna vs Sepsi OSK ",
-            "flags": {
-                "team1": "romania",
-                "team2": "romania"
-            },
-            "time": "14:00",
-            "date": "2026-10-29"
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11823 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Concordia Chiajna vs Sepsi OSK "
-        },
-        {
-            "channel": "Digi Sport 1 Romania HD",
-            "sat": "Thor 5 0.8°w",
-            "freq": "11862 H 28000 - 7/8",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Concordia Chiajna vs Sepsi OSK "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12524 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Concordia Chiajna vs Sepsi OSK "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12290 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Concordia Chiajna vs Sepsi OSK "
-        },
-        {
-            "channel": "Prima Sport RO 1 HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "11900 H 28000 - 5/6",
-            "encry": "NagraVision",
-            "link": "",
-            "related_to": " Concordia Chiajna vs Sepsi OSK "
         },
         {
             "compet": "Russian Cup (Kubok Rossii) - Group Stage: Round 5",
@@ -1265,6 +1273,56 @@
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
             "related_to": " Kryliya Sovetov vs Dynamo Makhachkala "
+        },
+        {
+            "compet": "Romanian Cup - Group Stage: Round 2",
+            "match": " Concordia Chiajna vs Sepsi OSK ",
+            "flags": {
+                "team1": "romania",
+                "team2": "romania"
+            },
+            "time": "14:00",
+            "date": "2026-10-29"
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11823 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Concordia Chiajna vs Sepsi OSK "
+        },
+        {
+            "channel": "Digi Sport 1 Romania HD",
+            "sat": "Thor 5 0.8°w",
+            "freq": "11862 H 28000 - 7/8",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Concordia Chiajna vs Sepsi OSK "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12524 V 30000 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Concordia Chiajna vs Sepsi OSK "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12290 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Concordia Chiajna vs Sepsi OSK "
+        },
+        {
+            "channel": "Prima Sport RO 1 HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11900 H 28000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Concordia Chiajna vs Sepsi OSK "
         },
         {
             "compet": "Saudi Pro League - Week 12",
@@ -1851,6 +1909,14 @@
             "related_to": " Frosinone vs Lecce "
         },
         {
+            "channel": "Fast Sports TV Armenia 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Frosinone vs Lecce "
+        },
+        {
             "channel": "Magenta Hellas Sport 2 HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11938 H 30000 - 5/6",
@@ -1936,6 +2002,30 @@
             "freq": "0000",
             "encry": "",
             "link": "https://matchtv.ru/video/sports/football",
+            "related_to": " Frosinone vs Lecce "
+        },
+        {
+            "channel": "Megogo Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " Frosinone vs Lecce "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12285 V 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
+            "related_to": " Frosinone vs Lecce "
+        },
+        {
+            "channel": "Megogo Sport Ukraine HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12073 H 30000 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://megogo.net/pl/tv/channels/21409737-m-sports-online.html",
             "related_to": " Frosinone vs Lecce "
         },
         {
@@ -2103,6 +2193,14 @@
             "sat": "Thor 7 0.6°w",
             "freq": "12149 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Frosinone vs Lecce "
+        },
+        {
+            "channel": "Sport TV Belarus",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Frosinone vs Lecce "
         },
@@ -3353,6 +3451,14 @@
             "related_to": " Everton vs Newcastle United "
         },
         {
+            "channel": "Fast Sports TV Armenia 📺",
+            "sat": "Eutelsat 70B 70.5°e",
+            "freq": "11050 H 20030 - 1/2",
+            "encry": "MPEG-4 Biss",
+            "link": "https://fasttv.am/tv-channels/fastsports",
+            "related_to": " Everton vs Newcastle United "
+        },
+        {
             "channel": "Match 4 Hungary HD",
             "sat": "Thor 7 0.6°w",
             "freq": "12130 H 28000 - 7/8",
@@ -3875,6 +3981,14 @@
             "related_to": " Fiorentina vs Atalanta "
         },
         {
+            "channel": "Megogo Futbol 1📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " Fiorentina vs Atalanta "
+        },
+        {
             "channel": "MTV Katsomon+📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4039,6 +4153,14 @@
             "sat": "Thor 7 0.6°w",
             "freq": "12149 V 30000 - 3/4",
             "encry": "HD Conax",
+            "link": "",
+            "related_to": " Fiorentina vs Atalanta "
+        },
+        {
+            "channel": "Sport TV Belarus",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Fiorentina vs Atalanta "
         },
