@@ -177,6 +177,14 @@
             "date": "2026-10-30"
         },
         {
+            "channel": "New World Sport 2 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Abha Club vs Al Ittihad "
+        },
+        {
             "channel": "SPL Watch📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 -",
@@ -1329,14 +1337,6 @@
             "related_to": " Nice vs Rennes "
         },
         {
-            "channel": "Ligue 1+📺",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": " Nice vs Rennes "
-        },
-        {
             "channel": "Ligue 1+ 2📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1839,6 +1839,14 @@
             "related_to": " Al Shabab vs Al Ahli "
         },
         {
+            "channel": "SPOTV Malaysia HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10772 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Al Shabab vs Al Ahli "
+        },
+        {
             "channel": "Thmanyah KSA",
             "sat": "Download APP 0.0°",
             "freq": "0000 0",
@@ -1929,6 +1937,24 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Lyngby vs Randers "
+        },
+        {
+            "compet": "German Regionalliga: Nordost - Week 15",
+            "match": " Lok Leipzig vs VSG Altglienicke ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "18:00",
+            "date": "2026-10-30"
+        },
+        {
+            "channel": "MDR LiveStream Online 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.mdr.de/sport/livestreams/index.html",
+            "related_to": " Lok Leipzig vs VSG Altglienicke "
         },
         {
             "compet": "Austrian Bundesliga - Week 11",
@@ -2455,6 +2481,78 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Nantes vs Clermont Foot "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 13",
+            "match": " RKC Waalwijk vs Almere City ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-30"
+        },
+        {
+            "channel": "ESPN 2 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11856 V 29900 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " RKC Waalwijk vs Almere City "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 13",
+            "match": " Roda JC vs AZ Youths ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-30"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Roda JC vs AZ Youths "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 13",
+            "match": " Helmond Sport vs FC Eindhoven ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-30"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Helmond Sport vs FC Eindhoven "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 13",
+            "match": " Volendam vs De Graafschap ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-10-30"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Volendam vs De Graafschap "
         },
         {
             "compet": "Swiss Challenge League - Week 12",
@@ -4201,6 +4299,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Marseille vs Nantes "
+        },
+        {
+            "channel": "Canal+ Foot HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "12012 V 29700 - 2/3",
+            "encry": "HD Viaccess",
             "link": "",
             "related_to": " Marseille vs Nantes "
         },
