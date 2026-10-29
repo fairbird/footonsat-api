@@ -11,7 +11,7 @@
             "date": "2026-10-30"
         },
         {
-            "channel": "beIN Sports France 10 HD max",
+            "channel": "beIN Sports France 9 HD max",
             "sat": "Astra 1M 19.2°e",
             "freq": "11895 V 29700 - 2/3",
             "encry": "HD NagraVision",
@@ -19,7 +19,7 @@
             "related_to": " Casa Pia vs Sporting Lisbon "
         },
         {
-            "channel": "beIN Sports France 10 HD max",
+            "channel": "beIN Sports France 9 HD max",
             "sat": "Eutelsat 5 West A 5.0°w",
             "freq": "11679 V 29950 - 3/4",
             "encry": "MPEG-4 Viaccess",
@@ -39,6 +39,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11900 H 28000 - 5/6",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Sporting Lisbon "
+        },
+        {
+            "channel": "Eleven Sports 4 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11278 V 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Casa Pia vs Sporting Lisbon "
         },
@@ -259,6 +267,14 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11900 H 28000 - 5/6",
             "encry": "NagraVision",
+            "link": "",
+            "related_to": " FC Porto vs Estoril "
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
             "link": "",
             "related_to": " FC Porto vs Estoril "
         },
@@ -513,6 +529,22 @@
             "related_to": " Benfica vs Alverca "
         },
         {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Benfica vs Alverca "
+        },
+        {
             "channel": "ERT 2 Sport Hellas HD",
             "sat": "Hellas Sat 3 39.0°e",
             "freq": "12223 H 13381 - 3/4",
@@ -585,6 +617,42 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Gil Vicente vs Vitória Guimarães "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 11",
+            "match": " Vitória Guimarães vs FC Porto ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "18:00",
+            "date": "2026-11-08"
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Vitória Guimarães vs FC Porto "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 11",
+            "match": " Estrela Amadora vs Benfica ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-11-08"
+        },
+        {
+            "channel": "Eleven Sports 3 Polska HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Estrela Amadora vs Benfica "
         }
     ]
 }
