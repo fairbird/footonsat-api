@@ -207,6 +207,30 @@
             "related_to": " Thun vs Hearts "
         },
         {
+            "channel": "RSI La 2 Svizzera HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rsi.ch/play/tv/live?tvLiveId=livestream_La2",
+            "related_to": " Thun vs Hearts "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": " Thun vs Hearts "
+        },
+        {
+            "channel": "SRF Info Schweiz HD 📺",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": " Thun vs Hearts "
+        },
+        {
             "channel": "TNT Sports 3 HD",
             "sat": "Astra 2G 28.2°e",
             "freq": "11612 H 22000 - 5/6",
@@ -460,6 +484,72 @@
         },
         {
             "compet": "UEFA Conference League - League Phase: Round 3",
+            "match": " AGF Aarhus vs Sporting Braga ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "portugal"
+            },
+            "time": "17:45",
+            "date": "2026-11-05"
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sporting Braga "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sporting Braga "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sporting Braga "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sporting Braga "
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": " AGF Aarhus vs Sporting Braga "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sporting Braga "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " AGF Aarhus vs Sporting Braga "
+        },
+        {
+            "compet": "UEFA Conference League - League Phase: Round 3",
             "match": " Mjällby AIF vs Borac Banja Luka ",
             "flags": {
                 "team1": "sweden",
@@ -642,56 +732,6 @@
         },
         {
             "compet": "UEFA Conference League - League Phase: Round 3",
-            "match": " AGF Aarhus vs Sporting Braga ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "portugal"
-            },
-            "time": "17:45",
-            "date": "2026-11-05"
-        },
-        {
-            "channel": "Disney+ Danmark",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " AGF Aarhus vs Sporting Braga "
-        },
-        {
-            "channel": "Disney+ Sverige",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " AGF Aarhus vs Sporting Braga "
-        },
-        {
-            "channel": "HBO Max📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": " AGF Aarhus vs Sporting Braga "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " AGF Aarhus vs Sporting Braga "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " AGF Aarhus vs Sporting Braga "
-        },
-        {
-            "compet": "UEFA Conference League - League Phase: Round 3",
             "match": " Getafe vs Brighton H.A. ",
             "flags": {
                 "team1": "spain",
@@ -861,6 +901,88 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Sint-Truiden vs Brann "
+        },
+        {
+            "compet": "UEFA Conference League - League Phase: Round 3",
+            "match": " Monaco vs Nordsjælland ",
+            "flags": {
+                "team1": "france",
+                "team2": "denmark"
+            },
+            "time": "20:00",
+            "date": "2026-11-05"
+        },
+        {
+            "channel": "Arena Sport 7 BiH HD",
+            "sat": "0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "Arena Sport 7 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "DAZN 4 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "HBO Max📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.hbomax.com",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Monaco vs Nordsjælland "
         },
         {
             "compet": "UEFA Conference League - League Phase: Round 3",
@@ -1141,80 +1263,6 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Panathinaikos vs CSKA Sofia "
-        },
-        {
-            "compet": "UEFA Conference League - League Phase: Round 3",
-            "match": " Monaco vs Nordsjælland ",
-            "flags": {
-                "team1": "france",
-                "team2": "denmark"
-            },
-            "time": "20:00",
-            "date": "2026-11-05"
-        },
-        {
-            "channel": "Arena Sport 7 BiH HD",
-            "sat": "0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Monaco vs Nordsjælland "
-        },
-        {
-            "channel": "Arena Sport 7 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Monaco vs Nordsjælland "
-        },
-        {
-            "channel": "DAZN Portugal",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Monaco vs Nordsjælland "
-        },
-        {
-            "channel": "Disney+ Danmark",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Monaco vs Nordsjælland "
-        },
-        {
-            "channel": "Disney+ Sverige",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Monaco vs Nordsjælland "
-        },
-        {
-            "channel": "HBO Max📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.hbomax.com",
-            "related_to": " Monaco vs Nordsjælland "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Monaco vs Nordsjælland "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Monaco vs Nordsjælland "
         },
         {
             "compet": "UEFA Conference League - League Phase: Round 3",
