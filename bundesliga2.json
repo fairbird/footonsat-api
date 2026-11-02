@@ -11,6 +11,14 @@
             "date": "2026-11-06"
         },
         {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Dynamo Dresden vs Greuther Fürth "
+        },
+        {
             "channel": "Eleven Sports 4 Polska HD",
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11278 V 27500 - 3/4",
@@ -31,6 +39,22 @@
             "sat": "Thor 6 0.8°w",
             "freq": "11977 H 30000 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Dynamo Dresden vs Greuther Fürth "
+        },
+        {
+            "channel": "Nova Sports 2 Cyprus HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Dynamo Dresden vs Greuther Fürth "
+        },
+        {
+            "channel": "Nova Sports 2 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Dynamo Dresden vs Greuther Fürth "
         },
@@ -117,10 +141,34 @@
             "date": "2026-11-06"
         },
         {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Braunschweig vs Energie Cottbus "
+        },
+        {
             "channel": "beIN Sports Australia 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Braunschweig vs Energie Cottbus "
+        },
+        {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Braunschweig vs Energie Cottbus "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Braunschweig vs Energie Cottbus "
         },
@@ -229,6 +277,22 @@
             },
             "time": "12:00",
             "date": "2026-11-07"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Nuremberg vs Darmstadt 98 "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10721 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nuremberg vs Darmstadt 98 "
         },
         {
             "channel": "beIN Sports France 4 HD max",
@@ -343,6 +407,14 @@
             },
             "time": "12:00",
             "date": "2026-11-07"
+        },
+        {
+            "channel": "Arena Premium 4 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12246 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Osnabrück vs Kaiserslautern "
         },
         {
             "channel": "Eleven Sports 2 Polska HD",
@@ -565,6 +637,14 @@
             "date": "2026-11-07"
         },
         {
+            "channel": "Arena Premium 5 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12304 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Hertha Berlin vs Wolfsburg "
+        },
+        {
             "channel": "beIN Sports France 5 HD max",
             "sat": "Astra 1M 19.2°e",
             "freq": "11856 V 29700 - 2/3",
@@ -586,6 +666,38 @@
             "freq": "11278 V 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "",
+            "related_to": " Hertha Berlin vs Wolfsburg "
+        },
+        {
+            "channel": "Nitro Deutschland HD 📺",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "12188 H 27500 - 3/4",
+            "encry": "Free To Air",
+            "link": "https://plus.rtl.de/video-tv/live-tv/nitro-3",
+            "related_to": " Hertha Berlin vs Wolfsburg "
+        },
+        {
+            "channel": "Nitro Deutschland HD 📺",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11082 H 22000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://plus.rtl.de/video-tv/live-tv/nitro-3",
+            "related_to": " Hertha Berlin vs Wolfsburg "
+        },
+        {
+            "channel": "Nitro Deutschland HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12245 H 27500 - 2/3",
+            "encry": "HD Conax",
+            "link": "https://plus.rtl.de/video-tv/live-tv/nitro-3",
+            "related_to": " Hertha Berlin vs Wolfsburg "
+        },
+        {
+            "channel": "Nitro Deutschland HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12565 V 30000 - 5/6",
+            "encry": "MPEG-4 Panaccess",
+            "link": "https://plus.rtl.de/video-tv/live-tv/nitro-3",
             "related_to": " Hertha Berlin vs Wolfsburg "
         },
         {
@@ -625,6 +737,22 @@
             "sat": "Intelsat 10-02 1.0°w",
             "freq": "12527 H 28800 - 3/5",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Hertha Berlin vs Wolfsburg "
+        },
+        {
+            "channel": "Nova Sports Start Cyprus HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Hertha Berlin vs Wolfsburg "
+        },
+        {
+            "channel": "Nova Sports Start Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11804 V 29700 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Hertha Berlin vs Wolfsburg "
         },
@@ -751,6 +879,22 @@
             "related_to": " Heidenheim vs Hannover 96 "
         },
         {
+            "channel": "Nova Sports 3 Cyprus HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Heidenheim vs Hannover 96 "
+        },
+        {
+            "channel": "Nova Sports 3 Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11823 H 27500 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Heidenheim vs Hannover 96 "
+        },
+        {
             "channel": "OneFootball📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -869,6 +1013,14 @@
             "sat": "Intelsat 10-02 1.0°w",
             "freq": "12527 H 28800 - 3/5",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Magdeburg vs St Pauli "
+        },
+        {
+            "channel": "Nova Sports 2 Cyprus HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Magdeburg vs St Pauli "
         },
