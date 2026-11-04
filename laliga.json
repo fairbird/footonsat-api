@@ -60,8 +60,8 @@
         },
         {
             "channel": "DAZN España",
-            "sat": "°",
-            "freq": "",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Sevilla vs Alavés "
@@ -1404,9 +1404,17 @@
         },
         {
             "channel": "DAZN LaLiga HD",
-            "sat": "°",
-            "freq": "",
-            "encry": "",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11127 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Valencia vs Real Madrid "
+        },
+        {
+            "channel": "DAZN LaLiga HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Valencia vs Real Madrid "
         },
@@ -2241,6 +2249,22 @@
             "related_to": " Celta Vigo vs Levante "
         },
         {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Celta Vigo vs Levante "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Celta Vigo vs Levante "
+        },
+        {
             "channel": "DAZN Belgium📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2483,6 +2507,22 @@
             "related_to": " Villarreal vs Getafe "
         },
         {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Villarreal vs Getafe "
+        },
+        {
+            "channel": "beIN Sports MENA 6 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Villarreal vs Getafe "
+        },
+        {
             "channel": "DAZN Belgium📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -2500,8 +2540,8 @@
         },
         {
             "channel": "DAZN España",
-            "sat": "°",
-            "freq": "",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Villarreal vs Getafe "
