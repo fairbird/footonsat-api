@@ -123,6 +123,32 @@
             "related_to": " BASK Belgrade vs Polet Dorcol "
         },
         {
+            "compet": "Croatian Prva NL - Week 12",
+            "match": " Kustosija vs Orijent ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "croatia"
+            },
+            "time": "13:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Kustosija vs Orijent "
+        },
+        {
+            "channel": "MAX Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Kustosija vs Orijent "
+        },
+        {
             "compet": "Azerbaijan Premier League - Week 11",
             "match": " Qarabagh vs Turan ",
             "flags": {
@@ -187,6 +213,14 @@
             "sat": "BulgariaSat 1 1.9°e",
             "freq": "12418 H 30000 - 2/3",
             "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Septemvri Sofia vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Septemvri Sofia vs Lokomotiv Sofia "
         },
@@ -413,6 +447,24 @@
             "related_to": " Lokomotiv Moscow vs Rubin Kazan' "
         },
         {
+            "compet": "Slovenian Prva Liga - Week 15",
+            "match": " Nafta 1903 vs Olimpija ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "16:30",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Nafta 1903 vs Olimpija "
+        },
+        {
             "compet": "Türkiye Süper Lig - Week 11",
             "match": " Gaziantep vs Kasimpasa ",
             "flags": {
@@ -571,7 +623,47 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": " Antalyaspor vs Bursaspor "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Antalyaspor vs Bursaspor "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11637 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Antalyaspor vs Bursaspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Antalyaspor vs Bursaspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA (BISS)",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Antalyaspor vs Bursaspor "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11794 R 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Antalyaspor vs Bursaspor "
         },
         {
@@ -589,7 +681,79 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "beIN Sports Türkiye Max 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11513 H 29900 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "TRT Türk HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "TRT Türk HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "TRT Türk HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "TRT Türk HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12588 V 22500 - 3/4",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "TRT Türk HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11958 V 27500 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "TRT Türk HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12322 V 27500 - 2/3",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Sariyer vs Igdir FK "
+        },
+        {
+            "channel": "TRT Türk HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10804 V 30000 - 5/6",
+            "encry": "Free To Air",
+            "link": "",
             "related_to": " Sariyer vs Igdir FK "
         },
         {
@@ -615,6 +779,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11512 H 30000 - 3/4",
             "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Lokomotiva Zagreb vs Rudeš "
+        },
+        {
+            "channel": "MAX Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Lokomotiva Zagreb vs Rudeš "
         },
@@ -735,6 +907,14 @@
             "related_to": " Botev Plovdiv vs Dunav Ruse "
         },
         {
+            "channel": "SportKlub 4 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Botev Plovdiv vs Dunav Ruse "
+        },
+        {
             "compet": "German 2. Bundesliga - Week 11",
             "match": " Braunschweig vs Energie Cottbus ",
             "flags": {
@@ -825,9 +1005,25 @@
             "related_to": " Braunschweig vs Energie Cottbus "
         },
         {
+            "channel": "Sky Sport Bundesliga 4 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Braunschweig vs Energie Cottbus "
+        },
+        {
             "channel": "Sport TV3 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Braunschweig vs Energie Cottbus "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Braunschweig vs Energie Cottbus "
@@ -995,10 +1191,26 @@
             "related_to": " Dynamo Dresden vs Greuther Fürth "
         },
         {
+            "channel": "Sky Sport Bundesliga 3 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Dynamo Dresden vs Greuther Fürth "
+        },
+        {
             "channel": "Sport TV2 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Dynamo Dresden vs Greuther Fürth "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Dynamo Dresden vs Greuther Fürth "
         },
@@ -1143,6 +1355,60 @@
             "related_to": " Eintracht Frankfurt vs Wolfsburg "
         },
         {
+            "compet": "Austrian 2. Liga - Week 12",
+            "match": " Liefering vs Austria Salzburg ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "17:30",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "Laola1 Live Stream📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.laola1.at/de/tvthek/livestreams/",
+            "related_to": " Liefering vs Austria Salzburg "
+        },
+        {
+            "compet": "Austrian 2. Liga - Week 12",
+            "match": " Amstetten vs Wacker Innsbruck ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "17:30",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "Laola1 Live Stream📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.laola1.at/de/tvthek/livestreams/",
+            "related_to": " Amstetten vs Wacker Innsbruck "
+        },
+        {
+            "compet": "Austrian 2. Liga - Week 12",
+            "match": " Austria Vienna (Am) vs First Vienna ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "17:30",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "Laola1 Live Stream📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.laola1.at/de/tvthek/livestreams/",
+            "related_to": " Austria Vienna (Am) vs First Vienna "
+        },
+        {
             "compet": "German 3. Liga - Week 13",
             "match": " Viktoria Cologne vs Saarbrücken ",
             "flags": {
@@ -1158,6 +1424,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://web.magentatv.de/magenta-sport-mit-sky-sport-kompakt",
+            "related_to": " Viktoria Cologne vs Saarbrücken "
+        },
+        {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Viktoria Cologne vs Saarbrücken "
         },
         {
@@ -1667,6 +1941,186 @@
             "related_to": " União Santarém vs Mafra "
         },
         {
+            "compet": "Dutch Eerste Divisie - Week 14",
+            "match": " VVV-Venlo vs PSV Youths ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "ESPN 3 Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " VVV-Venlo vs PSV Youths "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 14",
+            "match": " Heracles Almelo vs Roda JC ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Heracles Almelo vs Roda JC "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 14",
+            "match": " FC Eindhoven vs Ajax Youths ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " FC Eindhoven vs Ajax Youths "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 14",
+            "match": " Dordrecht vs NAC Breda ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "ESPN 4 Nederland HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "11739 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Dordrecht vs NAC Breda "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 14",
+            "match": " AZ Youths vs Almere City ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " AZ Youths vs Almere City "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 14",
+            "match": " Helmond Sport vs Volendam ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Helmond Sport vs Volendam "
+        },
+        {
+            "compet": "Dutch Eerste Divisie - Week 14",
+            "match": " FC Oss vs RKC Waalwijk ",
+            "flags": {
+                "team1": "holland",
+                "team2": "holland"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "ESPN Extra Nederland",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " FC Oss vs RKC Waalwijk "
+        },
+        {
+            "compet": "Slovenian 2. SNL - Week 14",
+            "match": " Dekani vs Bistrica ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "SportKlub 8 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Dekani vs Bistrica "
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 10",
+            "match": " Sporting Hasselt vs Patro Eisden ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Sporting Hasselt vs Patro Eisden "
+        },
+        {
+            "compet": "Belgian Challenger Pro League - Week 10",
+            "match": " Racing Genk U-23 vs AA Gent U-23 ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Racing Genk U-23 vs AA Gent U-23 "
+        },
+        {
             "compet": "Swiss Challenge League - Week 13",
             "match": " Aarau vs Wil 1900 ",
             "flags": {
@@ -1775,6 +2229,14 @@
             "related_to": " Hamburg vs Mönchengladbach "
         },
         {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Hamburg vs Mönchengladbach "
+        },
+        {
             "channel": "DAZN Portugal",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1863,6 +2325,30 @@
             "related_to": " Hamburg vs Mönchengladbach "
         },
         {
+            "channel": "Sky Sport Bundesliga 1 HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "11914 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs Mönchengladbach "
+        },
+        {
+            "channel": "Sky Sport Bundesliga HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12304 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs Mönchengladbach "
+        },
+        {
+            "channel": "Sky Sport Bundesliga UHD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11798 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Hamburg vs Mönchengladbach "
+        },
+        {
             "channel": "Sky Sport MIX Italia HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11862 H 29900 - 5/6",
@@ -1883,6 +2369,14 @@
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11231 V 42000 - 3/5",
             "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Hamburg vs Mönchengladbach "
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Hamburg vs Mönchengladbach "
         },
@@ -2285,6 +2779,56 @@
             "related_to": " Odra Opole vs Unia Skierniewice "
         },
         {
+            "compet": "Austrian 2. Liga - Week 12",
+            "match": " Admira Wacker vs St Pölten ",
+            "flags": {
+                "team1": "austria",
+                "team2": "austria"
+            },
+            "time": "19:30",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "Laola1 Live Stream📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.laola1.at/de/tvthek/livestreams/",
+            "related_to": " Admira Wacker vs St Pölten "
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11273 H 22000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": " Admira Wacker vs St Pölten "
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11244 H 22000 - 5/6",
+            "encry": "Irdeto",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": " Admira Wacker vs St Pölten "
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11862 H 27500 - 3/4",
+            "encry": "HD Panaccess",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": " Admira Wacker vs St Pölten "
+        },
+        {
+            "channel": "ORF Sport+ Austria HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12466 V 41950 - 2/3",
+            "encry": "FTA (MultiStream)",
+            "link": "https://on.orf.at/live?channel=orfs",
+            "related_to": " Admira Wacker vs St Pölten "
+        },
+        {
             "compet": "English FA Cup - 1st Round Proper",
             "match": " Oxford City vs Leicester City ",
             "flags": {
@@ -2293,6 +2837,14 @@
             },
             "time": "19:45",
             "date": "2026-11-06"
+        },
+        {
+            "channel": "Arena Sport 4 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Oxford City vs Leicester City "
         },
         {
             "channel": "Arena Sport 6 Srbija HD",
@@ -2307,6 +2859,14 @@
             "sat": "0.0°",
             "freq": "0000 0",
             "encry": "",
+            "link": "",
+            "related_to": " Oxford City vs Leicester City "
+        },
+        {
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Oxford City vs Leicester City "
         },
@@ -2356,6 +2916,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.hbomax.com",
+            "related_to": " Oxford City vs Leicester City "
+        },
+        {
+            "channel": "Stan Sport Australia📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.stan.com.au/sport",
             "related_to": " Oxford City vs Leicester City "
         },
         {
@@ -2493,6 +3061,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Venezia vs Udinese "
+        },
+        {
+            "channel": "Arena Sport 1 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Venezia vs Udinese "
         },
@@ -2929,6 +3505,14 @@
             "date": "2026-11-06"
         },
         {
+            "channel": "Arena Sport 2 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Toulouse vs Strasbourg "
+        },
+        {
             "channel": "Arena Sport 2 Srbija HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11798 H 30000 - 3/4",
@@ -2965,7 +3549,7 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
+            "link": "https://www.beinconnect.com.tr/spor",
             "related_to": " Toulouse vs Strasbourg "
         },
         {
@@ -2981,6 +3565,22 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11054 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Toulouse vs Strasbourg "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Toulouse vs Strasbourg "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11637 H 30000 - 5/6",
+            "encry": "HD Irdeto",
             "link": "",
             "related_to": " Toulouse vs Strasbourg "
         },
@@ -3073,6 +3673,24 @@
             "related_to": " Toulouse vs Strasbourg "
         },
         {
+            "compet": "Belgian Pro League - Week 11",
+            "match": " Standard Liège vs Beveren ",
+            "flags": {
+                "team1": "belgium",
+                "team2": "belgium"
+            },
+            "time": "19:45",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "DAZN Belgium📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Standard Liège vs Beveren "
+        },
+        {
             "compet": "English Premier League - Week 10",
             "match": " Everton vs Coventry City ",
             "flags": {
@@ -3087,6 +3705,14 @@
             "sat": "Astra 3B 23.5°e",
             "freq": "0000 0",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Everton vs Coventry City "
+        },
+        {
+            "channel": "Arena Premium 1 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Everton vs Coventry City "
         },
@@ -3299,6 +3925,14 @@
             "related_to": " Everton vs Coventry City "
         },
         {
+            "channel": "Sky Sport Premier League DE HD",
+            "sat": "Astra 1N 19.2°e",
+            "freq": "12032 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Everton vs Coventry City "
+        },
+        {
             "channel": "Sky Sports Main Event HD",
             "sat": "Astra 2E 28.2°e",
             "freq": "11934 V 27500 - 5/6",
@@ -3453,6 +4087,14 @@
             "date": "2026-11-06"
         },
         {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
             "channel": "Arena Sport 4 BiH HD",
             "sat": "Astra 3B 23.5°e",
             "freq": "11895 V 30000 - 3/4",
@@ -3505,6 +4147,22 @@
             "sat": "Eutelsat 5 West A 5.0°w",
             "freq": "11679 V 29950 - 3/4",
             "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Derby County vs Bolton Wanderers "
         },
@@ -3569,6 +4227,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
+            "channel": "Sky Sport MIX Deutsch HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11758 H 27500 - 9/10",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Derby County vs Bolton Wanderers "
         },
@@ -3939,6 +4605,14 @@
             "sat": "Astra 4A 5.0°e",
             "freq": "11958 H 27500 - 5/6",
             "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Sevilla vs Alavés "
+        },
+        {
+            "channel": "SportKlub 6 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Sevilla vs Alavés "
         },
