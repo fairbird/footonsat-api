@@ -53,6 +53,14 @@
             "related_to": " Adelaide United vs Wellington Phoenix "
         },
         {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " Adelaide United vs Wellington Phoenix "
+        },
+        {
             "compet": "Australian A League - Week 4",
             "match": " Sydney FC vs Central Coast Mariners ",
             "flags": {
@@ -71,19 +79,59 @@
             "related_to": " Sydney FC vs Central Coast Mariners "
         },
         {
-            "channel": "TNT Sports 2 HD",
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "3775 L 09583 - 2/3",
+            "encry": "Irdeto [c]",
+            "link": "",
+            "related_to": " Sydney FC vs Central Coast Mariners "
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "NSS 12 57.0°e",
+            "freq": "3798 R 19167 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "",
+            "related_to": " Sydney FC vs Central Coast Mariners "
+        },
+        {
+            "channel": "TNT Sports 1 HD",
             "sat": "Astra 2G 28.2°e",
-            "freq": "11597 V 22000 - 5/6",
+            "freq": "11612 H 22000 - 5/6",
             "encry": "VideoGuard",
             "link": "",
             "related_to": " Sydney FC vs Central Coast Mariners "
         },
         {
-            "channel": "TNT Sports 2 HD",
+            "channel": "TNT Sports 1 HD",
             "sat": "Astra 2G 28.2°e",
             "freq": "11582 H 23000 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
+            "related_to": " Sydney FC vs Central Coast Mariners "
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "Eutelsat 10B 10.0°e",
+            "freq": "11222 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Sydney FC vs Central Coast Mariners "
+        },
+        {
+            "channel": "TNT Sports 1 HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "4132 R 22500 - 3/5",
+            "encry": "Irdeto [c]",
+            "link": "",
+            "related_to": " Sydney FC vs Central Coast Mariners "
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
             "related_to": " Sydney FC vs Central Coast Mariners "
         },
         {
@@ -167,6 +215,24 @@
             "related_to": " Qarabagh vs Turan "
         },
         {
+            "compet": "Indian Super League - Week 5",
+            "match": " FC Goa vs Bengaluru FC ",
+            "flags": {
+                "team1": "india",
+                "team2": "india"
+            },
+            "time": "14:00",
+            "date": "2026-11-06"
+        },
+        {
+            "channel": "Veikkaus TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.veikkaus.fi/fi/veikkaustv/jalkapallo",
+            "related_to": " FC Goa vs Bengaluru FC "
+        },
+        {
             "compet": "Bulgarian First League - Week 13",
             "match": " Septemvri Sofia vs Lokomotiv Sofia ",
             "flags": {
@@ -213,6 +279,14 @@
             "sat": "BulgariaSat 1 1.9°e",
             "freq": "12418 H 30000 - 2/3",
             "encry": "HD Bulcrypt",
+            "link": "",
+            "related_to": " Septemvri Sofia vs Lokomotiv Sofia "
+        },
+        {
+            "channel": "SportKlub 3 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11231 V 42000 - 5/6",
+            "encry": "MPEG-4 Irdeto",
             "link": "",
             "related_to": " Septemvri Sofia vs Lokomotiv Sofia "
         },
@@ -455,6 +529,14 @@
             },
             "time": "16:30",
             "date": "2026-11-06"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nafta 1903 vs Olimpija "
         },
         {
             "channel": "SportKlub 8 Hrvatska",
@@ -910,6 +992,14 @@
             "channel": "SportKlub 4 Hrvatska",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Botev Plovdiv vs Dunav Ruse "
+        },
+        {
+            "channel": "SportKlub 4 Slovenija",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Botev Plovdiv vs Dunav Ruse "
@@ -2075,6 +2165,14 @@
             },
             "time": "19:00",
             "date": "2026-11-06"
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Dekani vs Bistrica "
         },
         {
             "channel": "SportKlub 8 Hrvatska",
@@ -4609,6 +4707,14 @@
             "related_to": " Sevilla vs Alavés "
         },
         {
+            "channel": "SportKlub 2 Slovenija",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11387 H 32000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Sevilla vs Alavés "
+        },
+        {
             "channel": "SportKlub 6 Hrvatska",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -4699,6 +4805,14 @@
             },
             "time": "20:00",
             "date": "2026-11-06"
+        },
+        {
+            "channel": "Blue Sport 4 Live HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris St Germain vs Le Havre "
         },
         {
             "channel": "Canal+ Foot HD",
