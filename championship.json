@@ -195,6 +195,38 @@
             "related_to": " Derby County vs Bolton Wanderers "
         },
         {
+            "channel": "SuperSport Football Plus HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
+            "channel": "SuperSport Football Plus HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
+            "channel": "V Sport+ Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
+            "channel": "V Sport+ Norge HD",
+            "sat": "Thor 7 0.6°w",
+            "freq": "12111 V 30000 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -215,6 +247,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Derby County vs Bolton Wanderers "
+        },
+        {
+            "channel": "ViaPlay Sport Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Derby County vs Bolton Wanderers "
         },
@@ -349,6 +389,22 @@
             "related_to": " Wrexham vs Wolves "
         },
         {
+            "channel": "Setanta Sports Qazaqstan HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12657 V 45000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wrexham vs Wolves "
+        },
+        {
+            "channel": "Setanta Sports+ Ukraine HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12207 V 30000 - 2/3",
+            "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Wrexham vs Wolves "
+        },
+        {
             "channel": "Sky Go UK",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -433,6 +489,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12246 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Wrexham vs Wolves "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wrexham vs Wolves "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Wrexham vs Wolves "
         },
@@ -866,64 +938,6 @@
         },
         {
             "compet": "English Championship - Week 15",
-            "match": " Preston N.E. vs Southampton ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-11-07"
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Preston N.E. vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Preston N.E. vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Preston N.E. vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Preston N.E. vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Preston N.E. vs Southampton "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Preston N.E. vs Southampton "
-        },
-        {
-            "compet": "English Championship - Week 15",
             "match": " Birmingham City vs Swansea City ",
             "flags": {
                 "team1": "england",
@@ -981,17 +995,17 @@
             "related_to": " Birmingham City vs Swansea City "
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
+            "channel": "beIN Sports MENA 5 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
+            "freq": "10810 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Birmingham City vs Swansea City "
         },
         {
-            "channel": "beIN Sports MENA 4 HD",
+            "channel": "beIN Sports MENA 5 HD",
             "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
+            "freq": "11013 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Birmingham City vs Swansea City "
@@ -1059,6 +1073,64 @@
             "encry": "",
             "link": "",
             "related_to": " Birmingham City vs Swansea City "
+        },
+        {
+            "compet": "English Championship - Week 15",
+            "match": " Preston N.E. vs Southampton ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-07"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Preston N.E. vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Preston N.E. vs Southampton "
         },
         {
             "compet": "English Championship - Week 15",
