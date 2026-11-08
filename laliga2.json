@@ -287,6 +287,22 @@
             "date": "2026-11-14"
         },
         {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Valladolid vs Castellón "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Real Valladolid vs Castellón "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -346,6 +362,40 @@
         },
         {
             "compet": "Spanish La Liga 2 - Week 14",
+            "match": " Almería vs Andorra ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2026-11-14"
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Almería vs Andorra "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Almería vs Andorra "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Almería vs Andorra "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 14",
             "match": " Mallorca vs Córdoba ",
             "flags": {
                 "team1": "spain",
@@ -377,24 +427,6 @@
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Mallorca vs Córdoba "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 14",
-            "match": " Almería vs Andorra ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:30",
-            "date": "2026-11-14"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Almería vs Andorra "
         },
         {
             "compet": "Spanish La Liga 2 - Week 14",
