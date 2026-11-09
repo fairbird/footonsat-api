@@ -351,6 +351,14 @@
             "date": "2026-11-10"
         },
         {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Houston Rockets vs Denver Nuggets "
+        },
+        {
             "channel": "Arena Premium 1 Srbija HD",
             "sat": "Astra 3C 23.5°e",
             "freq": "12402 V 30000 - 3/4",
@@ -445,6 +453,14 @@
             },
             "time": "01:00",
             "date": "2026-11-11"
+        },
+        {
+            "channel": "Arena Premium 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Philadelphia 76ers vs Boston Celtics "
         },
         {
             "channel": "Arena Premium 1 Srbija HD",
@@ -835,6 +851,14 @@
             "related_to": " Toronto Raptors vs Boston Celtics "
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Toronto Raptors vs Boston Celtics "
+        },
+        {
             "compet": "NBA Regular Season",
             "match": " Indiana Pacers vs Washington Wizards ",
             "flags": {
@@ -1075,6 +1099,14 @@
             "related_to": " Portland Trail Blazers vs Oklahoma City Thunder "
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portland Trail Blazers vs Oklahoma City Thunder "
+        },
+        {
             "compet": "NBA Regular Season",
             "match": " Philadelphia 76ers vs Toronto Raptors ",
             "flags": {
@@ -1129,6 +1161,14 @@
             "sat": "Eutelsat 36D 35.9°e",
             "freq": "11650 V 10000 - 2/3",
             "encry": "HD TrophyAccess",
+            "link": "",
+            "related_to": " Philadelphia 76ers vs Toronto Raptors "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " Philadelphia 76ers vs Toronto Raptors "
         },
@@ -1501,6 +1541,14 @@
             "related_to": " Miami Heat vs Detroit Pistons "
         },
         {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Miami Heat vs Detroit Pistons "
+        },
+        {
             "compet": "NBA Regular Season",
             "match": " Memphis Grizzlies vs Brooklyn Nets ",
             "flags": {
@@ -1707,6 +1755,14 @@
             "related_to": " Boston Celtics vs Dallas Mavericks "
         },
         {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Boston Celtics vs Dallas Mavericks "
+        },
+        {
             "compet": "NBA Regular Season",
             "match": " Washington Wizards vs Houston Rockets ",
             "flags": {
@@ -1762,42 +1818,6 @@
         },
         {
             "compet": "NBA Regular Season",
-            "match": " Washington Wizards vs Memphis Grizzlies ",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "00:00",
-            "date": "2026-11-17"
-        },
-        {
-            "channel": "NBA League Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Washington Wizards vs Memphis Grizzlies "
-        },
-        {
-            "compet": "NBA Regular Season",
-            "match": " Cleveland Cavaliers vs Chicago Bulls ",
-            "flags": {
-                "team1": "assocnba",
-                "team2": "assocnba"
-            },
-            "time": "00:00",
-            "date": "2026-11-17"
-        },
-        {
-            "channel": "NBA League Pass",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cleveland Cavaliers vs Chicago Bulls "
-        },
-        {
-            "compet": "NBA Regular Season",
             "match": " Boston Celtics vs Orlando Magic ",
             "flags": {
                 "team1": "assocnba",
@@ -1805,6 +1825,22 @@
             },
             "time": "00:00",
             "date": "2026-11-17"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Boston Celtics vs Orlando Magic "
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Boston Celtics vs Orlando Magic "
         },
         {
             "channel": "NBA League Pass",
@@ -1853,6 +1889,42 @@
             "encry": "HD Conax",
             "link": "",
             "related_to": " Boston Celtics vs Orlando Magic "
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": " Washington Wizards vs Memphis Grizzlies ",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "00:00",
+            "date": "2026-11-17"
+        },
+        {
+            "channel": "NBA League Pass",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Washington Wizards vs Memphis Grizzlies "
+        },
+        {
+            "compet": "NBA Regular Season",
+            "match": " Cleveland Cavaliers vs Chicago Bulls ",
+            "flags": {
+                "team1": "assocnba",
+                "team2": "assocnba"
+            },
+            "time": "00:00",
+            "date": "2026-11-17"
+        },
+        {
+            "channel": "NBA League Pass",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Cleveland Cavaliers vs Chicago Bulls "
         },
         {
             "compet": "NBA Regular Season",
@@ -2017,6 +2089,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " San Antonio Spurs vs Detroit Pistons "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
             "link": "",
             "related_to": " San Antonio Spurs vs Detroit Pistons "
         },
