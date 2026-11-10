@@ -1,3 +1,66 @@
 {
-    "footonsat": []
+    "footonsat": [
+        {
+            "compet": "Portuguese Liga 1 - Week 12",
+            "match": " Marítimo vs Nacional Madeira ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:15",
+            "date": "2026-11-27"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Marítimo vs Nacional Madeira "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 12",
+            "match": " FC Porto vs Sporting Lisbon ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:30",
+            "date": "2026-11-29"
+        },
+        {
+            "channel": "Sportdigital FUSSBALL HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11186 V 22000 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " FC Porto vs Sporting Lisbon "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 12",
+            "match": " Benfica vs Famalicão ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:15",
+            "date": "2026-11-30"
+        },
+        {
+            "channel": "Benfica TV HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11304 V 30000 - 5/6",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Benfica vs Famalicão "
+        },
+        {
+            "channel": "Benfica TV HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Benfica vs Famalicão "
+        }
+    ]
 }
