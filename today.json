@@ -1,24 +1,6 @@
 {
     "footonsat": [
         {
-            "compet": "UEFA U-17 Championship 2027 Qualifiers - Group 12, Round 1",
-            "match": " Croatia U-17 vs Latvia U-17 ",
-            "flags": {
-                "team1": "croatia",
-                "team2": "latvia"
-            },
-            "time": "10:00",
-            "date": "2026-11-11"
-        },
-        {
-            "channel": "MAX Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Croatia U-17 vs Latvia U-17 "
-        },
-        {
             "compet": "UEFA U-17 Championship 2027 Qualifiers - Group 2, Round 2",
             "match": " Germany U-17 vs Azerbaijan U-17 ",
             "flags": {
@@ -67,6 +49,24 @@
             "encry": "",
             "link": "https://www.joyn.de/play/live-tv?channel_id=1373",
             "related_to": " Germany U-17 vs Azerbaijan U-17 "
+        },
+        {
+            "compet": "UEFA U-17 Championship 2027 Qualifiers - Group 12, Round 1",
+            "match": " Croatia U-17 vs Latvia U-17 ",
+            "flags": {
+                "team1": "croatia",
+                "team2": "latvia"
+            },
+            "time": "10:00",
+            "date": "2026-11-11"
+        },
+        {
+            "channel": "MAX Sport 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11512 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Croatia U-17 vs Latvia U-17 "
         },
         {
             "compet": "UEFA U-19 Championship Qualifiers - League A, Round 1",
@@ -136,6 +136,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.dazn.com/en-BE/",
+            "related_to": " Germany U-19 vs Sweden U-19 "
+        },
+        {
+            "channel": "DAZN Ireland📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.dazn.com/en-IE/home",
             "related_to": " Germany U-19 vs Sweden U-19 "
         },
         {
@@ -223,6 +231,14 @@
             },
             "time": "16:00",
             "date": "2026-11-11"
+        },
+        {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Fleury 91 vs Toulouse "
         },
         {
             "channel": "YouTube: Première Ligue 📺",
@@ -373,6 +389,14 @@
             "date": "2026-11-11"
         },
         {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Leuven vs HB Køge "
+        },
+        {
             "channel": "beIN Sports MENA English 2 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "11390 V 27500 - 2/3",
@@ -465,6 +489,46 @@
             "sat": "Thor 6 0.8°w",
             "freq": "10934 V 25000 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Leuven vs HB Køge "
+        },
+        {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Leuven vs HB Køge "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Leuven vs HB Køge "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Leuven vs HB Køge "
+        },
+        {
+            "channel": "VRT Canvas Belgium HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12188 H 29900 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Leuven vs HB Køge "
+        },
+        {
+            "channel": "VRT Canvas Belgium HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12074 V 30000 - 3/4",
+            "encry": "HD Conax",
             "link": "",
             "related_to": " Leuven vs HB Køge "
         },
@@ -611,6 +675,22 @@
             "date": "2026-11-11"
         },
         {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Lyon "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Juventus vs Lyon "
+        },
+        {
             "channel": "beIN Sports MENA 2 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
@@ -731,6 +811,30 @@
             "related_to": " Juventus vs Lyon "
         },
         {
+            "channel": "Persiana Sports 4 HD",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "11420 V 27500 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Juventus vs Lyon "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Juventus vs Lyon "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Juventus vs Lyon "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -755,6 +859,14 @@
             },
             "time": "20:00",
             "date": "2026-11-11"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Benfica vs Austria Vienna "
         },
         {
             "channel": "beIN Sports MENA English 1 HD",
