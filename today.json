@@ -561,6 +561,30 @@
             "date": "2026-11-14"
         },
         {
+            "channel": "DAZN 1 Bar Espana",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Espanyol vs Costa Adeje Tenerife "
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "10729 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Espanyol vs Costa Adeje Tenerife "
+        },
+        {
+            "channel": "DAZN 1 Espana HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10788 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Espanyol vs Costa Adeje Tenerife "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1523,6 +1547,22 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10936 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Valladolid vs Castellón "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Valladolid vs Castellón "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Real Valladolid vs Castellón "
         },
@@ -2981,6 +3021,14 @@
             "related_to": " Ayr United vs Raith Rovers "
         },
         {
+            "channel": "Raith TV Live📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.raith.tv/",
+            "related_to": " Ayr United vs Raith Rovers "
+        },
+        {
             "channel": "SPFL Player📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -3831,6 +3879,24 @@
             "related_to": " Stirling Albion vs Elgin City "
         },
         {
+            "compet": "UEFA U-19 Championship Qualifiers - League A, Round 2",
+            "match": " Finland U-19 vs Iceland U-19 ",
+            "flags": {
+                "team1": "finland",
+                "team2": "iceland"
+            },
+            "time": "15:00",
+            "date": "2026-11-14"
+        },
+        {
+            "channel": "Cymru Football TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.cymrufootball.tv/en",
+            "related_to": " Finland U-19 vs Iceland U-19 "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 14",
             "match": " Real Sociedad II vs Sporting Gijón ",
             "flags": {
@@ -3873,6 +3939,22 @@
             "related_to": " Real Sociedad II vs Sporting Gijón "
         },
         {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Sociedad II vs Sporting Gijón "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Real Sociedad II vs Sporting Gijón "
+        },
+        {
             "compet": "Dutch Eerste Divisie - Week 15",
             "match": " NAC Breda vs Emmen ",
             "flags": {
@@ -3899,6 +3981,14 @@
             },
             "time": "16:00",
             "date": "2026-11-14"
+        },
+        {
+            "channel": "Azam Sports 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Uganda vs Botswana "
         },
         {
             "channel": "beIN Connect USA 📺",
@@ -4697,6 +4787,14 @@
             "related_to": " Norway vs Wales "
         },
         {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Norway vs Wales "
+        },
+        {
             "channel": "Nova Sports Prime Hellas HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "12130 H 27500 - 3/4",
@@ -4789,6 +4887,14 @@
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11977 H 29900 - 3/4",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Norway vs Wales "
+        },
+        {
+            "channel": "Solh TV",
+            "sat": "MonacoSat 52.0°e",
+            "freq": "10845 V 27500 - 2/3",
+            "encry": "FTA (MPEG-4)",
             "link": "",
             "related_to": " Norway vs Wales "
         },
@@ -5143,6 +5249,14 @@
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11054 H 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Georgia vs Hungary "
+        },
+        {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Georgia vs Hungary "
         },
@@ -5585,6 +5699,22 @@
             "sat": "Hispasat 30W-5 30.0°w",
             "freq": "12437 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Portugal U-19 vs Germany U-19 "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Portugal U-19 vs Germany U-19 "
+        },
+        {
+            "channel": "DAZN España HD FTA",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 - -",
+            "encry": "Free To Air",
             "link": "",
             "related_to": " Portugal U-19 vs Germany U-19 "
         },
@@ -6246,48 +6376,6 @@
         },
         {
             "compet": "Spanish La Liga 2 - Week 14",
-            "match": " Mallorca vs Córdoba ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "17:30",
-            "date": "2026-11-14"
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Mallorca vs Córdoba "
-        },
-        {
-            "channel": "ESPN+ USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Mallorca vs Córdoba "
-        },
-        {
-            "channel": "Orange Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12688 V 30000 - 7/8",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Mallorca vs Córdoba "
-        },
-        {
-            "channel": "Orange Sport RO 2 HD",
-            "sat": "Hellas Sat 3 39.0°e",
-            "freq": "12367 V 30000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Mallorca vs Córdoba "
-        },
-        {
-            "compet": "Spanish La Liga 2 - Week 14",
             "match": " Almería vs Andorra ",
             "flags": {
                 "team1": "spain",
@@ -6327,6 +6415,88 @@
             "encry": "LiveOnSat.com",
             "link": "",
             "related_to": " Almería vs Andorra "
+        },
+        {
+            "channel": "LaLiga Hypermotion 2",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Almería vs Andorra "
+        },
+        {
+            "channel": "LaLiga TV Bar 2",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11038 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Almería vs Andorra "
+        },
+        {
+            "compet": "Spanish La Liga 2 - Week 14",
+            "match": " Mallorca vs Córdoba ",
+            "flags": {
+                "team1": "spain",
+                "team2": "spain"
+            },
+            "time": "17:30",
+            "date": "2026-11-14"
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Mallorca vs Córdoba "
+        },
+        {
+            "channel": "ESPN+ USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Mallorca vs Córdoba "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Mallorca vs Córdoba "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10936 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mallorca vs Córdoba "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Mallorca vs Córdoba "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
+            "link": "",
+            "related_to": " Mallorca vs Córdoba "
+        },
+        {
+            "channel": "Orange Fútbol 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Mallorca vs Córdoba "
         },
         {
             "compet": "French Féminine Première Ligue - Week 9",
@@ -6381,6 +6551,14 @@
             },
             "time": "19:00",
             "date": "2026-11-14"
+        },
+        {
+            "channel": "Azam Sports 3 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Angola vs South Sudan "
         },
         {
             "channel": "beIN Connect USA 📺",
@@ -6521,6 +6699,14 @@
             "date": "2026-11-14"
         },
         {
+            "channel": "Azam Sports 1 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "10981 V 45000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Algeria vs Togo "
+        },
+        {
             "channel": "beIN Connect USA 📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -6654,6 +6840,22 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.fubosportsnetwork.com/",
+            "related_to": " Algeria vs Togo "
+        },
+        {
+            "channel": "New World Sport 1 Mauritius",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Algeria vs Togo "
+        },
+        {
+            "channel": "New World Sport 5 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12562 H 30000 - 2/3",
+            "encry": "MPEG-4 Conax",
+            "link": "",
             "related_to": " Algeria vs Togo "
         },
         {
@@ -7489,6 +7691,14 @@
             "related_to": " Northern Ireland vs Ukraine "
         },
         {
+            "channel": "Silk Sport 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Northern Ireland vs Ukraine "
+        },
+        {
             "channel": "Sony Sports TEN 5 India HD",
             "sat": "G-Sat 10 83.0°e",
             "freq": "11840 V 32720 - 3/4",
@@ -7819,6 +8029,14 @@
             "related_to": " Sweden vs Bosnia-Herzegovina "
         },
         {
+            "channel": "New World Sport 4 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
+            "related_to": " Sweden vs Bosnia-Herzegovina "
+        },
+        {
             "channel": "Nova Sport Bulgaria HD",
             "sat": "AzerSpace 2 45.0°e",
             "freq": "12600 V 30000 - 5/6",
@@ -7928,6 +8146,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.primevideo.com/",
+            "related_to": " Sweden vs Bosnia-Herzegovina "
+        },
+        {
+            "channel": "Silk Sport 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
             "related_to": " Sweden vs Bosnia-Herzegovina "
         },
         {
@@ -8583,6 +8809,14 @@
             "related_to": " Portugal vs Denmark "
         },
         {
+            "channel": "CBC Sport HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Portugal vs Denmark "
+        },
+        {
             "channel": "Cytavision Sports 3 HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -8719,6 +8953,14 @@
             "related_to": " Portugal vs Denmark "
         },
         {
+            "channel": "GEM Sport 1 HD",
+            "sat": "Al Yah 1 52.5°e",
+            "freq": "12034 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Portugal vs Denmark "
+        },
+        {
             "channel": "LaLiga TV Bar 2",
             "sat": "Astra 1L 19.2°e",
             "freq": "11038 V 22000 - 5/6",
@@ -8756,6 +8998,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://www.mtv.fi/urheilu",
+            "related_to": " Portugal vs Denmark "
+        },
+        {
+            "channel": "New World Sport 3 Togo",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "12604 H 30000 - 3/4",
+            "encry": "MPEG-4 Conax",
+            "link": "",
             "related_to": " Portugal vs Denmark "
         },
         {
@@ -8924,6 +9174,14 @@
             "freq": "12130 H 27500 - 3/4",
             "encry": "HD NagraVision",
             "link": "https://www.rtp.pt/play/direto/rtp1",
+            "related_to": " Portugal vs Denmark "
+        },
+        {
+            "channel": "Silk Universal HD",
+            "sat": "Astra 5B 31.5°e",
+            "freq": "12207 V 27500 - 5/6",
+            "encry": "MPEG-4 Bulcrypt",
+            "link": "",
             "related_to": " Portugal vs Denmark "
         },
         {
@@ -9325,6 +9583,22 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10936 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Oviedo vs Girona "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Real Oviedo vs Girona "
+        },
+        {
+            "channel": "LaLiga TV Bar HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Real Oviedo vs Girona "
         },
