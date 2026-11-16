@@ -11,6 +11,30 @@
             "date": "2026-11-21"
         },
         {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Millwall vs Queens Park Rangers "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12480 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Millwall vs Queens Park Rangers "
+        },
+        {
+            "channel": "Arena Premium 2 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11429 V 28330 - 3/5",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Millwall vs Queens Park Rangers "
+        },
+        {
             "channel": "Arena Sport 2 Hrvatska HD",
             "sat": "Eutelsat 16A 16.0°e",
             "freq": "11595 H 30000 - 3/4",
@@ -35,6 +59,14 @@
             "related_to": " Millwall vs Queens Park Rangers "
         },
         {
+            "channel": "Arena Sport 6 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "0000 0",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Millwall vs Queens Park Rangers "
+        },
+        {
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eshail 2 25.5°e",
             "freq": "10810 H 27500 - 2/3",
@@ -46,6 +78,22 @@
             "channel": "beIN Sports MENA 3 HD",
             "sat": "Eutelsat 8 West B 8.0°w",
             "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Millwall vs Queens Park Rangers "
+        },
+        {
+            "channel": "Magenta Hellas Sport 3 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Millwall vs Queens Park Rangers "
+        },
+        {
+            "channel": "Magenta Hellas Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12399 H 27500 - 2/3",
             "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Millwall vs Queens Park Rangers "
@@ -203,62 +251,12 @@
             "related_to": " Millwall vs Queens Park Rangers "
         },
         {
-            "compet": "English Championship - Week 16",
-            "match": " Norwich City vs Cardiff City ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "12:30",
-            "date": "2026-11-21"
-        },
-        {
-            "channel": "Sky Sports+",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Norwich City vs Cardiff City "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Cardiff City "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
+            "channel": "ViaPlay Ísland HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Norwich City vs Cardiff City "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Cardiff City "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Cardiff City "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Norwich City vs Cardiff City "
+            "related_to": " Millwall vs Queens Park Rangers "
         },
         {
             "compet": "English Championship - Week 16",
@@ -335,6 +333,202 @@
             "related_to": " Southampton vs Derby County "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Southampton vs Derby County "
+        },
+        {
+            "compet": "English Championship - Week 16",
+            "match": " Norwich City vs Cardiff City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "12:30",
+            "date": "2026-11-21"
+        },
+        {
+            "channel": "Sky Sports+",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Norwich City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Norwich City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Norwich City vs Cardiff City "
+        },
+        {
+            "compet": "English Championship - Week 16",
+            "match": " Wolves vs Charlton Athletic ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-21"
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "Arena Sport 8 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 V 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "beIN Sports Australia 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "Magenta Hellas Sport 4 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11938 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "Magenta Hellas Sport 4 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12054 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "Sport TV+ Portugal",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12476 H 27500 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Charlton Athletic "
+        },
+        {
             "compet": "English Championship - Week 16",
             "match": " Lincoln City vs Wrexham ",
             "flags": {
@@ -381,6 +575,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lincoln City vs Wrexham "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Lincoln City vs Wrexham "
         },
@@ -435,6 +637,14 @@
             "related_to": " Swansea City vs West Bromwich Albion "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Swansea City vs West Bromwich Albion "
+        },
+        {
             "compet": "English Championship - Week 16",
             "match": " Stoke City vs Birmingham City ",
             "flags": {
@@ -481,6 +691,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Stoke City vs Birmingham City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Stoke City vs Birmingham City "
         },
@@ -535,6 +753,14 @@
             "related_to": " Middlesbrough vs Bristol City "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Middlesbrough vs Bristol City "
+        },
+        {
             "compet": "English Championship - Week 16",
             "match": " Bolton Wanderers vs Portsmouth ",
             "flags": {
@@ -581,6 +807,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bolton Wanderers vs Portsmouth "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Bolton Wanderers vs Portsmouth "
         },
@@ -635,102 +869,12 @@
             "related_to": " Sheffield United vs Watford "
         },
         {
-            "compet": "English Championship - Week 16",
-            "match": " Wolves vs Charlton Athletic ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-11-21"
-        },
-        {
-            "channel": "Arena Sport 8 Hrvatska HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "Arena Sport 8 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11554 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "beIN Sports Australia 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 1 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "12604 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "Sport TV+ Portugal",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12476 H 27500 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
+            "channel": "ViaPlay Ísland HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolves vs Charlton Athletic "
+            "related_to": " Sheffield United vs Watford "
         },
         {
             "compet": "English Championship - Week 16",
@@ -783,6 +927,14 @@
             "related_to": " West Ham United vs Preston N.E. "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Ham United vs Preston N.E. "
+        },
+        {
             "compet": "English Championship - Week 16",
             "match": " Burnley vs Blackburn Rovers ",
             "flags": {
@@ -791,6 +943,14 @@
             },
             "time": "12:00",
             "date": "2026-11-22"
+        },
+        {
+            "channel": "Arena Sport 1 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Burnley vs Blackburn Rovers "
         },
         {
             "channel": "Arena Sport 3 Hrvatska HD",
@@ -902,6 +1062,22 @@
             "freq": "0000",
             "encry": "LiveOnSat.com",
             "link": "https://www.itv.com/watch?channel=itv",
+            "related_to": " Burnley vs Blackburn Rovers "
+        },
+        {
+            "channel": "Magenta Hellas Sport 3 HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Burnley vs Blackburn Rovers "
+        },
+        {
+            "channel": "Magenta Hellas Sport 3 HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12399 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": " Burnley vs Blackburn Rovers "
         },
         {
@@ -1097,6 +1273,14 @@
             "related_to": " Burnley vs Blackburn Rovers "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Burnley vs Blackburn Rovers "
+        },
+        {
             "compet": "English Championship - Week 17",
             "match": " Portsmouth vs West Ham United ",
             "flags": {
@@ -1151,6 +1335,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Portsmouth vs West Ham United "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Portsmouth vs West Ham United "
         },
@@ -1213,6 +1405,14 @@
             "related_to": " Charlton Athletic vs Lincoln City "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Charlton Athletic vs Lincoln City "
+        },
+        {
             "compet": "English Championship - Week 17",
             "match": " Norwich City vs Queens Park Rangers ",
             "flags": {
@@ -1267,6 +1467,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Norwich City vs Queens Park Rangers "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Norwich City vs Queens Park Rangers "
         },
@@ -1329,6 +1537,14 @@
             "related_to": " Middlesbrough vs Swansea City "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Middlesbrough vs Swansea City "
+        },
+        {
             "compet": "English Championship - Week 17",
             "match": " Sheffield United vs Southampton ",
             "flags": {
@@ -1383,6 +1599,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Sheffield United vs Southampton "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Sheffield United vs Southampton "
         },
@@ -1445,6 +1669,14 @@
             "related_to": " Bristol City vs Wrexham "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Bristol City vs Wrexham "
+        },
+        {
             "compet": "English Championship - Week 17",
             "match": " Cardiff City vs Preston N.E. ",
             "flags": {
@@ -1503,6 +1735,14 @@
             "related_to": " Cardiff City vs Preston N.E. "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Cardiff City vs Preston N.E. "
+        },
+        {
             "compet": "English Championship - Week 17",
             "match": " Wolves vs Derby County ",
             "flags": {
@@ -1525,30 +1765,6 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Wolves vs Derby County "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12090 V 29500 - 8/9",
-            "encry": "MPEG-4 NDS",
-            "link": "",
-            "related_to": " Wolves vs Derby County "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11934 V 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Wolves vs Derby County "
-        },
-        {
-            "channel": "Sky Sports Football HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12012 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Wolves vs Derby County "
         },
@@ -1657,6 +1873,14 @@
             "related_to": " Wolves vs Derby County "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wolves vs Derby County "
+        },
+        {
             "compet": "English Championship - Week 17",
             "match": " Bolton Wanderers vs West Bromwich Albion ",
             "flags": {
@@ -1711,6 +1935,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Bolton Wanderers vs West Bromwich Albion "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Bolton Wanderers vs West Bromwich Albion "
         },
@@ -1773,6 +2005,14 @@
             "related_to": " Watford vs Blackburn Rovers "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Watford vs Blackburn Rovers "
+        },
+        {
             "compet": "English Championship - Week 17",
             "match": " Burnley vs Birmingham City ",
             "flags": {
@@ -1827,6 +2067,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Burnley vs Birmingham City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Burnley vs Birmingham City "
         },
@@ -1985,6 +2233,14 @@
             "related_to": " Stoke City vs Millwall "
         },
         {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Stoke City vs Millwall "
+        },
+        {
             "compet": "English Championship - Week 18",
             "match": " Southampton vs Middlesbrough ",
             "flags": {
@@ -2055,6 +2311,54 @@
             "sat": "Astra 2E 28.2°e",
             "freq": "12012 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Southampton vs Middlesbrough "
         },
@@ -2149,6 +2453,54 @@
             "related_to": " Preston N.E. vs Norwich City "
         },
         {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
             "compet": "English Championship - Week 18",
             "match": " Lincoln City vs Wolves ",
             "flags": {
@@ -2162,6 +2514,54 @@
             "channel": "Sky Sports+",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Lincoln City vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lincoln City vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Lincoln City vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lincoln City vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lincoln City vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Lincoln City vs Wolves "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
             "encry": "",
             "link": "",
             "related_to": " Lincoln City vs Wolves "
@@ -2183,6 +2583,460 @@
             "encry": "",
             "link": "",
             "related_to": " Blackburn Rovers vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Blackburn Rovers vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Blackburn Rovers vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Blackburn Rovers vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Blackburn Rovers vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Blackburn Rovers vs Charlton Athletic "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Blackburn Rovers vs Charlton Athletic "
+        },
+        {
+            "compet": "English Championship - Week 18",
+            "match": " Wrexham vs Portsmouth ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wrexham vs Portsmouth "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wrexham vs Portsmouth "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wrexham vs Portsmouth "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wrexham vs Portsmouth "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Wrexham vs Portsmouth "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Wrexham vs Portsmouth "
+        },
+        {
+            "compet": "English Championship - Week 18",
+            "match": " Queens Park Rangers vs Sheffield United ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Queens Park Rangers vs Sheffield United "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Queens Park Rangers vs Sheffield United "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Queens Park Rangers vs Sheffield United "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Queens Park Rangers vs Sheffield United "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Queens Park Rangers vs Sheffield United "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Queens Park Rangers vs Sheffield United "
+        },
+        {
+            "compet": "English Championship - Week 18",
+            "match": " Derby County vs Watford ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Derby County vs Watford "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Derby County vs Watford "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Derby County vs Watford "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Derby County vs Watford "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Derby County vs Watford "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Derby County vs Watford "
+        },
+        {
+            "compet": "English Championship - Week 18",
+            "match": " West Bromwich Albion vs Bristol City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "compet": "English Championship - Week 18",
+            "match": " Birmingham City vs Bolton Wanderers ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Bolton Wanderers "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham City vs Bolton Wanderers "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Bolton Wanderers "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Bolton Wanderers "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Birmingham City vs Bolton Wanderers "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Birmingham City vs Bolton Wanderers "
+        },
+        {
+            "compet": "English Championship - Week 18",
+            "match": " Millwall vs Burnley ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Millwall vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Millwall vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Millwall vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Millwall vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Millwall vs Burnley "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Millwall vs Burnley "
+        },
+        {
+            "compet": "English Championship - Week 18",
+            "match": " West Ham United vs Stoke City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Stoke City "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Ham United vs Stoke City "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Stoke City "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Stoke City "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Ham United vs Stoke City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Ham United vs Stoke City "
         },
         {
             "compet": "English Championship - Week 18",
@@ -2223,6 +3077,54 @@
             "sat": "Astra 2E 28.2°e",
             "freq": "12012 V 27500 - 2/3",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Swansea City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Swansea City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Swansea City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Swansea City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Swansea City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Swansea City vs Cardiff City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
             "related_to": " Swansea City vs Cardiff City "
         },

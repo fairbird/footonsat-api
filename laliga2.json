@@ -11,9 +11,25 @@
             "date": "2026-11-16"
         },
         {
+            "channel": "DAZN 1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12399 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Albacete vs Celta Vigo II "
+        },
+        {
             "channel": "DAZN España",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Albacete vs Celta Vigo II "
+        },
+        {
+            "channel": "DAZN Portugal",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Albacete vs Celta Vigo II "
@@ -369,6 +385,14 @@
             "related_to": " Sporting Gijón vs Las Palmas "
         },
         {
+            "channel": "Prima Sport RO PPV 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Sporting Gijón vs Las Palmas "
+        },
+        {
             "compet": "Spanish La Liga 2 - Week 15",
             "match": " Celta Vigo II vs Real Valladolid ",
             "flags": {
@@ -383,6 +407,14 @@
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
+            "link": "",
+            "related_to": " Celta Vigo II vs Real Valladolid "
+        },
+        {
+            "channel": "LaLiga Hypermotion 2",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11686 V 22000 - 5/6",
+            "encry": "NagraVision",
             "link": "",
             "related_to": " Celta Vigo II vs Real Valladolid "
         },
@@ -421,11 +453,35 @@
             "related_to": " Girona vs Eibar "
         },
         {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10758 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Girona vs Eibar "
+        },
+        {
+            "channel": "LaLiga Hypermotion HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10936 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Girona vs Eibar "
+        },
+        {
             "channel": "Megogo Futbol 1📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
             "encry": "",
             "link": "https://megogo.net/en/tv/channels/4075301-megogo-football-first-online.html",
+            "related_to": " Girona vs Eibar "
+        },
+        {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
             "related_to": " Girona vs Eibar "
         },
         {
@@ -493,6 +549,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "10936 V 22000 - 2/3",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Ceuta vs Almería "
+        },
+        {
+            "channel": "Prima Sport RO PPV 1",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Ceuta vs Almería "
         },
