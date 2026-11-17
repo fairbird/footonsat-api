@@ -739,6 +739,14 @@
             "related_to": " Olimpia Milano vs Red Star Belgrade "
         },
         {
+            "channel": "Sky Sport Basket Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11843 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Olimpia Milano vs Red Star Belgrade "
+        },
+        {
             "channel": "SportKlub 5 Hrvatska",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1043,6 +1051,14 @@
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
             "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Virtus Bologna vs Panathinaikos "
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Virtus Bologna vs Panathinaikos "
         },
@@ -1719,6 +1735,14 @@
             "related_to": " Olimpia Milano vs Fenerbahce "
         },
         {
+            "channel": "Sky Sport Basket Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11843 V 29900 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Olimpia Milano vs Fenerbahce "
+        },
+        {
             "channel": "SportKlub 4 Hrvatska",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
@@ -1885,6 +1909,14 @@
             "sat": "Astra 4A 5.0°e",
             "freq": "12207 V 30000 - 2/3",
             "encry": "HD Verimatrix",
+            "link": "",
+            "related_to": " Valencia vs Virtus Bologna "
+        },
+        {
+            "channel": "Sky Sport Arena Italia HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "11996 V 29900 - 5/6",
+            "encry": "HD VideoGuard",
             "link": "",
             "related_to": " Valencia vs Virtus Bologna "
         },
@@ -2450,6 +2482,32 @@
         },
         {
             "compet": "ULEB Euroleague - Round 14",
+            "match": " Besiktas vs Paris Basketball ",
+            "flags": {
+                "team1": "turkey",
+                "team2": "france"
+            },
+            "time": "17:00",
+            "date": "2026-11-24"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Besiktas vs Paris Basketball "
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Besiktas vs Paris Basketball "
+        },
+        {
+            "compet": "ULEB Euroleague - Round 14",
             "match": " Valencia vs Panathinaikos ",
             "flags": {
                 "team1": "spain",
@@ -2465,6 +2523,32 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Valencia vs Panathinaikos "
+        },
+        {
+            "compet": "ULEB Euroleague - Round 14",
+            "match": " Lyon-Villeurbanne vs Olimpia Milano ",
+            "flags": {
+                "team1": "france",
+                "team2": "italy"
+            },
+            "time": "19:45",
+            "date": "2026-11-24"
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Lyon-Villeurbanne vs Olimpia Milano "
+        },
+        {
+            "channel": "beIN Sports France 1 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Lyon-Villeurbanne vs Olimpia Milano "
         }
     ]
 }
