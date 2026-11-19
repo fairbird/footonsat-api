@@ -115,6 +115,14 @@
             "related_to": " São Paulo vs Fluminense "
         },
         {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " São Paulo vs Fluminense "
+        },
+        {
             "compet": "Major League Soccer (MLS) - Round of 32",
             "match": " Orlando City vs Cincinnati ",
             "flags": {
@@ -629,6 +637,14 @@
             "sat": "AzerSpace 1 46.0°e",
             "freq": "11175 H 30000 - 5/6",
             "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Sumqayit vs Sabah "
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA (BISS)",
             "link": "",
             "related_to": " Sumqayit vs Sabah "
         },
@@ -1171,32 +1187,6 @@
             "related_to": " Chrobry Glogów vs Puszcza Niepolomice "
         },
         {
-            "compet": "Danish A-Liga Women - Week 16",
-            "match": " Nordsjælland vs Fortuna Hjørring ",
-            "flags": {
-                "team1": "denmark",
-                "team2": "denmark"
-            },
-            "time": "17:00",
-            "date": "2026-11-20"
-        },
-        {
-            "channel": "TV2 Play Danmark📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.dk/sport",
-            "related_to": " Nordsjælland vs Fortuna Hjørring "
-        },
-        {
-            "channel": "TV2 Sport X Dansk HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10716 H 25000 - 3/4",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Nordsjælland vs Fortuna Hjørring "
-        },
-        {
             "compet": "Türkiye 1. Lig - Week 15",
             "match": " Igdir FK vs Umraniyespor ",
             "flags": {
@@ -1212,6 +1202,22 @@
             "freq": "0000",
             "encry": "",
             "link": "https://www.beinconnect.com.tr/spor/",
+            "related_to": " Igdir FK vs Umraniyespor "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Igdir FK vs Umraniyespor "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11637 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
             "related_to": " Igdir FK vs Umraniyespor "
         },
         {
@@ -1237,6 +1243,32 @@
             "encry": "Free To Air HD",
             "link": "https://www.trtizle.com/canli/tv/trt-spor",
             "related_to": " Igdir FK vs Umraniyespor "
+        },
+        {
+            "compet": "Danish A-Liga Women - Week 16",
+            "match": " Nordsjælland vs Fortuna Hjørring ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "17:00",
+            "date": "2026-11-20"
+        },
+        {
+            "channel": "TV2 Play Danmark📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.dk/sport",
+            "related_to": " Nordsjælland vs Fortuna Hjørring "
+        },
+        {
+            "channel": "TV2 Sport X Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10716 H 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Nordsjælland vs Fortuna Hjørring "
         },
         {
             "compet": "German 2. Bundesliga - Week 12",
@@ -2363,64 +2395,6 @@
             "related_to": " Stade Nyonnais vs Wil 1900 "
         },
         {
-            "compet": "French Ligue 2 - Week 13",
-            "match": " Red Star FC vs Pau ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "19:00",
-            "date": "2026-11-20"
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "11895 V 29700 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Red Star FC vs Pau "
-        },
-        {
-            "channel": "beIN Sports France 7 HD max",
-            "sat": "Eutelsat 5 West A 5.0°w",
-            "freq": "11679 V 29950 - 3/4",
-            "encry": "MPEG-4 Viaccess",
-            "link": "",
-            "related_to": " Red Star FC vs Pau "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Red Star FC vs Pau "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Red Star FC vs Pau "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Red Star FC vs Pau "
-        },
-        {
-            "channel": "beIN Sports MENA 5 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Red Star FC vs Pau "
-        },
-        {
             "compet": "Belgian Challenger Pro League - Week 11",
             "match": " Lierse vs Sporting Lokeren ",
             "flags": {
@@ -2541,6 +2515,48 @@
             "encry": "MPEG-4 Viaccess",
             "link": "",
             "related_to": " Metz vs Boulogne "
+        },
+        {
+            "compet": "French Ligue 2 - Week 13",
+            "match": " Red Star FC vs Pau ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "19:00",
+            "date": "2026-11-20"
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Red Star FC vs Pau "
+        },
+        {
+            "channel": "beIN Sports France 7 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11679 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Red Star FC vs Pau "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 V 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Red Star FC vs Pau "
+        },
+        {
+            "channel": "beIN Sports MENA 4 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11054 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Red Star FC vs Pau "
         },
         {
             "compet": "French Ligue 2 - Week 13",
@@ -2983,6 +2999,14 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD Mediaguard",
+            "link": "",
+            "related_to": " Bayern Munich vs FC Cologne "
+        },
+        {
+            "channel": "Idman TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "FTA (BISS)",
             "link": "",
             "related_to": " Bayern Munich vs FC Cologne "
         },
@@ -3547,224 +3571,6 @@
             "related_to": " Andorra vs Leganés "
         },
         {
-            "compet": "French Ligue 1 - Week 11",
-            "match": " Troyes vs Le Havre ",
-            "flags": {
-                "team1": "france",
-                "team2": "france"
-            },
-            "time": "19:45",
-            "date": "2026-11-20"
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12460 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Arena Sport 1 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11366 V 30000 - 3/4",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11595 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Arena Sport 2 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11554 H 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Arena Sport 3 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11895 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "beIN Connect MENA 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://connect.bein.com/",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "beIN Connect Türkiye 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.beinconnect.com.tr/spor/",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "beIN Sports MENA 3 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "beIN Sports MENA 4 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11054 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "DAZN España",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11488 H 27500 - 3/4",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Eleven Sports 2 Polska HD",
-            "sat": "Hotbird 13G 13.0°e",
-            "freq": "11488 V 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Ligue 1+📺",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://plus.ligue1.com/home",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Megogo Futbol 2",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "Sport TV2 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "SuperSport 3 Albania HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "10845 H 30000 - 3/5",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "SuperSport Kickoff HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11514 H 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "SuperSport Kickoff HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "11594 V 27500 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Troyes vs Le Havre "
-        },
-        {
             "compet": "Northern Ireland Premiership - Week 17",
             "match": " Cliftonville vs Glentoran ",
             "flags": {
@@ -3993,6 +3799,224 @@
             "related_to": " Airbus UK vs Colwyn Bay "
         },
         {
+            "compet": "French Ligue 1 - Week 11",
+            "match": " Troyes vs Le Havre ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "19:45",
+            "date": "2026-11-20"
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12460 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Arena Sport 1 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11366 V 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11595 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Arena Sport 2 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11554 H 30000 - 5/6",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Arena Sport 3 BiH HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11895 V 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "beIN Connect Türkiye 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.beinconnect.com.tr/spor",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "beIN Sports MENA 3 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11676 V 24444 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "beIN Sports Türkiye 2 HD",
+            "sat": "Eutelsat 7C 7.0°e",
+            "freq": "11637 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "DAZN España",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 H 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Eleven Sports 2 Polska HD",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "11488 V 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Megogo Futbol 2",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "Sport TV2 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "SuperSport 3 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11514 H 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "SuperSport Kickoff HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "11594 V 27500 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Troyes vs Le Havre "
+        },
+        {
             "compet": "Belgian Pro League - Week 12",
             "match": " Cercle Brugge vs Westerlo ",
             "flags": {
@@ -4157,6 +4181,46 @@
             "related_to": " Barnsley vs Sheffield Wednesday "
         },
         {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11856 V 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barnsley vs Sheffield Wednesday "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12012 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barnsley vs Sheffield Wednesday "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "12090 V 29500 - 8/9",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Barnsley vs Sheffield Wednesday "
+        },
+        {
+            "channel": "Sky Sports Main Event HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "11934 V 27500 - 5/6",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Barnsley vs Sheffield Wednesday "
+        },
+        {
+            "channel": "Sky Sports Main Event UHD",
+            "sat": "Astra 2F 28.2°e",
+            "freq": "12207 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barnsley vs Sheffield Wednesday "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -4275,6 +4339,22 @@
             "sat": "Hotbird 13G 13.0°e",
             "freq": "11488 H 27500 - 3/4",
             "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Athletic Bilbao vs Espanyol "
+        },
+        {
+            "channel": "Cytavision Sports 4K 1 UHD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Athletic Bilbao vs Espanyol "
+        },
+        {
+            "channel": "Cytavision Sports 8 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Athletic Bilbao vs Espanyol "
         },
@@ -4595,6 +4675,14 @@
             "sat": "Eutelsat 36C 35.9°e",
             "freq": "12015 R 27500 - 3/4",
             "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Athletic Bilbao vs Espanyol "
+        },
+        {
+            "channel": "Medeniyyet TV HD",
+            "sat": "AzerSpace 1 46.0°e",
+            "freq": "11175 H 30000 - 5/6",
+            "encry": "Free To Air HD",
             "link": "",
             "related_to": " Athletic Bilbao vs Espanyol "
         },
@@ -4922,6 +5010,14 @@
             "freq": "0000 0",
             "encry": "",
             "link": "https://tv.comofootball.com/liveEvent.html",
+            "related_to": " Vélez Sarsfield vs Belgrano "
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": " Vélez Sarsfield vs Belgrano "
         },
         {
