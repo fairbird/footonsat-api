@@ -1,22 +1,168 @@
 {
     "footonsat": [
         {
-            "compet": "CONCACAF Nations League - Group Stage: Round 6",
-            "match": " French Guiana vs St Vincent & TG ",
+            "compet": "Brazilian Série A - Week 35",
+            "match": " Corinthians vs Botafogo ",
             "flags": {
-                "team1": "france",
-                "team2": "stvincent"
+                "team1": "brazil",
+                "team2": "brazil"
             },
-            "time": "00:00",
-            "date": "2026-11-18"
+            "time": "00:30",
+            "date": "2026-11-19"
         },
         {
-            "channel": "CONCACAF GO📺",
+            "channel": "DAZN Deutsch",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Corinthians vs Botafogo "
+        },
+        {
+            "channel": "Fanatiz EU📺",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Corinthians vs Botafogo "
+        },
+        {
+            "compet": "Brazilian Série A - Week 35",
+            "match": " Grêmio vs Bahia ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "00:30",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Grêmio vs Bahia "
+        },
+        {
+            "compet": "Japanese WE League - Week 10",
+            "match": " Omiya Ardija vs Kobe Leonessa ",
+            "flags": {
+                "team1": "japan",
+                "team2": "japan"
+            },
+            "time": "09:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "DAZN Japan",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Omiya Ardija vs Kobe Leonessa "
+        },
+        {
+            "compet": "Slovak Cup - Round of 16",
+            "match": " MFK Zvolen vs Košice ",
+            "flags": {
+                "team1": "slovakia",
+                "team2": "slovakia"
+            },
+            "time": "12:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12012 V 29900 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " MFK Zvolen vs Košice "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11094 V 27500 - 4/5",
+            "encry": "HD Conax",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " MFK Zvolen vs Košice "
+        },
+        {
+            "channel": "STVR Šport Slovakia HD 📺",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11747 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.stvr.sk/televizia/sport",
+            "related_to": " MFK Zvolen vs Košice "
+        },
+        {
+            "compet": "Slovenian Cup (Pokal Hervis) - Round of 16",
+            "match": " Beltinci vs Celje ",
+            "flags": {
+                "team1": "slovenia",
+                "team2": "slovenia"
+            },
+            "time": "12:30",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "SportKlub 1 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Beltinci vs Celje "
+        },
+        {
+            "channel": "SportKlub 1 Slovenija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11471 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Beltinci vs Celje "
+        },
+        {
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " France U-17 vs Haiti U-17 ",
+            "flags": {
+                "team1": "france",
+                "team2": "haiti"
+            },
+            "time": "13:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Al Kass 1 HD 📺",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12245 H 27500 - 5/6",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": " France U-17 vs Haiti U-17 "
+        },
+        {
+            "channel": "Al Kass 1 HD 📺",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 V 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": " France U-17 vs Haiti U-17 "
+        },
+        {
+            "channel": "Al Kass 1 HD 📺",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": " France U-17 vs Haiti U-17 "
+        },
+        {
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
             "encry": "Free To Air",
-            "link": "https://www.concacaf.com/concacaf-go/",
-            "related_to": " French Guiana vs St Vincent & TG "
+            "link": "",
+            "related_to": " France U-17 vs Haiti U-17 "
         },
         {
             "channel": "Fox Sports 2 USA HD",
@@ -24,1431 +170,209 @@
             "freq": "0000",
             "encry": "",
             "link": "",
-            "related_to": " French Guiana vs St Vincent & TG "
+            "related_to": " France U-17 vs Haiti U-17 "
         },
         {
-            "channel": "Fubo Sports USA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": " French Guiana vs St Vincent & TG "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " French Guiana vs St Vincent & TG "
-        },
-        {
-            "channel": "YouTube: CONCACAF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@concacaf/streams",
-            "related_to": " French Guiana vs St Vincent & TG "
-        },
-        {
-            "compet": "CONCACAF Nations League - League A Quarter Final (2nd Leg)",
-            "match": " United States vs Haiti ",
-            "flags": {
-                "team1": "usa",
-                "team2": "haiti"
-            },
-            "time": "00:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "CONCACAF GO📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "https://www.concacaf.com/concacaf-go/",
-            "related_to": " United States vs Haiti "
-        },
-        {
-            "channel": "NBC Universo USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " United States vs Haiti "
-        },
-        {
-            "channel": "Peacock Premium USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " United States vs Haiti "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
             "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " United States vs Haiti "
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " France U-17 vs Haiti U-17 "
         },
         {
-            "channel": "TBS USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " United States vs Haiti "
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10892 H 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " France U-17 vs Haiti U-17 "
         },
         {
-            "channel": "truTV USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " United States vs Haiti "
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11471 V 29950 - 7/8",
+            "encry": "HD Viaccess",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " France U-17 vs Haiti U-17 "
         },
         {
-            "channel": "YouTube: CONCACAF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@concacaf/streams",
-            "related_to": " United States vs Haiti "
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12648 V 29500 - 8/9",
+            "encry": "FTA (MultiStream)",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " France U-17 vs Haiti U-17 "
         },
         {
-            "compet": "CONCACAF Nations League - Play-In Final (2nd Leg)",
-            "match": " El Salvador vs St Martin ",
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " New Caledonia U-17 vs Ecuador U-17 ",
             "flags": {
-                "team1": "elsalvador",
-                "team2": "stmartin"
+                "team1": "newcal",
+                "team2": "ecuador"
             },
-            "time": "01:00",
-            "date": "2026-11-18"
+            "time": "13:00",
+            "date": "2026-11-19"
         },
         {
-            "channel": "CONCACAF GO📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "https://www.concacaf.com/concacaf-go/",
-            "related_to": " El Salvador vs St Martin "
-        },
-        {
-            "channel": "Fubo Sports USA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": " El Salvador vs St Martin "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " El Salvador vs St Martin "
-        },
-        {
-            "channel": "YouTube: CONCACAF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@concacaf/streams",
-            "related_to": " El Salvador vs St Martin "
-        },
-        {
-            "compet": "CONCACAF Nations League - League A Quarter Final (2nd Leg)",
-            "match": " Mexico vs Jamaica ",
-            "flags": {
-                "team1": "mexico",
-                "team2": "jamaica"
-            },
-            "time": "02:30",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "CONCACAF GO📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "https://www.concacaf.com/concacaf-go/",
-            "related_to": " Mexico vs Jamaica "
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Mexico vs Jamaica "
-        },
-        {
-            "channel": "TUDN Español USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Mexico vs Jamaica "
-        },
-        {
-            "channel": "Univision USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Mexico vs Jamaica "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Mexico vs Jamaica "
-        },
-        {
-            "channel": "YouTube: CONCACAF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@concacaf/streams",
-            "related_to": " Mexico vs Jamaica "
-        },
-        {
-            "compet": "CONCACAF Nations League - Play-In Final (2nd Leg)",
-            "match": " Nicaragua vs Montserrat ",
-            "flags": {
-                "team1": "nicaragua",
-                "team2": "montserrat"
-            },
-            "time": "03:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "CONCACAF GO📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "https://www.concacaf.com/concacaf-go/",
-            "related_to": " Nicaragua vs Montserrat "
-        },
-        {
-            "channel": "Fubo Sports USA📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.fubosportsnetwork.com/",
-            "related_to": " Nicaragua vs Montserrat "
-        },
-        {
-            "channel": "ViX TV",
-            "sat": "Download APP 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "",
-            "related_to": " Nicaragua vs Montserrat "
-        },
-        {
-            "channel": "YouTube: CONCACAF📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "https://www.youtube.com/@concacaf/streams",
-            "related_to": " Nicaragua vs Montserrat "
-        },
-        {
-            "compet": "Japanese WE League - Week 10",
-            "match": " JEF United Chiba vs Parceiro Nagano ",
-            "flags": {
-                "team1": "japan",
-                "team2": "japan"
-            },
-            "time": "04:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " JEF United Chiba vs Parceiro Nagano "
-        },
-        {
-            "compet": "Japanese WE League - Week 10",
-            "match": " Albirex Niigata vs Elfen Saitama ",
-            "flags": {
-                "team1": "japan",
-                "team2": "japan"
-            },
-            "time": "05:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Albirex Niigata vs Elfen Saitama "
-        },
-        {
-            "compet": "Japanese WE League - Week 10",
-            "match": " Vegalta Sendai vs Tokyo Verdy ",
-            "flags": {
-                "team1": "japan",
-                "team2": "japan"
-            },
-            "time": "05:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Vegalta Sendai vs Tokyo Verdy "
-        },
-        {
-            "compet": "Japanese WE League - Week 10",
-            "match": " Cerezo Osaka vs Urawa Red Diamonds ",
-            "flags": {
-                "team1": "japan",
-                "team2": "japan"
-            },
-            "time": "09:30",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Cerezo Osaka vs Urawa Red Diamonds "
-        },
-        {
-            "compet": "Japanese WE League - Week 10",
-            "match": " Sanfrecce Hiroshima vs Nojima Stella ",
-            "flags": {
-                "team1": "japan",
-                "team2": "japan"
-            },
-            "time": "10:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "DAZN Japan",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Sanfrecce Hiroshima vs Nojima Stella "
-        },
-        {
-            "compet": "Croatian Prva HNLŽ - Week 1",
-            "match": " Hajduk Split vs Osijek ",
-            "flags": {
-                "team1": "croatia",
-                "team2": "croatia"
-            },
-            "time": "11:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Hajduk TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://tv.hajduk.hr/",
-            "related_to": " Hajduk Split vs Osijek "
-        },
-        {
-            "compet": "Serbian Cup (Kup Srbije) - Round of 32",
-            "match": " Tekstilac Odžaci vs Zeleznicar ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "12:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Tekstilac Odžaci vs Zeleznicar "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Tekstilac Odžaci vs Zeleznicar "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11429 V 28330 - 3/5",
+            "channel": "Al Kass 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Tekstilac Odžaci vs Zeleznicar "
+            "related_to": " New Caledonia U-17 vs Ecuador U-17 "
         },
         {
-            "channel": "Arena Sport 1 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "11720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
             "link": "",
-            "related_to": " Tekstilac Odžaci vs Zeleznicar "
+            "related_to": " New Caledonia U-17 vs Ecuador U-17 "
         },
         {
-            "compet": "Serbian Cup (Kup Srbije) - Round of 32",
-            "match": " Dubocica vs Radnicki Nis ",
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " South Korea U-17 vs Uganda U-17 ",
             "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
+                "team1": "koreasouth",
+                "team2": "uganda"
+            },
+            "time": "13:30",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Al Kass 7 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " South Korea U-17 vs Uganda U-17 "
+        },
+        {
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " South Korea U-17 vs Uganda U-17 "
+        },
+        {
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " Saudi Arabia U-17 vs Uruguay U-17 ",
+            "flags": {
+                "team1": "saudiarabia",
+                "team2": "uraguay"
+            },
+            "time": "14:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Al Kass 3 HD",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12245 V 27500 - 5.6",
+            "encry": "HD Free To Air",
+            "link": "",
+            "related_to": " Saudi Arabia U-17 vs Uruguay U-17 "
+        },
+        {
+            "channel": "Al Kass 3 HD",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "HD Free To Air",
+            "link": "",
+            "related_to": " Saudi Arabia U-17 vs Uruguay U-17 "
+        },
+        {
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Saudi Arabia U-17 vs Uruguay U-17 "
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Saudi Arabia U-17 vs Uruguay U-17 "
+        },
+        {
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " Mozambique U-17 vs Denmark U-17 ",
+            "flags": {
+                "team1": "mozambique",
+                "team2": "denmark"
             },
             "time": "15:00",
-            "date": "2026-11-18"
+            "date": "2026-11-19"
         },
         {
-            "channel": "Arena Premium 2 BiH HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "0000 0",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Dubocica vs Radnicki Nis "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Dubocica vs Radnicki Nis "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Dubocica vs Radnicki Nis "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11429 V 28330 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Dubocica vs Radnicki Nis "
-        },
-        {
-            "compet": "Serbian Cup (Kup Srbije) - Round of 32",
-            "match": " Zemun vs Radnicki 1923 ",
-            "flags": {
-                "team1": "serbia",
-                "team2": "serbia"
-            },
-            "time": "17:30",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Zemun vs Radnicki 1923 "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Zemun vs Radnicki 1923 "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11429 V 28330 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Zemun vs Radnicki 1923 "
-        },
-        {
-            "channel": "Arena Premium 5 BiH HD",
-            "sat": "0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Zemun vs Radnicki 1923 "
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Phase: Round 5",
-            "match": " BK Häcken vs Manchester City ",
-            "flags": {
-                "team1": "sweden",
-                "team2": "england"
-            },
-            "time": "17:45",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "beIN Sports 3 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
+            "channel": "Al Kass 9 HD",
             "sat": "Eshail 2 25.5°e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Cablenet Sports 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Disney+ Danmark",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Disney+ Espana",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Disney+ Norge",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Disney+ Suomi",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Disney+ Sverige",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Disney+ UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "Disney+ WORLDWIDE",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "channel": "TV12 Sverige HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "10872 V 25000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " BK Häcken vs Manchester City "
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Phase: Round 5",
-            "match": " Real Madrid vs Inter Milan ",
-            "flags": {
-                "team1": "spain",
-                "team2": "italy"
-            },
-            "time": "17:45",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "beIN Sports 1 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10812 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "beIN Sports 1 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "11142 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Cablenet Sports 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "CBS Sports Network USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Disney+ Danmark",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Disney+ Espana",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Disney+ Norge",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Disney+ Suomi",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Disney+ Sverige",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Disney+ UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Disney+ WORLDWIDE",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "ESPN Deportes",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Esport 3 Catalunya 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "Free To Air",
-            "link": "https://www.3cat.cat/3cat/directes/esport3/",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Esport 3 Catalunya 📺",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - 0",
-            "encry": "Free To Air HD",
-            "link": "https://www.3cat.cat/3cat/directes/esport3/",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Maincast TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://maincast.tv/schedule",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Persiana Sports 4 HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "11420 V 27500 - 2/3",
-            "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Q Sport League HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "Q Sport League HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12719 V 45000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "SuperSport ESPN HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
-        },
-        {
-            "channel": "SuperSport ESPN HD",
-            "sat": "Intelsat 36 68.5°e",
-            "freq": "11728 V 30000 - 2/3",
+            "freq": "10770 H 27500 - 3/4",
             "encry": "HD Irdeto",
             "link": "",
-            "related_to": " Real Madrid vs Inter Milan "
+            "related_to": " Mozambique U-17 vs Denmark U-17 "
         },
         {
-            "compet": "Spanish Cup (Copa del Rey) - 1st Round",
-            "match": " Utebo vs Sabadell ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "18:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Aragon Deporte Stream 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.cartv.es/aragondeporte/directo",
-            "related_to": " Utebo vs Sabadell "
-        },
-        {
-            "channel": "Aragón TV HD",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - 0",
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
             "encry": "Free To Air",
             "link": "",
-            "related_to": " Utebo vs Sabadell "
+            "related_to": " Mozambique U-17 vs Denmark U-17 "
         },
         {
-            "channel": "Aragón TV HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11229 V 22000 - 2/3",
-            "encry": "HD NagraVision",
+            "channel": "Fox Sports 2 USA HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
             "link": "",
-            "related_to": " Utebo vs Sabadell "
+            "related_to": " Mozambique U-17 vs Denmark U-17 "
         },
         {
-            "channel": "Aragón TV HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "11330 H 09140 - 3/4",
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " Qatar U-17 vs Panama U-17 ",
+            "flags": {
+                "team1": "qatar",
+                "team2": "panama"
+            },
+            "time": "15:30",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Al Kass 1 HD 📺",
+            "sat": "Badr 4 26.0°e",
+            "freq": "12245 H 27500 - 5/6",
             "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Utebo vs Sabadell "
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
-            "compet": "English WSL PLayers Cup",
-            "match": " Nottingham Forest vs Liverpool ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "All Red Video📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://video.liverpoolfc.com/",
-            "related_to": " Nottingham Forest vs Liverpool "
-        },
-        {
-            "channel": "Forest TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://www.nottinghamforest.co.uk/live",
-            "related_to": " Nottingham Forest vs Liverpool "
-        },
-        {
-            "channel": "LFC TV HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Nottingham Forest vs Liverpool "
-        },
-        {
-            "compet": "English WSL PLayers Cup",
-            "match": " Tottenham Hotspur vs Leicester City ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "SpursPlay📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "https://play.tottenhamhotspur.com/",
-            "related_to": " Tottenham Hotspur vs Leicester City "
-        },
-        {
-            "compet": "English WSL PLayers Cup",
-            "match": " Manchester United vs Everton ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "MUTV HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "12266 V 29500 - 8/9",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Manchester United vs Everton "
-        },
-        {
-            "channel": "MUTV HD",
-            "sat": "Astra 2E 28.2°e",
-            "freq": "11914 H 27500 - 5/6",
-            "encry": "VideoGuard",
-            "link": "",
-            "related_to": " Manchester United vs Everton "
-        },
-        {
-            "compet": "Spanish Cup (Copa del Rey) - 1st Round",
-            "match": " Alcoyano vs Mallorca ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "IB3 Baleares 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://ib3.org/directe",
-            "related_to": " Alcoyano vs Mallorca "
-        },
-        {
-            "channel": "À Punt TV",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Alcoyano vs Mallorca "
-        },
-        {
-            "compet": "Spanish Cup (Copa del Rey) - 1st Round",
-            "match": " Badajoz vs Tenerife ",
-            "flags": {
-                "team1": "spain",
-                "team2": "spain"
-            },
-            "time": "19:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "TV Canaria",
-            "sat": "*DTT 0.0°-",
-            "freq": "0000 - -",
-            "encry": "",
-            "link": "",
-            "related_to": " Badajoz vs Tenerife "
-        },
-        {
-            "compet": "English WSL PLayers Cup",
-            "match": " London City vs Brighton H.A. ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "19:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "YouTube: W/Super League 📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://www.youtube.com/@BarclaysWSL/streams",
-            "related_to": " London City vs Brighton H.A. "
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Phase: Round 5",
-            "match": " Juventus vs Leuven ",
-            "flags": {
-                "team1": "italy",
-                "team2": "belgium"
-            },
-            "time": "20:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "beIN Sports 3 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10732 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "beIN Sports MENA English 2 HD",
+            "channel": "Al Kass 1 HD 📺",
             "sat": "Eshail 2 25.5°e",
-            "freq": "11390 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Cablenet Sports 3 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "CBS Sports Network USA",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Disney+ Danmark",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Disney+ Espana",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Disney+ Norge",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Disney+ Suomi",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Disney+ Sverige",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Disney+ UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Disney+ WORLDWIDE",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "channel": "Ketnet Belgium HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12129 V 29900 - 2/3",
-            "encry": "HD Mediaguard",
-            "link": "",
-            "related_to": " Juventus vs Leuven "
-        },
-        {
-            "compet": "UEFA Womens Champions League - League Phase: Round 5",
-            "match": " Chelsea vs Paris St Germain ",
-            "flags": {
-                "team1": "england",
-                "team2": "france"
-            },
-            "time": "20:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "beIN Sports 1 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "10812 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "beIN Sports 1 HD",
-            "sat": "Measat 3b 91.5°e",
-            "freq": "11142 V 30000 - 5/6",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10810 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "beIN Sports MENA 1 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "11013 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "beIN Sports MENA English 1 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 V 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Cablenet Sports 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "CBS Sports Golazo N/W📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "Free To Air",
-            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "CT Sport Czech HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12344 H 29900 - 2/3",
-            "encry": "HD Viaccess",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "CT Sport Czech HD",
-            "sat": "Thor 6 0.8°w",
-            "freq": "12456 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Disney+ Danmark",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Disney+ Espana",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Disney+ Norge",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Disney+ Suomi",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 -",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Disney+ Sverige",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Disney+ UK",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Disney+ WORLDWIDE",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "ESPN Deportes",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Maincast TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://maincast.tv/schedule",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Persiana Sports 4 HD",
-            "sat": "MonacoSat 52.0°e",
-            "freq": "11420 V 27500 - 2/3",
+            "freq": "10770 V 27500 - 3/4",
             "encry": "Free To Air HD",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
-            "channel": "Q Sport League HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "10720 H 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
+            "channel": "Al Kass 1 HD 📺",
+            "sat": "Nilesat 201 7.0°w",
+            "freq": "11919 H 27500 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "http://www.alkass.net/alkass/live.aspx?ch=one",
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
-            "channel": "Q Sport League HD",
-            "sat": "KazSat 3 58.5°e",
-            "freq": "12719 V 45000 - 3/4",
-            "encry": "MPEG-4 Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Sporty TV Africa HD",
-            "sat": "Express AMU1 36.1°e",
-            "freq": "12265 V 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Sporty TV Africa HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12605 V 30000 - 5/6",
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
             "encry": "Free To Air",
             "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Sporty TV Africa HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11135 V 30000 - 5/6",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "Sporty TV Africa HD",
-            "sat": "Eutelsat 3B 3.1°e",
-            "freq": "3918 R 19630 - 3/4",
-            "encry": "MPEG-4 Conax",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "SuperSport ESPN HD",
-            "sat": "Intelsat 20 68.5°e",
-            "freq": "10970 V 30000 - 5/6",
-            "encry": "Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "channel": "SuperSport ESPN HD",
-            "sat": "Intelsat 36 68.5°e",
-            "freq": "11728 V 30000 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " Chelsea vs Paris St Germain "
-        },
-        {
-            "compet": "Peru Primera División - Clausura Round 17",
-            "match": " Alianza Atlético vs Melgar ",
-            "flags": {
-                "team1": "peru",
-                "team2": "peru"
-            },
-            "time": "20:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Alianza Atlético vs Melgar "
-        },
-        {
-            "compet": "Brazilian Série A - Week 35",
-            "match": " Coritiba vs Santos ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "22:30",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Coritiba vs Santos "
-        },
-        {
-            "compet": "Brazilian Série A - Week 35",
-            "match": " Remo vs Chapecoense ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "23:00",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Remo vs Chapecoense "
-        },
-        {
-            "compet": "Brazilian Série A - Week 35",
-            "match": " Cruzeiro vs Palmeiras ",
-            "flags": {
-                "team1": "brazil",
-                "team2": "brazil"
-            },
-            "time": "23:30",
-            "date": "2026-11-18"
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "MPEG-4 Nagra",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Astra 3C 23.5°e",
-            "freq": "12480 V 30000 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "Arena Premium 2 Srbija HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11429 V 28330 - 3/5",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "Canal 11 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12437 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "Fanatiz EU📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "LiveOnSat.com",
-            "link": "https://www.fanatiz.com/",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "M+ #Vamos Bar 1",
-            "sat": "Astra 1M 19.2°e",
-            "freq": "10876 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1KR 19.2°e",
-            "freq": "11259 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "M+ Liga de Campeones HD",
-            "sat": "Astra 1L 19.2°e",
-            "freq": "11097 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "M+ Vamos 1 España HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "11156 V 22000 - 5/6",
-            "encry": "Seca",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "M+ Vamos 1 España HD",
-            "sat": "Astra 1P 19.2°e",
-            "freq": "10818 V 22000 - 2/3",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
-        },
-        {
-            "channel": "Maincast TV📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000 0",
-            "encry": "",
-            "link": "https://maincast.tv/schedule",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1456,7 +380,7 @@
             "freq": "11840 H 28800 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1464,7 +388,7 @@
             "freq": "11920 V 45000 - 2/3",
             "encry": "MPEG-4 Irdeto",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1472,7 +396,7 @@
             "freq": "12476 R 27500 - 5/6",
             "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1480,7 +404,7 @@
             "freq": "12380 L 27500 - 3/4",
             "encry": "HD Exset",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1488,7 +412,7 @@
             "freq": "11823 R 27500 - 3/4",
             "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1496,7 +420,7 @@
             "freq": "11804 L 27500 - 3/4",
             "encry": "MPEG-4 Exset",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
             "channel": "MATCH! Futbol 3 HD",
@@ -1504,31 +428,1219 @@
             "freq": "11785 R 27500 - 3/4",
             "encry": "MPEG-4 Viaccess",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Qatar U-17 vs Panama U-17 "
         },
         {
-            "channel": "Premier Sports 2 Ireland HD",
-            "sat": "Astra 2F 28.2°e",
-            "freq": "12188 H 27500 - 3/4",
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " Argentina U-17 vs Australia U-17 ",
+            "flags": {
+                "team1": "argentina",
+                "team2": "australia"
+            },
+            "time": "16:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Al Kass 8 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Argentina U-17 vs Australia U-17 "
         },
         {
-            "channel": "Premier Sports 2 UK HD",
-            "sat": "Astra 2G 28.2°e",
-            "freq": "11671 H 23000 - 2/3",
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Argentina U-17 vs Australia U-17 "
+        },
+        {
+            "channel": "Fox Soccer Plus USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Argentina U-17 vs Australia U-17 "
+        },
+        {
+            "channel": "TyC Sports Argentina",
+            "sat": "Intelsat 11 43.1°w",
+            "freq": "4030 V 24570 - 7/8",
+            "encry": "VideoGuard",
+            "link": "",
+            "related_to": " Argentina U-17 vs Australia U-17 "
+        },
+        {
+            "channel": "TyC Sports Argentina",
+            "sat": "Amazonas 3 67.5°w",
+            "freq": "12172 V 30000 - 2/3",
+            "encry": "Conax",
+            "link": "",
+            "related_to": " Argentina U-17 vs Australia U-17 "
+        },
+        {
+            "channel": "TyC Sports Argentina",
+            "sat": "Galaxy 28 89.0°w",
+            "freq": "11800 H 30000 - 2/3",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Argentina U-17 vs Australia U-17 "
+        },
+        {
+            "channel": "TyC Sports Argentina",
+            "sat": "AMC 1 103.0°w",
+            "freq": "3800 H 29270 - 7/8",
+            "encry": "DigiCypher 2",
+            "link": "",
+            "related_to": " Argentina U-17 vs Australia U-17 "
+        },
+        {
+            "compet": "FIFA U-17 World Cup 2026 - Round 1",
+            "match": " Egypt U-17 vs Greece U-17 ",
+            "flags": {
+                "team1": "egypt",
+                "team2": "greece"
+            },
+            "time": "16:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Al Kass 7 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10770 H 27500 - 3/4",
             "encry": "HD VideoGuard",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Egypt U-17 vs Greece U-17 "
         },
         {
-            "channel": "Premier Sports GB Player HD 📺",
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12223 H 13381 - 3/4",
+            "encry": "MPEG-4 Biss",
+            "link": "",
+            "related_to": " Egypt U-17 vs Greece U-17 "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hellas Sat 3 39.0°e",
+            "freq": "12242 H 13381 - 3/4",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Egypt U-17 vs Greece U-17 "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "12169 H 30000 - 5/6",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Egypt U-17 vs Greece U-17 "
+        },
+        {
+            "channel": "ERT 2 Sport Hellas HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "11938 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Egypt U-17 vs Greece U-17 "
+        },
+        {
+            "channel": "FIFA+",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "",
+            "related_to": " Egypt U-17 vs Greece U-17 "
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Phase: Round 5",
+            "match": " Paris FC vs HB Køge ",
+            "flags": {
+                "team1": "france",
+                "team2": "denmark"
+            },
+            "time": "17:45",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Cablenet Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Disney+ Danmark",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000 0",
             "encry": "",
-            "link": "https://www.premiersports.com/fr/live-now-on-demand",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Disney+ Espana",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Disney+ Norge",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Disney+ Suomi",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Disney+ UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "Disney+ WORLDWIDE",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "DR2 Dansk HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "11881 H 28000 - 3/4",
+            "encry": "MPEG-4 NDS",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "DR2 Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10934 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11728 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Paris FC vs HB Køge "
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Phase: Round 5",
+            "match": " Austria Vienna vs Bayern Munich ",
+            "flags": {
+                "team1": "austria",
+                "team2": "germany"
+            },
+            "time": "17:45",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Disney+ Espana",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Disney+ Norge",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Disney+ Suomi",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Disney+ UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Disney+ WORLDWIDE",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "ESPN Deportes",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Maincast TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://maincast.tv/schedule",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11303 H 22000 - 2/3",
+            "encry": "HD CryptoWorks",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12466 V 41950 - 2/3",
+            "encry": "Free To Air HD",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "ORF 1 Austria HD 📺",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12565 V 30000 - 5/6",
+            "encry": "HD Panaccess",
+            "link": "https://on.orf.at/live?channel=orf1",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "channel": "ZDF Sportstudio Online 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.zdf.de/sport/sport-im-zdf-livestream-live-100.html",
+            "related_to": " Austria Vienna vs Bayern Munich "
+        },
+        {
+            "compet": "Danish 1. Division - Week 15",
+            "match": " Fredericia vs Hillerød ",
+            "flags": {
+                "team1": "denmark",
+                "team2": "denmark"
+            },
+            "time": "18:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Fredericia vs Hillerød "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Fredericia vs Hillerød "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Fredericia vs Hillerød "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Fredericia vs Hillerød "
+        },
+        {
+            "compet": "French Ligue 3 - Week 13",
+            "match": " Amiens vs Caen ",
+            "flags": {
+                "team1": "france",
+                "team2": "france"
+            },
+            "time": "19:45",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "DAZN France",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Amiens vs Caen "
+        },
+        {
+            "channel": "Ligue 1+📺",
+            "sat": "Download APP 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://plus.ligue1.com/home",
+            "related_to": " Amiens vs Caen "
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Phase: Round 5",
+            "match": " Arsenal vs Lyon ",
+            "flags": {
+                "team1": "england",
+                "team2": "france"
+            },
+            "time": "20:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "BBC iPlayer📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "BBC iPlayer 4K📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.co.uk/iplayer",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "BBC Sport",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "BBC Sport Website📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://www.bbc.com/sport/live-guide",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "BBC Three HD",
+            "sat": "Astra 2E 28.2°e",
+            "freq": "10847 V 23000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10812 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "beIN Sports 1 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "11142 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "beIN Sports MENA 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "beIN Sports MENA English 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "11390 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Cablenet Sports 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "CBS Sports Golazo N/W📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "Free To Air",
+            "link": "https://www.cbssports.com/watch/cbs-sports-golazo-network",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Disney+ Espana",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Disney+ Norge",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Disney+ Suomi",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Disney+ UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Disney+ WORLDWIDE",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "ESPN 1 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 3/4",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11895 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Hotbird 13G 13.0°e",
+            "freq": "10892 H 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12648 V 29500 - 8/9",
+            "encry": "FTA (MultiStream)",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "La Chaine L´Équipe HD 📺",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11471 V 29950 - 7/8",
+            "encry": "HD Viaccess",
+            "link": "https://www.lequipe.fr/tv/",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Maincast TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://maincast.tv/schedule",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "10720 H 30000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Q Sport League HD",
+            "sat": "KazSat 3 58.5°e",
+            "freq": "12719 V 45000 - 3/4",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 20 68.5°e",
+            "freq": "10970 V 30000 - 5/6",
+            "encry": "Irdeto",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "SuperSport ESPN HD",
+            "sat": "Intelsat 36 68.5°e",
+            "freq": "11728 V 30000 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Suspilne Kyiv HD",
+            "sat": "Eutelsat 9B 9.0°e",
+            "freq": "12303 V 30000 - 5/6",
+            "encry": "FTA (MultiStream)",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "Suspilne Sport HD",
+            "sat": "Astra 4A 5.0°e",
+            "freq": "12437 V 30000 - 2/3",
+            "encry": "HD BISS",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11054 V 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 3A 42.0°e",
+            "freq": "11096 H 30000 - 5/6",
+            "encry": "FTA (BISS)",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "TRT Spor Türkiye HD 📺",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "11794 R 30000 - 3/4",
+            "encry": "Free To Air HD",
+            "link": "https://www.trtizle.com/canli/tv/trt-spor",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11385 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "channel": "TV2 Sport 1 Norge HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10747 H 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Arsenal vs Lyon "
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Phase: Round 5",
+            "match": " Benfica vs Roma ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "italy"
+            },
+            "time": "20:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "beIN Sports 2 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Cablenet Sports 3 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Disney+ Espana",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Disney+ Norge",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Disney+ Suomi",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Disney+ UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "Disney+ WORLDWIDE",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "4095 R 30000 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "ESPN 4 Brazil HD",
+            "sat": "SES 6 40.5°w",
+            "freq": "3980 L 21600 - 5/6",
+            "encry": "HD PowerVu",
+            "link": "",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "channel": "RTP 2 Portugal HD 📺",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12130 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "https://www.rtp.pt/play/direto/rtp2",
+            "related_to": " Benfica vs Roma "
+        },
+        {
+            "compet": "UEFA Womens Champions League - League Phase: Round 5",
+            "match": " Barcelona vs Servette Chênois ",
+            "flags": {
+                "team1": "spain",
+                "team2": "switzerland"
+            },
+            "time": "20:00",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "beIN Sports 3 HD",
+            "sat": "Measat 3b 91.5°e",
+            "freq": "10732 V 30000 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10810 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "beIN Sports MENA 1 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "11013 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "beIN Sports MENA English 1 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 V 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Cablenet Sports 1 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "CBS Sports Network USA",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Disney+ Danmark",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Disney+ Espana",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Disney+ Norge",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Disney+ Suomi",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 -",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Disney+ Sverige",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Disney+ UK",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "Disney+ WORLDWIDE",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "ESPN Deportes",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "PLAY RTS Sport📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.rts.ch/play/tv/categories/sport",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "PLAY SRF📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.srf.ch/play/tv/sport-livestreams",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "channel": "RTS 2 Suisse HD 📺",
+            "sat": "Hotbird 13F 13.0°e",
+            "freq": "10971 H 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "https://www.rts.ch/play/tv/direct?tvLiveId=3608517",
+            "related_to": " Barcelona vs Servette Chênois "
+        },
+        {
+            "compet": "Brazilian Série A - Week 35",
+            "match": " Vasco da Gama vs Internacional ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "22:30",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Astra 3C 23.5°e",
+            "freq": "12422 H 30000 - 3/4",
+            "encry": "MPEG-4 Nagra",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "Arena Premium 3 Srbija HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10721 H 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "Canal 11 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12437 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "M+ #Vamos Bar 1",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "10876 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1KR 19.2°e",
+            "freq": "11259 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "M+ Liga de Campeones HD",
+            "sat": "Astra 1L 19.2°e",
+            "freq": "11097 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "M+ Vamos 1 España HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "11156 V 22000 - 5/6",
+            "encry": "Seca",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "M+ Vamos 1 España HD",
+            "sat": "Astra 1P 19.2°e",
+            "freq": "10818 V 22000 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "Maincast TV📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://maincast.tv/schedule",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Horizons 2 84.8°e",
+            "freq": "11840 H 28800 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "ABS 2A 75.0°e",
+            "freq": "11920 V 45000 - 2/3",
+            "encry": "MPEG-4 Irdeto",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AT2 56.0°e",
+            "freq": "12476 R 27500 - 5/6",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Express AMU1 36.1°e",
+            "freq": "12380 L 27500 - 3/4",
+            "encry": "HD Exset",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11823 R 27500 - 3/4",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11804 L 27500 - 3/4",
+            "encry": "MPEG-4 Exset",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "MATCH! Futbol 3 HD",
+            "sat": "Eutelsat 36C 35.9°e",
+            "freq": "11785 R 27500 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "channel": "Spor Smart Türkiye HD",
+            "sat": "Turksat 4A 42.0°e",
+            "freq": "12188 V 27500 - 5/6",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Vasco da Gama vs Internacional "
         },
         {
             "channel": "Sportdigital FUSSBALL HD",
@@ -1536,7 +1648,25 @@
             "freq": "11186 V 22000 - 2/3",
             "encry": "HD Viaccess",
             "link": "",
-            "related_to": " Cruzeiro vs Palmeiras "
+            "related_to": " Vasco da Gama vs Internacional "
+        },
+        {
+            "compet": "Brazilian Série A - Week 35",
+            "match": " Vitória Bahia vs Bragantino ",
+            "flags": {
+                "team1": "brazil",
+                "team2": "brazil"
+            },
+            "time": "22:30",
+            "date": "2026-11-19"
+        },
+        {
+            "channel": "Fanatiz EU📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "LiveOnSat.com",
+            "link": "https://www.fanatiz.com/",
+            "related_to": " Vitória Bahia vs Bragantino "
         }
     ]
 }
