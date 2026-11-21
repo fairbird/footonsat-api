@@ -843,6 +843,22 @@
             "related_to": " Energie Cottbus vs Hertha Berlin "
         },
         {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "11934 V 27500 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Energie Cottbus vs Hertha Berlin "
+        },
+        {
+            "channel": "Nova Sport 3 Czech HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "11977 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Energie Cottbus vs Hertha Berlin "
+        },
+        {
             "channel": "Nova Sports 3 Cyprus HD",
             "sat": "Hotbird 13F 13.0°e",
             "freq": "11823 H 27500 - 3/4",
@@ -902,6 +918,14 @@
             "channel": "Sport TV2 Slovenija",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " Energie Cottbus vs Hertha Berlin "
+        },
+        {
+            "channel": "SportKlub 10 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
             "encry": "",
             "link": "",
             "related_to": " Energie Cottbus vs Hertha Berlin "
@@ -1005,6 +1029,14 @@
             "related_to": " Karlsruhe vs Osnabrück "
         },
         {
+            "channel": "SportKlub 12 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "",
+            "related_to": " Karlsruhe vs Osnabrück "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1091,6 +1123,14 @@
             "sat": "Astra 1M 19.2°e",
             "freq": "11758 H 27500 - 9/10",
             "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Kaiserslautern vs Dynamo Dresden "
+        },
+        {
+            "channel": "SportKlub 5 Hrvatska",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
             "link": "",
             "related_to": " Kaiserslautern vs Dynamo Dresden "
         },
@@ -1874,6 +1914,136 @@
         },
         {
             "compet": "German 2. Bundesliga - Week 14",
+            "match": " Energie Cottbus vs Osnabrück ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-12-04"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Energie Cottbus vs Osnabrück "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Energie Cottbus vs Osnabrück "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
+            "match": " Arminia Bielefeld vs Dynamo Dresden ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-12-04"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Arminia Bielefeld vs Dynamo Dresden "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Arminia Bielefeld vs Dynamo Dresden "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
+            "match": " Karlsruhe vs Holstein Kiel ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-05"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Karlsruhe vs Holstein Kiel "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Karlsruhe vs Holstein Kiel "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
+            "match": " Kaiserslautern vs Greuther Fürth ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-05"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Kaiserslautern vs Greuther Fürth "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Kaiserslautern vs Greuther Fürth "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
+            "match": " Nuremberg vs Bochum ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-05"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Nuremberg vs Bochum "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Nuremberg vs Bochum "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
             "match": " Hannover 96 vs Hertha Berlin ",
             "flags": {
                 "team1": "germany",
@@ -1921,6 +2091,490 @@
             "encry": "Free To Air",
             "link": "",
             "related_to": " Hannover 96 vs Hertha Berlin "
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Hannover 96 vs Hertha Berlin "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Hannover 96 vs Hertha Berlin "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
+            "match": " St Pauli vs Heidenheim ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:30",
+            "date": "2026-12-06"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " St Pauli vs Heidenheim "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " St Pauli vs Heidenheim "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
+            "match": " Darmstadt 98 vs Braunschweig ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:30",
+            "date": "2026-12-06"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Darmstadt 98 vs Braunschweig "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Darmstadt 98 vs Braunschweig "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 14",
+            "match": " Wolfsburg vs Magdeburg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:30",
+            "date": "2026-12-06"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Wolfsburg vs Magdeburg "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Wolfsburg vs Magdeburg "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Arminia Bielefeld vs Kaiserslautern ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-12-11"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Arminia Bielefeld vs Kaiserslautern "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Arminia Bielefeld vs Kaiserslautern "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Magdeburg vs Nuremberg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-12-11"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Magdeburg vs Nuremberg "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Magdeburg vs Nuremberg "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Braunschweig vs Karlsruhe ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-12"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Braunschweig vs Karlsruhe "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Braunschweig vs Karlsruhe "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Holstein Kiel vs Hannover 96 ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-12"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Holstein Kiel vs Hannover 96 "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Holstein Kiel vs Hannover 96 "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Hertha Berlin vs Darmstadt 98 ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-12"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Hertha Berlin vs Darmstadt 98 "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Hertha Berlin vs Darmstadt 98 "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Dynamo Dresden vs Energie Cottbus ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "19:30",
+            "date": "2026-12-12"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Dynamo Dresden vs Energie Cottbus "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Dynamo Dresden vs Energie Cottbus "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Osnabrück vs St Pauli ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:30",
+            "date": "2026-12-13"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Osnabrück vs St Pauli "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Osnabrück vs St Pauli "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Greuther Fürth vs Wolfsburg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:30",
+            "date": "2026-12-13"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Greuther Fürth vs Wolfsburg "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Greuther Fürth vs Wolfsburg "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 15",
+            "match": " Bochum vs Heidenheim ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:30",
+            "date": "2026-12-13"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Bochum vs Heidenheim "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Bochum vs Heidenheim "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 16",
+            "match": " Energie Cottbus vs Holstein Kiel ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-12-18"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Energie Cottbus vs Holstein Kiel "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Energie Cottbus vs Holstein Kiel "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 16",
+            "match": " Nuremberg vs Osnabrück ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "17:30",
+            "date": "2026-12-18"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Nuremberg vs Osnabrück "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Nuremberg vs Osnabrück "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 16",
+            "match": " Karlsruhe vs Dynamo Dresden ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-19"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Karlsruhe vs Dynamo Dresden "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Karlsruhe vs Dynamo Dresden "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 16",
+            "match": " St Pauli vs Hertha Berlin ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-19"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " St Pauli vs Hertha Berlin "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " St Pauli vs Hertha Berlin "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 16",
+            "match": " Wolfsburg vs Arminia Bielefeld ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "12:00",
+            "date": "2026-12-19"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Wolfsburg vs Arminia Bielefeld "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Wolfsburg vs Arminia Bielefeld "
+        },
+        {
+            "compet": "German 2. Bundesliga - Week 16",
+            "match": " Bochum vs Magdeburg ",
+            "flags": {
+                "team1": "germany",
+                "team2": "germany"
+            },
+            "time": "19:30",
+            "date": "2026-12-19"
+        },
+        {
+            "channel": "OneFootball📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://onefootball.com/en/matches",
+            "related_to": " Bochum vs Magdeburg "
+        },
+        {
+            "channel": "YouTube: Bundesliga 📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000 0",
+            "encry": "",
+            "link": "https://www.youtube.com/@bundesliga/streams",
+            "related_to": " Bochum vs Magdeburg "
         }
     ]
 }
