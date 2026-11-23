@@ -199,6 +199,14 @@
             "related_to": " FC Porto vs Sporting Lisbon "
         },
         {
+            "channel": "DAZN Italia",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " FC Porto vs Sporting Lisbon "
+        },
+        {
             "channel": "Megogo Futbol 3",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -224,24 +232,6 @@
         },
         {
             "compet": "Portuguese Liga 1 - Week 12",
-            "match": " Casa Pia vs Sporting Braga ",
-            "flags": {
-                "team1": "portugal",
-                "team2": "portugal"
-            },
-            "time": "20:15",
-            "date": "2026-11-30"
-        },
-        {
-            "channel": "Sport TV1 Portugal HD",
-            "sat": "Hispasat 30W-5 30.0°w",
-            "freq": "12246 H 27500 - 3/4",
-            "encry": "HD NagraVision",
-            "link": "",
-            "related_to": " Casa Pia vs Sporting Braga "
-        },
-        {
-            "compet": "Portuguese Liga 1 - Week 12",
             "match": " Benfica vs Famalicão ",
             "flags": {
                 "team1": "portugal",
@@ -259,6 +249,22 @@
             "related_to": " Benfica vs Famalicão "
         },
         {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Benfica vs Famalicão "
+        },
+        {
+            "channel": "beIN Sports France 2 HD",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "12564 V 29950 - 2/3",
+            "encry": "HD Viaccess",
+            "link": "",
+            "related_to": " Benfica vs Famalicão "
+        },
+        {
             "channel": "Benfica TV HD",
             "sat": "Eutelsat 36C 35.9°e",
             "freq": "11304 V 30000 - 5/6",
@@ -273,6 +279,40 @@
             "encry": "HD NagraVision",
             "link": "",
             "related_to": " Benfica vs Famalicão "
+        },
+        {
+            "compet": "Portuguese Liga 1 - Week 12",
+            "match": " Casa Pia vs Sporting Braga ",
+            "flags": {
+                "team1": "portugal",
+                "team2": "portugal"
+            },
+            "time": "20:15",
+            "date": "2026-11-30"
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Astra 1M 19.2°e",
+            "freq": "11856 V 29700 - 2/3",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Sporting Braga "
+        },
+        {
+            "channel": "beIN Sports France 4 HD max",
+            "sat": "Eutelsat 5 West A 5.0°w",
+            "freq": "11471 V 29950 - 3/4",
+            "encry": "MPEG-4 Viaccess",
+            "link": "",
+            "related_to": " Casa Pia vs Sporting Braga "
+        },
+        {
+            "channel": "Sport TV1 Portugal HD",
+            "sat": "Hispasat 30W-5 30.0°w",
+            "freq": "12246 H 27500 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Casa Pia vs Sporting Braga "
         },
         {
             "compet": "Portuguese Liga 1 - Week 13",
