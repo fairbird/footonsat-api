@@ -795,6 +795,14 @@
             "related_to": " Southampton vs Middlesbrough "
         },
         {
+            "channel": "SuperSport 4 Albania HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "10845 H 30000 - 3/5",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
             "channel": "SuperSport ESPN HD",
             "sat": "Intelsat 20 68.5°e",
             "freq": "10970 V 30000 - 5/6",
@@ -816,6 +824,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": " Southampton vs Middlesbrough "
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Southampton vs Middlesbrough "
         },
         {
@@ -906,6 +922,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": " Lincoln City vs Wolves "
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Lincoln City vs Wolves "
         },
         {
@@ -1167,6 +1191,22 @@
             "related_to": " Preston N.E. vs Norwich City "
         },
         {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Preston N.E. vs Norwich City "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -1356,6 +1396,120 @@
         },
         {
             "compet": "English Championship - Week 18",
+            "match": " West Bromwich Albion vs Bristol City ",
+            "flags": {
+                "team1": "england",
+                "team2": "england"
+            },
+            "time": "15:00",
+            "date": "2026-11-28"
+        },
+        {
+            "channel": "Arena Sport 3 Slovenija HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "Arena Sport 5 Hrvatska HD",
+            "sat": "Eutelsat 16A 16.0°e",
+            "freq": "11678 H 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "Arena Sport 8 Srbija HD",
+            "sat": "Astra 3B 23.5°e",
+            "freq": "12402 V 30000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "beIN Sports Australia 2 HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "sat": "Eshail 2 25.5°e",
+            "freq": "10850 H 27500 - 2/3",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "beIN Sports MENA Xtra 2 HD",
+            "sat": "Eutelsat 8 West B 8.0°w",
+            "freq": "12604 H 27500 - 2/3",
+            "encry": "HD Irdeto",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "TV2 Play Norge📺",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "https://play.tv2.no/sport",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Danmark HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Nederland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Norge HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Suomi HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Sverige HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "LiveOnSat.com",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "channel": "ViaPlay Ísland HD",
+            "sat": "* IPTV/Stream 0.0°",
+            "freq": "0000",
+            "encry": "",
+            "link": "",
+            "related_to": " West Bromwich Albion vs Bristol City "
+        },
+        {
+            "compet": "English Championship - Week 18",
             "match": " Queens Park Rangers vs Sheffield United ",
             "flags": {
                 "team1": "england",
@@ -1485,120 +1639,6 @@
             "encry": "",
             "link": "",
             "related_to": " Derby County vs Watford "
-        },
-        {
-            "compet": "English Championship - Week 18",
-            "match": " West Bromwich Albion vs Bristol City ",
-            "flags": {
-                "team1": "england",
-                "team2": "england"
-            },
-            "time": "15:00",
-            "date": "2026-11-28"
-        },
-        {
-            "channel": "Arena Sport 3 Slovenija HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "Arena Sport 5 Hrvatska HD",
-            "sat": "Eutelsat 16A 16.0°e",
-            "freq": "11678 H 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "Arena Sport 8 Srbija HD",
-            "sat": "Astra 3B 23.5°e",
-            "freq": "12402 V 30000 - 3/4",
-            "encry": "HD Conax",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "beIN Sports Australia 2 HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 2 HD",
-            "sat": "Eshail 2 25.5°e",
-            "freq": "10850 H 27500 - 2/3",
-            "encry": "HD VideoGuard",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "beIN Sports MENA Xtra 2 HD",
-            "sat": "Eutelsat 8 West B 8.0°w",
-            "freq": "12604 H 27500 - 2/3",
-            "encry": "HD Irdeto",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "TV2 Play Norge📺",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "https://play.tv2.no/sport",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "ViaPlay Danmark HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "ViaPlay Nederland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "ViaPlay Norge HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "ViaPlay Suomi HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "ViaPlay Sverige HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "LiveOnSat.com",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
-        },
-        {
-            "channel": "ViaPlay Ísland HD",
-            "sat": "* IPTV/Stream 0.0°",
-            "freq": "0000",
-            "encry": "",
-            "link": "",
-            "related_to": " West Bromwich Albion vs Bristol City "
         },
         {
             "compet": "English Championship - Week 18",
@@ -1748,6 +1788,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": " West Ham United vs Stoke City "
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
             "related_to": " West Ham United vs Stoke City "
         },
         {
@@ -2009,6 +2057,14 @@
             "related_to": " Swansea City vs Cardiff City "
         },
         {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Swansea City vs Cardiff City "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2187,6 +2243,14 @@
             "related_to": " Sheffield United vs West Ham United "
         },
         {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Sheffield United vs West Ham United "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2333,6 +2397,14 @@
             "related_to": " Bolton Wanderers vs Blackburn Rovers "
         },
         {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
+            "related_to": " Bolton Wanderers vs Blackburn Rovers "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2423,6 +2495,30 @@
             "related_to": " Middlesbrough vs Derby County "
         },
         {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 5.0°e",
+            "freq": "11345 V 30000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Middlesbrough vs Derby County "
+        },
+        {
+            "channel": "TV3 MAX Dansk HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD VideoGuard",
+            "link": "",
+            "related_to": " Middlesbrough vs Derby County "
+        },
+        {
+            "channel": "V Sport Premium HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
+            "related_to": " Middlesbrough vs Derby County "
+        },
+        {
             "channel": "ViaPlay Danmark HD",
             "sat": "* IPTV/Stream 0.0°",
             "freq": "0000",
@@ -2486,6 +2582,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": " Bristol City vs Swansea City "
+        },
+        {
+            "channel": "V Sport Football HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Bristol City vs Swansea City "
         },
         {
@@ -2560,6 +2664,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": " Watford vs Millwall "
+        },
+        {
+            "channel": "V Sport 1 Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10809 V 25000 - 3/4",
+            "encry": "HD NagraVision",
+            "link": "",
             "related_to": " Watford vs Millwall "
         },
         {
@@ -3086,6 +3198,14 @@
             "freq": "0000",
             "encry": "",
             "link": "https://play.tv2.no/sport",
+            "related_to": " Burnley vs Preston N.E. "
+        },
+        {
+            "channel": "V Sport Extra Sverige HD",
+            "sat": "Thor 6 0.8°w",
+            "freq": "10903 V 25000 - 3/4",
+            "encry": "HD Conax",
+            "link": "",
             "related_to": " Burnley vs Preston N.E. "
         },
         {
